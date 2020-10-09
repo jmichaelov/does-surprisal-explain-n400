@@ -468,7 +468,7 @@ ito_2016.jrnn.model4%>%summary()%>%.$coefficients
 
 
 
-## Kim et al. (2005): Experiment 1
+## Kim and Osterhout (2005): Experiment 1
 
 ### GRNN
 
@@ -584,7 +584,7 @@ kim_2005_exp1.jrnn.model3%>%summary()%>%.$coefficients
 
 
 
-## Kim et al. (2005): Experiment 2
+## Kim and Osterhout (2005): Experiment 2
 
 ### GRNN
 
@@ -820,7 +820,7 @@ kutas_1993.jrnn.model2%>%summary()%>%.$coefficients
 kutas_1993.jrnn.model3%>%summary()%>%.$coefficients
 ```
 
-## Urbach et al. (2010): Experiment 1
+## Urbach and Kutas (2010): Experiment 1
 
 ### GRNN
 
@@ -913,7 +913,7 @@ urbach_2010_exp1.jrnn.model%>%summary()%>%.$coefficients
 
 
 
-## Urbach et al. (2010): Experiment 2
+## Urbach and Kutas (2010): Experiment 2
 
 ### GRNN
 
@@ -1042,7 +1042,7 @@ t.test((urbach_2010_exp2.jrnn%>%filter(Typicality=="Atypical" & QuantifierType==
 
 
 
-## Urbach et al. (2010): Experiment 3
+## Urbach and Kutas (2010): Experiment 3
 
 ### GRNN
 
@@ -1087,7 +1087,7 @@ anova(urbach_2010_exp3.grnn.no_int,urbach_2010_exp3.grnn.qt)
 
 urbach_2010_exp3.grnn.null = urbach_2010_exp3.grnn%>%
   lmer(data=.,
-       formula = Surprisal ~ QuantifierType + (1|SentenceFrame), REML=FALSE)
+       formula = Surprisal ~ (1|SentenceFrame), REML=FALSE)
 
 anova(urbach_2010_exp3.grnn.null,urbach_2010_exp3.grnn.typicality)
 

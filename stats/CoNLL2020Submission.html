@@ -3355,8 +3355,8 @@ ito_2016.jrnn.model%&gt;%summary()%&gt;%.$coefficients</code></pre>
 ## Conditionsemantically_related  6.205465e-12</code></pre>
 </div>
 </div>
-<div id="kim-et-al.-2005-experiment-1" class="section level2">
-<h2><span class="header-section-number">3.3</span> Kim et al. (2005): Experiment 1</h2>
+<div id="kim-and-osterhout-2005-experiment-1" class="section level2">
+<h2><span class="header-section-number">3.3</span> Kim and Osterhout (2005): Experiment 1</h2>
 <div id="grnn-2" class="section level3">
 <h3><span class="header-section-number">3.3.1</span> GRNN</h3>
 <pre class="r"><code>print(paste('Total sentences with surprisal values:',nrow(kim_2005_exp1.grnn)))</code></pre>
@@ -3506,8 +3506,8 @@ kim_2005_exp1.jrnn.model%&gt;%summary()%&gt;%.$coefficients</code></pre>
 ## ConditionActive Control  -3.523462  0.3515520 100.3227 -10.02259  8.555475e-17</code></pre>
 </div>
 </div>
-<div id="kim-et-al.-2005-experiment-2" class="section level2">
-<h2><span class="header-section-number">3.4</span> Kim et al. (2005): Experiment 2</h2>
+<div id="kim-and-osterhout-2005-experiment-2" class="section level2">
+<h2><span class="header-section-number">3.4</span> Kim and Osterhout (2005): Experiment 2</h2>
 <div id="grnn-3" class="section level3">
 <h3><span class="header-section-number">3.4.1</span> GRNN</h3>
 <pre class="r"><code>kim_2005_exp2.grnn=kim_2005_exp2.grnn%&gt;%
@@ -3799,8 +3799,8 @@ kutas_1993.jrnn.model%&gt;%summary()%&gt;%.$coefficients</code></pre>
 ## ConditionR  -2.638915  0.5703160 345.7993  -4.627111 5.250581e-06</code></pre>
 </div>
 </div>
-<div id="urbach-et-al.-2010-experiment-1" class="section level2">
-<h2><span class="header-section-number">3.6</span> Urbach et al. (2010): Experiment 1</h2>
+<div id="urbach-and-kutas-2010-experiment-1" class="section level2">
+<h2><span class="header-section-number">3.6</span> Urbach and Kutas (2010): Experiment 1</h2>
 <div id="grnn-5" class="section level3">
 <h3><span class="header-section-number">3.6.1</span> GRNN</h3>
 <pre class="r"><code>print(paste('Total sentences with surprisal values:',nrow(urbach_2010_exp1.grnn)))</code></pre>
@@ -3888,8 +3888,8 @@ anova(urbach_2010_exp1.jrnn.null,urbach_2010_exp1.jrnn.model)</code></pre>
 ## TypicalityTypical -5.723776  0.4785995 120.0000 -11.95943  3.479861e-22</code></pre>
 </div>
 </div>
-<div id="urbach-et-al.-2010-experiment-2" class="section level2">
-<h2><span class="header-section-number">3.7</span> Urbach et al. (2010): Experiment 2</h2>
+<div id="urbach-and-kutas-2010-experiment-2" class="section level2">
+<h2><span class="header-section-number">3.7</span> Urbach and Kutas (2010): Experiment 2</h2>
 <div id="grnn-6" class="section level3">
 <h3><span class="header-section-number">3.7.1</span> GRNN</h3>
 <pre class="r"><code>urbach_2010_exp2.grnn=urbach_2010_exp2.grnn%&gt;%
@@ -4066,8 +4066,8 @@ anova(urbach_2010_exp2.jrnn.null,urbach_2010_exp2.jrnn.typicality)</code></pre>
 ##  14.72408  14.79544</code></pre>
 </div>
 </div>
-<div id="urbach-et-al.-2010-experiment-3" class="section level2">
-<h2><span class="header-section-number">3.8</span> Urbach et al. (2010): Experiment 3</h2>
+<div id="urbach-and-kutas-2010-experiment-3" class="section level2">
+<h2><span class="header-section-number">3.8</span> Urbach and Kutas (2010): Experiment 3</h2>
 <div id="grnn-7" class="section level3">
 <h3><span class="header-section-number">3.8.1</span> GRNN</h3>
 <pre class="r"><code>urbach_2010_exp3.grnn=urbach_2010_exp3.grnn%&gt;%
@@ -4118,12 +4118,12 @@ anova(urbach_2010_exp3.grnn.no_int,urbach_2010_exp3.grnn.typicality)</code></pre
 </div>
 <pre class="r"><code>urbach_2010_exp3.grnn.null = urbach_2010_exp3.grnn%&gt;%
   lmer(data=.,
-       formula = Surprisal ~ QuantifierType + (1|SentenceFrame), REML=FALSE)
+       formula = Surprisal ~ (1|SentenceFrame), REML=FALSE)
 
 anova(urbach_2010_exp3.grnn.null,urbach_2010_exp3.grnn.typicality)</code></pre>
 <div data-pagedtable="false">
 <script data-pagedtable-source type="application/json">
-{"columns":[{"label":[""],"name":["_rn_"],"type":[""],"align":["left"]},{"label":["npar"],"name":[1],"type":["dbl"],"align":["right"]},{"label":["AIC"],"name":[2],"type":["dbl"],"align":["right"]},{"label":["BIC"],"name":[3],"type":["dbl"],"align":["right"]},{"label":["logLik"],"name":[4],"type":["dbl"],"align":["right"]},{"label":["deviance"],"name":[5],"type":["dbl"],"align":["right"]},{"label":["Chisq"],"name":[6],"type":["dbl"],"align":["right"]},{"label":["Df"],"name":[7],"type":["dbl"],"align":["right"]},{"label":["Pr(>Chisq)"],"name":[8],"type":["dbl"],"align":["right"]}],"data":[{"1":"4","2":"2403.970","3":"2420.353","4":"-1197.985","5":"2395.970","6":"NA","7":"NA","8":"NA","_rn_":"urbach_2010_exp3.grnn.null"},{"1":"4","2":"2294.737","3":"2311.120","4":"-1143.368","5":"2286.737","6":"109.233","7":"0","8":"0","_rn_":"urbach_2010_exp3.grnn.typicality"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+{"columns":[{"label":[""],"name":["_rn_"],"type":[""],"align":["left"]},{"label":["npar"],"name":[1],"type":["dbl"],"align":["right"]},{"label":["AIC"],"name":[2],"type":["dbl"],"align":["right"]},{"label":["BIC"],"name":[3],"type":["dbl"],"align":["right"]},{"label":["logLik"],"name":[4],"type":["dbl"],"align":["right"]},{"label":["deviance"],"name":[5],"type":["dbl"],"align":["right"]},{"label":["Chisq"],"name":[6],"type":["dbl"],"align":["right"]},{"label":["Df"],"name":[7],"type":["dbl"],"align":["right"]},{"label":["Pr(>Chisq)"],"name":[8],"type":["dbl"],"align":["right"]}],"data":[{"1":"3","2":"2402.201","3":"2414.488","4":"-1198.100","5":"2396.201","6":"NA","7":"NA","8":"NA","_rn_":"urbach_2010_exp3.grnn.null"},{"1":"4","2":"2294.737","3":"2311.120","4":"-1143.368","5":"2286.737","6":"109.4642","7":"1","8":"1.28401e-25","_rn_":"urbach_2010_exp3.grnn.typicality"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
   </script>
 </div>
 <pre class="r"><code># levels = c(&quot;target_word&quot;,&quot;surface_related&quot;,&quot;semantically_related&quot;,&quot;unrelated&quot;)
