@@ -1,0 +1,481 @@
+Sentence;TargetWord;Probability;Surprisal
+Most prosecutors accuse defendants of committing a crime .;defendants;0.011820966;6.40250825881958
+Few prosecutors accuse defendants of committing a crime .;defendants;0.007863102;6.990685939788818
+Most prosecutors accuse sheriffs of committing a crime .;sheriffs;9.786316e-07;19.962730407714844
+Few prosecutors accuse sheriffs of committing a crime .;sheriffs;4.374307e-06;17.802513122558594
+Almost all groupies follow singers around the country .;singers;3.5988032e-05;14.762123107910156
+Almost no groupies follow singers around the country .;singers;1.4478987e-05;16.075679779052734
+Almost all all groupies follow boys around the country .;boys;6.314224e-06;17.27296257019043
+Almost no groupies follow boys around the country .;boys;6.7437654e-06;17.178014755249023
+Practically all postmen carry mail in their satchel .;mail;0.0015297357;9.35250186920166
+Practically no postmen carry mail in their satchel .;mail;0.003192823;8.2909517288208
+Practically all postmen carry oil in their satchel .;oil;0.00016961957;12.525409698486328
+Practically no postmen carry oil in their satchel .;oil;0.0006587355;10.568013191223145
+A large number of kittens chase mice if given the chance .;mice;0.000303305;11.686943054199219
+A small number of kittens chase mice if given the chance .;mice;0.00031599004;11.627833366394043
+A large number of kittens chase flies if given the chance .;flies;0.00086549524;10.174186706542969
+A small number of kittens chase flies if given the chance .;flies;0.00080998277;10.269821166992188
+Nearly all doctors treat cancer as a serious condition .;cancer;0.006691896;7.223369121551514
+Rather few doctors treat cancer as a serious condition .;cancer;0.019511975;5.6794962882995605
+Nearly all doctors treat hunger as a serious condition .;hunger;1.5530311e-05;15.974554061889648
+Rather few doctors treat hunger as a serious condition .;hunger;2.3455255e-05;15.379729270935059
+Lots of chefs cook pancakes for breakfast at roadside diners .;pancakes;4.0153638e-05;14.604109764099121
+Hardly any chefs cook pancakes for breakfast at roadside diners .;pancakes;9.223594e-06;16.726240158081055
+Lots of chefs cook pears for breakfast at roadside diners .;pears;2.777373e-06;18.457847595214844
+Hardly any chefs cook pears for breakfast at roadside diners .;pears;2.5485588e-06;18.581886291503906
+A lot of boxers fight opponents in cities where there are large crowds .;opponents;3.853494e-05;14.663473129272461
+A very few boxers fight opponents in cities where there are large crowds .;opponents;5.1919556e-05;14.233362197875977
+A lot of boxers fight lawsuits in cities where there are large crowds .;lawsuits;3.7025889e-06;18.043033599853516
+A very few boxers fight lawsuits in cities where there are large crowds .;lawsuits;1.2203651e-06;19.644256591796875
+Many archaeologists find artifacts when they excavate ancient cities .;artifacts;0.0017418917;9.165129661560059
+Few archaeologists find artifacts when they excavate ancient cities .;artifacts;0.00030695568;11.669681549072266
+Many archaeologists find gold when they excavate ancient cities .;gold;0.0011654126;9.744943618774414
+Few archaeologists find gold when they excavate ancient cities .;gold;0.000583763;10.742329597473145
+Most farmers grow crops as their primary source of cash .;crops;0.074809834;3.740628242492676
+Few farmers grow crops as their primary source of cash .;crops;0.11437159;3.128199338912964
+Most farmers grow worms as their primary source of cash .;worms;9.564865e-06;16.673824310302734
+Few farmers grow worms as their primary source of cash .;worms;1.5727306e-05;15.956368446350098
+Almost all veterinarians help animals when they get injured .;animals;0.026177501;5.255528926849365
+Almost no veterinarians help animals when they get injured .;animals;0.017950343;5.799844741821289
+Almost all veterinarians help coyotes when they get injured .;coyotes;2.8336537e-05;15.106977462768555
+Almost no veterinarians help coyotes when they get injured .;coyotes;4.4365726e-05;14.46019458770752
+Practically all lions hunt gazelles as they prowl the savanah .;gazelles;0.00026669595;11.872516632080078
+Practically no lions hunt gazelles as they prowl the savanah .;gazelles;3.0290032e-05;15.010797500610352
+Practically all lions hunt bears as they prowl the savanah .;bears;0.0009346373;10.063305854797363
+Practically no lions hunt bears as they prowl the savanah .;bears;0.00021266252;12.199146270751953
+A large number of brides kiss grooms during their wedding ceremony .;grooms;0.00030464437;11.680585861206055
+A small number of brides kiss grooms during their wedding ceremony .;grooms;0.00022090085;12.14431381225586
+A large number of brides kiss babies during their wedding ceremony .;babies;0.00088167406;10.147466659545898
+A small number of brides kiss babies during their wedding ceremony .;babies;0.0015334962;9.348959922790527
+Nearly all artists paint portraits to pay their bills .;portraits;0.021548055;5.536298751831055
+Rather few artists paint portraits to pay their bills .;portraits;0.056247182;4.152075290679932
+Nearly all artists paint maps to pay their bills .;maps;0.00017682418;12.465396881103516
+Rather few artists paint maps to pay their bills .;maps;6.443769e-05;13.921735763549805
+Lots of historians study articles written by their colleagues .;articles;5.0611954e-05;14.270162582397461
+Hardly any historians study articles written by their colleagues .;articles;1.866764e-05;15.709100723266602
+Lots of historians study poetry written by their colleagues .;poetry;0.00020510357;12.251359939575195
+Hardly any historians study poetry written by their colleagues .;poetry;0.00033586266;11.539840698242188
+A lot of authors write books to make a living .;books;0.025302527;5.304574489593506
+A very few authors write books to make a living .;books;0.00980328;6.672519683837891
+A lot of authors write lists to make a living .;lists;0.00036513523;11.419281959533691
+A very few authors write lists to make a living .;lists;9.7366144e-05;13.326220512390137
+Many bands record albums throughout their careers .;albums;0.05944312;4.072346210479736
+Few bands record albums throughout their careers .;albums;0.007279043;7.1020355224609375
+Many bands record hits throughout their careers .;hits;0.004861288;7.684445858001709
+Few bands record hits throughout their careers .;hits;0.0017264198;9.178001403808594
+Most cats scratch furniture if they are not declawed .;furniture;6.578147e-05;13.891959190368652
+Few cats scratch furniture if they are not declawed .;furniture;8.811405e-05;13.470268249511719
+Most cats scratch walls if they are not declawed .;walls;7.681998e-05;13.668158531188965
+Few cats scratch walls if they are not declawed .;walls;3.8093996e-05;14.680076599121094
+Almost all janitors clean floors after cleaning everything else .;floors;0.010839454;6.52756404876709
+Almost no janitors clean floors after cleaning everything else .;floors;0.008490526;6.87993049621582
+Almost all janitors clean dishes after cleaning everything else .;dishes;0.0008601352;10.183149337768555
+Almost no janitors clean dishes after cleaning everything else .;dishes;0.0011761802;9.731675148010254
+Practically all lawyers argue cases in a court of law .;cases;0.00047633346;11.035740852355957
+Practically no lawyers argue cases in a court of law .;cases;0.0019441992;9.006608009338379
+Practically all lawyers argue politics in a court of law .;politics;4.820736e-05;14.340387344360352
+Practically no lawyers argue politics in a court of law .;politics;3.0859235e-05;14.983938217163086
+A large number of judges sentence murderers to life in prison .;murderers;0.035018366;4.835744380950928
+A small number of judges sentence murderers to life in prison .;murderers;0.021274589;5.55472469329834
+A large number of judges sentence monks to life in prison .;monks;0.000107759326;13.179899215698242
+A small number of judges sentence monks to life in prison .;monks;0.00012681147;12.945027351379395
+Nearly all waitresses bring cocktails to customers who get their attention .;cocktails;0.0005742805;10.76595687866211
+Rather few waitresses bring cocktails to customers who get their attention .;cocktails;0.00044288725;11.140772819519043
+Nearly all waitresses bring napkins to customers who get their attention .;napkins;0.00063928426;10.611254692077637
+Rather few waitresses bring napkins to customers who get their attention .;napkins;0.00012322672;12.986396789550781
+Lots of hunters shoot game during the hunting season .;game;0.00011953959;13.030223846435547
+Hardly any hunters shoot game during the hunting season .;game;0.00011803644;13.048480033874512
+Lots of hunters shoot livestock during the hunting season .;livestock;0.00024649495;11.986154556274414
+Hardly any hunters shoot livestock during the hunting season .;livestock;0.00038702405;11.335289001464844
+A lot of theaters show movies on saturday nights .;movies;0.029636415;5.0764851570129395
+A very few theaters show movies on saturday nights .;movies;0.011890597;6.3940348625183105
+A lot of theaters show operas on saturday nights .;operas;5.4419244e-05;14.165523529052734
+A very few theaters show operas on saturday nights .;operas;0.000409156;11.255061149597168
+Many butchers slaughter cows and sell the meat .;cows;0.007491165;7.060594081878662
+Few butchers slaughter cows and sell the meat .;cows;0.007838852;6.995141983032227
+Many butchers slaughter ducks and sell the meat .;ducks;0.0019742097;8.984509468078613
+Few butchers slaughter ducks and sell the meat .;ducks;0.0021973045;8.830049514770508
+Most pickpockets steal wallets while the owner is distracted .;wallets;0.00028542176;11.774617195129395
+Few pickpockets steal wallets while the owner is distracted .;wallets;8.0781916e-05;13.59560775756836
+Most pickpockets steal shoes while the owner is distracted .;shoes;0.00047554943;11.038117408752441
+Few pickpockets steal shoes while the owner is distracted .;shoes;0.00097281847;10.005541801452637
+Almost all psychics read fortunes for their customers every day .;fortunes;7.198654e-06;17.08384132385254
+Almost no psychics read fortunes for their customers every day .;fortunes;3.4111908e-06;18.161293029785156
+Almost all psychics read news for their customers every day .;news;0.0007558658;10.369582176208496
+Almost no psychics read news for their customers every day .;news;0.0006337386;10.623824119567871
+Practically all pilots fly planes on cloudy days .;planes;0.0025634842;8.607678413391113
+Practically no pilots fly planes on cloudy days .;planes;0.009969067;6.6483259201049805
+Practically all pilots fly kites on cloudy days .;kites;0.0004180505;11.224035263061523
+Practically no pilots fly kites on cloudy days .;kites;0.0011789723;9.728254318237305
+A large number of thieves take jewels from their victims when they can .;jewels;7.947949e-05;13.619057655334473
+A small number of thieves take jewels from their victims when they can .;jewels;0.00010721371;13.187223434448242
+A large number of thieves take jobs from their victims when they can .;jobs;0.0015437367;9.339357376098633
+A small number of thieves take jobs from their victims when they can .;jobs;0.0011923556;9.711969375610352
+Nearly all professors teach classes while doing research .;classes;0.0014463038;9.4334135055542
+Rather few professors teach classes while doing research .;classes;0.0010762527;9.85976791381836
+Nearly all professors teach friends while doing research .;friends;2.246448e-05;15.441994667053223
+Rather few professors teach friends while doing research .;friends;7.919149e-06;16.94622230529785
+Lots of pitchers throw balls to warm up for a game .;balls;0.0064261905;7.281820774078369
+Hardly any pitchers throw balls to warm up for a game .;balls;0.009134501;6.774458408355713
+Lots of pitchers throw rocks to warm up for a game .;rocks;8.4318315e-05;13.533794403076172
+Hardly any pitchers throw rocks to warm up for a game .;rocks;6.85086e-05;13.833354949951172
+A lot of kidnappers blindfold captives to keep their identities secret .;captives;0.007718675;7.017431259155273
+A very few kidnappers blindfold captives to keep their identities secret .;captives;0.012559855;6.315036296844482
+A lot of kidnappers blindfold infants to keep their identities secret .;infants;0.00012485575;12.967450141906738
+A very few kidnappers blindfold infants to keep their identities secret .;infants;0.00035250557;11.47006607055664
+Many smugglers transport drugs into the united states .;drugs;0.090843275;3.4604763984680176
+Few smugglers transport drugs into the united states .;drugs;0.09789024;3.352691173553467
+Many smugglers transport umbrellas into the united states .;umbrellas;2.9102046e-07;21.71237564086914
+Few smugglers transport umbrellas into the united states .;umbrellas;1.8957557e-07;22.33072280883789
+Most tourists visit museums on their vacation .;museums;0.0021574341;8.856468200683594
+Few tourists visit museums on their vacation .;museums;0.0006179845;10.660141944885254
+Most tourists visit mines on their vacation .;mines;6.269659e-06;17.28318214416504
+Few tourists visit mines on their vacation .;mines;3.126678e-06;18.286937713623047
+Almost all sentries guard bases at all hours of the night .;bases;0.0002769194;11.818245887756348
+Almost no sentries guard bases at all hours of the night .;bases;0.0002809849;11.797219276428223
+Almost all sentries guard dumpsters at all hours of the night .;dumpsters;1.8361638e-07;22.376802444458008
+Almost no sentries guard dumpsters at all hours of the night .;dumpsters;2.4066836e-07;21.9864501953125
+Practically all telemarketers call people to tell them about new products .;people;0.008861432;6.818244457244873
+Practically no telemarketers call people to tell them about new products .;people;0.002250972;8.795236587524414
+Practically all telemarketers call inmates to tell them about new products .;inmates;1.6410222e-05;15.895045280456543
+Practically no telemarketers call inmates to tell them about new products .;inmates;1.2246003e-05;16.31732940673828
+A large number of punters kick footballs for practice on their days off .;footballs;0.0001130172;13.111169815063477
+A small number of punters kick footballs for practice on their days off .;footballs;0.00015532377;12.652433395385742
+A large number of punters kick boxes for practice on their days off .;boxes;6.153388e-05;13.988259315490723
+A small number of punters kick boxes for practice on their days off .;boxes;8.251402e-05;13.565001487731934
+Nearly all shoppers buy groceries at the local supermarket .;groceries;0.004958783;7.655798435211182
+Rather few shoppers buy groceries at the local supermarket .;groceries;0.0010516323;9.89315414428711
+Nearly all shoppers buy ammunition at the local supermarket .;ammunition;2.9715138e-05;15.038442611694336
+Rather few shoppers buy ammunition at the local supermarket .;ammunition;5.411976e-06;17.495412826538086
+Lots of speakers address audiences using a microphone .;audiences;0.00038284995;11.350933074951172
+Hardly any speakers address audiences using a microphone .;audiences;0.0005227673;10.901543617248535
+Lots of speakers address letters using a microphone .;letters;1.5453127e-06;19.303668975830078
+Hardly any speakers address letters using a microphone .;letters;8.0399724e-07;20.246305465698242
+A lot of armies battle invaders and try to drive them out of the country .;invaders;3.908339e-05;14.643084526062012
+A very few armies battle invaders and try to drive them out of the country .;invaders;9.236719e-05;13.402259826660156
+A lot of armies battle immigrants and try to drive them out of the country .;immigrants;1.462222e-05;16.061477661132812
+A very few armies battle immigrants and try to drive them out of the country .;immigrants;8.78558e-06;16.796430587768555
+Many gardeners plant flowers to make their garden prettier .;flowers;0.024355058;5.359634876251221
+Few gardeners plant flowers to make their garden prettier .;flowers;0.063964374;3.966587543487549
+Many gardeners plant bombs to make their garden prettier .;bombs;2.5077716e-05;15.283234596252441
+Few gardeners plant bombs to make their garden prettier .;bombs;4.7229878e-05;14.369940757751465
+Most architects design buildings with lots of windows .;buildings;0.035119306;4.831591606140137
+Few architects design buildings with lots of windows .;buildings;0.037729602;4.728159427642822
+Most architects design closets with lots of windows .;closets;1.5837068e-05;15.946334838867188
+Few architects design closets with lots of windows .;closets;3.9848346e-06;17.937047958374023
+Almost all negotiators settle disputes as quickly as possible .;disputes;0.001059712;9.882111549377441
+Almost no negotiators settle disputes as quickly as possible .;disputes;0.0025665963;8.605927467346191
+Almost all negotiators settle payments as quickly as possible .;payments;1.8960554e-05;15.686639785766602
+Almost no negotiators settle payments as quickly as possible .;payments;6.4867265e-05;13.912149429321289
+Practically all witnesses describe robbers as being large and menacing .;robbers;5.8521186e-06;17.382610321044922
+Practically no witnesses describe robbers as being large and menacing .;robbers;5.327041e-06;17.518234252929688
+Practically all witnesses describe tellers as being large and menacing .;tellers;3.2840077e-07;21.53803825378418
+Practically no witnesses describe tellers as being large and menacing .;tellers;8.498254e-08;23.488258361816406
+A large number of couriers deliver packages sealed in boxes .;packages;0.019849032;5.654787540435791
+A small number of couriers deliver packages sealed in boxes .;packages;0.017749332;5.816091537475586
+A large number of couriers deliver organs sealed in boxes .;organs;0.00010323047;13.241843223571777
+A small number of couriers deliver organs sealed in boxes .;organs;9.0619535e-05;13.429818153381348
+Nearly all brokers sell stocks in after-hours trading .;stocks;0.009555367;6.709473133087158
+Rather few brokers sell stocks in after-hours trading .;stocks;0.0064207045;7.283052444458008
+Nearly all brokers sell curtains in after-hours trading .;curtains;3.4276368e-06;18.154354095458984
+Rather few brokers sell curtains in after-hours trading .;curtains;8.84542e-06;16.786638259887695
+Lots of mechanics fix cars that have broken parts .;cars;0.033690073;4.8915324211120605
+Hardly any mechanics fix cars that have broken parts .;cars;0.038302578;4.706414699554443
+Lots of mechanics fix toys that have broken parts .;toys;5.8673068e-05;14.056941986083984
+Hardly any mechanics fix toys that have broken parts .;toys;6.362569e-05;13.940031051635742
+A lot of joggers run laps to stay in shape .;laps;0.00045583214;11.099209785461426
+A very few joggers run laps to stay in shape .;laps;0.00061333715;10.671031951904297
+A lot of joggers run monthly to stay in shape .;monthly;4.24391e-06;17.846174240112305
+A very few joggers run monthly to stay in shape .;monthly;5.330325e-06;17.517345428466797
+Many cleaners wash clothes using strong laundry soap .;clothes;0.020462638;5.610864162445068
+Few cleaners wash clothes using strong laundry soap .;clothes;0.023962524;5.383076190948486
+Many cleaners wash rags using strong laundry soap .;rags;0.00011550777;13.07972240447998
+Few cleaners wash rags using strong laundry soap .;rags;9.149678e-05;13.415919303894043
+Most squirrels gather nuts and store them for the winter .;nuts;5.0185394e-05;14.28237247467041
+Few squirrels gather nuts and store them for the winter .;nuts;3.119591e-05;14.968283653259277
+Most squirrels gather nails and store them for the winter .;nails;6.565158e-07;20.538667678833008
+Few squirrels gather nails and store them for the winter .;nails;4.1458605e-07;21.201824188232422
+Almost all investors loan money to businesses which are profitable .;money;0.2699477;1.8892481327056885
+Almost no investors loan money to businesses which are profitable .;money;0.18197092;2.4582202434539795
+Almost all investors loan papers to businesses which are profitable .;papers;5.3081207e-05;14.201438903808594
+Almost no investors loan papers to businesses which are profitable .;papers;0.000103404105;13.239418983459473
+Practically all morticians arrange funerals after a lot of planning .;funerals;0.0015125601;9.368791580200195
+Practically no morticians arrange funerals after a lot of planning .;funerals;0.0021492834;8.861928939819336
+Practically all morticians arrange parties after a lot of planning .;parties;0.00012259152;12.993853569030762
+Practically no morticians arrange parties after a lot of planning .;parties;0.00012779284;12.933905601501465
+A large number of actors perform plays on stage .;plays;0.001065743;9.873924255371094
+A small number of actors perform plays on stage .;plays;0.0010563207;9.886735916137695
+A large number of actors perform surgery on stage .;surgery;0.0001271132;12.941598892211914
+A small number of actors perform surgery on stage .;surgery;0.00021755419;12.166337966918945
+Nearly all adolescents play games all through high school .;games;0.023318073;5.422407627105713
+Rather few adolescents play games all through high school .;games;0.0064288755;7.2812180519104
+Nearly all adolescents play horns all through high school .;horns;1.10411795e-08;26.432531356811523
+Rather few adolescents play horns all through high school .;horns;8.8071175e-08;23.43675422668457
+Lots of cowboys ride horses when they go to the back country .;horses;0.06413169;3.9628186225891113
+Hardly any cowboys ride horses when they go to the back country .;horses;0.0749754;3.737438917160034
+Lots of cowboys ride bicycles when they go to the back country .;bicycles;0.012088363;6.370237350463867
+Hardly any cowboys ride bicycles when they go to the back country .;bicycles;0.011706279;6.416573524475098
+A lot of barbers cut hair while carrying on a conversation .;hair;0.0136024775;6.199986934661865
+A very few barbers cut hair while carrying on a conversation .;hair;0.02763979;5.177109718322754
+A lot of barbers cut steak while carrying on a conversation .;steak;8.3351847e-07;20.19428253173828
+A very few barbers cut steak while carrying on a conversation .;steak;3.2321398e-06;18.239078521728516
+Many bartenders mix drinks while talking to the patrons .;drinks;0.019582653;5.674280166625977
+Few bartenders mix drinks while talking to the patrons .;drinks;0.0070256423;7.153154373168945
+Many bartenders mix metaphors while talking to the patrons .;metaphors;4.536375e-05;14.4281005859375
+Few bartenders mix metaphors while talking to the patrons .;metaphors;6.287213e-05;13.957220077514648
+Most executives make decisions that reflect their business acumen .;decisions;0.0050987885;7.61562967300415
+Few executives make decisions that reflect their business acumen .;decisions;0.0007662411;10.349913597106934
+Most executives make models that reflect their business acumen .;models;3.5371868e-05;14.78703784942627
+Few executives make models that reflect their business acumen .;models;1.018108e-05;16.583749771118164
+Almost all warehouses store merchandise which has not been sold yet .;merchandise;0.0009965389;9.970786094665527
+Almost no warehouses store merchandise which has not been sold yet .;merchandise;0.00036135208;11.434307098388672
+Almost all warehouses store sugar which has not been sold yet .;sugar;0.00039268774;11.314330101013184
+Almost no warehouses store sugar which has not been sold yet .;sugar;0.00056750886;10.783069610595703
+Practically all coaches train athletes to work at a high level of performance .;athletes;0.0019196254;9.024959564208984
+Practically no coaches train athletes to work at a high level of performance .;athletes;0.00038629345;11.33801555633545
+Practically all coaches train soldiers to work at a high level of performance .;soldiers;0.00042236992;11.209205627441406
+Practically no coaches train soldiers to work at a high level of performance .;soldiers;0.000106313506;13.199387550354004
+A large number of plumbers remove clogs using special equipment .;clogs;1.2296217e-05;16.311426162719727
+A small number of plumbers remove clogs using special equipment .;clogs;1.1552509e-05;16.40143394470215
+A large number of plumbers remove weeds using special equipment .;weeds;0.00082174694;10.249018669128418
+A small number of plumbers remove weeds using special equipment .;weeds;0.0010346393;9.916656494140625
+Nearly all satirists poke fun at famous people .;fun;0.9084977;0.13844524323940277
+Rather few satirists poke fun at famous people .;fun;0.9395012;0.09003305435180664
+Nearly all satirists poke knives at famous people .;knives;1.2528014e-06;19.60641098022461
+Rather few satirists poke knives at famous people .;knives;1.5278547e-06;19.32006072998047
+Lots of nurses draw blood for medical testing and analysis .;blood;0.009988515;6.645514011383057
+Hardly any nurses draw blood for medical testing and analysis .;blood;0.0074454425;7.069426536560059
+Lots of nurses draw sketches for medical testing and analysis .;sketches;0.00012298896;12.98918342590332
+Hardly any nurses draw sketches for medical testing and analysis .;sketches;1.6665328e-05;15.872790336608887
+A lot of caterers prepare food for large groups of people .;food;0.03677808;4.765009880065918
+A very few caterers prepare food for large groups of people .;food;0.02746589;5.186215400695801
+A lot of caterers prepare baths for large groups of people .;baths;8.017977e-06;16.928329467773438
+A very few caterers prepare baths for large groups of people .;baths;1.7125383e-05;15.833504676818848
+Many weathermen report storms that are expected in the next few days .;storms;0.002933921;8.412954330444336
+Few weathermen report storms that are expected in the next few days .;storms;0.005486937;7.5097832679748535
+Many weathermen report weddings that are expected in the next few days .;weddings;1.6409251e-07;22.53898811340332
+Few weathermen report weddings that are expected in the next few days .;weddings;1.2652666e-06;19.592126846313477
+Most knights rescue damsels from the clutches of an ogre .;damsels;0.00556232;7.490097522735596
+Few knights rescue damsels from the clutches of an ogre .;damsels;0.0044740415;7.804205417633057
+Most knights rescue dragons from the clutches of an ogre .;dragons;0.00014444217;12.757220268249512
+Few knights rescue dragons from the clutches of an ogre .;dragons;2.984501e-05;15.032150268554688
+Almost all generals command troops in time of war .;troops;0.0081156455;6.945078372955322
+Almost no generals command troops in time of war .;troops;0.0052176435;7.582386016845703
+Almost all generals command civilians in time of war .;civilians;0.00012364701;12.981485366821289
+Almost no generals command civilians in time of war .;civilians;9.242503e-05;13.40135669708252
+Practically all boxcars hold cargo that can take extreme temperatures .;cargo;0.0013697939;9.511825561523438
+Practically no boxcars hold cargo that can take extreme temperatures .;cargo;0.0010764846;9.859457015991211
+Practically all boxcars hold feathers that can take extreme temperatures .;feathers;6.7396e-06;17.178905487060547
+Practically no boxcars hold feathers that can take extreme temperatures .;feathers;2.8955951e-06;18.397708892822266
+A large number of magazines publish stories that involve current events .;stories;0.033024646;4.920312881469727
+A small number of magazines publish stories that involve current events .;stories;0.026930727;5.214602947235107
+A large number of magazines publish songs that involve current events .;songs;0.00057155197;10.772828102111816
+A small number of magazines publish songs that involve current events .;songs;0.00057574466;10.762283325195312
+Nearly all policemen arrest crooks after the bars close down .;crooks;6.287718e-05;13.957103729248047
+Rather few policemen arrest crooks after the bars close down .;crooks;3.8815975e-05;14.652990341186523
+Nearly all policemen arrest priests after the bars close down .;priests;1.3660299e-05;16.159650802612305
+Rather few policemen arrest priests after the bars close down .;priests;1.7829338e-05;15.77538776397705
+Lots of actresses wear dresses that were created by famous designers .;dresses;0.019909438;5.6504034996032715
+Hardly any actresses wear dresses that were created by famous designers .;dresses;0.013207923;6.242452621459961
+Lots of actresses wear helmets that were created by famous designers .;helmets;0.000116411036;13.06848430633545
+Hardly any actresses wear helmets that were created by famous designers .;helmets;0.00047016458;11.054546356201172
+A lot of adults eat chicken on a regular basis .;chicken;0.0015439615;9.339147567749023
+A very few adults eat chicken on a regular basis .;chicken;0.00088016957;10.149930953979492
+A lot of adults eat grass on a regular basis .;grass;0.0004286482;11.187918663024902
+A very few adults eat grass on a regular basis .;grass;0.00035612666;11.455322265625
+Many teachers punish students that are disrupting the class .;students;0.13732383;2.8643460273742676
+Few teachers punish students that are disrupting the class .;students;0.07556782;3.7260842323303223
+Many teachers punish aides that are disrupting the class .;aides;3.3396795e-05;14.8699312210083
+Few teachers punish aides that are disrupting the class .;aides;1.3399651e-05;16.18744468688965
+Most governments build monuments during times of national importance .;monuments;0.00094489154;10.047563552856445
+Few governments build monuments during times of national importance .;monuments;0.00085772044;10.18720531463623
+Most governments build trains during times of national importance .;trains;7.096331e-05;13.782567024230957
+Few governments build trains during times of national importance .;trains;4.1524952e-05;14.555662155151367
+Almost all scientists conduct research with great attention to detail .;research;0.1928107;2.3747429847717285
+Almost no scientists conduct research with great attention to detail .;research;0.123389654;3.0187065601348877
+Almost all scientists conduct traffic with great attention to detail .;traffic;5.3419415e-05;14.192276000976562
+Almost no scientists conduct traffic with great attention to detail .;traffic;0.00010543366;13.211377143859863
+Practically all comedians entertain crowds at comedy clubs around the country .;crowds;0.0005158187;10.92084789276123
+Practically no comedians entertain crowds at comedy clubs around the country .;crowds;0.0015232955;9.358588218688965
+Practically all comedians entertain politicians at comedy clubs around the country .;politicians;0.00076120597;10.35942554473877
+Practically no comedians entertain politicians at comedy clubs around the country .;politicians;0.0008385588;10.21980094909668
+A large number of instructors evaluate pupils by giving them a test .;pupils;0.0066870963;7.224404335021973
+A small number of instructors evaluate pupils by giving them a test .;pupils;0.009602347;6.702397346496582
+A large number of instructors evaluate grapes by giving them a test .;grapes;1.7335234e-06;19.137861251831055
+A small number of instructors evaluate grapes by giving them a test .;grapes;2.102398e-06;18.859533309936523
+Nearly all supervisors discipline workers who show up late .;workers;0.0074657896;7.065489292144775
+Rather few supervisors discipline workers who show up late .;workers;0.004804374;7.701435565948486
+Nearly all supervisors discipline shareholders who show up late .;shareholders;0.00022578145;12.112785339355469
+Rather few supervisors discipline shareholders who show up late .;shareholders;0.0004664348;11.06603717803955
+Lots of patrolmen question suspects to get information about a crime .;suspects;0.00048457267;11.01099967956543
+Hardly any patrolmen question suspects to get information about a crime .;suspects;0.00036687992;11.41240406036377
+Lots of patrolmen question minors to get information about a crime .;minors;1.6281598e-06;19.22832679748535
+Hardly any patrolmen question minors to get information about a crime .;minors;1.0588271e-06;19.849102020263672
+A lot of parents lecture children about not playing too roughly .;children;0.008220511;6.92655611038208
+A very few parents lecture children about not playing too roughly .;children;0.012080522;6.37117338180542
+A lot of parents lecture pets about not playing too roughly .;pets;1.1119185e-05;16.456588745117188
+A very few parents lecture pets about not playing too roughly .;pets;4.313952e-06;17.822559356689453
+Many bellboys lug suitcases every day at work .;suitcases;0.006705983;7.220335483551025
+Few bellboys lug suitcases every day at work .;suitcases;0.0059444923;7.394230842590332
+Many bellboys lug fruits every day at work .;fruits;9.970342e-07;19.935853958129883
+Few bellboys lug fruits every day at work .;fruits;1.1540502e-06;19.724863052368164
+Most businessmen employ accountants to keep track of the books .;accountants;0.0016128462;9.276175498962402
+Few businessmen employ accountants to keep track of the books .;accountants;0.0010940641;9.836087226867676
+Most businessmen employ ministers to keep track of the books .;ministers;0.00012317926;12.986952781677246
+Few businessmen employ ministers to keep track of the books .;ministers;0.00025581982;11.932584762573242
+Almost all kids want candy for dessert after dinner .;candy;0.0005282641;10.886452674865723
+Almost no kids want candy for dessert after dinner .;candy;0.00037051504;11.39818000793457
+Almost all kids want peas for dessert after dinner .;peas;4.753839e-06;17.682476043701172
+Almost no kids want peas for dessert after dinner .;peas;3.5732057e-06;18.094348907470703
+Practically all runners drink water while competing in a marathon .;water;0.022966119;5.44434928894043
+Practically no runners drink water while competing in a marathon .;water;0.02179061;5.5201497077941895
+Practically all runners drink tea while competing in a marathon .;tea;0.0055757607;7.4866156578063965
+Practically no runners drink tea while competing in a marathon .;tea;0.009170126;6.768842697143555
+A large number of ranches hire hands to take care of the chores .;hands;3.548353e-05;14.782490730285645
+A small number of ranches hire hands to take care of the chores .;hands;2.2294704e-05;15.4529390335083
+A large number of ranches hire drunks to take care of the chores .;drunks;5.51303e-07;20.790651321411133
+A small number of ranches hire drunks to take care of the chores .;drunks;3.5865497e-07;21.410900115966797
+Nearly all countries erect statues to honor their national heroes .;statues;0.004034601;7.953358173370361
+Rather few countries erect statues to honor their national heroes .;statues;0.007439492;7.070580005645752
+Nearly all countries erect bridges to honor their national heroes .;bridges;0.0005510464;10.825538635253906
+Rather few countries erect bridges to honor their national heroes .;bridges;0.0012220003;9.676539421081543
+Lots of clowns toss pies at each other as part of their act .;pies;0.0005767794;10.759693145751953
+Hardly any clowns toss pies at each other as part of their act .;pies;0.0010341627;9.91732120513916
+Lots of clowns toss cookies at each other as part of their act .;cookies;0.00037142212;11.394652366638184
+Hardly any clowns toss cookies at each other as part of their act .;cookies;0.00032389633;11.592180252075195
+A lot of ranchers feed cattle out on the open prairie .;cattle;0.020170733;5.631592750549316
+A very few ranchers feed cattle out on the open prairie .;cattle;0.043291915;4.529758453369141
+A lot of ranchers feed visitors out on the open prairie .;visitors;2.6978078e-05;15.177852630615234
+A very few ranchers feed visitors out on the open prairie .;visitors;0.00014353836;12.766276359558105
+Many automobiles need gas to run for any length of time .;gas;0.004728608;7.724368572235107
+Few automobiles need gas to run for any length of time .;gas;0.0013329204;9.551193237304688
+Many automobiles need sunlight to run for any length of time .;sunlight;7.6712706e-05;13.670174598693848
+Few automobiles need sunlight to run for any length of time .;sunlight;4.9030186e-05;14.315970420837402
+Most newlyweds receive gifts at their wedding reception .;gifts;0.010429082;6.5832438468933105
+Few newlyweds receive gifts at their wedding reception .;gifts;0.0055259652;7.499557971954346
+Most newlyweds receive bills at their wedding reception .;bills;0.00041401834;11.238018035888672
+Few newlyweds receive bills at their wedding reception .;bills;6.689984e-05;13.867637634277344
+Almost all sages offer advice to people who ask them for their opinion .;advice;0.017092444;5.870497703552246
+Almost no sages offer advice to people who ask them for their opinion .;advice;0.011850331;6.398928642272949
+Almost all sages offer sweets to people who ask them for their opinion .;sweets;8.546514e-06;16.836233139038086
+Almost no sages offer sweets to people who ask them for their opinion .;sweets;4.0276216e-05;14.599712371826172
+Practically all attorneys meet clients at their law firm .;clients;0.0014251043;9.454716682434082
+Practically no attorneys meet clients at their law firm .;clients;0.0019781226;8.98165225982666
+Practically all attorneys meet dates at their law firm .;dates;1.20257055e-05;16.34351921081543
+Practically no attorneys meet dates at their law firm .;dates;1.067562e-05;16.51531982421875
+A large number of engineers plan projects for wealthy executives .;projects;0.0008697385;10.167130470275879
+A small number of engineers plan projects for wealthy executives .;projects;0.0007469914;10.38662052154541
+A large number of engineers plan meals for wealthy executives .;meals;1.9944816e-06;18.93555450439453
+A small number of engineers plan meals for wealthy executives .;meals;1.9828046e-06;18.944026947021484
+Nearly all bakers slice bread in a special cutting machine .;bread;0.012688539;6.30033016204834
+Rather few bakers slice bread in a special cutting machine .;bread;0.018005878;5.795388221740723
+Nearly all bakers slice pizza in a special cutting machine .;pizza;5.8886824e-05;14.051695823669434
+Rather few bakers slice pizza in a special cutting machine .;pizza;0.00017437253;12.485539436340332
+Lots of retirees trust banks with their life 's savings .;banks;0.0009308179;10.0692138671875
+Hardly any retirees trust banks with their life 's savings .;banks;0.0013390206;9.54460620880127
+Lots of retirees trust strangers with their life 's savings .;strangers;0.00010034137;13.282795906066895
+Hardly any retirees trust strangers with their life 's savings .;strangers;0.00012574418;12.957221031188965
+A lot of quarterbacks lift weights as part of their training regimen .;weights;0.06356927;3.9755265712738037
+A very few quarterbacks lift weights as part of their training regimen .;weights;0.01676113;5.898736953735352
+A lot of quarterbacks lift wheels as part of their training regimen .;wheels;1.3976731e-06;19.44854164123535
+A very few quarterbacks lift wheels as part of their training regimen .;wheels;1.1743243e-06;19.699737548828125
+Many psychologists use hypnosis to help patients remember their childhood .;hypnosis;0.002117315;8.883548736572266
+Few psychologists use hypnosis to help patients remember their childhood .;hypnosis;0.0014787631;9.401392936706543
+Many psychologists use violence to help patients remember their childhood .;violence;0.00062863366;10.635493278503418
+Few psychologists use violence to help patients remember their childhood .;violence;0.0021958116;8.831029891967773
+Most matadors wave capes to goad the bull into attacking .;capes;0.00047289993;11.046177864074707
+Few matadors wave capes to goad the bull into attacking .;capes;0.0037384755;8.063334465026855
+Most matadors wave flags to goad the bull into attacking .;flags;0.001798815;9.11873722076416
+Few matadors wave flags to goad the bull into attacking .;flags;0.003162568;8.3046875
+Almost all eskimos catch fish during the long arctic summer .;fish;0.05467981;4.192847728729248
+Almost no eskimos catch fish during the long arctic summer .;fish;0.042160604;4.567960739135742
+Almost all eskimos catch malaria during the long arctic summer .;malaria;0.0006950495;10.490596771240234
+Almost no eskimos catch malaria during the long arctic summer .;malaria;0.00038331584;11.349178314208984
+Practically all astronomers observe stars that have unusual properties .;stars;0.002136852;8.8702974319458
+Practically no astronomers observe stars that have unusual properties .;stars;0.00042440652;11.202265739440918
+Practically all astronomers observe insects that have unusual properties .;insects;2.6189797e-05;15.220635414123535
+Practically no astronomers observe insects that have unusual properties .;insects;2.6143323e-05;15.223197937011719
+A large number of pirates ransom prisoners for gold or jewels .;prisoners;0.00028739296;11.764687538146973
+A small number of pirates ransom prisoners for gold or jewels .;prisoners;0.0002775987;11.814711570739746
+A large number of pirates ransom husbands for gold or jewels .;husbands;1.0418554e-06;19.872413635253906
+A small number of pirates ransom husbands for gold or jewels .;husbands;8.947823e-07;20.09195899963379
+Nearly all employees do work while they are at the office .;work;0.019645287;5.669672966003418
+Rather few employees do work while they are at the office .;work;0.0064165606;7.283984184265137
+Nearly all employees do crosswords while they are at the office .;crosswords;8.018792e-07;20.250112533569336
+Rather few employees do crosswords while they are at the office .;crosswords;6.339265e-07;20.589181900024414
+Lots of hosts invite guests to stay for dinner .;guests;0.022702828;5.460984230041504
+Hardly any hosts invite guests to stay for dinner .;guests;0.047219396;4.404476642608643
+Lots of hosts invite butlers to stay for dinner .;butlers;6.7048234e-08;23.830224990844727
+Hardly any hosts invite butlers to stay for dinner .;butlers;1.1086165e-07;23.104736328125
+A lot of surgeons request specialists for particularly difficult operations .;specialists;0.00015670151;12.639693260192871
+A very few surgeons request specialists for particularly difficult operations .;specialists;9.6576674e-05;13.337965965270996
+A lot of surgeons request bodyguards for particularly difficult operations .;bodyguards;3.313605e-06;18.203166961669922
+A very few surgeons request bodyguards for particularly difficult operations .;bodyguards;1.3502505e-06;19.498340606689453
+Many chimps peel bananas before they eat them .;bananas;0.00029656378;11.719369888305664
+Few chimps peel bananas before they eat them .;bananas;0.00030593076;11.674507141113281
+Many chimps peel apples before they eat them .;apples;0.00020909117;12.223580360412598
+Few chimps peel apples before they eat them .;apples;0.00010379705;13.233946800231934
+Most mayors see citizens on a regular basis .;citizens;7.514239e-05;13.700013160705566
+Few mayors see citizens on a regular basis .;citizens;7.0523034e-05;13.791545867919922
+Most mayors see ghosts on a regular basis .;ghosts;6.725479e-06;17.18193244934082
+Few mayors see ghosts on a regular basis .;ghosts;1.3118796e-05;16.21800422668457
+Almost all dogs gnaw bones to exercise their jaws .;bones;1.2521351e-05;16.285249710083008
+Almost no dogs gnaw bones to exercise their jaws .;bones;5.6162826e-06;17.441953659057617
+Almost all dogs gnaw tires to exercise their jaws .;tires;8.401436e-06;16.860933303833008
+Almost no dogs gnaw tires to exercise their jaws .;tires;3.3927463e-06;18.16911506652832
+Practically all sailors abandon ships that are about to capsize .;ships;0.016649442;5.908382415771484
+Practically no sailors abandon ships that are about to capsize .;ships;0.022500787;5.473880767822266
+Practically all sailors abandon rowboats that are about to capsize .;rowboats;7.3512074e-06;17.053586959838867
+Practically no sailors abandon rowboats that are about to capsize .;rowboats;8.7158105e-06;16.807933807373047
+A large number of spies collect data from foreign countries .;data;0.07576239;3.722374439239502
+A small number of spies collect data from foreign countries .;data;0.06422722;3.9606711864471436
+A large number of spies collect sand from foreign countries .;sand;2.5187888e-05;15.276909828186035
+A small number of spies collect sand from foreign countries .;sand;2.5477348e-05;15.260425567626953
+Nearly all songwriters create music specifically for their own band .;music;0.030060057;5.056008338928223
+Rather few songwriters create music specifically for their own band .;music;0.010750399;6.53946590423584
+Nearly all songwriters create stages specifically for their own band .;stages;1.1241307e-05;16.44083023071289
+Rather few songwriters create stages specifically for their own band .;stages;1.2860188e-06;19.56865692138672
+Lots of snakes devour eggs in one large bite .;eggs;0.00059252064;10.720847129821777
+Hardly any snakes devour eggs in one large bite .;eggs;0.0014401007;9.439614295959473
+Lots of snakes devour pigs in one large bite .;pigs;8.6451684e-05;13.497746467590332
+Hardly any snakes devour pigs in one large bite .;pigs;0.0002716672;11.845871925354004
+A lot of detectives notice clues all around the crime scene .;clues;3.010518e-05;15.019628524780273
+A very few detectives notice clues all around the crime scene .;clues;4.3302876e-05;14.495177268981934
+A lot of detectives notice reporters all around the crime scene .;reporters;4.035963e-05;14.59672737121582
+A very few detectives notice reporters all around the crime scene .;reporters;2.955837e-05;15.046073913574219
+Many families schedule vacations during the summer months .;vacations;0.027245274;5.197850227355957
+Few families schedule vacations during the summer months .;vacations;0.010324044;6.597847938537598
+Many families schedule discussions during the summer months .;discussions;5.3659664e-05;14.185802459716797
+Few families schedule discussions during the summer months .;discussions;0.00015964502;12.612844467163086
+Most therapists make diagnoses based on years of experience .;diagnoses;0.0015870598;9.29942798614502
+Few therapists make diagnoses based on years of experience .;diagnoses;0.0005016752;10.960958480834961
+Most therapists make deals based on years of experience .;deals;0.00017341693;12.493467330932617
+Few therapists make deals based on years of experience .;deals;7.970774e-05;13.614920616149902
+Almost all lifeguards protect swimmers at the beach .;swimmers;0.05456293;4.195935249328613
+Almost no lifeguards protect swimmers at the beach .;swimmers;0.017567925;5.8309125900268555
+Almost all lifeguards protect birds at the beach .;birds;0.0007570697;10.367286682128906
+Almost no lifeguards protect birds at the beach .;birds;0.00015226306;12.681146621704102
+Practically all dentists pull teeth in their office .;teeth;0.023742316;5.396395683288574
+Practically no dentists pull teeth in their office .;teeth;0.01077898;6.535635471343994
+Practically all dentists pull files in their office .;files;6.0414422e-05;14.014747619628906
+Practically no dentists pull files in their office .;files;6.738806e-05;13.857147216796875
+A large number of salesmen market products to prospective buyers .;products;0.011018584;6.503917217254639
+A small number of salesmen market products to prospective buyers .;products;0.012117059;6.366816520690918
+A large number of salesmen market values to prospective buyers .;values;4.414039e-05;14.467540740966797
+A small number of salesmen market values to prospective buyers .;values;3.3611388e-05;14.860690116882324
+Nearly all aquariums give sharks a lot of special attention .;sharks;0.00082754204;10.238880157470703
+Rather few aquariums give sharks a lot of special attention .;sharks;0.00042230505;11.209426879882812
+Nearly all aquariums give donors a lot of special attention .;donors;4.6495665e-05;14.392544746398926
+Rather few aquariums give donors a lot of special attention .;donors;2.21567e-05;15.461897850036621
+Lots of burglars have disguises when they are breaking into a house .;disguises;6.86861e-07;20.473478317260742
+Hardly any burglars have disguises when they are breaking into a house .;disguises;2.4613334e-07;21.954055786132812
+Lots of burglars have hostages when they are breaking into a house .;hostages;1.0586982e-05;16.5273494720459
+Hardly any burglars have hostages when they are breaking into a house .;hostages;8.652536e-06;16.818445205688477
+A lot of tenants rent apartments on a monthly basis .;apartments;0.027912438;5.162948131561279
+A very few tenants rent apartments on a monthly basis .;apartments;0.049968492;4.3228373527526855
+A lot of tenants rent lawnmowers on a monthly basis .;lawnmowers;1.2338779e-06;19.628368377685547
+A very few tenants rent lawnmowers on a monthly basis .;lawnmowers;2.8119473e-06;18.439998626708984
+Many custodians scrub sinks before applying a disinfectant .;sinks;2.0801712e-05;15.552938461303711
+Few custodians scrub sinks before applying a disinfectant .;sinks;2.397653e-06;18.669946670532227
+Many custodians scrub trucks before applying a disinfectant .;trucks;2.931702e-05;15.057902336120605
+Few custodians scrub trucks before applying a disinfectant .;trucks;6.2660274e-06;17.28401756286621

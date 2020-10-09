@@ -1,0 +1,481 @@
+SentenceFrame,Typicality,QuantifierType,Sentence
+Frame1,Typical,Often,Prosecutors often accuse defendants of committing a crime .
+Frame1,Typical,Rarely,Prosecutors rarely accuse defendants of committing a crime .
+Frame1,Atypical,Often,Prosecutors often accuse sheriffs of committing a crime .
+Frame1,Atypical,Rarely,Prosecutors rarely accuse sheriffs of committing a crime .
+Frame2,Typical,Often,Groupies often follow singers around the country .
+Frame2,Typical,Rarely,Groupies rarely follow singers around the country .
+Frame2,Atypical,Often,Groupies often follow boys around the country .
+Frame2,Atypical,Rarely,Groupies rarely follow boys around the country .
+Frame3,Typical,Often,Postmen often carry mail in their satchel .
+Frame3,Typical,Rarely,Postmen rarely carry mail in their satchel .
+Frame3,Atypical,Often,Postmen often carry oil in their satchel .
+Frame3,Atypical,Rarely,Postmen rarely carry oil in their satchel .
+Frame4,Typical,Often,Kittens often chase mice if given the chance .
+Frame4,Typical,Rarely,Kittens rarely chase mice if given the chance .
+Frame4,Atypical,Often,Kittens often chase flies if given the chance .
+Frame4,Atypical,Rarely,Kittens rarely chase flies if given the chance .
+Frame5,Typical,Often,Doctors often treat cancer as a serious condition .
+Frame5,Typical,Rarely,Doctors rarely treat cancer as a serious condition .
+Frame5,Atypical,Often,Doctors often treat hunger as a serious condition .
+Frame5,Atypical,Rarely,Doctors rarely treat hunger as a serious condition .
+Frame6,Typical,Often,Chefs often cook pancakes for breakfast at roadside diners .
+Frame6,Typical,Rarely,Chefs rarely cook pancakes for breakfast at roadside diners .
+Frame6,Atypical,Often,Chefs often cook pears for breakfast at roadside diners .
+Frame6,Atypical,Rarely,Chefs rarely cook pears for breakfast at roadside diners .
+Frame7,Typical,Often,Boxers often fight opponents in cities where there are large crowds .
+Frame7,Typical,Rarely,Boxers rarely fight opponents in cities where there are large crowds .
+Frame7,Atypical,Often,Boxers often fight lawsuits in cities where there are large crowds .
+Frame7,Atypical,Rarely,Boxers rarely fight lawsuits in cities where there are large crowds .
+Frame8,Typical,Often,Archaeologists often find artifacts when they excavate ancient cities .
+Frame8,Typical,Rarely,Archaeologists rarely find artifacts when they excavate ancient cities .
+Frame8,Atypical,Often,Archaeologists often find gold when they excavate ancient cities .
+Frame8,Atypical,Rarely,Archaeologists rarely find gold when they excavate ancient cities .
+Frame9,Typical,Often,Farmers often grow crops as their primary source of cash .
+Frame9,Typical,Rarely,Farmers rarely grow crops as their primary source of cash .
+Frame9,Atypical,Often,Farmers often grow worms as their primary source of cash .
+Frame9,Atypical,Rarely,Farmers rarely grow worms as their primary source of cash .
+Frame10,Typical,Often,Veterinarians often help animals when they get injured .
+Frame10,Typical,Rarely,Veterinarians rarely help animals when they get injured .
+Frame10,Atypical,Often,Veterinarians often help coyotes when they get injured .
+Frame10,Atypical,Rarely,Veterinarians rarely help coyotes when they get injured .
+Frame11,Typical,Often,Lions often hunt gazelles as they prowl the savanah .
+Frame11,Typical,Rarely,Lions rarely hunt gazelles as they prowl the savanah .
+Frame11,Atypical,Often,Lions often hunt bears as they prowl the savanah .
+Frame11,Atypical,Rarely,Lions rarely hunt bears as they prowl the savanah .
+Frame12,Typical,Often,Brides often kiss grooms during their wedding ceremony .
+Frame12,Typical,Rarely,Brides rarely kiss grooms during their wedding ceremony .
+Frame12,Atypical,Often,Brides often kiss babies during their wedding ceremony .
+Frame12,Atypical,Rarely,Brides rarely kiss babies during their wedding ceremony .
+Frame13,Typical,Often,Artists often paint portraits to pay their bills .
+Frame13,Typical,Rarely,Artists rarely paint portraits to pay their bills .
+Frame13,Atypical,Often,Artists often paint maps to pay their bills .
+Frame13,Atypical,Rarely,Artists rarely paint maps to pay their bills .
+Frame14,Typical,Often,Historians often study articles written by their colleagues .
+Frame14,Typical,Rarely,Historians rarely study articles written by their colleagues .
+Frame14,Atypical,Often,Historians often study poetry written by their colleagues .
+Frame14,Atypical,Rarely,Historians rarely study poetry written by their colleagues .
+Frame15,Typical,Often,Authors often write books to make a living .
+Frame15,Typical,Rarely,Authors rarely write books to make a living .
+Frame15,Atypical,Often,Authors often write lists to make a living .
+Frame15,Atypical,Rarely,Authors rarely write lists to make a living .
+Frame16,Typical,Often,Bands often record albums throughout their careers .
+Frame16,Typical,Rarely,Bands rarely record albums throughout their careers .
+Frame16,Atypical,Often,Bands often record hits throughout their careers .
+Frame16,Atypical,Rarely,Bands rarely record hits throughout their careers .
+Frame17,Typical,Often,Cats often scratch furniture if they are not declawed .
+Frame17,Typical,Rarely,Cats rarely scratch furniture if they are not declawed .
+Frame17,Atypical,Often,Cats often scratch walls if they are not declawed .
+Frame17,Atypical,Rarely,Cats rarely scratch walls if they are not declawed .
+Frame18,Typical,Often,Janitors often clean floors after cleaning everything else .
+Frame18,Typical,Rarely,Janitors rarely clean floors after cleaning everything else .
+Frame18,Atypical,Often,Janitors often clean dishes after cleaning everything else .
+Frame18,Atypical,Rarely,Janitors rarely clean dishes after cleaning everything else .
+Frame19,Typical,Often,Lawyers often argue cases in a court of law .
+Frame19,Typical,Rarely,Lawyers rarely argue cases in a court of law .
+Frame19,Atypical,Often,Lawyers often argue politics in a court of law .
+Frame19,Atypical,Rarely,Lawyers rarely argue politics in a court of law .
+Frame20,Typical,Often,Judges often sentence murderers to life in prison .
+Frame20,Typical,Rarely,Judges rarely sentence murderers to life in prison .
+Frame20,Atypical,Often,Judges often sentence monks to life in prison .
+Frame20,Atypical,Rarely,Judges rarely sentence monks to life in prison .
+Frame21,Typical,Often,Waitresses often bring cocktails to customers who get their attention .
+Frame21,Typical,Rarely,Waitresses rarely bring cocktails to customers who get their attention .
+Frame21,Atypical,Often,Waitresses often bring napkins to customers who get their attention .
+Frame21,Atypical,Rarely,Waitresses rarely bring napkins to customers who get their attention .
+Frame22,Typical,Often,Hunters often shoot game during the hunting season .
+Frame22,Typical,Rarely,Hunters rarely shoot game during the hunting season .
+Frame22,Atypical,Often,Hunters often shoot livestock during the hunting season .
+Frame22,Atypical,Rarely,Hunters rarely shoot livestock during the hunting season .
+Frame23,Typical,Often,Theaters often show movies on saturday nights .
+Frame23,Typical,Rarely,Theaters rarely show movies on saturday nights .
+Frame23,Atypical,Often,Theaters often show operas on saturday nights .
+Frame23,Atypical,Rarely,Theaters rarely show operas on saturday nights .
+Frame24,Typical,Often,Butchers often slaughter cows and sell the meat .
+Frame24,Typical,Rarely,Butchers rarely slaughter cows and sell the meat .
+Frame24,Atypical,Often,Butchers often slaughter ducks and sell the meat .
+Frame24,Atypical,Rarely,Butchers rarely slaughter ducks and sell the meat .
+Frame25,Typical,Often,Pickpockets often steal wallets while the owner is distracted .
+Frame25,Typical,Rarely,Pickpockets rarely steal wallets while the owner is distracted .
+Frame25,Atypical,Often,Pickpockets often steal shoes while the owner is distracted .
+Frame25,Atypical,Rarely,Pickpockets rarely steal shoes while the owner is distracted .
+Frame26,Typical,Often,Psychics often read fortunes for their customers every day .
+Frame26,Typical,Rarely,Psychics rarely read fortunes for their customers every day .
+Frame26,Atypical,Often,Psychics often read news for their customers every day .
+Frame26,Atypical,Rarely,Psychics rarely read news for their customers every day .
+Frame27,Typical,Often,Pilots often fly planes on cloudy days .
+Frame27,Typical,Rarely,Pilots rarely fly planes on cloudy days .
+Frame27,Atypical,Often,Pilots often fly kites on cloudy days .
+Frame27,Atypical,Rarely,Pilots rarely fly kites on cloudy days .
+Frame28,Typical,Often,Thieves often take jewels from their victims when they can .
+Frame28,Typical,Rarely,Thieves rarely take jewels from their victims when they can .
+Frame28,Atypical,Often,Thieves often take jobs from their victims when they can .
+Frame28,Atypical,Rarely,Thieves rarely take jobs from their victims when they can .
+Frame29,Typical,Often,Professors often teach classes while doing research .
+Frame29,Typical,Rarely,Professors rarely teach classes while doing research .
+Frame29,Atypical,Often,Professors often teach friends while doing research .
+Frame29,Atypical,Rarely,Professors rarely teach friends while doing research .
+Frame30,Typical,Often,Pitchers often throw balls to warm up for a game .
+Frame30,Typical,Rarely,Pitchers rarely throw balls to warm up for a game .
+Frame30,Atypical,Often,Pitchers often throw rocks to warm up for a game .
+Frame30,Atypical,Rarely,Pitchers rarely throw rocks to warm up for a game .
+Frame31,Typical,Often,Kidnappers often blindfold captives to keep their identities secret .
+Frame31,Typical,Rarely,Kidnappers rarely blindfold captives to keep their identities secret .
+Frame31,Atypical,Often,Kidnappers often blindfold infants to keep their identities secret .
+Frame31,Atypical,Rarely,Kidnappers rarely blindfold infants to keep their identities secret .
+Frame32,Typical,Often,Smugglers often transport drugs into the united states .
+Frame32,Typical,Rarely,Smugglers rarely transport drugs into the united states .
+Frame32,Atypical,Often,Smugglers often transport umbrellas into the united states .
+Frame32,Atypical,Rarely,Smugglers rarely transport umbrellas into the united states .
+Frame33,Typical,Often,Tourists often visit museums on their vacation .
+Frame33,Typical,Rarely,Tourists rarely visit museums on their vacation .
+Frame33,Atypical,Often,Tourists often visit mines on their vacation .
+Frame33,Atypical,Rarely,Tourists rarely visit mines on their vacation .
+Frame34,Typical,Often,Sentries often guard bases at all hours of the night .
+Frame34,Typical,Rarely,Sentries rarely guard bases at all hours of the night .
+Frame34,Atypical,Often,Sentries often guard dumpsters at all hours of the night .
+Frame34,Atypical,Rarely,Sentries rarely guard dumpsters at all hours of the night .
+Frame35,Typical,Often,Telemarketers often call people to tell them about new products .
+Frame35,Typical,Rarely,Telemarketers rarely call people to tell them about new products .
+Frame35,Atypical,Often,Telemarketers often call inmates to tell them about new products .
+Frame35,Atypical,Rarely,Telemarketers rarely call inmates to tell them about new products .
+Frame36,Typical,Often,Punters often kick footballs for practice on their days off .
+Frame36,Typical,Rarely,Punters rarely kick footballs for practice on their days off .
+Frame36,Atypical,Often,Punters often kick boxes for practice on their days off .
+Frame36,Atypical,Rarely,Punters rarely kick boxes for practice on their days off .
+Frame37,Typical,Often,Shoppers often buy groceries at the local supermarket .
+Frame37,Typical,Rarely,Shoppers rarely buy groceries at the local supermarket .
+Frame37,Atypical,Often,Shoppers often buy ammunition at the local supermarket .
+Frame37,Atypical,Rarely,Shoppers rarely buy ammunition at the local supermarket .
+Frame38,Typical,Often,Speakers often address audiences using a microphone .
+Frame38,Typical,Rarely,Speakers rarely address audiences using a microphone .
+Frame38,Atypical,Often,Speakers often address letters using a microphone .
+Frame38,Atypical,Rarely,Speakers rarely address letters using a microphone .
+Frame39,Typical,Often,Armies often battle invaders and try to drive them out of the country .
+Frame39,Typical,Rarely,Armies rarely battle invaders and try to drive them out of the country .
+Frame39,Atypical,Often,Armies often battle immigrants and try to drive them out of the country .
+Frame39,Atypical,Rarely,Armies rarely battle immigrants and try to drive them out of the country .
+Frame40,Typical,Often,Gardeners often plant flowers to make their garden prettier .
+Frame40,Typical,Rarely,Gardeners rarely plant flowers to make their garden prettier .
+Frame40,Atypical,Often,Gardeners often plant bombs to make their garden prettier .
+Frame40,Atypical,Rarely,Gardeners rarely plant bombs to make their garden prettier .
+Frame41,Typical,Often,Architects often design buildings with lots of windows .
+Frame41,Typical,Rarely,Architects rarely design buildings with lots of windows .
+Frame41,Atypical,Often,Architects often design closets with lots of windows .
+Frame41,Atypical,Rarely,Architects rarely design closets with lots of windows .
+Frame42,Typical,Often,Negotiators often settle disputes as quickly as possible .
+Frame42,Typical,Rarely,Negotiators rarely settle disputes as quickly as possible .
+Frame42,Atypical,Often,Negotiators often settle payments as quickly as possible .
+Frame42,Atypical,Rarely,Negotiators rarely settle payments as quickly as possible .
+Frame43,Typical,Often,Witnesses often describe robbers as being large and menacing .
+Frame43,Typical,Rarely,Witnesses rarely describe robbers as being large and menacing .
+Frame43,Atypical,Often,Witnesses often describe tellers as being large and menacing .
+Frame43,Atypical,Rarely,Witnesses rarely describe tellers as being large and menacing .
+Frame44,Typical,Often,Couriers often deliver packages sealed in boxes .
+Frame44,Typical,Rarely,Couriers rarely deliver packages sealed in boxes .
+Frame44,Atypical,Often,Couriers often deliver organs sealed in boxes .
+Frame44,Atypical,Rarely,Couriers rarely deliver organs sealed in boxes .
+Frame45,Typical,Often,Brokers often sell stocks in after-hours trading .
+Frame45,Typical,Rarely,Brokers rarely sell stocks in after-hours trading .
+Frame45,Atypical,Often,Brokers often sell curtains in after-hours trading .
+Frame45,Atypical,Rarely,Brokers rarely sell curtains in after-hours trading .
+Frame46,Typical,Often,Mechanics often fix cars that have broken parts .
+Frame46,Typical,Rarely,Mechanics rarely fix cars that have broken parts .
+Frame46,Atypical,Often,Mechanics often fix toys that have broken parts .
+Frame46,Atypical,Rarely,Mechanics rarely fix toys that have broken parts .
+Frame47,Typical,Often,Joggers often run laps to stay in shape .
+Frame47,Typical,Rarely,Joggers rarely run laps to stay in shape .
+Frame47,Atypical,Often,Joggers often run monthly to stay in shape .
+Frame47,Atypical,Rarely,Joggers rarely run monthly to stay in shape .
+Frame48,Typical,Often,Cleaners often wash clothes using strong laundry soap .
+Frame48,Typical,Rarely,Cleaners rarely wash clothes using strong laundry soap .
+Frame48,Atypical,Often,Cleaners often wash rags using strong laundry soap .
+Frame48,Atypical,Rarely,Cleaners rarely wash rags using strong laundry soap .
+Frame49,Typical,Often,Squirrels often gather nuts and store them for the winter .
+Frame49,Typical,Rarely,Squirrels rarely gather nuts and store them for the winter .
+Frame49,Atypical,Often,Squirrels often gather nails and store them for the winter .
+Frame49,Atypical,Rarely,Squirrels rarely gather nails and store them for the winter .
+Frame50,Typical,Often,Investors often loan money to businesses which are profitable .
+Frame50,Typical,Rarely,Investors rarely loan money to businesses which are profitable .
+Frame50,Atypical,Often,Investors often loan papers to businesses which are profitable .
+Frame50,Atypical,Rarely,Investors rarely loan papers to businesses which are profitable .
+Frame51,Typical,Often,Morticians often arrange funerals after a lot of planning .
+Frame51,Typical,Rarely,Morticians rarely arrange funerals after a lot of planning .
+Frame51,Atypical,Often,Morticians often arrange parties after a lot of planning .
+Frame51,Atypical,Rarely,Morticians rarely arrange parties after a lot of planning .
+Frame52,Typical,Often,Actors often perform plays on stage .
+Frame52,Typical,Rarely,Actors rarely perform plays on stage .
+Frame52,Atypical,Often,Actors often perform surgery on stage .
+Frame52,Atypical,Rarely,Actors rarely perform surgery on stage .
+Frame53,Typical,Often,Adolescents often play games all through high school .
+Frame53,Typical,Rarely,Adolescents rarely play games all through high school .
+Frame53,Atypical,Often,Adolescents often play horns all through high school .
+Frame53,Atypical,Rarely,Adolescents rarely play horns all through high school .
+Frame54,Typical,Often,Cowboys often ride horses when they go to the back country .
+Frame54,Typical,Rarely,Cowboys rarely ride horses when they go to the back country .
+Frame54,Atypical,Often,Cowboys often ride bicycles when they go to the back country .
+Frame54,Atypical,Rarely,Cowboys rarely ride bicycles when they go to the back country .
+Frame55,Typical,Often,Barbers often cut hair while carrying on a conversation .
+Frame55,Typical,Rarely,Barbers rarely cut hair while carrying on a conversation .
+Frame55,Atypical,Often,Barbers often cut steak while carrying on a conversation .
+Frame55,Atypical,Rarely,Barbers rarely cut steak while carrying on a conversation .
+Frame56,Typical,Often,Bartenders often mix drinks while talking to the patrons .
+Frame56,Typical,Rarely,Bartenders rarely mix drinks while talking to the patrons .
+Frame56,Atypical,Often,Bartenders often mix metaphors while talking to the patrons .
+Frame56,Atypical,Rarely,Bartenders rarely mix metaphors while talking to the patrons .
+Frame57,Typical,Often,Executives often make decisions that reflect their business acumen .
+Frame57,Typical,Rarely,Executives rarely make decisions that reflect their business acumen .
+Frame57,Atypical,Often,Executives often make models that reflect their business acumen .
+Frame57,Atypical,Rarely,Executives rarely make models that reflect their business acumen .
+Frame58,Typical,Often,Warehouses often store merchandise which has not been sold yet .
+Frame58,Typical,Rarely,Warehouses rarely store merchandise which has not been sold yet .
+Frame58,Atypical,Often,Warehouses often store sugar which has not been sold yet .
+Frame58,Atypical,Rarely,Warehouses rarely store sugar which has not been sold yet .
+Frame59,Typical,Often,Coaches often train athletes to work at a high level of performance .
+Frame59,Typical,Rarely,Coaches rarely train athletes to work at a high level of performance .
+Frame59,Atypical,Often,Coaches often train soldiers to work at a high level of performance .
+Frame59,Atypical,Rarely,Coaches rarely train soldiers to work at a high level of performance .
+Frame60,Typical,Often,Plumbers often remove clogs using special equipment .
+Frame60,Typical,Rarely,Plumbers rarely remove clogs using special equipment .
+Frame60,Atypical,Often,Plumbers often remove weeds using special equipment .
+Frame60,Atypical,Rarely,Plumbers rarely remove weeds using special equipment .
+Frame61,Typical,Often,Satirists often poke fun at famous people .
+Frame61,Typical,Rarely,Satirists rarely poke fun at famous people .
+Frame61,Atypical,Often,Satirists often poke knives at famous people .
+Frame61,Atypical,Rarely,Satirists rarely poke knives at famous people .
+Frame62,Typical,Often,Nurses often draw blood for medical testing and analysis .
+Frame62,Typical,Rarely,Nurses rarely draw blood for medical testing and analysis .
+Frame62,Atypical,Often,Nurses often draw sketches for medical testing and analysis .
+Frame62,Atypical,Rarely,Nurses rarely draw sketches for medical testing and analysis .
+Frame63,Typical,Often,Caterers often prepare food for large groups of people .
+Frame63,Typical,Rarely,Caterers rarely prepare food for large groups of people .
+Frame63,Atypical,Often,Caterers often prepare baths for large groups of people .
+Frame63,Atypical,Rarely,Caterers rarely prepare baths for large groups of people .
+Frame64,Typical,Often,Weathermen often report storms that are expected in the next few days .
+Frame64,Typical,Rarely,Weathermen rarely report storms that are expected in the next few days .
+Frame64,Atypical,Often,Weathermen often report weddings that are expected in the next few days .
+Frame64,Atypical,Rarely,Weathermen rarely report weddings that are expected in the next few days .
+Frame65,Typical,Often,Knights often rescue damsels from the clutches of an ogre .
+Frame65,Typical,Rarely,Knights rarely rescue damsels from the clutches of an ogre .
+Frame65,Atypical,Often,Knights often rescue dragons from the clutches of an ogre .
+Frame65,Atypical,Rarely,Knights rarely rescue dragons from the clutches of an ogre .
+Frame66,Typical,Often,Generals often command troops in time of war .
+Frame66,Typical,Rarely,Generals rarely command troops in time of war .
+Frame66,Atypical,Often,Generals often command civilians in time of war .
+Frame66,Atypical,Rarely,Generals rarely command civilians in time of war .
+Frame67,Typical,Often,Boxcars often hold cargo that can take extreme temperatures .
+Frame67,Typical,Rarely,Boxcars rarely hold cargo that can take extreme temperatures .
+Frame67,Atypical,Often,Boxcars often hold feathers that can take extreme temperatures .
+Frame67,Atypical,Rarely,Boxcars rarely hold feathers that can take extreme temperatures .
+Frame68,Typical,Often,Magazines often publish stories that involve current events .
+Frame68,Typical,Rarely,Magazines rarely publish stories that involve current events .
+Frame68,Atypical,Often,Magazines often publish songs that involve current events .
+Frame68,Atypical,Rarely,Magazines rarely publish songs that involve current events .
+Frame69,Typical,Often,Policemen often arrest crooks after the bars close down .
+Frame69,Typical,Rarely,Policemen rarely arrest crooks after the bars close down .
+Frame69,Atypical,Often,Policemen often arrest priests after the bars close down .
+Frame69,Atypical,Rarely,Policemen rarely arrest priests after the bars close down .
+Frame70,Typical,Often,Actresses often wear dresses that were created by famous designers .
+Frame70,Typical,Rarely,Actresses rarely wear dresses that were created by famous designers .
+Frame70,Atypical,Often,Actresses often wear helmets that were created by famous designers .
+Frame70,Atypical,Rarely,Actresses rarely wear helmets that were created by famous designers .
+Frame71,Typical,Often,Adults often eat chicken on a regular basis .
+Frame71,Typical,Rarely,Adults rarely eat chicken on a regular basis .
+Frame71,Atypical,Often,Adults often eat grass on a regular basis .
+Frame71,Atypical,Rarely,Adults rarely eat grass on a regular basis .
+Frame72,Typical,Often,Teachers often punish students that are disrupting the class .
+Frame72,Typical,Rarely,Teachers rarely punish students that are disrupting the class .
+Frame72,Atypical,Often,Teachers often punish aides that are disrupting the class .
+Frame72,Atypical,Rarely,Teachers rarely punish aides that are disrupting the class .
+Frame73,Typical,Often,Governments often build monuments during times of national importance .
+Frame73,Typical,Rarely,Governments rarely build monuments during times of national importance .
+Frame73,Atypical,Often,Governments often build trains during times of national importance .
+Frame73,Atypical,Rarely,Governments rarely build trains during times of national importance .
+Frame74,Typical,Often,Scientists often conduct research with great attention to detail .
+Frame74,Typical,Rarely,Scientists rarely conduct research with great attention to detail .
+Frame74,Atypical,Often,Scientists often conduct traffic with great attention to detail .
+Frame74,Atypical,Rarely,Scientists rarely conduct traffic with great attention to detail .
+Frame75,Typical,Often,Comedians often entertain crowds at comedy clubs around the country .
+Frame75,Typical,Rarely,Comedians rarely entertain crowds at comedy clubs around the country .
+Frame75,Atypical,Often,Comedians often entertain politicians at comedy clubs around the country .
+Frame75,Atypical,Rarely,Comedians rarely entertain politicians at comedy clubs around the country .
+Frame76,Typical,Often,Instructors often evaluate pupils by giving them a test .
+Frame76,Typical,Rarely,Instructors rarely evaluate pupils by giving them a test .
+Frame76,Atypical,Often,Instructors often evaluate grapes by giving them a test .
+Frame76,Atypical,Rarely,Instructors rarely evaluate grapes by giving them a test .
+Frame77,Typical,Often,Supervisors often discipline workers who show up late .
+Frame77,Typical,Rarely,Supervisors rarely discipline workers who show up late .
+Frame77,Atypical,Often,Supervisors often discipline shareholders who show up late .
+Frame77,Atypical,Rarely,Supervisors rarely discipline shareholders who show up late .
+Frame78,Typical,Often,Patrolmen often question suspects to get information about a crime .
+Frame78,Typical,Rarely,Patrolmen rarely question suspects to get information about a crime .
+Frame78,Atypical,Often,Patrolmen often question minors to get information about a crime .
+Frame78,Atypical,Rarely,Patrolmen rarely question minors to get information about a crime .
+Frame79,Typical,Often,Parents often lecture children about not playing too roughly .
+Frame79,Typical,Rarely,Parents rarely lecture children about not playing too roughly .
+Frame79,Atypical,Often,Parents often lecture pets about not playing too roughly .
+Frame79,Atypical,Rarely,Parents rarely lecture pets about not playing too roughly .
+Frame80,Typical,Often,Bellboys often lug suitcases every day at work .
+Frame80,Typical,Rarely,Bellboys rarely lug suitcases every day at work .
+Frame80,Atypical,Often,Bellboys often lug fruits every day at work .
+Frame80,Atypical,Rarely,Bellboys rarely lug fruits every day at work .
+Frame81,Typical,Often,Businessmen often employ accountants to keep track of the books .
+Frame81,Typical,Rarely,Businessmen rarely employ accountants to keep track of the books .
+Frame81,Atypical,Often,Businessmen often employ ministers to keep track of the books .
+Frame81,Atypical,Rarely,Businessmen rarely employ ministers to keep track of the books .
+Frame82,Typical,Often,Kids often want candy for dessert after dinner .
+Frame82,Typical,Rarely,Kids rarely want candy for dessert after dinner .
+Frame82,Atypical,Often,Kids often want peas for dessert after dinner .
+Frame82,Atypical,Rarely,Kids rarely want peas for dessert after dinner .
+Frame83,Typical,Often,Runners often drink water while competing in a marathon .
+Frame83,Typical,Rarely,Runners rarely drink water while competing in a marathon .
+Frame83,Atypical,Often,Runners often drink tea while competing in a marathon .
+Frame83,Atypical,Rarely,Runners rarely drink tea while competing in a marathon .
+Frame84,Typical,Often,Ranches often hire hands to take care of the chores .
+Frame84,Typical,Rarely,Ranches rarely hire hands to take care of the chores .
+Frame84,Atypical,Often,Ranches often hire drunks to take care of the chores .
+Frame84,Atypical,Rarely,Ranches rarely hire drunks to take care of the chores .
+Frame85,Typical,Often,Countries often erect statues to honor their national heroes .
+Frame85,Typical,Rarely,Countries rarely erect statues to honor their national heroes .
+Frame85,Atypical,Often,Countries often erect bridges to honor their national heroes .
+Frame85,Atypical,Rarely,Countries rarely erect bridges to honor their national heroes .
+Frame86,Typical,Often,Clowns often toss pies at each other as part of their act .
+Frame86,Typical,Rarely,Clowns rarely toss pies at each other as part of their act .
+Frame86,Atypical,Often,Clowns often toss cookies at each other as part of their act .
+Frame86,Atypical,Rarely,Clowns rarely toss cookies at each other as part of their act .
+Frame87,Typical,Often,Ranchers often feed cattle out on the open prairie .
+Frame87,Typical,Rarely,Ranchers rarely feed cattle out on the open prairie .
+Frame87,Atypical,Often,Ranchers often feed visitors out on the open prairie .
+Frame87,Atypical,Rarely,Ranchers rarely feed visitors out on the open prairie .
+Frame88,Typical,Often,Automobiles often need gas to run for any length of time .
+Frame88,Typical,Rarely,Automobiles rarely need gas to run for any length of time .
+Frame88,Atypical,Often,Automobiles often need sunlight to run for any length of time .
+Frame88,Atypical,Rarely,Automobiles rarely need sunlight to run for any length of time .
+Frame89,Typical,Often,Newlyweds often receive gifts at their wedding reception .
+Frame89,Typical,Rarely,Newlyweds rarely receive gifts at their wedding reception .
+Frame89,Atypical,Often,Newlyweds often receive bills at their wedding reception .
+Frame89,Atypical,Rarely,Newlyweds rarely receive bills at their wedding reception .
+Frame90,Typical,Often,Sages often offer advice to people who ask them for their opinion .
+Frame90,Typical,Rarely,Sages rarely offer advice to people who ask them for their opinion .
+Frame90,Atypical,Often,Sages often offer sweets to people who ask them for their opinion .
+Frame90,Atypical,Rarely,Sages rarely offer sweets to people who ask them for their opinion .
+Frame91,Typical,Often,Attorneys often meet clients at their law firm .
+Frame91,Typical,Rarely,Attorneys rarely meet clients at their law firm .
+Frame91,Atypical,Often,Attorneys often meet dates at their law firm .
+Frame91,Atypical,Rarely,Attorneys rarely meet dates at their law firm .
+Frame92,Typical,Often,Engineers often plan projects for wealthy executives .
+Frame92,Typical,Rarely,Engineers rarely plan projects for wealthy executives .
+Frame92,Atypical,Often,Engineers often plan meals for wealthy executives .
+Frame92,Atypical,Rarely,Engineers rarely plan meals for wealthy executives .
+Frame93,Typical,Often,Bakers often slice bread in a special cutting machine .
+Frame93,Typical,Rarely,Bakers rarely slice bread in a special cutting machine .
+Frame93,Atypical,Often,Bakers often slice pizza in a special cutting machine .
+Frame93,Atypical,Rarely,Bakers rarely slice pizza in a special cutting machine .
+Frame94,Typical,Often,Retirees often trust banks with their life 's savings .
+Frame94,Typical,Rarely,Retirees rarely trust banks with their life 's savings .
+Frame94,Atypical,Often,Retirees often trust strangers with their life 's savings .
+Frame94,Atypical,Rarely,Retirees rarely trust strangers with their life 's savings .
+Frame95,Typical,Often,Quarterbacks often lift weights as part of their training regimen .
+Frame95,Typical,Rarely,Quarterbacks rarely lift weights as part of their training regimen .
+Frame95,Atypical,Often,Quarterbacks often lift wheels as part of their training regimen .
+Frame95,Atypical,Rarely,Quarterbacks rarely lift wheels as part of their training regimen .
+Frame96,Typical,Often,Psychologists often use hypnosis to help patients remember their childhood .
+Frame96,Typical,Rarely,Psychologists rarely use hypnosis to help patients remember their childhood .
+Frame96,Atypical,Often,Psychologists often use violence to help patients remember their childhood .
+Frame96,Atypical,Rarely,Psychologists rarely use violence to help patients remember their childhood .
+Frame97,Typical,Often,Matadors often wave capes to goad the bull into attacking .
+Frame97,Typical,Rarely,Matadors rarely wave capes to goad the bull into attacking .
+Frame97,Atypical,Often,Matadors often wave flags to goad the bull into attacking .
+Frame97,Atypical,Rarely,Matadors rarely wave flags to goad the bull into attacking .
+Frame98,Typical,Often,Eskimos often catch fish during the long arctic summer .
+Frame98,Typical,Rarely,Eskimos rarely catch fish during the long arctic summer .
+Frame98,Atypical,Often,Eskimos often catch malaria during the long arctic summer .
+Frame98,Atypical,Rarely,Eskimos rarely catch malaria during the long arctic summer .
+Frame99,Typical,Often,Astronomers often observe stars that have unusual properties .
+Frame99,Typical,Rarely,Astronomers rarely observe stars that have unusual properties .
+Frame99,Atypical,Often,Astronomers often observe insects that have unusual properties .
+Frame99,Atypical,Rarely,Astronomers rarely observe insects that have unusual properties .
+Frame100,Typical,Often,Pirates often ransom prisoners for gold or jewels .
+Frame100,Typical,Rarely,Pirates rarely ransom prisoners for gold or jewels .
+Frame100,Atypical,Often,Pirates often ransom husbands for gold or jewels .
+Frame100,Atypical,Rarely,Pirates rarely ransom husbands for gold or jewels .
+Frame101,Typical,Often,Employees often do work while they are at the office .
+Frame101,Typical,Rarely,Employees rarely do work while they are at the office .
+Frame101,Atypical,Often,Employees often do crosswords while they are at the office .
+Frame101,Atypical,Rarely,Employees rarely do crosswords while they are at the office .
+Frame102,Typical,Often,Hosts often invite guests to stay for dinner .
+Frame102,Typical,Rarely,Hosts rarely invite guests to stay for dinner .
+Frame102,Atypical,Often,Hosts often invite butlers to stay for dinner .
+Frame102,Atypical,Rarely,Hosts rarely invite butlers to stay for dinner .
+Frame103,Typical,Often,Surgeons often request specialists for particularly difficult operations .
+Frame103,Typical,Rarely,Surgeons rarely request specialists for particularly difficult operations .
+Frame103,Atypical,Often,Surgeons often request bodyguards for particularly difficult operations .
+Frame103,Atypical,Rarely,Surgeons rarely request bodyguards for particularly difficult operations .
+Frame104,Typical,Often,Chimps often peel bananas before they eat them .
+Frame104,Typical,Rarely,Chimps rarely peel bananas before they eat them .
+Frame104,Atypical,Often,Chimps often peel apples before they eat them .
+Frame104,Atypical,Rarely,Chimps rarely peel apples before they eat them .
+Frame105,Typical,Often,Mayors often see citizens on a regular basis .
+Frame105,Typical,Rarely,Mayors rarely see citizens on a regular basis .
+Frame105,Atypical,Often,Mayors often see ghosts on a regular basis .
+Frame105,Atypical,Rarely,Mayors rarely see ghosts on a regular basis .
+Frame106,Typical,Often,Dogs often gnaw bones to exercise their jaws .
+Frame106,Typical,Rarely,Dogs rarely gnaw bones to exercise their jaws .
+Frame106,Atypical,Often,Dogs often gnaw tires to exercise their jaws .
+Frame106,Atypical,Rarely,Dogs rarely gnaw tires to exercise their jaws .
+Frame107,Typical,Often,Sailors often abandon ships that are about to capsize .
+Frame107,Typical,Rarely,Sailors rarely abandon ships that are about to capsize .
+Frame107,Atypical,Often,Sailors often abandon rowboats that are about to capsize .
+Frame107,Atypical,Rarely,Sailors rarely abandon rowboats that are about to capsize .
+Frame108,Typical,Often,Spies often collect data from foreign countries .
+Frame108,Typical,Rarely,Spies rarely collect data from foreign countries .
+Frame108,Atypical,Often,Spies often collect sand from foreign countries .
+Frame108,Atypical,Rarely,Spies rarely collect sand from foreign countries .
+Frame109,Typical,Often,Songwriters often create music specifically for their own band .
+Frame109,Typical,Rarely,Songwriters rarely create music specifically for their own band .
+Frame109,Atypical,Often,Songwriters often create stages specifically for their own band .
+Frame109,Atypical,Rarely,Songwriters rarely create stages specifically for their own band .
+Frame110,Typical,Often,Snakes often devour eggs in one large bite .
+Frame110,Typical,Rarely,Snakes rarely devour eggs in one large bite .
+Frame110,Atypical,Often,Snakes often devour pigs in one large bite .
+Frame110,Atypical,Rarely,Snakes rarely devour pigs in one large bite .
+Frame111,Typical,Often,Detectives often notice clues all around the crime scene .
+Frame111,Typical,Rarely,Detectives rarely notice clues all around the crime scene .
+Frame111,Atypical,Often,Detectives often notice reporters all around the crime scene .
+Frame111,Atypical,Rarely,Detectives rarely notice reporters all around the crime scene .
+Frame112,Typical,Often,Families often schedule vacations during the summer months .
+Frame112,Typical,Rarely,Families rarely schedule vacations during the summer months .
+Frame112,Atypical,Often,Families often schedule discussions during the summer months .
+Frame112,Atypical,Rarely,Families rarely schedule discussions during the summer months .
+Frame113,Typical,Often,Therapists often make diagnoses based on years of experience .
+Frame113,Typical,Rarely,Therapists rarely make diagnoses based on years of experience .
+Frame113,Atypical,Often,Therapists often make deals based on years of experience .
+Frame113,Atypical,Rarely,Therapists rarely make deals based on years of experience .
+Frame114,Typical,Often,Lifeguards often protect swimmers at the beach .
+Frame114,Typical,Rarely,Lifeguards rarely protect swimmers at the beach .
+Frame114,Atypical,Often,Lifeguards often protect birds at the beach .
+Frame114,Atypical,Rarely,Lifeguards rarely protect birds at the beach .
+Frame115,Typical,Often,Dentists often pull teeth in their office .
+Frame115,Typical,Rarely,Dentists rarely pull teeth in their office .
+Frame115,Atypical,Often,Dentists often pull files in their office .
+Frame115,Atypical,Rarely,Dentists rarely pull files in their office .
+Frame116,Typical,Often,Salesmen often market products to prospective buyers .
+Frame116,Typical,Rarely,Salesmen rarely market products to prospective buyers .
+Frame116,Atypical,Often,Salesmen often market values to prospective buyers .
+Frame116,Atypical,Rarely,Salesmen rarely market values to prospective buyers .
+Frame117,Typical,Often,Aquariums often give sharks a lot of special attention .
+Frame117,Typical,Rarely,Aquariums rarely give sharks a lot of special attention .
+Frame117,Atypical,Often,Aquariums often give donors a lot of special attention .
+Frame117,Atypical,Rarely,Aquariums rarely give donors a lot of special attention .
+Frame118,Typical,Often,Burglars often have disguises when they are breaking into a house .
+Frame118,Typical,Rarely,Burglars rarely have disguises when they are breaking into a house .
+Frame118,Atypical,Often,Burglars often have hostages when they are breaking into a house .
+Frame118,Atypical,Rarely,Burglars rarely have hostages when they are breaking into a house .
+Frame119,Typical,Often,Tenants often rent apartments on a monthly basis .
+Frame119,Typical,Rarely,Tenants rarely rent apartments on a monthly basis .
+Frame119,Atypical,Often,Tenants often rent lawnmowers on a monthly basis .
+Frame119,Atypical,Rarely,Tenants rarely rent lawnmowers on a monthly basis .
+Frame120,Typical,Often,Custodians often scrub sinks before applying a disinfectant .
+Frame120,Typical,Rarely,Custodians rarely scrub sinks before applying a disinfectant .
+Frame120,Atypical,Often,Custodians often scrub trucks before applying a disinfectant .
+Frame120,Atypical,Rarely,Custodians rarely scrub trucks before applying a disinfectant .

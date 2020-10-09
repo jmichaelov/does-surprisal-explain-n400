@@ -1,0 +1,351 @@
+Context;Condition;Sentence
+SentenceFrame1;R;She put on her high heeled boots .
+SentenceFrame1;BC;She put on her high heeled shoes .
+SentenceFrame2;BC;The cub scouts needed a new den mother .
+SentenceFrame2;U;The cub scouts needed a new den chair .
+SentenceFrame3;U;During the volley someone stepped on Joe 's watch .
+SentenceFrame3;BC;During the volley someone stepped on Joe 's foot .
+SentenceFrame4;R;The pizza was too hot to chew .
+SentenceFrame4;BC;The pizza was too hot to eat .
+SentenceFrame5;U;The paint turned out to be the wrong consistency .
+SentenceFrame5;BC;The paint turned out to be the wrong color .
+SentenceFrame6;R;The wild birds at the zoo are kept in captivity .
+SentenceFrame6;BC;The wild birds at the zoo are kept in cages .
+SentenceFrame7;R;The ship disappeared into the thick mist .
+SentenceFrame7;BC;The ship disappeared into the thick fog .
+SentenceFrame8;R;Nothing can beat a bowl of hot broth .
+SentenceFrame8;BC;Nothing can beat a bowl of hot soup .
+SentenceFrame9;U;All the guests had a very good excuse .
+SentenceFrame9;BC;All the guests had a very good time .
+SentenceFrame10;R;The dirty clothes were piled up in the laundry hamper .
+SentenceFrame10;BC;The dirty clothes were piled up in the laundry basket .
+SentenceFrame11;U;It 's hard to admit when one is asleep .
+SentenceFrame11;BC;It 's hard to admit when one is wrong .
+SentenceFrame12;R;The mail should get here very shortly .
+SentenceFrame12;BC;The mail should get here very soon .
+SentenceFrame13;U;She 's afraid of deep water because she can 't see .
+SentenceFrame13;BC;She 's afraid of deep water because she can 't swim .
+SentenceFrame14;U;One of the scouts did not know the way and got hurt .
+SentenceFrame14;BC;One of the scouts did not know the way and got lost .
+SentenceFrame15;R;The mother fed the newborn infant .
+SentenceFrame15;BC;The mother fed the newborn baby .
+SentenceFrame16;U;At first the woman refused but she changed her clothes .
+SentenceFrame16;BC;At first the woman refused but she changed her mind .
+SentenceFrame17;U;She was docked one hour 's pay for coming to work drunk .
+SentenceFrame17;BC;She was docked one hour 's pay for coming to work late .
+SentenceFrame18;R;They heated the pool with solar power .
+SentenceFrame18;BC;They heated the pool with solar energy .
+SentenceFrame19;U;The baby weighed six pounds at noon .
+SentenceFrame19;BC;The baby weighed six pounds at birth .
+SentenceFrame20;U;I added my name to the top of the wall.
+SentenceFrame20;BC;I added my name to the top of the list.
+SentenceFrame21;U;The fertilizer enriched the stink .
+SentenceFrame21;BC;The fertilizer enriched the soil .
+SentenceFrame22;U;Our guests should be arriving hungry .
+SentenceFrame22;BC;Our guests should be arriving soon .
+SentenceFrame23;R;The clerk put the groceries in the shopping carts .
+SentenceFrame23;BC;The clerk put the groceries in the shopping bags .
+SentenceFrame24;U;The children went outside to shower .
+SentenceFrame24;BC;The children went outside to play .
+SentenceFrame25;R;The game was called when it started to lightning .
+SentenceFrame25;BC;The game was called when it started to rain .
+SentenceFrame26;U;The prisoners were planning their picnic .
+SentenceFrame26;BC;The prisoners were planning their escape .
+SentenceFrame27;U;The rude waiter was not left a big clientele .
+SentenceFrame27;BC;The rude waiter was not left a big tip .
+SentenceFrame28;R;The office held a new year 's eve bash .
+SentenceFrame28;BC;The office held a new year 's eve party .
+SentenceFrame29;R;He wondered if the storm had done much harm .
+SentenceFrame29;BC;He wondered if the storm had done much damage .
+SentenceFrame30;R;Next year my little son will be going to college .
+SentenceFrame30;BC;Next year my little son will be going to school .
+SentenceFrame31;U;They went as far as they dared .
+SentenceFrame31;BC;They went as far as they could .
+SentenceFrame32;U;Mary looked at her watch to check the band .
+SentenceFrame32;BC;Mary looked at her watch to check the time .
+SentenceFrame33;R;He scraped the cold food from the dinner platter .
+SentenceFrame33;BC;He scraped the cold food from the dinner plate .
+SentenceFrame34;R;Larry made a full pot of tea .
+SentenceFrame34;BC;Larry made a full pot of coffee .
+SentenceFrame35;U;George had been fired but he couldn‘t tell his staff .
+SentenceFrame35;BC;George had been fired but he couldn‘t tell his wife .
+SentenceFrame36;U;The mole lived in a hole in the pipe .
+SentenceFrame36;BC;The mole lived in a hole in the ground .
+SentenceFrame37;R;Al wrote her a love note .
+SentenceFrame37;BC;Al wrote her a love letter .
+SentenceFrame38;U;The bad boy was sent to his counselor .
+SentenceFrame38;BC;The bad boy was sent to his room .
+SentenceFrame39;U;When the shooting started they ran for help .
+SentenceFrame39;BC;When the shooting started they ran for cover .
+SentenceFrame40;U;The barbells the strong man lifted were very rusty .
+SentenceFrame40;BC;The barbells the strong man lifted were very heavy .
+SentenceFrame41;R;He studied a long time so he would pass his tests.
+SentenceFrame41;BC;He studied a long time so he would pass his exams .
+SentenceFrame42;R;The parking lot was full of expensive foreign autos .
+SentenceFrame42;BC;The parking lot was full of expensive foreign cars .
+SentenceFrame43;R;They sat together without speaking a single syllable.
+SentenceFrame43;BC;They sat together without speaking a single word .
+SentenceFrame44;R;He went to the factory where the toys were designed .
+SentenceFrame44;BC;He went to the factory where the toys were made .
+SentenceFrame45;U;His boss refused to give him a car .
+SentenceFrame45;BC;His boss refused to give him a raise .
+SentenceFrame46;U;The doctor told him he had high blood sugar (pressure).
+SentenceFrame46;BC;The doctor told him he had high blood sugar (pressure).
+SentenceFrame47;R;They raised pigs on their ranch.
+SentenceFrame47;BC;They raised pigs on their farm .
+SentenceFrame48;R;In the first space enter your last address.
+SentenceFrame48;BC;In the first space enter your last name .
+SentenceFrame49;U;Dillinger once robbed that train .
+SentenceFrame49;BC;Dillinger once robbed that bank .
+SentenceFrame50;U;He looked up the misspelled word in the index .
+SentenceFrame50;BC;He looked up the misspelled word in the dictionary .
+SentenceFrame51;R;The better students thought the test was too simple .
+SentenceFrame51;BC;The better students thought the test was too easy .
+SentenceFrame52;U;She called her husband at his convenience .
+SentenceFrame52;BC;She called her husband at his office .
+SentenceFrame53;U;On hot days many people sun themselves on the roof .
+SentenceFrame53;BC;On hot days many people sun themselves on the beach .
+SentenceFrame54;U;John was so exhausted he took a vacation to get some help .
+SentenceFrame54;BC;John was so exhausted he took a vacation to get some rest .
+SentenceFrame55;R;William went to the bank to borrow some cash .
+SentenceFrame55;BC;William went to the bank to borrow some money .
+SentenceFrame56;U;He made a holster for his father .
+SentenceFrame56;BC;He made a holster for his gun .
+SentenceFrame57;U;The milk was left out of the refrigerator and turned yellow.
+SentenceFrame57;BC;The milk was left out of the refrigerator and turned bad.
+SentenceFrame58;R;The sink was clogged so they called a handyman .
+SentenceFrame58;BC;The sink was clogged so they called a plumber .
+SentenceFrame59;U;Fred put the worm on the table .
+SentenceFrame59;BC;Fred put the worm on the hook .
+SentenceFrame60;U;Jason called directory assistance for the telephone repairman .
+SentenceFrame60;BC;Jason called directory assistance for the telephone number .
+SentenceFrame61;R;His wealthy parents enrolled him in a private academy .
+SentenceFrame61;BC;His wealthy parents enrolled him in a private school .
+SentenceFrame62;R;The movers put the sofa on the bare ground .
+SentenceFrame62;BC;The movers put the sofa on the bare floor .
+SentenceFrame63;R;The theatre ushers walked up and down the rows .
+SentenceFrame63;BC;The theatre ushers walked up and down the aisles .
+SentenceFrame64;U;It 's raining and I forgot my coat , hat and keys .
+SentenceFrame64;BC;It 's raining and I forgot my coat , hat and umbrella .
+SentenceFrame65;U;The whole town came to hear the mayor resign .
+SentenceFrame65;BC;The whole town came to hear the mayor speak .
+SentenceFrame66;U;They left the dirty dishes in the bedroom .
+SentenceFrame66;BC;They left the dirty dishes in the sink .
+SentenceFrame67;R;He had to wake up early to get there on schedule .
+SentenceFrame67;BC;He had to wake up early to get there on time .
+SentenceFrame68;R;They ate ice cream and cake at his birthday celebration .
+SentenceFrame68;BC;They ate ice cream and cake at his birthday party .
+SentenceFrame69;U;I could not remember his last name .
+SentenceFrame69;BC;I could not remember his last mistake .
+SentenceFrame70;U;Shuffle the cards before you leave .
+SentenceFrame70;BC;Shuffle the cards before you deal .
+SentenceFrame71;R;Each night the campers built a huge blaze .
+SentenceFrame71;BC;Each night the campers built a huge fire .
+SentenceFrame72;R;Tim put his feet up on his father 's oak chair .
+SentenceFrame72;BC;Tim put his feet up on his father 's oak desk .
+SentenceFrame73;R;Jean was glad the affair was finished .
+SentenceFrame73;BC;Jean was glad the affair was over .
+SentenceFrame74;R;The tenants were evicted when they did not pay the last month 's bill .
+SentenceFrame74;BC;The tenants were evicted when they did not pay the last month 's rent .
+SentenceFrame75;R;The wet towels were hung on the line to air .
+SentenceFrame75;BC;The wet towels were hung on the line to dry .
+SentenceFrame76;U;He took the money from his leather vest .
+SentenceFrame76;BC;He took the money from his leather wallet .
+SentenceFrame77;U;The tickets for the opening concert were sold privately .
+SentenceFrame77;BC;The tickets for the opening concert were sold out .
+SentenceFrame78;R;The soldier complained that his portion was too little .
+SentenceFrame78;BC;The soldier complained that his portion was too small .
+SentenceFrame79;R;The movie was so crowded they could not find a single chair .
+SentenceFrame79;BC;The movie was so crowded they could not find a single seat .
+SentenceFrame80;U;Betsy could never tell a soul .
+SentenceFrame80;BC;Betsy could never tell a lie .
+SentenceFrame81;R;Fred realized the old house was up for auction .
+SentenceFrame81;BC;Fred realized the old house was up for sale .
+SentenceFrame82;R;Cathy was glad that Friday was payday because she was poor .
+SentenceFrame82;BC;Cathy was glad that Friday was payday because she was broke .
+SentenceFrame83;R;George made out a check to pay the monthly telephone fee .
+SentenceFrame83;BC;George made out a check to pay the monthly telephone bill .
+SentenceFrame84;R;The important papers were locked in a vault .
+SentenceFrame84;BC;The important papers were locked in a safe .
+SentenceFrame85;U;The boys played marbles and the girls jumped happily.
+SentenceFrame85;BC;The boys played marbles and the girls jumped rope .
+SentenceFrame86;R;The businessman took the receipts and checks to the teller .
+SentenceFrame86;BC;The businessman took the receipts and checks to the bank .
+SentenceFrame87;R;While skiing Randy broke his arm .
+SentenceFrame87;BC;While skiing Randy broke his leg .
+SentenceFrame88;U;The addict was caught pushing illegal movies .
+SentenceFrame88;BC;The addict was caught pushing illegal drugs .
+SentenceFrame89;R;As won as they got in they turned off the porch lamp .
+SentenceFrame89;BC;As won as they got in they turned off the porch lights .
+SentenceFrame90;U;George kept his pet on a diet .
+SentenceFrame90;BC;George kept his pet on a leash .
+SentenceFrame91;R;Jon swept the floor with a mop .
+SentenceFrame91;BC;Jon swept the floor with a broom .
+SentenceFrame92;U;He mailed the letter without a thought .
+SentenceFrame92;BC;He mailed the letter without a stamp .
+SentenceFrame93;U;Jeff felt sorry but it was not his turn .
+SentenceFrame93;BC;Jeff felt sorry but it was not his fault .
+SentenceFrame94;R;Through the rain it was hard to read the signals .
+SentenceFrame94;BC;Through the rain it was hard to read the signs .
+SentenceFrame95;R;The girl knew most of the words for her spelling quiz .
+SentenceFrame95;BC;The girl knew most of the words for her spelling test .
+SentenceFrame96;U;They asked Dave to play tennis but he was too good .
+SentenceFrame96;BC;They asked Dave to play tennis but he was too tired .
+SentenceFrame97;U;When you leave please close the paper .
+SentenceFrame97;BC;When you leave please close the door .
+SentenceFrame98;U;Karen awoke after a bad hangover .
+SentenceFrame98;BC;Karen awoke after a bad dream.
+SentenceFrame99;U;The sun turned his hair blond .
+SentenceFrame99;BC;The sun turned his hair dry .
+SentenceFrame100;U;He shouted at the top of his stairs .
+SentenceFrame100;BC;He shouted at the top of his lungs .
+SentenceFrame101;U;The tenants decided to take their landlord to lunch .
+SentenceFrame101;BC;The tenants decided to take their landlord to court .
+SentenceFrame102;R;They 're out in the garden pulling roots .
+SentenceFrame102;BC;They 're out in the garden pulling weeds .
+SentenceFrame103;R;They went to pick up their parents at the railway depot .
+SentenceFrame103;BC;They went to pick up their parents at the railway station .
+SentenceFrame104;R;She sewed the button on with needle and black string .
+SentenceFrame104;BC;She sewed the button on with needle and black thread .
+SentenceFrame105;R;We stopped at the water fountain to get a sip .
+SentenceFrame105;BC;We stopped at the water fountain to get a drink .
+SentenceFrame106;R;He was stung by a wasp .
+SentenceFrame106;BC;He was stung by a bee .
+SentenceFrame107;R;He heard a knock at the front entrance .
+SentenceFrame107;BC;He heard a knock at the front door .
+SentenceFrame108;U;Joan boiled the eggs in minutes .
+SentenceFrame108;BC;Joan boiled the eggs in water .
+SentenceFrame109;R;The attendant filled the car with fuel .
+SentenceFrame109;BC;The attendant filled the car with gas .
+SentenceFrame110;R;The driver of the speeding car was given a citation .
+SentenceFrame110;BC;The driver of the speeding car was given a ticket .
+SentenceFrame111;R;Three people were killed in a major highway crash .
+SentenceFrame111;BC;Three people were killed in a major highway accident .
+SentenceFrame112;U;A dog has a good sense of loyalty .
+SentenceFrame112;BC;A dog has a good sense of smell .
+SentenceFrame113;R;In the old West stagecoaches were pulled by stallions .
+SentenceFrame113;BC;In the old West stagecoaches were pulled by horses .
+SentenceFrame114;U;She went to the salon to color her toes .
+SentenceFrame114;BC;She went to the salon to color her hair .
+SentenceFrame115;U;Brian poured some sauce on his rare meat .
+SentenceFrame115;BC;Brian poured some sauce on his rare steak .
+SentenceFrame116;U;She was named after her conversion .
+SentenceFrame116;BC;She was named after her mother .
+SentenceFrame117;R;Every Sunday morning people pray in their local congregation .
+SentenceFrame117;BC;Every Sunday morning people pray in their local church .
+SentenceFrame118;U;Sam could not believe her story was true .
+SentenceFrame118;BC;Sam could not believe her story was told .
+SentenceFrame119;R;Tim threw a rock and broke the glass .
+SentenceFrame119;BC;Tim threw a rock and broke the window .
+SentenceFrame120;R;The doctor set the man 's broken leg in a splint .
+SentenceFrame120;BC;The doctor set the man 's broken leg in a cast .
+SentenceFrame121;U;We sprayed the yard to keep away the skunks .
+SentenceFrame121;BC;We sprayed the yard to keep away the bugs .
+SentenceFrame122;U;He hung her coat in the back .
+SentenceFrame122;BC;He hung her coat in the closet .
+SentenceFrame123;U;The lawyer feared that his client would be found crazy .
+SentenceFrame123;BC;The lawyer feared that his client would be found guilty .
+SentenceFrame124;R;New York is a very busy town .
+SentenceFrame124;BC;New York is a very busy city .
+SentenceFrame125;U;He bought a wall to wall bed .
+SentenceFrame125;BC;He bought a wall to wall carpet .
+SentenceFrame126;R;The gas station is about two miles down the path .
+SentenceFrame126;BC;The gas station is about two miles down the road .
+SentenceFrame127;U;Be careful because the top of the stove is very cluttered .
+SentenceFrame127;BC;Be careful because the top of the stove is very hot .
+SentenceFrame128;U;John filled the pen with care .
+SentenceFrame128;BC;John filled the pen with ink .
+SentenceFrame129;R;The children held hands and formed a ring .
+SentenceFrame129;BC;The children held hands and formed a circle .
+SentenceFrame130;R;The fire engine raced down the main street . 
+SentenceFrame130;BC;The fire engine raced down the main road .
+SentenceFrame131;U;Don 't believe everything you suspect .
+SentenceFrame131;BC;Don 't believe everything you hear .
+SentenceFrame132;U;None of his books made much sense .
+SentenceFrame132;BC;None of his books made much money.
+SentenceFrame133;U;He put a clean sheet on the clipboard .
+SentenceFrame133;BC;He put a clean sheet on the bed .
+SentenceFrame134;U;The parents pleaded with their daughter to come quietly .
+SentenceFrame134;BC;The parents pleaded with their daughter to come home .
+SentenceFrame135;U;When the two met one of them held out his ID .
+SentenceFrame135;BC;When the two met one of them held out his hand .
+SentenceFrame136;U;The boat passed easily under the falls .
+SentenceFrame136;BC;The boat passed easily under the bridge .
+SentenceFrame137;R;The picnic was ruined by the downpour of showers .
+SentenceFrame137;BC;The picnic was ruined by the downpour of rain .
+SentenceFrame138;U;Most cats can see very well at distances .
+SentenceFrame138;BC;Most cats can see very well at night .
+SentenceFrame139;R;Captain Sheir wanted to stay with the sinking boat .
+SentenceFrame139;BC;Captain Sheir wanted to stay with the sinking ship .
+SentenceFrame140;U;The janitor washed the dirty ashtrays .
+SentenceFrame140;BC;The janitor washed the dirty floors.
+SentenceFrame141;U;Betsy could not read very well without her dictionary .
+SentenceFrame141;BC;Betsy could not read very well without her glasses .
+SentenceFrame142;U;He was knocked off his surfboard by the first bully .
+SentenceFrame142;BC;He was knocked off his surfboard by the first wave .
+SentenceFrame143;U;Bob proposed but she turned him in .
+SentenceFrame143;BC;Bob proposed but she turned him down .
+SentenceFrame144;R;The movie ended so sadly that Julie started to sob .
+SentenceFrame144;BC;The movie ended so sadly that Julie started to .
+SentenceFrame145;U;I returned the overdue book to the bag .
+SentenceFrame145;BC;I returned the overdue book to the library .
+SentenceFrame146;U;Her new shoes were the wrong color .
+SentenceFrame146;BC;Her new shoes were the wrong size .
+SentenceFrame147;R;Dick wrote a chapter in the novel .
+SentenceFrame147;BC;Dick wrote a chapter in the book .
+SentenceFrame148;R;She tied up her hair in a yellow bow .
+SentenceFrame148;BC;She tied up her hair in a yellow ribbon .
+SentenceFrame149;R;Sharon dried the dishes with a kitchen rag .
+SentenceFrame149;BC;Sharon dried the dishes with a kitchen towel .
+SentenceFrame150;U;While the national anthem plays everyone is expected to behave .
+SentenceFrame150;BC;While the national anthem plays everyone is expected to stand .
+SentenceFrame151;R;He bought the chocolates at the candy shop .
+SentenceFrame151;BC;He bought the chocolates at the candy store .
+SentenceFrame152;R;After the accident they went for aid .
+SentenceFrame152;BC;After the accident they went for help .
+SentenceFrame153;U;After dinner they washed the dog .
+SentenceFrame153;BC;After dinner they washed the dishes .
+SentenceFrame154;R;Jill decided to put vanilla icing on the chocolate cookie .
+SentenceFrame154;BC;Jill decided to put vanilla icing on the chocolate cake .
+SentenceFrame155;R;His kite got tangled in the oak branches .
+SentenceFrame155;BC;His kite got tangled in the oak tree .
+SentenceFrame156;R;The store detective accused him of theft .
+SentenceFrame156;BC;The store detective accused him of shoplifting .
+SentenceFrame157;U;The prisoner was sent back to his duties .
+SentenceFrame157;BC;The prisoner was sent back to his cell .
+SentenceFrame158;R;After being robbed the victim called the cops .
+SentenceFrame158;BC;After being robbed the victim called the police .
+SentenceFrame159;U;It was important to be on top .
+SentenceFrame159;BC;It was important to be on time .
+SentenceFrame160;U;Because he had a toothache he called his boss .
+SentenceFrame160;BC;Because he had a toothache he called his dentist .
+SentenceFrame161;U;Pam didn 't have any clothes to donate .
+SentenceFrame161;BC;Pam didn 't have any clothes to wear .
+SentenceFrame162;R;He Likes lemon and sugar in his coffee .
+SentenceFrame162;BC;He Likes lemon and sugar in his tea .
+SentenceFrame163;R;She made a salami sandwich on wheat rolls .
+SentenceFrame163;BC;She made a salami sandwich on wheat bread .
+SentenceFrame164;U;They drove to a private airport to catch the thieves .
+SentenceFrame164;BC;They drove to a private airport to catch the plane .
+SentenceFrame165;R;The kids fed the ducks some stale crumbs .
+SentenceFrame165;BC;The kids fed the ducks some stale bread .
+SentenceFrame166;U;Don 't touch the wet dog .
+SentenceFrame166;BC;Don 't touch the wet paint .
+SentenceFrame167;U;The child was born with a rare gift .
+SentenceFrame167;BC;The child was born with a rare disease .
+SentenceFrame168;R;Yesterday they canoed down the rapids .
+SentenceFrame168;BC;Yesterday they canoed down the river .
+SentenceFrame169;U;Smoking may be hazardous to your neighbors .
+SentenceFrame169;BC;Smoking may be hazardous to your health .
+SentenceFrame170;U;They saw the lightning and heard the screams .
+SentenceFrame170;BC;They saw the lightning and heard the thunder .
+SentenceFrame171;U;It felt much colder when the sun was behind a tree .
+SentenceFrame171;BC;It felt much colder when the sun was behind a cloud .
+SentenceFrame172;U;The squirrel stored some nuts in the hole .
+SentenceFrame172;BC;The squirrel stored some nuts in the tree .
+SentenceFrame173;R;Burt used a match to light the dying flame .
+SentenceFrame173;BC;Burt used a match to light the dying fire .
+SentenceFrame174;U;The car pulled up and took the last parking meter .
+SentenceFrame174;BC;The car pulled up and took the last parking space .
+SentenceFrame175;R;The society 's annual dues were fifty bucks .
+SentenceFrame175;BC;The society 's annual dues were fifty dollars .

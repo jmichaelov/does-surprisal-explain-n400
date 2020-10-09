@@ -1,0 +1,351 @@
+Sentence;TargetWord;Probability;Surprisal
+She put on her high heeled boots .;boots;0.1911526;2.3872032165527344
+She put on her high heeled shoes .;shoes;0.5218543;0.9382810592651367
+The cub scouts needed a new den mother .;mother;1.0342094e-05;16.561111450195312
+The cub scouts needed a new den chair .;chair;9.88818e-05;13.303935050964355
+During the volley someone stepped on Joe 's watch .;watch;0.00016664217;12.550958633422852
+During the volley someone stepped on Joe 's foot .;foot;0.073727146;3.76166033744812
+The pizza was too hot to chew .;chew;0.0009348517;10.06297492980957
+The pizza was too hot to eat .;eat;0.088119775;3.5043904781341553
+The paint turned out to be the wrong consistency .;consistency;0.00039659665;11.300040245056152
+The paint turned out to be the wrong color .;color;0.29766062;1.7482597827911377
+The wild birds at the zoo are kept in captivity .;captivity;0.03484148;4.843050003051758
+The wild birds at the zoo are kept in cages .;cages;0.23638155;2.080810785293579
+The ship disappeared into the thick mist .;mist;0.0019014739;9.038665771484375
+The ship disappeared into the thick fog .;fog;0.4040393;1.3074325323104858
+Nothing can beat a bowl of hot broth .;broth;0.00081454724;10.261713981628418
+Nothing can beat a bowl of hot soup .;soup;0.022284629;5.487807273864746
+All the guests had a very good excuse .;excuse;0.016959684;5.881746768951416
+All the guests had a very good time .;time;0.34424454;1.538494348526001
+The dirty clothes were piled up in the laundry hamper .;hamper;0.0012302161;9.666872024536133
+The dirty clothes were piled up in the laundry basket .;basket;0.011385591;6.456646919250488
+It 's hard to admit when one is asleep .;asleep;0.000109260014;13.15994644165039
+It 's hard to admit when one is wrong .;wrong;0.004482667;7.801426887512207
+The mail should get here very shortly .;shortly;0.023349848;5.420443058013916
+The mail should get here very soon .;soon;0.5355255;0.900972843170166
+She 's afraid of deep water because she can 't see .;see;0.06672278;3.90567684173584
+She 's afraid of deep water because she can 't swim .;swim;0.2519999;1.9885048866271973
+One of the scouts did not know the way and got hurt .;hurt;0.0017608448;9.149516105651855
+One of the scouts did not know the way and got lost .;lost;0.014990466;6.059811115264893
+The mother fed the newborn infant .;infant;0.008747903;6.836847305297852
+The mother fed the newborn baby .;baby;0.062005457;4.011460781097412
+At first the woman refused but she changed her clothes .;clothes;0.00020923321;12.222600936889648
+At first the woman refused but she changed her mind .;mind;0.88850456;0.17054890096187592
+She was docked one hour 's pay for coming to work drunk .;drunk;0.00029084046;11.74748420715332
+She was docked one hour 's pay for coming to work late .;late;0.08445239;3.565717935562134
+They heated the pool with solar power .;power;0.036518324;4.775235652923584
+They heated the pool with solar energy .;energy;0.064189404;3.9615209102630615
+The baby weighed six pounds at noon .;noon;1.320457e-05;16.208602905273438
+The baby weighed six pounds at birth .;birth;0.9603357;0.0583893284201622
+I added my name to the top of the wall.;the;0.542319;0.8827863931655884
+I added my name to the top of the list.;the;0.542319;0.8827863931655884
+The fertilizer enriched the stink .;stink;6.0088687e-06;17.34447479248047
+The fertilizer enriched the soil .;soil;0.047270156;4.402926445007324
+Our guests should be arriving hungry .;hungry;0.00011801475;13.048745155334473
+Our guests should be arriving soon .;soon;0.03162974;4.982574462890625
+The clerk put the groceries in the shopping carts .;carts;0.013507145;6.2101335525512695
+The clerk put the groceries in the shopping bags .;bags;0.006177526;7.338755130767822
+The children went outside to shower .;shower;0.0014020513;9.47824478149414
+The children went outside to play .;play;0.14326662;2.803225517272949
+The game was called when it started to lightning .;lightning;4.9653395e-06;17.61967658996582
+The game was called when it started to rain .;rain;0.7787681;0.3607342541217804
+The prisoners were planning their picnic .;picnic;0.00015862432;12.622097969055176
+The prisoners were planning their escape .;escape;0.24590029;2.0238547325134277
+The rude waiter was not left a big clientele .;clientele;5.106447e-07;20.90117645263672
+The rude waiter was not left a big tip .;tip;0.004411771;7.824426174163818
+The office held a new year 's eve bash .;bash;0.0018204459;9.101492881774902
+The office held a new year 's eve party .;party;0.076892816;3.70100736618042
+He wondered if the storm had done much harm .;harm;0.07539885;3.729313611984253
+He wondered if the storm had done much damage .;damage;0.6078808;0.7181397080421448
+Next year my little son will be going to college .;college;0.13537434;2.8849737644195557
+Next year my little son will be going to school .;school;0.26055196;1.940356969833374
+They went as far as they dared .;dared;0.00038615102;11.338546752929688
+They went as far as they could .;could;0.8050547;0.3128412365913391
+Mary looked at her watch to check the band .;band;0.00012419952;12.975052833557129
+Mary looked at her watch to check the time .;time;0.0032181235;8.27956485748291
+He scraped the cold food from the dinner platter .;platter;0.0006346987;10.6216402053833
+He scraped the cold food from the dinner plate .;plate;0.082059786;3.6071808338165283
+Larry made a full pot of tea .;tea;0.16137096;2.631546974182129
+Larry made a full pot of coffee .;coffee;0.038521938;4.69817590713501
+George had been fired but he couldn 't tell his staff .;staff;0.0021983276;8.829378128051758
+George had been fired but he couldn 't tell his wife .;wife;0.108575396;3.203230857849121
+The mole lived in a hole in the pipe .;pipe;0.0002550122;11.937146186828613
+The mole lived in a hole in the ground .;ground;0.3826207;1.386013150215149
+Al wrote her a love note .;note;0.079892196;3.645801544189453
+Al wrote her a love letter .;letter;0.6080513;0.7177350521087646
+The bad boy was sent to his counselor .;counselor;5.3928625e-06;17.500516891479492
+The bad boy was sent to his room .;room;0.028956186;5.109984397888184
+When the shooting started they ran for help .;help;0.0120964665;6.369270324707031
+When the shooting started they ran for cover .;cover;0.652693;0.6155235767364502
+The barbells the strong man lifted were very rusty .;rusty;0.0012588527;9.633674621582031
+The barbells the strong man lifted were very heavy .;heavy;0.021862004;5.515430450439453
+He studied a long time so he would pass his tests.;his;0.02892105;5.111736297607422
+He studied a long time so he would pass his exams .;exams;0.11641176;3.102691173553467
+The parking lot was full of expensive foreign autos .;autos;0.0024543619;8.670435905456543
+The parking lot was full of expensive foreign cars .;cars;0.39466918;1.3412842750549316
+They sat together without speaking a single syllable.;single;0.0077854833;7.004997730255127
+They sat together without speaking a single word .;word;0.9628691;0.054588403552770615
+He went to the factory where the toys were designed .;designed;0.00080983364;10.270087242126465
+He went to the factory where the toys were made .;made;0.6585544;0.6026255488395691
+His boss refused to give him a car .;car;0.0021324235;8.873290061950684
+His boss refused to give him a raise .;raise;0.0052209185;7.581480503082275
+The doctor told him he had high blood sugar (pressure).;sugar;0.012917785;6.2744975090026855
+The doctor told him he had high blood sugar (pressure).;sugar;0.012917785;6.2744975090026855
+They raised pigs on their ranch.;their;0.054944154;4.185890197753906
+They raised pigs on their farm .;farm;0.18702084;2.418729066848755
+In the first space enter your last address.;last;0.00020498254;12.252211570739746
+In the first space enter your last name .;name;0.18667859;2.4213716983795166
+Dillinger once robbed that train .;train;0.0006596174;10.566082954406738
+Dillinger once robbed that bank .;bank;0.2932974;1.7695637941360474
+He looked up the misspelled word in the index .;index;0.0005317152;10.877058982849121
+He looked up the misspelled word in the dictionary .;dictionary;0.023089886;5.4365949630737305
+The better students thought the test was too simple .;simple;0.016355647;5.934067249298096
+The better students thought the test was too easy .;easy;0.023772603;5.394556522369385
+She called her husband at his convenience .;convenience;0.00028475752;11.777978897094727
+She called her husband at his office .;office;0.08462003;3.562856912612915
+On hot days many people sun themselves on the roof .;roof;0.064915694;3.945288896560669
+On hot days many people sun themselves on the beach .;beach;0.12435194;3.0074989795684814
+John was so exhausted he took a vacation to get some help .;help;0.018628446;5.746348857879639
+John was so exhausted he took a vacation to get some rest .;rest;0.19133247;2.3858463764190674
+William went to the bank to borrow some cash .;cash;0.07996363;3.644512176513672
+William went to the bank to borrow some money .;money;0.4844347;1.045625925064087
+He made a holster for his father .;father;0.0063751624;7.2933220863342285
+He made a holster for his gun .;gun;0.0883185;3.501140594482422
+The milk was left out of the refrigerator and turned yellow.;turned;0.006280011;7.315017223358154
+The milk was left out of the refrigerator and turned bad.;turned;0.006280011;7.315017223358154
+The sink was clogged so they called a handyman .;handyman;9.068907e-05;13.428711891174316
+The sink was clogged so they called a plumber .;plumber;0.027318092;5.193999290466309
+Fred put the worm on the table .;table;0.016495915;5.921747207641602
+Fred put the worm on the hook .;hook;0.011363411;6.459460258483887
+Jason called directory assistance for the telephone repairman .;repairman;8.96306e-06;16.767576217651367
+Jason called directory assistance for the telephone number .;number;0.32483009;1.62224280834198
+His wealthy parents enrolled him in a private academy .;academy;0.004968556;7.652957439422607
+His wealthy parents enrolled him in a private school .;school;0.80802447;0.30752912163734436
+The movers put the sofa on the bare ground .;ground;0.014481253;6.1096696853637695
+The movers put the sofa on the bare floor .;floor;0.43034047;1.2164496183395386
+The theatre ushers walked up and down the rows .;rows;0.0013125854;9.573372840881348
+The theatre ushers walked up and down the aisles .;aisles;0.094866134;3.397963047027588
+It 's raining and I forgot my coat , hat and keys .;keys;0.0006783389;10.52570629119873
+It 's raining and I forgot my coat , hat and umbrella .;umbrella;0.0036675306;8.090974807739258
+The whole town came to hear the mayor resign .;resign;0.00031276236;11.642645835876465
+The whole town came to hear the mayor speak .;speak;0.09565254;3.3860528469085693
+They left the dirty dishes in the bedroom .;bedroom;0.0011277763;9.792303085327148
+They left the dirty dishes in the sink .;sink;0.08012759;3.641557216644287
+He had to wake up early to get there on schedule .;schedule;0.03354423;4.897791385650635
+He had to wake up early to get there on time .;time;0.51152676;0.9671183824539185
+They ate ice cream and cake at his birthday celebration .;celebration;0.028626662;5.1264967918396
+They ate ice cream and cake at his birthday party .;party;0.7237989;0.46633923053741455
+I could not remember his last name .;name;0.7239518;0.4660344123840332
+I could not remember his last mistake .;mistake;0.0002411677;12.017675399780273
+Shuffle the cards before you leave .;leave;0.027545389;5.1820454597473145
+Shuffle the cards before you deal .;deal;0.00087423844;10.159685134887695
+Each night the campers built a huge blaze .;blaze;8.1486825e-05;13.583073616027832
+Each night the campers built a huge fire .;fire;0.0028918574;8.433788299560547
+Tim put his feet up on his father 's oak chair .;chair;0.01875389;5.736666202545166
+Tim put his feet up on his father 's oak desk .;desk;0.0078003276;7.002249717712402
+Jean was glad the affair was finished .;finished;0.0032387224;8.27035903930664
+Jean was glad the affair was over .;over;0.74477875;0.4251161813735962
+The tenants were evicted when they did not pay the last month 's bill .;bill;0.0014214588;9.458412170410156
+The tenants were evicted when they did not pay the last month 's rent .;rent;0.96249676;0.055146414786577225
+The wet towels were hung on the line to air .;air;4.88852e-05;14.320242881774902
+The wet towels were hung on the line to dry .;dry;0.023499563;5.411222457885742
+He took the money from his leather vest .;vest;0.00058767723;10.732687950134277
+He took the money from his leather wallet .;wallet;0.13256578;2.915219783782959
+The tickets for the opening concert were sold privately .;privately;0.00017799983;12.455836296081543
+The tickets for the opening concert were sold out .;out;0.8690438;0.2024991661310196
+The soldier complained that his portion was too little .;little;0.003407713;8.196980476379395
+The soldier complained that his portion was too small .;small;0.36883184;1.43896484375
+The movie was so crowded they could not find a single chair .;chair;0.00020019594;12.286299705505371
+The movie was so crowded they could not find a single seat .;seat;0.0051028086;7.614492893218994
+Betsy could never tell a soul .;soul;0.0023232223;8.749656677246094
+Betsy could never tell a lie .;lie;0.29923028;1.740671992301941
+Fred realized the old house was up for auction .;auction;0.07132848;3.809377908706665
+Fred realized the old house was up for sale .;sale;0.7704938;0.37614473700523376
+Cathy was glad that Friday was payday because she was poor .;poor;0.00015866343;12.621742248535156
+Cathy was glad that Friday was payday because she was broke .;broke;0.00015622517;12.644085884094238
+George made out a check to pay the monthly telephone fee .;fee;0.0012791677;9.610578536987305
+George made out a check to pay the monthly telephone bill .;bill;0.8725276;0.19672733545303345
+The important papers were locked in a vault .;vault;0.17472504;2.5168416500091553
+The important papers were locked in a safe .;safe;0.09592622;3.3819310665130615
+The boys played marbles and the girls jumped happily.;jumped;0.001662432;9.232488632202148
+The boys played marbles and the girls jumped rope .;rope;0.011601227;6.42957878112793
+The businessman took the receipts and checks to the teller .;teller;5.7587695e-05;14.083879470825195
+The businessman took the receipts and checks to the bank .;bank;0.050523795;4.306893348693848
+While skiing Randy broke his arm .;arm;0.024056578;5.377424716949463
+While skiing Randy broke his leg .;leg;0.06923872;3.8522770404815674
+The addict was caught pushing illegal movies .;movies;3.582349e-05;14.7687349319458
+The addict was caught pushing illegal drugs .;drugs;0.61807495;0.6941462755203247
+As won as they got in they turned off the porch lamp .;lamp;0.004806507;7.700795650482178
+As won as they got in they turned off the porch lights .;lights;0.3551313;1.4935755729675293
+George kept his pet on a diet .;diet;0.0012781646;9.611710548400879
+George kept his pet on a leash .;leash;0.88401186;0.17786236107349396
+Jon swept the floor with a mop .;mop;0.0006969386;10.48668098449707
+Jon swept the floor with a broom .;broom;0.0004984454;10.970276832580566
+He mailed the letter without a thought .;thought;0.0029243487;8.417669296264648
+He mailed the letter without a stamp .;stamp;0.0036754485;8.08786392211914
+Jeff felt sorry but it was not his turn .;turn;0.0027728963;8.494390487670898
+Jeff felt sorry but it was not his fault .;fault;0.4360819;1.197329044342041
+Through the rain it was hard to read the signals .;signals;0.00025782685;11.921309471130371
+Through the rain it was hard to read the signs .;signs;0.013426978;6.218721389770508
+The girl knew most of the words for her spelling quiz .;quiz;5.373608e-06;17.505678176879883
+The girl knew most of the words for her spelling test .;test;0.010026109;6.64009428024292
+They asked Dave to play tennis but he was too good .;good;0.01387277;6.171600341796875
+They asked Dave to play tennis but he was too tired .;tired;0.013428162;6.218594551086426
+When you leave please close the paper .;paper;0.00079209515;10.302038192749023
+When you leave please close the door .;door;0.38282204;1.3852542638778687
+Karen awoke after a bad hangover .;hangover;0.0009890782;9.981627464294434
+Karen awoke after a bad dream.;bad;0.0020469802;8.932287216186523
+The sun turned his hair blond .;blond;0.0014339556;9.445783615112305
+The sun turned his hair dry .;dry;0.001809622;9.110095977783203
+He shouted at the top of his stairs .;stairs;0.00013169955;12.890461921691895
+He shouted at the top of his lungs .;lungs;0.31516093;1.665839433670044
+The tenants decided to take their landlord to lunch .;lunch;3.6403078e-06;18.067508697509766
+The tenants decided to take their landlord to court .;court;0.8132951;0.29814913868904114
+They 're out in the garden pulling roots .;roots;0.00010694573;13.19083309173584
+They 're out in the garden pulling weeds .;weeds;0.19425143;2.3640029430389404
+They went to pick up their parents at the railway depot .;depot;0.0006183663;10.659250259399414
+They went to pick up their parents at the railway station .;station;0.98929834;0.015522433444857597
+She sewed the button on with needle and black string .;string;0.0020498883;8.930238723754883
+She sewed the button on with needle and black thread .;thread;0.42925093;1.220106840133667
+We stopped at the water fountain to get a sip .;sip;0.0009348541;10.062971115112305
+We stopped at the water fountain to get a drink .;drink;0.037383877;4.7414398193359375
+He was stung by a wasp .;wasp;0.06211674;4.00887393951416
+He was stung by a bee .;bee;0.034753334;4.846704959869385
+He heard a knock at the front entrance .;entrance;0.0037164714;8.071850776672363
+He heard a knock at the front door .;door;0.970339;0.04343923553824425
+Joan boiled the eggs in minutes .;minutes;0.0010518739;9.892822265625
+Joan boiled the eggs in water .;water;0.002618892;8.576828002929688
+The attendant filled the car with fuel .;fuel;0.019853374;5.6544718742370605
+The attendant filled the car with gas .;gas;0.05261787;4.248303413391113
+The driver of the speeding car was given a citation .;citation;0.033698853;4.8911566734313965
+The driver of the speeding car was given a ticket .;ticket;0.020645756;5.598011016845703
+Three people were killed in a major highway crash .;crash;0.36347744;1.4600622653961182
+Three people were killed in a major highway accident .;accident;0.40572977;1.3014088869094849
+A dog has a good sense of loyalty .;loyalty;3.608602e-06;18.080127716064453
+A dog has a good sense of smell .;smell;0.8656583;0.20813046395778656
+In the old West stagecoaches were pulled by stallions .;stallions;3.2569367e-06;18.228052139282227
+In the old West stagecoaches were pulled by horses .;horses;0.03520494;4.828078269958496
+She went to the salon to color her toes .;toes;0.000103077786;13.243978500366211
+She went to the salon to color her hair .;hair;0.48486066;1.0443578958511353
+Brian poured some sauce on his rare meat .;meat;0.00089584227;10.124467849731445
+Brian poured some sauce on his rare steak .;steak;0.0243588;5.359413146972656
+She was named after her conversion .;conversion;6.4068895e-06;17.251943588256836
+She was named after her mother .;mother;0.24483019;2.030146598815918
+Every Sunday morning people pray in their local congregation .;congregation;0.00010334213;13.240283966064453
+Every Sunday morning people pray in their local church .;church;0.35941684;1.476270079612732
+Sam could not believe her story was true .;true;0.11389022;3.134284257888794
+Sam could not believe her story was told .;told;0.011750812;6.41109561920166
+Tim threw a rock and broke the glass .;glass;0.11669896;3.0991363525390625
+Tim threw a rock and broke the window .;window;0.1268934;2.978311061859131
+The doctor set the man 's broken leg in a splint .;splint;0.004252227;7.877565860748291
+The doctor set the man 's broken leg in a cast .;cast;0.0016295036;9.261351585388184
+We sprayed the yard to keep away the skunks .;skunks;8.184988e-06;16.898588180541992
+We sprayed the yard to keep away the bugs .;bugs;0.014292219;6.128626346588135
+He hung her coat in the back .;back;0.040069237;4.641361236572266
+He hung her coat in the closet .;closet;0.026786754;5.222336292266846
+The lawyer feared that his client would be found crazy .;crazy;1.2272237e-06;19.63616943359375
+The lawyer feared that his client would be found guilty .;guilty;0.769042;0.37886568903923035
+New York is a very busy town .;town;0.044992648;4.4741668701171875
+New York is a very busy city .;city;0.6045805;0.7259935736656189
+He bought a wall to wall bed .;bed;2.8487352e-06;18.421247482299805
+He bought a wall to wall carpet .;carpet;2.1636279e-05;15.496188163757324
+The gas station is about two miles down the path .;path;0.0009852912;9.987162590026855
+The gas station is about two miles down the road .;road;0.5911409;0.7584260106086731
+Be careful because the top of the stove is very cluttered .;cluttered;0.000100549485;13.279807090759277
+Be careful because the top of the stove is very hot .;hot;0.18289591;2.4509053230285645
+John filled the pen with care .;care;0.00010777635;13.179671287536621
+John filled the pen with ink .;ink;0.00060867483;10.682040214538574
+The children held hands and formed a ring .;ring;0.0042295237;7.885289192199707
+The children held hands and formed a circle .;circle;0.14252111;2.8107523918151855
+The fire engine raced down the main street .;street;0.2139136;2.2248997688293457
+The fire engine raced down the main road.;main;0.013241185;6.238823890686035
+Don 't believe everything you suspect .;suspect;1.6422176e-05;15.89399528503418
+Don 't believe everything you hear .;hear;0.3846446;1.3784019947052002
+None of his books made much sense .;sense;0.03716754;4.749813079833984
+None of his books made much money.;much;0.03133911;4.99589204788208
+He put a clean sheet on the clipboard .;clipboard;2.862297e-07;21.7363224029541
+He put a clean sheet on the bed .;bed;0.00019728766;12.307411193847656
+The parents pleaded with their daughter to come quietly .;quietly;2.695759e-05;15.178949356079102
+The parents pleaded with their daughter to come home .;home;0.7332993;0.44752588868141174
+When the two met one of them held out his ID .;ID;3.7331447e-05;14.709249496459961
+When the two met one of them held out his hand .;hand;0.63989526;0.644092321395874
+The boat passed easily under the falls .;falls;5.0153605e-05;14.283287048339844
+The boat passed easily under the bridge .;bridge;0.13086072;2.933896064758301
+The picnic was ruined by the downpour of showers .;showers;0.0005195557;10.910433769226074
+The picnic was ruined by the downpour of rain .;rain;0.05775212;4.113982200622559
+Most cats can see very well at distances .;distances;0.0038577737;8.01801586151123
+Most cats can see very well at night .;night;0.24315621;2.0400445461273193
+Captain Sheir wanted to stay with the sinking boat .;boat;0.02490395;5.327481746673584
+Captain Sheir wanted to stay with the sinking ship .;ship;0.7142474;0.4855042099952698
+The janitor washed the dirty ashtrays .;ashtrays;8.539655e-06;16.837390899658203
+The janitor washed the dirty floors.;dirty;0.00092930335;10.071562767028809
+Betsy could not read very well without her dictionary .;dictionary;0.0002879619;11.761834144592285
+Betsy could not read very well without her glasses .;glasses;0.0025828634;8.596813201904297
+He was knocked off his surfboard by the first bully .;bully;8.338156e-06;16.87183952331543
+He was knocked off his surfboard by the first wave .;wave;0.47148547;1.0847147703170776
+Bob proposed but she turned him in .;in;0.0033779019;8.209656715393066
+Bob proposed but she turned him down .;down;0.9528387;0.06969605386257172
+The movie ended so sadly that Julie started to sob .;sob;0.0031751723;8.298949241638184
+The movie ended so sadly that Julie started to .;to;0.316961;1.6576228141784668
+I returned the overdue book to the bag .;bag;0.00037643724;11.375303268432617
+I returned the overdue book to the library .;library;0.14603326;2.7756311893463135
+Her new shoes were the wrong color .;color;0.006862927;7.186960220336914
+Her new shoes were the wrong size .;size;0.80123734;0.31969842314720154
+Dick wrote a chapter in the novel .;novel;0.015756704;5.987890243530273
+Dick wrote a chapter in the book .;book;0.2943208;1.7645386457443237
+She tied up her hair in a yellow bow .;bow;0.0031370288;8.316385269165039
+She tied up her hair in a yellow ribbon .;ribbon;0.005289853;7.562556743621826
+Sharon dried the dishes with a kitchen rag .;rag;1.7123972e-05;15.833622932434082
+Sharon dried the dishes with a kitchen towel .;towel;0.0023252473;8.74839973449707
+While the national anthem plays everyone is expected to behave .;behave;0.00018554603;12.39593505859375
+While the national anthem plays everyone is expected to stand .;stand;0.0015088648;9.372321128845215
+He bought the chocolates at the candy shop .;shop;0.16743629;2.5783159732818604
+He bought the chocolates at the candy store .;store;0.6730651;0.5711820125579834
+After the accident they went for aid .;aid;5.9331658e-05;14.040838241577148
+After the accident they went for help .;help;0.02021946;5.628111839294434
+After dinner they washed the dog .;dog;0.004628143;7.7553510665893555
+After dinner they washed the dishes .;dishes;0.09586339;3.38287615776062
+Jill decided to put vanilla icing on the chocolate cookie .;cookie;0.0039028737;8.00124740600586
+Jill decided to put vanilla icing on the chocolate cake .;cake;0.12066959;3.050865888595581
+His kite got tangled in the oak branches .;branches;0.01878335;5.734401702880859
+His kite got tangled in the oak tree .;tree;0.3361249;1.5729306936264038
+The store detective accused him of theft .;theft;0.004575716;7.771786689758301
+The store detective accused him of shoplifting .;shoplifting;0.011587569;6.431278228759766
+The prisoner was sent back to his duties .;duties;5.3992928e-05;14.176870346069336
+The prisoner was sent back to his cell .;cell;0.13453381;2.8939592838287354
+After being robbed the victim called the cops .;cops;0.00071643083;10.446885108947754
+After being robbed the victim called the police .;police;0.67103493;0.5755402445793152
+It was important to be on top .;top;0.08213892;3.605790138244629
+It was important to be on time .;time;0.006903146;7.178530216217041
+Because he had a toothache he called his boss .;boss;0.013671214;6.192714691162109
+Because he had a toothache he called his dentist .;dentist;0.0087228995;6.840976715087891
+Pam didn 't have any clothes to donate .;donate;0.0008356855;10.224752426147461
+Pam didn 't have any clothes to wear .;wear;0.26125774;1.9364542961120605
+He Likes lemon and sugar in his coffee .;coffee;0.017796328;5.812276363372803
+He Likes lemon and sugar in his tea .;tea;0.023473283;5.41283655166626
+She made a salami sandwich on wheat rolls .;rolls;0.0010888763;9.842944145202637
+She made a salami sandwich on wheat bread .;bread;0.43106776;1.2140134572982788
+They drove to a private airport to catch the thieves .;thieves;2.1455295e-05;15.508306503295898
+They drove to a private airport to catch the plane .;plane;0.088253625;3.5022006034851074
+The kids fed the ducks some stale crumbs .;crumbs;0.0007381905;10.403718948364258
+The kids fed the ducks some stale bread .;bread;0.089134276;3.4878759384155273
+Don 't touch the wet dog .;dog;0.0011262717;9.794229507446289
+Don 't touch the wet paint .;paint;0.0020786885;8.910110473632812
+The child was born with a rare gift .;gift;7.462821e-05;13.709918975830078
+The child was born with a rare disease .;disease;0.010922974;6.516490459442139
+Yesterday they canoed down the rapids .;rapids;0.0013889342;9.491806030273438
+Yesterday they canoed down the river .;river;0.061005175;4.034924507141113
+Smoking may be hazardous to your neighbors .;neighbors;4.528069e-06;17.75267219543457
+Smoking may be hazardous to your health .;health;0.9513934;0.07188604027032852
+They saw the lightning and heard the screams .;screams;0.010830798;6.528716564178467
+They saw the lightning and heard the thunder .;thunder;0.0020656555;8.919184684753418
+It felt much colder when the sun was behind a tree .;tree;0.015114222;6.047949314117432
+It felt much colder when the sun was behind a cloud .;cloud;0.04235381;4.561364650726318
+The squirrel stored some nuts in the hole .;hole;0.0017686208;9.143159866333008
+The squirrel stored some nuts in the tree .;tree;0.022546474;5.470954418182373
+Burt used a match to light the dying flame .;flame;0.026790895;5.222113609313965
+Burt used a match to light the dying fire .;fire;0.09880971;3.339203357696533
+The car pulled up and took the last parking meter .;meter;0.020436883;5.612680912017822
+The car pulled up and took the last parking space .;space;0.09326313;3.4225494861602783
+The society 's annual dues were fifty bucks .;bucks;0.017978797;5.79755973815918
+The society 's annual dues were fifty dollars .;dollars;0.074558005;3.745492935180664

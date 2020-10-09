@@ -1,0 +1,161 @@
+SentenceFrame,Condition,Sentence
+frame1,control,Kim recommended Shakespeare to everyone after she saw Hamlet .
+frame1,syntactic_anomaly,Kim recommended Shakespeare everyone after she saw Hamlet .
+frame1,semantic_anomaly,Kim recommended Shakespeare to signs after she saw Hamlet .
+frame1,double_anomaly,Kim recommended Shakespeare signs after she saw Hamlet .
+frame2,control,The chef entrusted the recipe to relatives before he left Italy .
+frame2,syntactic_anomaly,The chef entrusted the recipe relatives before he left Italy .
+frame2,semantic_anomaly,The chef entrusted the recipe to carrots before he left Italy .
+frame2,double_anomaly,The chef entrusted the recipe carrots before he left Italy .
+frame3,control,Karen submitted the article to Richard after she made corrections .
+frame3,syntactic_anomaly,Karen submitted the article Richard after she made corrections .
+frame3,semantic_anomaly,Karen submitted the article to blankets after she made corrections .
+frame3,double_anomaly,Karen submitted the article blankets after she made corrections .
+frame4,control,Clara declared her position to Janet at the faculty meeting .
+frame4,syntactic_anomaly,Clara declared her position Janet at the faculty meeting .
+frame4,semantic_anomaly,Clara declared her position to Jell-o at the faculty meeting .
+frame4,double_anomaly,Clara declared her position Jell-o at the faculty meeting .
+frame5,control,The mayor dedicated the award to veterans for their national loyalty .
+frame5,syntactic_anomaly,The mayor dedicated the award veterans for their national loyalty .
+frame5,semantic_anomaly,The mayor dedicated the award to bronze for their national loyalty .
+frame5,double_anomaly,The mayor dedicated the award bronze for their national loyalty .
+frame6,control,The teenager returned the book to K-Mart nearly two weeks ago .
+frame6,syntactic_anomaly,The teenager returned the book K-Mart nearly two weeks ago .
+frame6,semantic_anomaly,The teenager returned the book to kleenex nearly two weeks ago .
+frame6,double_anomaly,The teenager returned the book kleenex nearly two weeks ago .
+frame7,control,Jennifer proved something to everyone by solving the equation .
+frame7,syntactic_anomaly,Jennifer proved something everyone by solving the equation .
+frame7,semantic_anomaly,Jennifer proved something to platforms by solving the equation .
+frame7,double_anomaly,Jennifer proved something platforms by solving the equation .
+frame8,control,The sergeant delegated the duty to underlings while he was gone .
+frame8,syntactic_anomaly,The sergeant delegated the duty underlings while he was gone .
+frame8,semantic_anomaly,The sergeant delegated the duty to shoelaces while he was gone .
+frame8,double_anomaly,The sergeant delegated the duty shoelaces while he was gone .
+frame9,control,The minister explained the passage to worshipers during his lengthy sermon .
+frame9,syntactic_anomaly,The minister explained the passage worshipers during his lengthy sermon .
+frame9,semantic_anomaly,The minister explained the passage to watermelon during his lengthy sermon .
+frame9,double_anomaly,The minister explained the passage watermelon during his lengthy sermon .
+frame10,control,Catherine delivered the package to someone in the early evening .
+frame10,syntactic_anomaly,Catherine delivered the package someone in the early evening .
+frame10,semantic_anomaly,Catherine delivered the package to traditions in the early evening .
+frame10,double_anomaly,Catherine delivered the package traditions in the early evening .
+frame11,control,The doctor referred the patient to specialists when he complained of pain .
+frame11,syntactic_anomaly,The doctor referred the patient specialists when he complained of pain .
+frame11,semantic_anomaly,The doctor referred the patient to arthritis when he complained of pain .
+frame11,double_anomaly,The doctor referred the patient arthritis when he complained of pain .
+frame12,control,The bartender suggested a drink to customers while they read the menu .
+frame12,syntactic_anomaly,The bartender suggested a drink customers while they read the menu .
+frame12,semantic_anomaly,The bartender suggested a drink to glasses while they read the menu .
+frame12,double_anomaly,The bartender suggested a drink glasses while they read the menu .
+frame13,control,Beth mentioned her plans to friends before telling her father .
+frame13,syntactic_anomaly,Beth mentioned her plans friends before telling her father .
+frame13,semantic_anomaly,Beth mentioned her plans to paper before telling her father .
+frame13,double_anomaly,Beth mentioned her plans paper before telling her father .
+frame14,control,The woman described the child to security at the shopping mall .
+frame14,syntactic_anomaly,The woman described the child security at the shopping mall .
+frame14,semantic_anomaly,The woman described the child to measures at the shopping mall .
+frame14,double_anomaly,The woman described the child measures at the shopping mall .
+frame15,control,Lee introduced his dog to everyone at the birthday party .
+frame15,syntactic_anomaly,Lee introduced his dog everyone at the birthday party .
+frame15,semantic_anomaly,Lee introduced his dog to entrances at the birthday party .
+frame15,double_anomaly,Lee introduced his dog entrances at the birthday party .
+frame16,control,Timmy reported the story to adults after he came inside .
+frame16,syntactic_anomaly,Timmy reported the story adults after he came inside .
+frame16,semantic_anomaly,Timmy reported the story to thumbtacks after he came inside .
+frame16,double_anomaly,Timmy reported the story thumbtacks after he came inside .
+frame17,control,The lobbyist expressed his opinions to congressmen several times every month .
+frame17,syntactic_anomaly,The lobbyist expressed his opinions congressmen several times every month .
+frame17,semantic_anomaly,The lobbyist expressed his opinions to convertibles several times every month .
+frame17,double_anomaly,The lobbyist expressed his opinions convertibles several times every month .
+frame18,control,Psychologists attributed that behavior to children when they are depressed .
+frame18,syntactic_anomaly,Psychologists attributed that behavior children when they are depressed .
+frame18,semantic_anomaly,Psychologists attributed that behavior to experiments when they are depressed .
+frame18,double_anomaly,Psychologists attributed that behavior experiments when they are depressed .
+frame19,control,Greg distributed the pamphlets to clients in the late afternoon .
+frame19,syntactic_anomaly,Greg distributed the pamphlets clients in the late afternoon .
+frame19,semantic_anomaly,Greg distributed the pamphlets to machines in the late afternoon .
+frame19,double_anomaly,Greg distributed the pamphlets machines in the late afternoon .
+frame20,control,The company contributed money to churches every year in December .
+frame20,syntactic_anomaly,The company contributed money churches every year in December .
+frame20,semantic_anomaly,The company contributed money to checks every year in December .
+frame20,double_anomaly,The company contributed money checks every year in December .
+frame21,control,Bob didn 't recommend Hemingway to anybody after taking that class .
+frame21,syntactic_anomaly,Bob didn 't recommend Hemingway anybody after taking that class .
+frame21,semantic_anomaly,Bob didn 't recommend Hemingway to anxiety after taking that class .
+frame21,double_anomaly,Bob didn 't recommend Hemingway anxiety after taking that class .
+frame22,control,Jill entrusted the formula to colleagues right before she disappeared .
+frame22,syntactic_anomaly,Jill entrusted the formula colleagues right before she disappeared .
+frame22,semantic_anomaly,Jill entrusted the formula to chemicals right before she disappeared .
+frame22,double_anomaly,Jill entrusted the formula chemicals right before she disappeared .
+frame23,control,Paul submitted the application to Meijer after he quit Target .
+frame23,syntactic_anomaly,Paul submitted the application Meijer after he quit Target .
+frame23,semantic_anomaly,Paul submitted the application to pencils after he quit Target .
+frame23,double_anomaly,Paul submitted the application pencils after he quit Target .
+frame24,control,The President declared his support to Congress by signing the bill .
+frame24,syntactic_anomaly,The President declared his support Congress by signing the bill .
+frame24,semantic_anomaly,The President declared his support to cables by signing the bill .
+frame24,double_anomaly,The President declared his support cables by signing the bill .
+frame25,control,The disc jockey dedicated the song to soldiers during the Gulf War .
+frame25,syntactic_anomaly,The disc jockey dedicated the song soldiers during the Gulf War .
+frame25,semantic_anomaly,The disc jockey dedicated the song to centuries during the Gulf War .
+frame25,double_anomaly,The disc jockey dedicated the song centuries during the Gulf War .
+frame26,control,Al returned the video to Barbara right after watching it .
+frame26,syntactic_anomaly,Al returned the video Barbara right after watching it .
+frame26,semantic_anomaly,Al returned the video to bananas right after watching it .
+frame26,double_anomaly,Al returned the video bananas right after watching it .
+frame27,control,The inventor proved his idea to experts by building an electric car .
+frame27,syntactic_anomaly,The inventor proved his idea experts by building an electric car .
+frame27,semantic_anomaly,The inventor proved his idea to patents by building an electric car .
+frame27,double_anomaly,The inventor proved his idea patents by building an electric car .
+frame28,control,The courier delivered messages to people at the front desk .
+frame28,syntactic_anomaly,The courier delivered messages people at the front desk .
+frame28,semantic_anomaly,The courier delivered messages to goods at the front desk .
+frame28,double_anomaly,The courier delivered messages goods at the front desk .
+frame29,control,Greg delegated the responsibility to members at each monthly meeting .
+frame29,syntactic_anomaly,Greg delegated the responsibility members at each monthly meeting .
+frame29,semantic_anomaly,Greg delegated the responsibility to clocks at each monthly meeting .
+frame29,double_anomaly,Greg delegated the responsibility clocks at each monthly meeting .
+frame30,control,Diana explained the poem to Steven in the school library .
+frame30,syntactic_anomaly,Diana explained the poem Steven in the school library .
+frame30,semantic_anomaly,Diana explained the poem to sponges in the school library .
+frame30,double_anomaly,Diana explained the poem sponges in the school library .
+frame31,control,The judge referred the defendant to lawyers that specialize in libel cases .
+frame31,syntactic_anomaly,The judge referred the defendant lawyers that specialize in libel cases .
+frame31,semantic_anomaly,The judge referred the defendant to perjury that specialize in libel cases .
+frame31,double_anomaly,The judge referred the defendant perjury that specialize in libel cases .
+frame32,control,Joseph suggested a restaurant to us in a nearby town .
+frame32,syntactic_anomaly,Joseph suggested a restaurant us in a nearby town .
+frame32,semantic_anomaly,Joseph suggested a restaurant to broccoli in a nearby town .
+frame32,double_anomaly,Joseph suggested a restaurant broccoli in a nearby town .
+frame33,control,Cory mentioned a job to Kelly last week during lunch .
+frame33,syntactic_anomaly,Cory mentioned a job Kelly last week during lunch .
+frame33,semantic_anomaly,Cory mentioned a job to cars last week during lunch .
+frame33,double_anomaly,Cory mentioned a job cars last week during lunch .
+frame34,control,The artist described the sculpture to Carol when they met last Monday .
+frame34,syntactic_anomaly,The artist described the sculpture Carol when they met last Monday .
+frame34,semantic_anomaly,The artist described the sculpture to crows when they met last Monday .
+frame34,double_anomaly,The artist described the sculpture crows when they met last Monday .
+frame35,control,Marco Polo introduced spaghetti to Europe after returning from China .
+frame35,syntactic_anomaly,Marco Polo introduced spaghetti Europe after returning from China .
+frame35,semantic_anomaly,Marco Polo introduced spaghetti to fork after returning from China .
+frame35,double_anomaly,Marco Polo introduced spaghetti fork after returning from China .
+frame36,control,The victim reported the robbery to police after she arrived home .
+frame36,syntactic_anomaly,The victim reported the robbery police after she arrived home .
+frame36,semantic_anomaly,The victim reported the robbery to markets after she arrived home .
+frame36,double_anomaly,The victim reported the robbery markets after she arrived home .
+frame37,control,The priest attributed many powers to God while reading the scriptures .
+frame37,syntactic_anomaly,The priest attributed many powers God while reading the scriptures .
+frame37,semantic_anomaly,The priest attributed many powers to pews while reading the scriptures .
+frame37,double_anomaly,The priest attributed many powers pews while reading the scriptures .
+frame38,control,Frederick expressed his kindness to others through his daily actions .
+frame38,syntactic_anomaly,Frederick expressed his kindness others through his daily actions .
+frame38,semantic_anomaly,Frederick expressed his kindness to options through his daily actions .
+frame38,double_anomaly,Frederick expressed his kindness options through his daily actions .
+frame39,control,The guide distributed samples to tourists as they walked by .
+frame39,syntactic_anomaly,The guide distributed samples tourists as they walked by .
+frame39,semantic_anomaly,The guide distributed samples to slides as they walked by .
+frame39,double_anomaly,The guide distributed samples slides as they walked by .
+frame40,control,Dan contributed his time to charities after winning the lottery .
+frame40,syntactic_anomaly,Dan contributed his time charities after winning the lottery .
+frame40,semantic_anomaly,Dan contributed his time to cherries after winning the lottery .
+frame40,double_anomaly,Dan contributed his time cherries after winning the lottery .

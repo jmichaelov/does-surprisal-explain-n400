@@ -1,0 +1,241 @@
+SentenceFrame,Typicality,Sentence
+Frame1,Typical,Prosecutors accuse defendants of committing a crime .
+Frame1,Atypical,Prosecutors accuse sheriffs of committing a crime .
+Frame2,Typical,Groupies follow singers around the country .
+Frame2,Atypical,Groupies follow boys around the country .
+Frame3,Typical,Postmen carry mail in their satchel .
+Frame3,Atypical,Postmen carry oil in their satchel .
+Frame4,Typical,Kittens chase mice if given the chance .
+Frame4,Atypical,Kittens chase flies if given the chance .
+Frame5,Typical,Doctors treat cancer as a serious condition .
+Frame5,Atypical,Doctors treat hunger as a serious condition .
+Frame6,Typical,Chefs cook pancakes for breakfast at roadside diners .
+Frame6,Atypical,Chefs cook pears for breakfast at roadside diners .
+Frame7,Typical,Boxers fight opponents in cities where there are large crowds .
+Frame7,Atypical,Boxers fight lawsuits in cities where there are large crowds .
+Frame8,Typical,Archaeologists find artifacts when they excavate ancient cities .
+Frame8,Atypical,Archaeologists find gold when they excavate ancient cities .
+Frame9,Typical,Farmers grow crops as their primary source of cash .
+Frame9,Atypical,Farmers grow worms as their primary source of cash .
+Frame10,Typical,Veterinarians help animals when they get injured .
+Frame10,Atypical,Veterinarians help coyotes when they get injured .
+Frame11,Typical,Lions hunt gazelles as they prowl the savanah .
+Frame11,Atypical,Lions hunt bears as they prowl the savanah .
+Frame12,Typical,Brides kiss grooms during their wedding ceremony .
+Frame12,Atypical,Brides kiss babies during their wedding ceremony .
+Frame13,Typical,Artists paint portraits to pay their bills .
+Frame13,Atypical,Artists paint maps to pay their bills .
+Frame14,Typical,Historians study articles written by their colleagues .
+Frame14,Atypical,Historians study poetry written by their colleagues .
+Frame15,Typical,Authors write books to make a living .
+Frame15,Atypical,Authors write lists to make a living .
+Frame16,Typical,Bands record albums throughout their careers .
+Frame16,Atypical,Bands record hits throughout their careers .
+Frame17,Typical,Cats scratch furniture if they are not declawed .
+Frame17,Atypical,Cats scratch walls if they are not declawed .
+Frame18,Typical,Janitors clean floors after cleaning everything else .
+Frame18,Atypical,Janitors clean dishes after cleaning everything else .
+Frame19,Typical,Lawyers argue cases in a court of law .
+Frame19,Atypical,Lawyers argue politics in a court of law .
+Frame20,Typical,Judges sentence murderers to life in prison .
+Frame20,Atypical,Judges sentence monks to life in prison .
+Frame21,Typical,Waitresses bring cocktails to customers who get their attention .
+Frame21,Atypical,Waitresses bring napkins to customers who get their attention .
+Frame22,Typical,Hunters shoot game during the hunting season .
+Frame22,Atypical,Hunters shoot livestock during the hunting season .
+Frame23,Typical,Theaters show movies on saturday nights .
+Frame23,Atypical,Theaters show operas on saturday nights .
+Frame24,Typical,Butchers slaughter cows and sell the meat .
+Frame24,Atypical,Butchers slaughter ducks and sell the meat .
+Frame25,Typical,Pickpockets steal wallets while the owner is distracted .
+Frame25,Atypical,Pickpockets steal shoes while the owner is distracted .
+Frame26,Typical,Psychics read fortunes for their customers every day .
+Frame26,Atypical,Psychics read news for their customers every day .
+Frame27,Typical,Pilots fly planes on cloudy days .
+Frame27,Atypical,Pilots fly kites on cloudy days .
+Frame28,Typical,Thieves take jewels from their victims when they can .
+Frame28,Atypical,Thieves take jobs from their victims when they can .
+Frame29,Typical,Professors teach classes while doing research .
+Frame29,Atypical,Professors teach friends while doing research .
+Frame30,Typical,Pitchers throw balls to warm up for a game .
+Frame30,Atypical,Pitchers throw rocks to warm up for a game .
+Frame31,Typical,Kidnappers blindfold captives to keep their identities secret .
+Frame31,Atypical,Kidnappers blindfold infants to keep their identities secret .
+Frame32,Typical,Smugglers transport drugs into the united states .
+Frame32,Atypical,Smugglers transport umbrellas into the united states .
+Frame33,Typical,Tourists visit museums on their vacation .
+Frame33,Atypical,Tourists visit mines on their vacation .
+Frame34,Typical,Sentries guard bases at all hours of the night .
+Frame34,Atypical,Sentries guard dumpsters at all hours of the night .
+Frame35,Typical,Telemarketers call people to tell them about new products .
+Frame35,Atypical,Telemarketers call inmates to tell them about new products .
+Frame36,Typical,Punters kick footballs for practice on their days off .
+Frame36,Atypical,Punters kick boxes for practice on their days off .
+Frame37,Typical,Shoppers buy groceries at the local supermarket .
+Frame37,Atypical,Shoppers buy ammunition at the local supermarket .
+Frame38,Typical,Speakers address audiences using a microphone .
+Frame38,Atypical,Speakers address letters using a microphone .
+Frame39,Typical,Armies battle invaders and try to drive them out of the country .
+Frame39,Atypical,Armies battle immigrants and try to drive them out of the country .
+Frame40,Typical,Gardeners plant flowers to make their garden prettier .
+Frame40,Atypical,Gardeners plant bombs to make their garden prettier .
+Frame41,Typical,Architects design buildings with lots of windows .
+Frame41,Atypical,Architects design closets with lots of windows .
+Frame42,Typical,Negotiators settle disputes as quickly as possible .
+Frame42,Atypical,Negotiators settle payments as quickly as possible .
+Frame43,Typical,Witnesses describe robbers as being large and menacing .
+Frame43,Atypical,Witnesses describe tellers as being large and menacing .
+Frame44,Typical,Couriers deliver packages sealed in boxes .
+Frame44,Atypical,Couriers deliver organs sealed in boxes .
+Frame45,Typical,Brokers sell stocks in after-hours trading .
+Frame45,Atypical,Brokers sell curtains in after-hours trading .
+Frame46,Typical,Mechanics fix cars that have broken parts .
+Frame46,Atypical,Mechanics fix toys that have broken parts .
+Frame47,Typical,Joggers run laps to stay in shape .
+Frame47,Atypical,Joggers run monthly to stay in shape .
+Frame48,Typical,Cleaners wash clothes using strong laundry soap .
+Frame48,Atypical,Cleaners wash rags using strong laundry soap .
+Frame49,Typical,Squirrels gather nuts and store them for the winter .
+Frame49,Atypical,Squirrels gather nails and store them for the winter .
+Frame50,Typical,Investors loan money to businesses which are profitable .
+Frame50,Atypical,Investors loan papers to businesses which are profitable .
+Frame51,Typical,Morticians arrange funerals after a lot of planning .
+Frame51,Atypical,Morticians arrange parties after a lot of planning .
+Frame52,Typical,Actors perform plays on stage .
+Frame52,Atypical,Actors perform surgery on stage .
+Frame53,Typical,Adolescents play games all through high school .
+Frame53,Atypical,Adolescents play horns all through high school .
+Frame54,Typical,Cowboys ride horses when they go to the back country .
+Frame54,Atypical,Cowboys ride bicycles when they go to the back country .
+Frame55,Typical,Barbers cut hair while carrying on a conversation .
+Frame55,Atypical,Barbers cut steak while carrying on a conversation .
+Frame56,Typical,Bartenders mix drinks while talking to the patrons .
+Frame56,Atypical,Bartenders mix metaphors while talking to the patrons .
+Frame57,Typical,Executives make decisions that reflect their business acumen .
+Frame57,Atypical,Executives make models that reflect their business acumen .
+Frame58,Typical,Warehouses store merchandise which has not been sold yet .
+Frame58,Atypical,Warehouses store sugar which has not been sold yet .
+Frame59,Typical,Coaches train athletes to work at a high level of performance .
+Frame59,Atypical,Coaches train soldiers to work at a high level of performance .
+Frame60,Typical,Plumbers remove clogs using special equipment .
+Frame60,Atypical,Plumbers remove weeds using special equipment .
+Frame61,Typical,Satirists poke fun at famous people .
+Frame61,Atypical,Satirists poke knives at famous people .
+Frame62,Typical,Nurses draw blood for medical testing and analysis .
+Frame62,Atypical,Nurses draw sketches for medical testing and analysis .
+Frame63,Typical,Caterers prepare food for large groups of people .
+Frame63,Atypical,Caterers prepare baths for large groups of people .
+Frame64,Typical,Weathermen report storms that are expected in the next few days .
+Frame64,Atypical,Weathermen report weddings that are expected in the next few days .
+Frame65,Typical,Knights rescue damsels from the clutches of an ogre .
+Frame65,Atypical,Knights rescue dragons from the clutches of an ogre .
+Frame66,Typical,Generals command troops in time of war .
+Frame66,Atypical,Generals command civilians in time of war .
+Frame67,Typical,Boxcars hold cargo that can take extreme temperatures .
+Frame67,Atypical,Boxcars hold feathers that can take extreme temperatures .
+Frame68,Typical,Magazines publish stories that involve current events .
+Frame68,Atypical,Magazines publish songs that involve current events .
+Frame69,Typical,Policemen arrest crooks after the bars close down .
+Frame69,Atypical,Policemen arrest priests after the bars close down .
+Frame70,Typical,Actresses wear dresses that were created by famous designers .
+Frame70,Atypical,Actresses wear helmets that were created by famous designers .
+Frame71,Typical,Adults eat chicken on a regular basis .
+Frame71,Atypical,Adults eat grass on a regular basis .
+Frame72,Typical,Teachers punish students that are disrupting the class .
+Frame72,Atypical,Teachers punish aides that are disrupting the class .
+Frame73,Typical,Governments build monuments during times of national importance .
+Frame73,Atypical,Governments build trains during times of national importance .
+Frame74,Typical,Scientists conduct research with great attention to detail .
+Frame74,Atypical,Scientists conduct traffic with great attention to detail .
+Frame75,Typical,Comedians entertain crowds at comedy clubs around the country .
+Frame75,Atypical,Comedians entertain politicians at comedy clubs around the country .
+Frame76,Typical,Instructors evaluate pupils by giving them a test .
+Frame76,Atypical,Instructors evaluate grapes by giving them a test .
+Frame77,Typical,Supervisors discipline workers who show up late .
+Frame77,Atypical,Supervisors discipline shareholders who show up late .
+Frame78,Typical,Patrolmen question suspects to get information about a crime .
+Frame78,Atypical,Patrolmen question minors to get information about a crime .
+Frame79,Typical,Parents lecture children about not playing too roughly .
+Frame79,Atypical,Parents lecture pets about not playing too roughly .
+Frame80,Typical,Bellboys lug suitcases every day at work .
+Frame80,Atypical,Bellboys lug fruits every day at work .
+Frame81,Typical,Businessmen employ accountants to keep track of the books .
+Frame81,Atypical,Businessmen employ ministers to keep track of the books .
+Frame82,Typical,Kids want candy for dessert after dinner .
+Frame82,Atypical,Kids want peas for dessert after dinner .
+Frame83,Typical,Runners drink water while competing in a marathon .
+Frame83,Atypical,Runners drink tea while competing in a marathon .
+Frame84,Typical,Ranches hire hands to take care of the chores .
+Frame84,Atypical,Ranches hire drunks to take care of the chores .
+Frame85,Typical,Countries erect statues to honor their national heroes .
+Frame85,Atypical,Countries erect bridges to honor their national heroes .
+Frame86,Typical,Clowns toss pies at each other as part of their act .
+Frame86,Atypical,Clowns toss cookies at each other as part of their act .
+Frame87,Typical,Ranchers feed cattle out on the open prairie .
+Frame87,Atypical,Ranchers feed visitors out on the open prairie .
+Frame88,Typical,Automobiles need gas to run for any length of time .
+Frame88,Atypical,Automobiles need sunlight to run for any length of time .
+Frame89,Typical,Newlyweds receive gifts at their wedding reception .
+Frame89,Atypical,Newlyweds receive bills at their wedding reception .
+Frame90,Typical,Sages offer advice to people who ask them for their opinion .
+Frame90,Atypical,Sages offer sweets to people who ask them for their opinion .
+Frame91,Typical,Attorneys meet clients at their law firm .
+Frame91,Atypical,Attorneys meet dates at their law firm .
+Frame92,Typical,Engineers plan projects for wealthy executives .
+Frame92,Atypical,Engineers plan meals for wealthy executives .
+Frame93,Typical,Bakers slice bread in a special cutting machine .
+Frame93,Atypical,Bakers slice pizza in a special cutting machine .
+Frame94,Typical,Retirees trust banks with their life 's savings .
+Frame94,Atypical,Retirees trust strangers with their life 's savings .
+Frame95,Typical,Quarterbacks lift weights as part of their training regimen .
+Frame95,Atypical,Quarterbacks lift wheels as part of their training regimen .
+Frame96,Typical,Psychologists use hypnosis to help patients remember their childhood .
+Frame96,Atypical,Psychologists use violence to help patients remember their childhood .
+Frame97,Typical,Matadors wave capes to goad the bull into attacking .
+Frame97,Atypical,Matadors wave flags to goad the bull into attacking .
+Frame98,Typical,Eskimos catch fish during the long arctic summer .
+Frame98,Atypical,Eskimos catch malaria during the long arctic summer .
+Frame99,Typical,Astronomers observe stars that have unusual properties .
+Frame99,Atypical,Astronomers observe insects that have unusual properties .
+Frame100,Typical,Pirates ransom prisoners for gold or jewels .
+Frame100,Atypical,Pirates ransom husbands for gold or jewels .
+Frame101,Typical,Employees do work while they are at the office .
+Frame101,Atypical,Employees do crosswords while they are at the office .
+Frame102,Typical,Hosts invite guests to stay for dinner .
+Frame102,Atypical,Hosts invite butlers to stay for dinner .
+Frame103,Typical,Surgeons request specialists for particularly difficult operations .
+Frame103,Atypical,Surgeons request bodyguards for particularly difficult operations .
+Frame104,Typical,Chimps peel bananas before they eat them .
+Frame104,Atypical,Chimps peel apples before they eat them .
+Frame105,Typical,Mayors see citizens on a regular basis .
+Frame105,Atypical,Mayors see ghosts on a regular basis .
+Frame106,Typical,Dogs gnaw bones to exercise their jaws .
+Frame106,Atypical,Dogs gnaw tires to exercise their jaws .
+Frame107,Typical,Sailors abandon ships that are about to capsize .
+Frame107,Atypical,Sailors abandon rowboats that are about to capsize .
+Frame108,Typical,Spies collect data from foreign countries .
+Frame108,Atypical,Spies collect sand from foreign countries .
+Frame109,Typical,Songwriters create music specifically for their own band .
+Frame109,Atypical,Songwriters create stages specifically for their own band .
+Frame110,Typical,Snakes devour eggs in one large bite .
+Frame110,Atypical,Snakes devour pigs in one large bite .
+Frame111,Typical,Detectives notice clues all around the crime scene .
+Frame111,Atypical,Detectives notice reporters all around the crime scene .
+Frame112,Typical,Families schedule vacations during the summer months .
+Frame112,Atypical,Families schedule discussions during the summer months .
+Frame113,Typical,Therapists make diagnoses based on years of experience .
+Frame113,Atypical,Therapists make deals based on years of experience .
+Frame114,Typical,Lifeguards protect swimmers at the beach .
+Frame114,Atypical,Lifeguards protect birds at the beach .
+Frame115,Typical,Dentists pull teeth in their office .
+Frame115,Atypical,Dentists pull files in their office .
+Frame116,Typical,Salesmen market products to prospective buyers .
+Frame116,Atypical,Salesmen market values to prospective buyers .
+Frame117,Typical,Aquariums give sharks a lot of special attention .
+Frame117,Atypical,Aquariums give donors a lot of special attention .
+Frame118,Typical,Burglars have disguises when they are breaking into a house .
+Frame118,Atypical,Burglars have hostages when they are breaking into a house .
+Frame119,Typical,Tenants rent apartments on a monthly basis .
+Frame119,Atypical,Tenants rent lawnmowers on a monthly basis .
+Frame120,Typical,Custodians scrub sinks before applying a disinfectant .
+Frame120,Atypical,Custodians scrub trucks before applying a disinfectant .

@@ -1,0 +1,385 @@
+Condition,Context,Experiment1,Experiment2,Sentence
+Attraction Violation,1,Y,Y,The murder had been witnessing by the three bystanders .
+Passive Control,1,Y,Y,The murder had been witnessed in the dark .
+Active Control,1,Y,N,The bystanders had been witnessing the crime .
+No-Attraction Violation,1,N,Y,The unpleasant cough syrup was witnessing in the dark .
+Attraction Violation,2,Y,Y,Patty 's overgrown lawn was mowing the boy next door .
+Passive Control,2,Y,Y,Patty 's overgrown lawn was mowed only last week .
+Active Control,2,Y,N,Patty 's teenage son was mowing the lawn .
+No-Attraction Violation,2,N,Y,All of her money had been mowing the grass .
+Attraction Violation,3,Y,Y,Three more martinis were ordering by Laurie 's sister .
+Passive Control,3,Y,Y,Three more martinis were ordered repeatedly .
+Active Control,3,Y,N,"The regular customers were ordering quiche , as usual ."
+No-Attraction Violation,3,N,Y,The rough part of the wood was ordering late .
+Attraction Violation,4,Y,Y,The quality of Karla 's work was evaluating frequently .
+Passive Control,4,Y,Y,The quality of Karla 's work was evaluated frequently .
+Active Control,4,Y,N,The engineers were evaluating the success of the new device .
+No-Attraction Violation,4,N,Y,The old lady 's purse had been evaluating Nelson 's idea .
+Attraction Violation,5,Y,Y,The legal contract had been signing falsely .
+Passive Control,5,Y,Y,The legal contract had been signed by the family .
+Active Control,5,Y,N,The state 's governor had been signing new legislation .
+No-Attraction Violation,5,N,Y,An appointment was signing falsely .
+Attraction Violation,6,Y,Y,The vocabulary list was memorizing well .
+Passive Control,6,Y,Y,The vocabulary list was memorized well .
+Active Control,6,Y,N,The medical students were memorizing sample exam questions all night .
+No-Attraction Violation,6,N,Y,The simple coffin was memorizing the lines of the poem .
+Attraction Violation,7,Y,Y,The firewood had been chopping poorly .
+Passive Control,7,Y,Y,The firewood had been chopped by Jen 's grandfather .
+Active Control,7,Y,N,Jen 's grandfather had been chopping the firewood .
+No-Attraction Violation,7,N,Y,Mark 's wrinkly shirts were chopping vegetables .
+Attraction Violation,8,Y,Y,Lisa 's phone had been disconnecting last month .
+Passive Control,8,Y,Y,Lisa 's phone had been disconnected last month .
+Active Control,8,Y,N,The electrician had been disconnecting the machine 's power source .
+No-Attraction Violation,8,N,Y,Mother Theresa 's death was disconnecting the two cables .
+Attraction Violation,9,Y,Y,Wendy 's muddy car was washing the boys .
+Passive Control,9,Y,Y,Wendy 's muddy car was washed wearily .
+Active Control,9,Y,N,Wendy and Harriet were washing the muddy car .
+No-Attraction Violation,9,N,Y,Frank 's loan application had been washing the used pencil .
+Attraction Violation,10,Y,Y,The library books had been borrowing the graduate student .
+Passive Control,10,Y,Y,The library books had been borrowed by the graduate student .
+Active Control,10,Y,N,Katie and Lara had been borrowing dozens of books about botany from the library .
+No-Attraction Violation,10,N,Y,The tragic mistake was borrowing in a hurry .
+Attraction Violation,11,Y,Y,"The dark , underwater cave was exploring by the divers ."
+Passive Control,11,Y,Y,"The dark , underwater cave was explored by the divers ."
+Active Control,11,Y,N,The cautious scuba divers were exploring the underwater cave .
+No-Attraction Violation,11,N,Y,The phone bill had been exploring at the zoo .
+Attraction Violation,12,Y,Y,The unpleasant cough syrup was swallowing the boy .
+Passive Control,12,Y,Y,The unpleasant cough syrup was swallowed by the boy .
+Active Control,12,Y,N,The huge adult alligator had been swallowing fish by the bucket .
+No-Attraction Violation,12,N,Y,The murder had been swallowing with disgust .
+Attraction Violation,13,Y,Y,The pizza had been delivering once more .
+Passive Control,13,Y,Y,The pizza had been delivered by Antonio himself .
+Active Control,13,Y,N,The exhausted messenger had been delivering packages all over town .
+No-Attraction Violation,13,N,Y,A genetic mutation was delivering once more .
+Attraction Violation,14,Y,Y,Frank 's loan application had been approving by the bank .
+Passive Control,14,Y,Y,Frank 's loan application had been approved anyways .
+Active Control,14,Y,N,The board of directors had been approving too many expensive projects .
+No-Attraction Violation,14,N,Y,Wendy 's muddy car was approving the boy 's request .
+Attraction Violation,15,Y,Y,The cheap products had been manufacturing a Belgian firm .
+Passive Control,15,Y,Y,The cheap products had been manufactured by a Belgian firm .
+Active Control,15,Y,N,The auto company had been manufacturing parts in China .
+No-Attraction Violation,15,N,Y,A drawing of the house had been manufacturing at a factory .
+Attraction Violation,16,Y,Y,Their secret conversation had been overhearing by a surprised neighbor .
+Passive Control,16,Y,Y,Their secret conversation had been overheard by a surprised neighbor .
+Active Control,16,Y,N,The annoyed resident had been overhearing his neighbor 's phone conversations through the wall .
+No-Attraction Violation,16,N,Y,A wet snowball had been overhearing despite the precautions .
+Attraction Violation,17,Y,Y,The rough part of the wood was sanding to perfection.
+Passive Control,17,Y,Y,The rough part of the wood was sanded by the carpenter .
+Active Control,17,Y,N,The skillful carpenter was sanding the rough edge of the wood .
+No-Attraction Violation,17,N,Y,Three more martinis were sanding the chair .
+Attraction Violation,18,Y,Y,A package had been receiving by the secretary in the office .
+Passive Control,18,Y,Y,A package had been received by the secretary in the office .
+Active Control,18,Y,N,The secretary had been receiving flowers all day .
+No-Attraction Violation,18,N,Y,The noises in the attic had been receiving assistance from the government .
+Attraction Violation,19,Y,Y,The club 's rules had been violating Richard .
+Passive Control,19,Y,Y,The club 's rules had been violated only twice .
+Active Control,19,Y,N,The rebel had been violating the rules .
+No-Attraction Violation,19,N,Y,Thirty pounds of potatoes had been violating only twice .
+Attraction Violation,20,Y,Y,A new medication had been prescribing the physician .
+Passive Control,20,Y,Y,A new medication had been prescribed by the physician .
+Active Control,20,Y,N,The new doctor had been prescribing powerful painkillers for Jelena 's sore knee .
+No-Attraction Violation,20,N,Y,The portrait of Napoleon had been prescribing with caution .
+Attraction Violation,21,Y,Y,The wheat crops had been harvesting by the local farmers .
+Passive Control,21,Y,Y,The wheat crops had been harvested after the rain .
+Active Control,21,Y,N,The local farmers had been harvesting the corn all week .
+No-Attraction Violation,21,N,Y,The elevator button had been harvesting after the rain .
+Attraction Violation,22,Y,Y,The musical piece was composing by Beethoven in 1799 .
+Passive Control,22,Y,Y,The musical piece was composed in a dream .
+Active Control,22,Y,N,Ludwig von Beethoven was composing symphonies as a teenager .
+No-Attraction Violation,22,N,Y,The bank had been composing in a dream .
+Attraction Violation,23,Y,Y,The old lady 's purse had been snatching a kid .
+Passive Control,23,Y,Y,The old lady 's purse had been snatched with speed .
+Active Control,23,Y,N,The clever dog had been snatching cookies from the table .
+No-Attraction Violation,23,N,Y,The quality of Karla 's work was snatching victory from the jaws of defeat .
+Attraction Violation,24,Y,Y,Olson 's bulging suitcase had been packing his assistant .
+Passive Control,24,Y,Y,Olson 's bulging suitcase had been packed for the trip .
+Active Control,24,Y,N,The excited vacationers had been packing their suitcases when the hurricane hit .
+No-Attraction Violation,24,N,Y,Stormy weather had been packing for the trip .
+Attraction Violation,25,Y,Y,Several spelling errors were noticing the careful editor .
+Passive Control,25,Y,Y,Several spelling errors were noticed by the careful editor .
+Active Control,25,Y,N,Brittany 's close friends were noticing changes in her personality .
+No-Attraction Violation,25,N,Y,The final destination had been noticing too late .
+Attraction Violation,26,Y,Y,An illegal weapon had been smuggling only once .
+Passive Control,26,Y,Y,An illegal weapon had been smuggled only once .
+Active Control,26,Y,N,The drug dealer had been smuggling heroin into Canada .
+No-Attraction Violation,26,N,Y,Cleopatra 's beauty was smuggling only once .
+Attraction Violation,27,Y,Y,The leftover food was discarding wastefully .
+Passive Control,27,Y,Y,The leftover food was discarded wastefully .
+Active Control,27,Y,N,The campers were discarding the leftover food .
+No-Attraction Violation,27,N,Y,The sleek new building was discarding wastefully .
+Attraction Violation,28,Y,Y,Thirty pounds of potatoes had been peeling by the cooks .
+Passive Control,28,Y,Y,Thirty pounds of potatoes had been peeled carefully .
+Active Control,28,Y,N,The bored looking cooks had been peeling potatoes for hours .
+No-Attraction Violation,28,N,Y,The club 's rules had been peeling the sticker off the box .
+Attraction Violation,29,Y,Y,The grimy pots and pans had been scrubbing the dishwashers .
+Passive Control,29,Y,Y,The grimy pots and pans had been scrubbed by the dishwashers .
+Active Control,29,Y,N,The guys in the kitchen had been scrubbing the pots and pans .
+No-Attraction Violation,29,N,Y,The stolen artwork had been scrubbing with vigor .
+Attraction Violation,30,Y,Y,The roast lamb had been carving by a servant .
+Passive Control,30,Y,Y,The roast lamb had been carved by a servant .
+Active Control,30,Y,N,The butcher had been carving the meat .
+No-Attraction Violation,30,N,Y,Janet 's houseplants were carving before dinner .
+Attraction Violation,31,Y,Y,Cleopatra 's beauty was admiring many people .
+Passive Control,31,Y,Y,Cleopatra 's beauty was admired always .
+Active Control,31,Y,N,The men were admiring the beautiful woman from a distance .
+No-Attraction Violation,31,N,Y,An illegal weapon had been admiring always .
+Attraction Violation,32,Y,Y,A wet snowball had been tossing by the girls through the window .
+Passive Control,32,Y,Y,A wet snowball had been tossed in anger .
+Active Control,32,Y,N,The baseball players had been tossing the ball around the infield .
+No-Attraction Violation,32,N,Y,Their secret conversation had been tossing a steak on the grill .
+Attraction Violation,33,Y,Y,The sealed envelope was opening the judge .
+Passive Control,33,Y,Y,The sealed envelope was opened without permission .
+Active Control,33,Y,N,Tuxedoed waiters were opening bottles of champagne for the toast .
+No-Attraction Violation,33,N,Y,The men 's faces had been opening without permission .
+Attraction Violation,34,Y,Y,The man 's beard had been shaving twice a day .
+Passive Control,34,Y,Y,The man 's beard had been shaved twice a day .
+Active Control,34,Y,N,His uncle Ralph had been shaving his beard off .
+No-Attraction Violation,34,N,Y,The popular amusement park is shaving twice a day .
+Attraction Violation,35,Y,Y,The elevator button had been pressing slowly .
+Passive Control,35,Y,Y,The elevator button had been pressed by the attendant .
+Active Control,35,Y,N,The attendant had been pressing the buttons .
+No-Attraction Violation,35,N,Y,The wheat crops had been pressing slowly .
+Attraction Violation,36,Y,Y,The winning lottery numbers had been announcing the TV news .
+Passive Control,36,Y,Y,The winning lottery numbers had been announced by the TV news .
+Active Control,36,Y,N,The flight attendant had been announcing the reason for the delay .
+No-Attraction Violation,36,N,Y,The tarnished silverware was announcing on the television .
+Attraction Violation,37,Y,Y,The victim 's body had been identifying at the morgue .
+Passive Control,37,Y,Y,The victim 's body had been identified by the family members .
+Active Control,37,Y,N,The laboratory technicians had been identifying the chemical .
+No-Attraction Violation,37,N,Y,The movie was identifying rare fish for the divers .
+Attraction Violation,38,Y,Y,The hearty meal was devouring by the kids .
+Passive Control,38,Y,Y,The hearty meal was devoured with gusto .
+Active Control,38,Y,N,The hungry boys were devouring the plate of cookies when Jack arrived .
+No-Attraction Violation,38,N,Y,The dusty tabletops were devouring with gusto .
+Attraction Violation,39,Y,Y,The overgrown shrubs were trimming regularly .
+Passive Control,39,Y,Y,The overgrown shrubs were trimmed by a gardener .
+Active Control,39,Y,N,A gardener was trimming the overgrown shrubbery .
+No-Attraction Violation,39,N,Y,The alarm clock had been trimming regularly .
+Attraction Violation,40,Y,Y,Wilson 's unreasonable proposal was rejecting by the boss .
+Passive Control,40,Y,Y,Wilson 's unreasonable proposal was rejected at the hospital .
+Active Control,40,Y,N,The admissions committee was rejecting nearly every application .
+No-Attraction Violation,40,N,Y,The rare bird 's behavior was rejecting all offers .
+Attraction Violation,41,Y,Y,Hathaway 's gigantic fortune had been inheriting by his daughters .
+Passive Control,41,Y,Y,Hathaway 's gigantic fortune had been inherited by his daughters .
+Active Control,41,Y,N,Generations of aristocratic Englishmen have been inheriting their fortunes .
+No-Attraction Violation,41,N,Y,The strange mystery had been inheriting the estate from her grandmother .
+Attraction Violation,42,Y,Y,All of her money had been spending before the wedding .
+Passive Control,42,Y,Y,All of her money had been spent before the wedding .
+Active Control,42,Y,N,The shopping fanatic had been spending all her money in Bloomingdales .
+No-Attraction Violation,42,N,Y,Patty 's overgrown lawn was spending its time on the beach .
+Attraction Violation,43,Y,Y,An appointment was scheduling by the secretary .
+Passive Control,43,Y,Y,An appointment was scheduled by the secretary .
+Active Control,43,Y,N,The secretary was scheduling new appointments for the afternoon .
+No-Attraction Violation,43,N,Y,The legal contract had been scheduling for next week .
+Attraction Violation,44,Y,Y,The men 's faces had been photographing by a security camera .
+Passive Control,44,Y,Y,The men 's faces had been photographed by a security camera .
+Active Control,44,Y,N,The intrusive reporter had been photographing the celebrities at the party .
+No-Attraction Violation,44,N,Y,The sealed envelope was photographing at the party .
+Attraction Violation,45,Y,Y,The broken television had been repairing the technician .
+Passive Control,45,Y,Y,The broken television had been repaired by the technician .
+Active Control,45,Y,N,The competent technician had been repairing the television .
+No-Attraction Violation,45,N,Y,Larry 's note had been repairing the computer 's hard drive .
+Attraction Violation,46,Y,Y,The alarm clock had been unplugging accidentally .
+Passive Control,46,Y,Y,The alarm clock had been unplugged late .
+Active Control,46,Y,N,The frantic woman had been unplugging every electrical device in the house .
+No-Attraction Violation,46,N,Y,The overgrown shrubs were unplugging accidentally .
+Attraction Violation,47,Y,Y,The car door had been unlocking late at night .
+Passive Control,47,Y,Y,The car door had been unlocked by the child .
+Active Control,47,Y,N,The babysitter had been unlocking the back door .
+No-Attraction Violation,47,N,Y,The Queen 's 80th birthday was unlocking late at night .
+Attraction Violation,48,Y,Y,The portrait of Napoleon had been painting by a Dutch artist .
+Passive Control,48,Y,Y,The portrait of Napoleon had been painted by a Dutch artist .
+Active Control,48,Y,N,The French Impressionist artists had been painting with a focus on light and color .
+No-Attraction Violation,48,N,Y,A new medication had been painting on Tuesday .
+Attraction Violation,49,Y,Y,The embarrassing allegations had been denying by the mayor .
+Passive Control,49,Y,Y,The embarrassing allegations had been denied by the mayor .
+Active Control,49,Y,N,The embarassed mayor had been denying allegations of corruption .
+No-Attraction Violation,49,N,Y,Tamara 's birthday gift had been denying the rumor .
+Attraction Violation,50,Y,Y,The noises in the attic had been hearing nightly .
+Passive Control,50,Y,Y,The noises in the attic had been heard by the boys .
+Active Control,50,Y,N,The frightened campers had been hearing noises in the woods .
+No-Attraction Violation,50,N,Y,A package had been hearing nightly .
+Attraction Violation,51,Y,Y,The appetizers had been serving before the meal .
+Passive Control,51,Y,Y,The appetizers had been served before the meal .
+Active Control,51,Y,N,The waiters had been serving the meal .
+No-Attraction Violation,51,N,Y,The final exams had been serving before the meal .
+Attraction Violation,52,Y,Y,Billy 's unruly hair was combing his mother to one side .
+Passive Control,52,Y,Y,Billy 's unruly hair was combed by his mother to one side .
+Active Control,52,Y,N,The patient barber was combing the boy 's hair to one side .
+No-Attraction Violation,52,N,Y,The girl 's disease was combing the area for escaped prisoners .
+Attraction Violation,53,Y,Y,A drawing of the house had been sketching again .
+Passive Control,53,Y,Y,A drawing of the house had been sketched again .
+Active Control,53,Y,N,An artist in the studio had been sketching the house .
+No-Attraction Violation,53,N,Y,The cheap products had been sketching again .
+Attraction Violation,54,Y,Y,The simple coffin was burying the villagers .
+Passive Control,54,Y,Y,The simple coffin was buried at the church .
+Active Control,54,Y,N,The tribal people were burying their dead .
+No-Attraction Violation,54,N,Y,The vocabulary list was burying at the church .
+Attraction Violation,55,Y,Y,The homicide case had been investigating diligently .
+Passive Control,55,Y,Y,The homicide case had been investigated by the FBI .
+Active Control,55,Y,N,The FBI agents had been investigating the homicide case for weeks .
+No-Attraction Violation,55,N,Y,Martin 's tonsils had been investigating the problem .
+Attraction Violation,56,Y,Y,Mark 's wrinkly shirts were ironing by his mother .
+Passive Control,56,Y,Y,Mark 's wrinkly shirts were ironed by his mother .
+Active Control,56,Y,N,Mark 's doting mother was ironing his shirts while he slept .
+No-Attraction Violation,56,N,Y,The firewood had been ironing her dress .
+Attraction Violation,57,Y,Y,An important lesson had been learning in space .
+Passive Control,57,Y,Y,An important lesson had been learned in space .
+Active Control,57,Y,N,The children had been learning Spanish .
+No-Attraction Violation,57,N,Y,The bathroom floor had been learning in space .
+Attraction Violation,58,Y,Y,The height of the bookcase was measuring by a carpenter .
+Passive Control,58,Y,Y,The height of the bookcase was measured incorrectly .
+Active Control,58,Y,N,The carpenter was measuring the height of the bookcase .
+No-Attraction Violation,58,N,Y,An urgent message had been measuring her heart rate .
+Attraction Violation,59,Y,Y,Several important topics were discussing despite the weather .
+Passive Control,59,Y,Y,Several important topics were discussed by the board of trustees .
+Active Control,59,Y,N,The board members were discussing several important topics .
+No-Attraction Violation,59,N,Y,"The fresh , warm bread was discussing despite the weather ."
+Attraction Violation,60,Y,Y,The dusty tabletops were wiping thoroughly .
+Passive Control,60,Y,Y,The dusty tabletops were wiped thoroughly .
+Active Control,60,Y,N,The tired busboy was wiping for hours .
+No-Attraction Violation,60,N,Y,The hearty meal was wiping thoroughly .
+Attraction Violation,61,Y,Y,A tiny spy camera was concealing by the agent inside a flowerpot .
+Passive Control,61,Y,Y,A tiny spy camera was concealed by the agent inside a flowerpot .
+Active Control,61,Y,N,The sneaky lawyer was concealing the truth .
+No-Attraction Violation,61,N,Y,A faint light was concealing their identity .
+Attraction Violation,62,Y,Y,"The fresh , warm bread was slicing by the baker into halves ."
+Passive Control,62,Y,Y,"The fresh , warm bread was sliced with love ."
+Active Control,62,Y,N,The chef 's assistants were slicing the mushrooms for a pie .
+No-Attraction Violation,62,N,Y,Several important topics were slicing with love .
+Attraction Violation,63,Y,Y,The tarnished silverware was polishing by the butler .
+Passive Control,63,Y,Y,The tarnished silverware was polished by the butler .
+Active Control,63,Y,N,The thorough butler was polishing the doorknobs .
+No-Attraction Violation,63,N,Y,The winning lottery numbers had been polishing his shoes .
+Attraction Violation,64,Y,Y,Poisonous fumes had been inhaling the firefighters .
+Passive Control,64,Y,Y,Poisonous fumes had been inhaled by the firefighters .
+Active Control,64,Y,N,The firefighters had been inhaling the smoke .
+No-Attraction Violation,64,N,Y,The man 's signature was inhaling during the fire .
+Attraction Violation,65,Y,Y,A genetic mutation was discovering the scientists .
+Passive Control,65,Y,Y,A genetic mutation was discovered suddenly .
+Active Control,65,Y,N,The excited explorers were discovering ancient artifacts everywhere they looked .
+No-Attraction Violation,65,N,Y,The pizza had been discovering new methods for making dough .
+Attraction Violation,66,Y,Y,The Queen 's 80th birthday was celebrating expensively .
+Passive Control,66,Y,Y,The Queen 's 80th birthday was celebrated by thousands of people in the streets .
+Active Control,66,Y,N,Thousands of excited fans were celebrating the Superbowl victory in the streets .
+No-Attraction Violation,66,N,Y,The car door had been celebrating her promotion .
+Attraction Violation,67,Y,Y,The diagram on the chalkboard had been erasing Mrs. Larson .
+Passive Control,67,Y,Y,The diagram on the chalkboard had been erased by Mrs. Larson .
+Active Control,67,Y,N,Mrs. Larson had been erasing the chalkboard .
+No-Attraction Violation,67,N,Y,Food for the homeless had been erasing over and over .
+Attraction Violation,68,Y,Y,The movie was directing Steven Spielberg .
+Passive Control,68,Y,Y,The movie was directed professionally .
+Active Control,68,Y,N,Steven Spielberg was directing another blockbuster .
+No-Attraction Violation,68,N,Y,The victim 's body had been directing the police .
+Attraction Violation,69,Y,Y,Theresa 's birthday gift had been wrapping yesterday .
+Passive Control,69,Y,Y,Theresa 's birthday gift had been wrapped yesterday .
+Active Control,69,Y,N,Theresa 's loving grandmother had been wrapping the presents .
+No-Attraction Violation,69,N,Y,The embarrassing allegations had been wrapping yesterday .
+Attraction Violation,70,Y,Y,The popular amusement park is visiting by millions of tourists eh year .
+Passive Control,70,Y,Y,The popular amusement park is visited daily .
+Active Control,70,Y,N,The tourists had been visiting the amusement park in the morning .
+No-Attraction Violation,70,N,Y,The man 's beard had been visiting a friend in the hospital .
+Attraction Violation,71,Y,Y,Ten new trees had been planting on dry land .
+Passive Control,71,Y,Y,Ten new trees had been planted by the Forestry Service .
+Active Control,71,Y,N,The forestry workers had been planting cedar saplings on the hillside .
+No-Attraction Violation,71,N,Y,The sin had been planting doubt in her mind .
+Attraction Violation,72,Y,Y,Food for the homeless had been donating neighborhood residents .
+Passive Control,72,Y,Y,Food for the homeless had been donated many times .
+Active Control,72,Y,N,The wealthy American philanthropist had been donating money to Romanian orphanages .
+No-Attraction Violation,72,N,Y,The diagram on the chalkboard had been donating blood .
+Attraction Violation,73,Y,Y,The rare bird 's behavior was observing by the biologists .
+Passive Control,73,Y,Y,The rare bird 's behavior was observed by the biologists .
+Active Control,73,Y,N,The excited bird watchers were observing the rare eagle .
+No-Attraction Violation,73,N,Y,Wilson 's unreasonable proposal was observing the stars .
+Attraction Violation,74,Y,Y,Stormy weather had been forecasting by the weatherman .
+Passive Control,74,Y,Y,Stormy weather had been forecasted by the weatherman .
+Active Control,74,Y,N,The weather service had been forecasting snow for the mountain areas .
+No-Attraction Violation,74,N,Y,Olson 's bulging suitcase had been forecasting correctly .
+Attraction Violation,75,Y,Y,The tragic mistake was regretting by Erika for many years .
+Passive Control,75,Y,Y,The tragic mistake was regretted years later .
+Active Control,75,Y,N,Erika was regretting the mistake .
+No-Attraction Violation,75,N,Y,The library books had been regretting their behavior .
+Attraction Violation,76,Y,Y,The stolen artwork had been seizing without warning .
+Passive Control,76,Y,Y,The stolen artwork had been seized by the border police .
+Active Control,76,Y,N,The police had been seizing shipments of drugs at the border .
+No-Attraction Violation,76,N,Y,The grimy pots and pans had been seizing without warning .
+Attraction Violation,77,Y,Y,The value of the jewels was estimating the dealer .
+Passive Control,77,Y,Y,The value of the jewels was estimated by the dealer .
+Active Control,77,Y,N,The jewel expert was estimating the value of the diamond .
+No-Attraction Violation,77,N,Y,The useful new gadget had been estimating professionally .
+Attraction Violation,78,Y,Y,Larry 's note had been scribbling his wife .
+Passive Control,78,Y,Y,Larry 's note had been scribbled with haste .
+Active Control,78,Y,N,Larry 's wife had been scribbling a note to him about dinner plans .
+No-Attraction Violation,78,N,Y,The broken television had been scribbling his thoughts on a napkin .
+Attraction Violation,79,Y,Y,Carrie 's morning meeting was canceling as expected .
+Passive Control,79,Y,Y,Carrie 's morning meeting was canceled by the boss .
+Active Control,79,Y,N,Carrie had been canceling all of her meetings .
+No-Attraction Violation,79,N,Y,The bubblegum had been canceling as expected .
+Attraction Violation,80,Y,Y,The girl 's disease was curing a simple treatment .
+Passive Control,80,Y,Y,The girl 's disease was cured by a simple treatment .
+Active Control,80,Y,N,The foreign doctors were curing hundreds of villagers of malaria .
+No-Attraction Violation,80,N,Y,Billy 's unruly hair was curing his cold .
+Attraction Violation,81,Y,Y,Janet 's houseplants were watering too much .
+Passive Control,81,Y,Y,Janet 's houseplants were watered by her neighbor .
+Active Control,81,Y,N,The gardener was watering the plants .
+No-Attraction Violation,81,N,Y,The roast lamb had been watering too much .
+Attraction Violation,82,Y,Y,The useful new gadget had been inventing by a bored waiter .
+Passive Control,82,Y,Y,The useful new gadget had been invented by a bored waiter .
+Active Control,82,Y,N,The resourceful engineers had been inventing tiny new devices .
+No-Attraction Violation,82,N,Y,The value of the jewels was inventing the digital computer .
+Attraction Violation,83,Y,Y,The phone bill had been paying his roommate .
+Passive Control,83,Y,Y,The phone bill had been paid quickly .
+Active Control,83,Y,N,Juan and Perry had been paying too much for their apartment .
+No-Attraction Violation,83,N,Y,"The dark , underwater cave was paying attention to the divers ."
+Attraction Violation,84,Y,Y,The man 's signature was forging the lawyers .
+Passive Control,84,Y,Y,The man 's signature was forged by the lawyers .
+Active Control,84,Y,N,The con artists were forging the signatures on checks .
+No-Attraction Violation,84,N,Y,Poisonous fumes had been forging very well .
+Attraction Violation,85,Y,Y,The bank had been robbing two masked men .
+Passive Control,85,Y,Y,The bank had been robbed repeatedly .
+Active Control,85,Y,N,The clever burglars had been robbing houses in broad daylight .
+No-Attraction Violation,85,N,Y,The musical piece was robbing repeatedly .
+Attraction Violation,86,Y,Y,An urgent message had been sending by the ambassador to the President .
+Passive Control,86,Y,Y,An urgent message had been sent again .
+Active Control,86,Y,N,The Prime Minister had been sending urgent messages to her Ambassador .
+No-Attraction Violation,86,N,Y,The height of the bookcase was sending mixed signals to the carpenter .
+Attraction Violation,87,Y,Y,The sleek new building was designing a team of German architects .
+Passive Control,87,Y,Y,The sleek new building was designed by a team of German architects .
+Active Control,87,Y,N,A team of architects had been designing the new building .
+No-Attraction Violation,87,N,Y,The leftover food was designing with flair .
+Attraction Violation,88,Y,Y,The final exams had been grading in school .
+Passive Control,88,Y,Y,The final exams had been graded in school .
+Active Control,88,Y,N,The professor had been grading the final exams until 4 AM .
+No-Attraction Violation,88,N,Y,The appetizers had been grading Iverson 's students .
+Attraction Violation,89,Y,Y,The final destination had been reaching too late .
+Passive Control,89,Y,Y,The final destination had been reached too late .
+Active Control,89,Y,N,The curious child had been reaching for the cup on the table .
+No-Attraction Violation,89,N,Y,Several spelling errors were reaching too late .
+Attraction Violation,90,Y,Y,A faint light was perceiving by the rescue workers .
+Passive Control,90,Y,Y,A faint light was perceived underwater .
+Active Control,90,Y,N,The worried pilot was perceiving a rattling sound in the jet 's engine .
+No-Attraction Violation,90,N,Y,A tiny spy camera was perceiving underwater .
+Attraction Violation,91,Y,Y,The bubblegum had been chewing by the boy .
+Passive Control,91,Y,Y,The bubblegum had been chewed by the boy .
+Active Control,91,Y,N,The hungry dog had been chewing a bone .
+No-Attraction Violation,91,N,Y,Carrie 's morning meeting was chewing for a long time .
+Attraction Violation,92,Y,Y,Martin 's tonsils had been removing at the hospital .
+Passive Control,92,Y,Y,Martin 's tonsils had been removed at the hospital .
+Active Control,92,Y,N,The surgeon had been removing the cancerous growth .
+No-Attraction Violation,92,N,Y,The homicide case had been removing at the hospital .
+Attraction Violation,93,Y,Y,Mother Theresa 's death was mourning millions of people .
+Passive Control,93,Y,Y,Mother Theresa 's death was mourned by millions of people .
+Active Control,93,Y,N,The black-clad women were mourning the death of their brother .
+No-Attraction Violation,93,N,Y,Lisa 's phone had been mourning the loss of a loved one .
+Attraction Violation,94,Y,Y,The bathroom floor had been mopping by a janitor .
+Passive Control,94,Y,Y,The bathroom floor had been mopped in the past .
+Active Control,94,Y,N,The school janitor had been mopping the bathroom .
+No-Attraction Violation,94,N,Y,An important lesson had been mopping in the past .
+Attraction Violation,95,Y,Y,The sin had been confessing by the repentant Catholic .
+Passive Control,95,Y,Y,The sin had been confessed on Sunday .
+Active Control,95,Y,N,The repentant Catholic had been confessing his sins .
+No-Attraction Violation,95,N,Y,Ten new trees had been confessing on Sunday .
+Attraction Violation,96,Y,Y,The strange mystery had been solving the detectives .
+Passive Control,96,Y,Y,The strange mystery had been solved at the station .
+Active Control,96,Y,N,The brilliant detective had been solving mysterious crimes for two decades .
+No-Attraction Violation,96,N,Y,Hathaway 's gigantic fortune had been solving at the station .

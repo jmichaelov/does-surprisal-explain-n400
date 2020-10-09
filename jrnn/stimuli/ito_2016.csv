@@ -1,0 +1,641 @@
+SentenceFrame;Condition;Plausibility;TargetCloze;Sentence
+frame0;target_word;4.7;100;The student is going to the library to borrow a book tomorrow .
+frame0;surface_related;1.4;100;The student is going to the library to borrow a hook tomorrow .
+frame0;semantically_related;2;100;The student is going to the library to borrow a page tomorrow .
+frame0;unrelated;2.1;100;The student is going to the library to borrow a sofa tomorrow .
+frame1;target_word;4.7;92;Living alone is too expensive, so the students will share a flat together .
+frame1;surface_related;1.5;92;Living alone is too expensive, so the students will share a flag together .
+frame1;semantically_related;1.2;92;Living alone is too expensive, so the students will share a wall together .
+frame1;unrelated;1.6;92;Living alone is too expensive, so the students will share a bell together .
+frame2;target_word;4;73;The family enjoyed the sunny day, but there will be rain tomorrow .
+frame2;surface_related;2.5;73;The family enjoyed the sunny day, but there will be pain tomorrow .
+frame2;semantically_related;1.9;73;The family enjoyed the sunny day, but there will be sky tomorrow .
+frame2;unrelated;1.9;73;The family enjoyed the sunny day, but there will be loss tomorrow .
+frame3;target_word;4.4;95;Jack studied medicine in a university and works as a doctor now .
+frame3;surface_related;1.5;95;Jack studied medicine in a university and works as a factor now .
+frame3;semantically_related;1.2;95;Jack studied medicine in a university and works as a patient now .
+frame3;unrelated;2.1;95;Jack studied medicine in a university and works as a tenant now .
+frame4;target_word;4.5;98;Amelia got a driving licence, and will buy her own car soon .
+frame4;surface_related;2.1;98;Amelia got a driving licence, and will buy her own jar soon .
+frame4;semantically_related;1.7;98;Amelia got a driving licence, and will buy her own tyre soon .
+frame4;unrelated;2.5;98;Amelia got a driving licence, and will buy her own rat soon .
+frame5;target_word;4.4;100;Oliver doesn't have a watch, so he doesn't know the time now .
+frame5;surface_related;1.3;100;Oliver doesn't have a watch, so he doesn't know the lime now .
+frame5;semantically_related;1.7;100;Oliver doesn't have a watch, so he doesn't know the rest now .
+frame5;unrelated;1.4;100;Oliver doesn't have a watch, so he doesn't know the bean now .
+frame6;target_word;4.6;81;Rachel will go to the cinema to watch a new film tomorrow .
+frame6;surface_related;1.6;81;Rachel will go to the cinema to watch a new firm tomorrow .
+frame6;semantically_related;1.6;81;Rachel will go to the cinema to watch a new camera tomorrow .
+frame6;unrelated;2.5;81;Rachel will go to the cinema to watch a new bird tomorrow .
+frame7;target_word;4.7;64;Paul is trying to stand on one leg now .
+frame7;surface_related;1.8;64;Paul is trying to stand on one lag now .
+frame7;semantically_related;1.3;64;Paul is trying to stand on one hip now .
+frame7;unrelated;2.5;64;Paul is trying to stand on one kid now .
+frame8;target_word;4.7;92;The gambler kept losing, so he doesn't have any money left .
+frame8;surface_related;1.7;92;The gambler kept losing, so he doesn't have any honey left .
+frame8;semantically_related;2.2;92;The gambler kept losing, so he doesn't have any wallet left .
+frame8;unrelated;1.3;92;The gambler kept losing, so he doesn't have any candle left .
+frame9;target_word;4.6;100;Harry intends to propose to Emily and give her the ring tomorrow .
+frame9;surface_related;1.6;100;Harry intends to propose to Emily and give her the wing tomorrow .
+frame9;semantically_related;1.9;100;Harry intends to propose to Emily and give her the finger tomorrow .
+frame9;unrelated;2.5;100;Harry intends to propose to Emily and give her the memo tomorrow .
+frame10;target_word;4.6;100;John nervously asked the attractive girl out on a date yesterday .
+frame10;surface_related;1.7;100;John nervously asked the attractive girl out on a gate yesterday .
+frame10;semantically_related;1.2;100;John nervously asked the attractive girl out on a cancel yesterday .
+frame10;unrelated;1.5;100;John nervously asked the attractive girl out on a pin yesterday .
+frame11;target_word;4;89;As a lifetime vegetarian, Olivia doesn't miss eating meat now .
+frame11;surface_related;1.7;89;As a lifetime vegetarian, Olivia doesn't miss eating mean now .
+frame11;semantically_related;1.5;89;As a lifetime vegetarian, Olivia doesn't miss eating flour now .
+frame11;unrelated;1.7;89;As a lifetime vegetarian, Olivia doesn't miss eating soil now .
+frame12;target_word;3.9;92;Dylan got lost today, so he will use a map tomorrow .
+frame12;surface_related;1.6;92;Dylan got lost today, so he will use a cap tomorrow .
+frame12;semantically_related;2;92;Dylan got lost today, so he will use a globe tomorrow .
+frame12;unrelated;1.5;92;Dylan got lost today, so he will use a job tomorrow .
+frame13;target_word;4.6;98;The comedian was funny, despite a bad joke yesterday .
+frame13;surface_related;1.7;98;The comedian was funny, despite a bad coke yesterday .
+frame13;semantically_related;1.4;98;The comedian was funny, despite a bad laugh yesterday .
+frame13;unrelated;1.5;98;The comedian was funny, despite a bad beef yesterday .
+frame14;target_word;4.5;87;Jacob found he misspelled the word earlier .
+frame14;surface_related;2;87;Jacob found he misspelled the lord earlier .
+frame14;semantically_related;1.9;87;Jacob found he misspelled the usage earlier .
+frame14;unrelated;2.1;87;Jacob found he misspelled the oven earlier .
+frame15;target_word;4.6;89;Oscar opened the postbox, and found a letter there .
+frame15;surface_related;2.2;89;Oscar opened the postbox, and found a litter there .
+frame15;semantically_related;1.8;89;Oscar opened the postbox, and found a heading there .
+frame15;unrelated;1.4;89;Oscar opened the postbox, and found a birth there .
+frame16;target_word;4.6;89;After struggling with the question, Jessica got the answer finally .
+frame16;surface_related;1.5;89;After struggling with the question, Jessica got the dancer finally .
+frame16;semantically_related;2.1;89;After struggling with the question, Jessica got the inquiry finally .
+frame16;unrelated;2.3;89;After struggling with the question, Jessica got the pension finally .
+frame17;target_word;4.6;87;At the airport, James checked in for his flight earlier .
+frame17;surface_related;1.7;87;At the airport, James checked in for his sight earlier .
+frame17;semantically_related;1.5;87;At the airport, James checked in for his rocket earlier .
+frame17;unrelated;1.6;87;At the airport, James checked in for his machine earlier .
+frame18;target_word;4.2;75;The lottery gave Emily a car as a prize yesterday .
+frame18;surface_related;2.4;75;The lottery gave Emily a car as a price yesterday .
+frame18;semantically_related;1.8;75;The lottery gave Emily a car as a medal yesterday .
+frame18;unrelated;2.3;75;The lottery gave Emily a car as a child yesterday .
+frame19;target_word;4.6;92;Sophie couldn't recall the recent event, and blamed her bad memory yesterday .
+frame19;surface_related;2;92;Sophie couldn't recall the recent event, and blamed her bad melody yesterday .
+frame19;semantically_related;2;92;Sophie couldn't recall the recent event, and blamed her bad storage yesterday .
+frame19;unrelated;1.4;92;Sophie couldn't recall the recent event, and blamed her bad eraser yesterday .
+frame20;target_word;3.5;87;The shoes were small, so Lily asked for the largest size available .
+frame20;surface_related;1.9;87;The shoes were small, so Lily asked for the largest sign available .
+frame20;semantically_related;1.5;87;The shoes were small, so Lily asked for the largest height available .
+frame20;unrelated;1.5;87;The shoes were small, so Lily asked for the largest flip available .
+frame21;target_word;4.6;98;To view the 3D image, people wore special glasses yesterday .
+frame21;surface_related;1.4;98;To view the 3D image, people wore special classes yesterday .
+frame21;semantically_related;1.9;98;To view the 3D image, people wore special eyes yesterday .
+frame21;unrelated;1.5;98;To view the 3D image, people wore special markets yesterday .
+frame22;target_word;4.6;95;At the football match, Bob scored a goal yesterday .
+frame22;surface_related;1.2;95;At the football match, Bob scored a coal yesterday .
+frame22;semantically_related;1.5;95;At the football match, Bob scored a team yesterday .
+frame22;unrelated;1.4;95;At the football match, Bob scored a bear yesterday .
+frame23;target_word;4.7;87;Grace put too much dressing on her salad yesterday .
+frame23;surface_related;1.6;87;Grace put too much dressing on her ballad yesterday .
+frame23;semantically_related;2;87;Grace put too much dressing on her refrigerator yesterday .
+frame23;unrelated;1.6;87;Grace put too much dressing on her movie yesterday .
+frame24;target_word;4.7;92;Chloe couldn't afford the necklace because of its high price sadly .
+frame24;surface_related;1.4;92;Chloe couldn't afford the necklace because of its high pride sadly .
+frame24;semantically_related;1.5;92;Chloe couldn't afford the necklace because of its high seller sadly .
+frame24;unrelated;1.5;92;Chloe couldn't afford the necklace because of its high radio sadly .
+frame25;target_word;4.5;67;The family went to the sea to catch some fish together .
+frame25;surface_related;1.5;67;The family went to the sea to catch some wish together .
+frame25;semantically_related;1.5;67;The family went to the sea to catch some pond together .
+frame25;unrelated;1.4;67;The family went to the sea to catch some echo together .
+frame26;target_word;4.7;70;Noah missed the final bus, and needed to take a taxi yesterday .
+frame26;surface_related;1.8;70;Noah missed the final bus, and needed to take a tax yesterday .
+frame26;semantically_related;1.5;70;Noah missed the final bus, and needed to take a fare yesterday .
+frame26;unrelated;1.5;70;Noah missed the final bus, and needed to take a seed yesterday .
+frame27;target_word;4.6;42;The workers reported the difficult problem to their boss yesterday .
+frame27;surface_related;1.2;42;The workers reported the difficult problem to their bass yesterday .
+frame27;semantically_related;2.3;42;The workers reported the difficult problem to their job yesterday .
+frame27;unrelated;2;42;The workers reported the difficult problem to their port yesterday .
+frame28;target_word;4.7;67;Freya had a serious car accident and is afraid of driving now .
+frame28;surface_related;2.1;67;Freya had a serious car accident and is afraid of thriving now .
+frame28;semantically_related;2;67;Freya had a serious car accident and is afraid of licences now .
+frame28;unrelated;1.7;67;Freya had a serious car accident and is afraid of finding now .
+frame29;target_word;4.6;53;The man was convicted for murder and is in prison now .
+frame29;surface_related;1.6;53;The man was convicted for murder and is in poison now .
+frame29;semantically_related;1.4;53;The man was convicted for murder and is in crime now .
+frame29;unrelated;1.8;53;The man was convicted for murder and is in image now .
+frame30;target_word;4.7;98;Beth loved cooking, and has become a world famous chef now .
+frame30;surface_related;1.3;98;Beth loved cooking, and has become a world famous shelf now .
+frame30;semantically_related;1.3;98;Beth loved cooking, and has become a world famous buffet now .
+frame30;unrelated;1.9;98;Beth loved cooking, and has become a world famous aunt now .
+frame31;target_word;4.5;95;Kyle asked the dentist to pull out the painful tooth gently .
+frame31;surface_related;1.4;95;Kyle asked the dentist to pull out the painful booth gently .
+frame31;semantically_related;1.5;95;Kyle asked the dentist to pull out the painful brush gently .
+frame31;unrelated;1.5;95;Kyle asked the dentist to pull out the painful grade gently .
+frame32;target_word;4.5;34;Having high blood pressure, George reduced his intake of salt considerably .
+frame32;surface_related;2.3;34;Having high blood pressure, George reduced his intake of malt considerably .
+frame32;semantically_related;1.3;34;Having high blood pressure, George reduced his intake of sea considerably .
+frame32;unrelated;1.4;34;Having high blood pressure, George reduced his intake of bond considerably .
+frame33;target_word;4.7;73;Children were excited to see the first snow this winter yesterday .
+frame33;surface_related;1.4;73;Children were excited to see the first snow this printer yesterday .
+frame33;semantically_related;2.5;73;Children were excited to see the first snow this summer yesterday .
+frame33;unrelated;1.5;73;Children were excited to see the first snow this effect yesterday .
+frame34;target_word;4.6;100;To see the new-born panda, Lucy will go to the zoo tomorrow .
+frame34;surface_related;1.5;100;To see the new-born panda, Lucy will go to the loo tomorrow .
+frame34;semantically_related;1.6;100;To see the new-born panda, Lucy will go to the lion tomorrow .
+frame34;unrelated;2.4;100;To see the new-born panda, Lucy will go to the end tomorrow .
+frame35;target_word;4.6;64;The country girl was overwhelmed to see streets full of people yesterday .
+frame35;surface_related;3;64;The country girl was overwhelmed to see streets full of purple yesterday .
+frame35;semantically_related;2.4;64;The country girl was overwhelmed to see streets full of customs yesterday .
+frame35;unrelated;1.8;64;The country girl was overwhelmed to see streets full of length yesterday .
+frame36;target_word;4;75;Daisy is nine months pregnant and will have her first baby soon .
+frame36;surface_related;2.2;75;Daisy is nine months pregnant and will have her first bay soon .
+frame36;semantically_related;2;75;Daisy is nine months pregnant and will have her first nappy soon .
+frame36;unrelated;1.8;75;Daisy is nine months pregnant and will have her first agent soon .
+frame37;target_word;4.7;92;Students at the train station are rushing to buy a ticket now .
+frame37;surface_related;1.9;92;Students at the train station are rushing to buy a thicket now .
+frame37;semantically_related;1.5;92;Students at the train station are rushing to buy a platform now .
+frame37;unrelated;1.5;92;Students at the train station are rushing to buy a major now .
+frame38;target_word;4;73;Feeling stressed at his workplace, Max relaxed at home completely .
+frame38;surface_related;1.8;73;Feeling stressed at his workplace, Max relaxed at dome completely .
+frame38;semantically_related;2.7;73;Feeling stressed at his workplace, Max relaxed at laundry completely .
+frame38;unrelated;1.8;73;Feeling stressed at his workplace, Max relaxed at beer completely .
+frame39;target_word;5;100;Isabella dyed her hair, but she doesn't like the colour now .
+frame39;surface_related;2.3;100;Isabella dyed her hair, but she doesn't like the cutter now .
+frame39;semantically_related;2.5;100;Isabella dyed her hair, but she doesn't like the paint now .
+frame39;unrelated;1.5;100;Isabella dyed her hair, but she doesn't like the grape now .
+frame40;target_word;4.9;81;For parking illegally, William was charged a fine yesterday .
+frame40;surface_related;1.5;81;For parking illegally, William was charged a line yesterday .
+frame40;semantically_related;1.5;81;For parking illegally, William was charged a court yesterday .
+frame40;unrelated;1.2;81;For parking illegally, William was charged a rest yesterday .
+frame41;target_word;4.7;81;Jim will go swimming and get a suntan at the beach tomorrow .
+frame41;surface_related;1.5;81;Jim will go swimming and get a suntan at the peach tomorrow .
+frame41;semantically_related;1.9;81;Jim will go swimming and get a suntan at the coconut tomorrow .
+frame41;unrelated;1.2;81;Jim will go swimming and get a suntan at the drama tomorrow .
+frame42;target_word;4.7;89;The house is haunted by ghosts now .
+frame42;surface_related;1.8;89;The house is haunted by boasts now .
+frame42;semantically_related;2.6;89;The house is haunted by halloween now .
+frame42;unrelated;2.1;89;The house is haunted by eagles now .
+frame43;target_word;5;100;The juice isn't cold enough, so Alice is adding some ice now .
+frame43;surface_related;1.5;100;The juice isn't cold enough, so Alice is adding some dice now .
+frame43;semantically_related;2;100;The juice isn't cold enough, so Alice is adding some cube now .
+frame43;unrelated;2.5;100;The juice isn't cold enough, so Alice is adding some wine now .
+frame44;target_word;5;92;The restaurant is always busy, so Leo will book a table now .
+frame44;surface_related;1.9;92;The restaurant is always busy, so Leo will book a label now .
+frame44;semantically_related;2.3;92;The restaurant is always busy, so Leo will book a chair now .
+frame44;unrelated;1.8;92;The restaurant is always busy, so Leo will book a field now .
+frame45;target_word;4.6;87;The baby is hungry and needs to drink some milk now .
+frame45;surface_related;1.6;87;The baby is hungry and needs to drink some silk now .
+frame45;semantically_related;1.4;87;The baby is hungry and needs to drink some cow now .
+frame45;unrelated;1.2;87;The baby is hungry and needs to drink some debt now .
+frame46;target_word;4.8;78;Before sending the letter, Daniel licked a stamp quickly .
+frame46;surface_related;2;78;Before sending the letter, Daniel licked a stump quickly .
+frame46;semantically_related;1.7;78;Before sending the letter, Daniel licked a payment quickly .
+frame46;unrelated;1.8;78;Before sending the letter, Daniel licked a juice quickly .
+frame47;target_word;5;64;The waiter got a generous tip because of his good service yesterday .
+frame47;surface_related;1.6;64;The waiter got a generous tip because of his good surface yesterday .
+frame47;semantically_related;1.6;64;The waiter got a generous tip because of his good complaints yesterday .
+frame47;unrelated;1.1;64;The waiter got a generous tip because of his good million yesterday .
+frame48;target_word;4.5;92;For their mother's birthday, the children will hold a party tomorrow .
+frame48;surface_related;1.9;92;For their mother's birthday, the children will hold a pasty tomorrow .
+frame48;semantically_related;1.5;92;For their mother's birthday, the children will hold a guest tomorrow .
+frame48;unrelated;2;92;For their mother's birthday, the children will hold a scene tomorrow .
+frame49;target_word;4.8;34;Only one cake is left, so Lilly doesn't have a choice anyway .
+frame49;surface_related;2.2;34;Only one cake is left, so Lilly doesn't have a voice anyway .
+frame49;semantically_related;2;34;Only one cake is left, so Lilly doesn't have a future anyway .
+frame49;unrelated;1.6;34;Only one cake is left, so Lilly doesn't have a minute anyway .
+frame50;target_word;4.9;64;The men are watching football and drinking beer in the pub together .
+frame50;surface_related;1.4;64;The men are watching football and drinking beer in the rub together .
+frame50;semantically_related;1.7;64;The men are watching football and drinking beer in the owner together .
+frame50;unrelated;1.8;64;The men are watching football and drinking beer in the let together .
+frame51;target_word;4.6;98;The plane crash was avoided by the experienced pilot yesterday .
+frame51;surface_related;1.8;98;The plane crash was avoided by the experienced pallet yesterday .
+frame51;semantically_related;2;98;The plane crash was avoided by the experienced flight yesterday .
+frame51;unrelated;1.2;98;The plane crash was avoided by the experienced mail yesterday .
+frame52;target_word;4.5;50;The bus driver charged Rosie a regular fare yesterday .
+frame52;surface_related;1.5;50;The bus driver charged Rosie a regular care yesterday .
+frame52;semantically_related;1.9;50;The bus driver charged Rosie a regular cash yesterday .
+frame52;unrelated;1.3;50;The bus driver charged Rosie a regular twin yesterday .
+frame53;target_word;4.9;81;Henry was seriously injured but the doctor saved his life successfully .
+frame53;surface_related;2.7;81;Henry was seriously injured but the doctor saved his knife successfully .
+frame53;semantically_related;1.5;81;Henry was seriously injured but the doctor saved his death successfully .
+frame53;unrelated;1.4;81;Henry was seriously injured but the doctor saved his corn successfully .
+frame54;target_word;4.6;67;Joseph used a lighter to make a fire easily .
+frame54;surface_related;1.5;67;Joseph used a lighter to make a hire easily .
+frame54;semantically_related;1.5;67;Joseph used a lighter to make a chimney easily .
+frame54;unrelated;1.3;67;Joseph used a lighter to make a statue easily .
+frame55;target_word;4.8;92;The famous dancer performed on the stage yesterday .
+frame55;surface_related;2.2;92;The famous dancer performed on the state yesterday .
+frame55;semantically_related;2;92;The famous dancer performed on the actor yesterday .
+frame55;unrelated;2;92;The famous dancer performed on the cloud yesterday .
+frame56;target_word;4.7;89;The girls are going to have cocktails and dance in a club together .
+frame56;surface_related;1.4;89;The girls are going to have cocktails and dance in a crab together .
+frame56;semantically_related;1.8;89;The girls are going to have cocktails and dance in a sport together .
+frame56;unrelated;2.2;89;The girls are going to have cocktails and dance in a mist together .
+frame57;target_word;5;100;The supporters wished the team good luck yesterday .
+frame57;surface_related;1.6;100;The supporters wished the team good duck yesterday .
+frame57;semantically_related;2;100;The supporters wished the team good yell yesterday .
+frame57;unrelated;1.2;100;The supporters wished the team good view yesterday .
+frame58;target_word;5;78;The cricket player wants his own glove, ball and bat now .
+frame58;surface_related;3;78;The cricket player wants his own glove, ball and rat now .
+frame58;semantically_related;2.1;78;The cricket player wants his own glove, ball and hit now .
+frame58;unrelated;1.4;78;The cricket player wants his own glove, ball and sneeze now .
+frame59;target_word;5;95;Hannah bought a calendar and hung it on the wall yesterday .
+frame59;surface_related;1.7;95;Hannah bought a calendar and hung it on the mall yesterday .
+frame59;semantically_related;1.6;95;Hannah bought a calendar and hung it on the floor yesterday .
+frame59;unrelated;1.7;95;Hannah bought a calendar and hung it on the fruit yesterday .
+frame60;target_word;5;81;The man with the history of self-harm cut his wrist suddenly .
+frame60;surface_related;1.9;81;The man with the history of self-harm cut his list suddenly .
+frame60;semantically_related;2.1;81;The man with the history of self-harm cut his grip suddenly .
+frame60;unrelated;1.2;81;The man with the history of self-harm cut his sky suddenly .
+frame61;target_word;4.6;81;Susan felt tears coming as she sliced the onion carefully .
+frame61;surface_related;2.9;81;Susan felt tears coming as she sliced the union carefully .
+frame61;semantically_related;1.4;81;Susan felt tears coming as she sliced the flavour carefully .
+frame61;unrelated;1.1;81;Susan felt tears coming as she sliced the error carefully .
+frame62;target_word;4.9;89;The woman was hit by a truck when crossing the road yesterday .
+frame62;surface_related;1.5;89;The woman was hit by a truck when crossing the load yesterday .
+frame62;semantically_related;2;89;The woman was hit by a truck when crossing the cyclist yesterday .
+frame62;unrelated;1.2;89;The woman was hit by a truck when crossing the math yesterday .
+frame63;target_word;5;100;Tyler knows many cocktail recipes because he works in a bar now .
+frame63;surface_related;1.8;100;Tyler knows many cocktail recipes because he works in a war now .
+frame63;semantically_related;1.3;100;Tyler knows many cocktail recipes because he works in a pint now .
+frame63;unrelated;1.2;100;Tyler knows many cocktail recipes because he works in a joy now .
+frame64;target_word;5;98;Kate didn't like coffee, so she ordered a cup of tea instead .
+frame64;surface_related;1.4;98;Kate didn't like coffee, so she ordered a cup of team instead .
+frame64;semantically_related;1.4;98;Kate didn't like coffee, so she ordered a cup of mug instead .
+frame64;unrelated;1.2;98;Kate didn't like coffee, so she ordered a cup of myth instead .
+frame65;target_word;5;67;Sam plays guitar in a popular band now .
+frame65;surface_related;1.4;67;Sam plays guitar in a popular sand now .
+frame65;semantically_related;2.4;67;Sam plays guitar in a popular music now .
+frame65;unrelated;1.1;67;Sam plays guitar in a popular hero now .
+frame66;target_word;4.5;87;As the trousers were loose, Tony tightened up his belt yesterday .
+frame66;surface_related;1.5;87;As the trousers were loose, Tony tightened up his beat yesterday .
+frame66;semantically_related;2;87;As the trousers were loose, Tony tightened up his helmet yesterday .
+frame66;unrelated;1.3;87;As the trousers were loose, Tony tightened up his tube yesterday .
+frame67;target_word;5;92;Meg will go to the park to walk her dog tomorrow .
+frame67;surface_related;1.5;92;Meg will go to the park to walk her fog tomorrow .
+frame67;semantically_related;1.6;92;Meg will go to the park to walk her tail tomorrow .
+frame67;unrelated;1.3;92;Meg will go to the park to walk her tyre tomorrow .
+frame68;target_word;4.9;84;The terrorist shot and killed five people using a gun yesterday .
+frame68;surface_related;1.5;84;The terrorist shot and killed five people using a gum yesterday .
+frame68;semantically_related;1.8;84;The terrorist shot and killed five people using a grip yesterday .
+frame68;unrelated;1.3;84;The terrorist shot and killed five people using a rib yesterday .
+frame69;target_word;5;92;The mole was digging a hole yesterday .
+frame69;surface_related;1.5;92;The mole was digging a pole yesterday .
+frame69;semantically_related;1.4;92;The mole was digging a drill yesterday .
+frame69;unrelated;1.6;92;The mole was digging a mass yesterday .
+frame70;target_word;4.8;78;The horse went outside the course, and didn't win the race understandably .
+frame70;surface_related;2;78;The horse went outside the course, and didn't win the lace understandably .
+frame70;semantically_related;1.5;78;The horse went outside the course, and didn't win the bike understandably .
+frame70;unrelated;1.8;78;The horse went outside the course, and didn't win the snap understandably .
+frame71;target_word;4.5;87;Emma loves a bargain, and everything she bought was on sale actually .
+frame71;surface_related;1.5;87;Emma loves a bargain, and everything she bought was on safe actually .
+frame71;semantically_related;2.5;87;Emma loves a bargain, and everything she bought was on refunds actually .
+frame71;unrelated;1.3;87;Emma loves a bargain, and everything she bought was on noon actually .
+frame72;target_word;4.2;78;The king's throne was taken by his first-born son yesterday .
+frame72;surface_related;1.5;78;The king's throne was taken by his first-born ton yesterday .
+frame72;semantically_related;1.5;78;The king's throne was taken by his first-born father yesterday .
+frame72;unrelated;1.2;78;The king's throne was taken by his first-born fox yesterday .
+frame73;target_word;5;84;The camp leader taught children how to pitch a tent yesterday .
+frame73;surface_related;1.5;84;The camp leader taught children how to pitch a cent yesterday .
+frame73;semantically_related;1.3;84;The camp leader taught children how to pitch a cave yesterday .
+frame73;unrelated;1.3;84;The camp leader taught children how to pitch a flaw yesterday .
+frame74;target_word;4.7;92;He enjoys hiking in the woods because of the fresh air outside .
+frame74;surface_related;1.7;92;He enjoys hiking in the woods because of the fresh hair outside .
+frame74;semantically_related;2.9;92;He enjoys hiking in the woods because of the fresh dust outside .
+frame74;unrelated;1.4;92;He enjoys hiking in the woods because of the fresh ray outside .
+frame75;target_word;4.4;75;All the colleagues have savings accounts at the same bank somehow .
+frame75;surface_related;2.1;75;All the colleagues have savings accounts at the same back somehow .
+frame75;semantically_related;1.3;75;All the colleagues have savings accounts at the same receipt somehow .
+frame75;unrelated;1.4;75;All the colleagues have savings accounts at the same lake somehow .
+frame76;target_word;4.9;100;Ben went to the gym to swim in the pool earlier .
+frame76;surface_related;1.5;100;Ben went to the gym to swim in the tool earlier .
+frame76;semantically_related;1.5;100;Ben went to the gym to swim in the sink earlier .
+frame76;unrelated;1.3;100;Ben went to the gym to swim in the lump earlier .
+frame77;target_word;4.3;53;Adam keeps different breeds of cows in his farm now .
+frame77;surface_related;1.6;53;Adam keeps different breeds of cows in his harm now .
+frame77;semantically_related;1.6;53;Adam keeps different breeds of cows in his yields now .
+frame77;unrelated;1.3;53;Adam keeps different breeds of cows in his navy now .
+frame78;target_word;4.2;95;For relaxation, Matilda soaked in a hot bath yesterday .
+frame78;surface_related;1.5;95;For relaxation, Matilda soaked in a hot path yesterday .
+frame78;semantically_related;2.4;95;For relaxation, Matilda soaked in a hot soap yesterday .
+frame78;unrelated;1.4;95;For relaxation, Matilda soaked in a hot loaf yesterday .
+frame79;target_word;4.5;92;Lewis lost his memory because of the damage to his brain yesterday .
+frame79;surface_related;1.5;92;Lewis lost his memory because of the damage to his grain yesterday .
+frame79;semantically_related;1.5;92;Lewis lost his memory because of the damage to his surgeries yesterday .
+frame79;unrelated;1.2;92;Lewis lost his memory because of the damage to his nation yesterday .
+frame80;target_word;3.7;75;After shuffling, the croupier asked the guest to select one card only .
+frame80;surface_related;1.6;75;After shuffling, the croupier asked the guest to select one cart only .
+frame80;semantically_related;1.5;75;After shuffling, the croupier asked the guest to select one swap only .
+frame80;unrelated;2;75;After shuffling, the croupier asked the guest to select one roll only .
+frame81;target_word;4.3;98;Nobody knows the time as this room has no clock now .
+frame81;surface_related;1.6;98;Nobody knows the time as this room has no clerk now .
+frame81;semantically_related;1.7;98;Nobody knows the time as this room has no alarm now .
+frame81;unrelated;1.3;98;Nobody knows the time as this room has no scarf now .
+frame82;target_word;4.5;53;Ryan refused to invest to avoid taking a risk yesterday .
+frame82;surface_related;1.8;53;Ryan refused to invest to avoid taking a disc yesterday .
+frame82;semantically_related;1.1;53;Ryan refused to invest to avoid taking a benefit yesterday .
+frame82;unrelated;1.2;53;Ryan refused to invest to avoid taking a door yesterday .
+frame83;target_word;4.9;78;The client immediately signed the contract because it was a good deal indeed .
+frame83;surface_related;1.6;78;The client immediately signed the contract because it was a good meal indeed .
+frame83;semantically_related;2.5;78;The client immediately signed the contract because it was a good trust indeed .
+frame83;unrelated;1.6;78;The client immediately signed the contract because it was a good flower indeed .
+frame84;target_word;4.7;39;By closely examining a painting, one can see all the detail clearly .
+frame84;surface_related;2.1;39;By closely examining a painting, one can see all the retail clearly .
+frame84;semantically_related;2;39;By closely examining a painting, one can see all the paragraphs clearly .
+frame84;unrelated;2.6;39;By closely examining a painting, one can see all the syrup clearly .
+frame85;target_word;4.5;70;Toby used to walk to school, but now he takes a bus often .
+frame85;surface_related;1.5;70;Toby used to walk to school, but now he takes a bug often .
+frame85;semantically_related;2.3;70;Toby used to walk to school, but now he takes a seat often .
+frame85;unrelated;1.3;70;Toby used to walk to school, but now he takes a use often .
+frame86;target_word;5;98;In the class, Bella whispered in her friend's ear quickly .
+frame86;surface_related;2.4;98;In the class, Bella whispered in her friend's rear quickly .
+frame86;semantically_related;1.5;98;In the class, Bella whispered in her friend's sound quickly .
+frame86;unrelated;1.5;98;In the class, Bella whispered in her friend's kin quickly .
+frame87;target_word;5;92;Two dogs injured each other when they had a fight yesterday .
+frame87;surface_related;1.8;92;Two dogs injured each other when they had a light yesterday .
+frame87;semantically_related;1.6;92;Two dogs injured each other when they had a troop yesterday .
+frame87;unrelated;1.5;92;Two dogs injured each other when they had a piano yesterday .
+frame88;target_word;4.5;84;To make meringue, she separated the whites from five eggs carefully .
+frame88;surface_related;1.5;84;To make meringue, she separated the whites from five pegs carefully .
+frame88;semantically_related;2;84;To make meringue, she separated the whites from five nests carefully .
+frame88;unrelated;1.2;84;To make meringue, she separated the whites from five toes carefully .
+frame89;target_word;5;73;To make two groups, the lecturer split the class in half quickly .
+frame89;surface_related;1.4;73;To make two groups, the lecturer split the class in calf quickly .
+frame89;semantically_related;1.8;73;To make two groups, the lecturer split the class in dozen quickly .
+frame89;unrelated;1.5;73;To make two groups, the lecturer split the class in lake quickly .
+frame90;target_word;4.2;95;Seeing buds on trees heralds the arrival of spring surely .
+frame90;surface_related;1.5;95;Seeing buds on trees heralds the arrival of sprint surely .
+frame90;semantically_related;1.4;95;Seeing buds on trees heralds the arrival of winter surely .
+frame90;unrelated;1.3;95;Seeing buds on trees heralds the arrival of power surely .
+frame91;target_word;5;81;The store was so busy that the clerk needed help yesterday .
+frame91;surface_related;1.5;81;The store was so busy that the clerk needed heap yesterday .
+frame91;semantically_related;2;81;The store was so busy that the clerk needed lifeguards yesterday .
+frame91;unrelated;1.1;81;The store was so busy that the clerk needed fog yesterday .
+frame92;target_word;5;34;The solution didn't work, and Harley lost all hope yesterday .
+frame92;surface_related;1.5;34;The solution didn't work, and Harley lost all hose yesterday .
+frame92;semantically_related;2.5;34;The solution didn't work, and Harley lost all regret yesterday .
+frame92;unrelated;2.4;34;The solution didn't work, and Harley lost all nails yesterday .
+frame93;target_word;4.9;100;To remember to buy everything she wanted, Gracie made a list quickly .
+frame93;surface_related;1.6;100;To remember to buy everything she wanted, Gracie made a lift quickly .
+frame93;semantically_related;1.2;100;To remember to buy everything she wanted, Gracie made a volume quickly .
+frame93;unrelated;2;100;To remember to buy everything she wanted, Gracie made a disc quickly .
+frame94;target_word;4.9;95;The computer pointer doesn't move though Tommy is moving the mouse now .
+frame94;surface_related;1.6;95;The computer pointer doesn't move though Tommy is moving the mouth now .
+frame94;semantically_related;2.5;95;The computer pointer doesn't move though Tommy is moving the click now .
+frame94;unrelated;2.1;95;The computer pointer doesn't move though Tommy is moving the lemon now .
+frame95;target_word;5;95;Katie looks much younger than her actual age now .
+frame95;surface_related;1.5;95;Katie looks much younger than her actual ace now .
+frame95;semantically_related;1.4;95;Katie looks much younger than her actual birth now .
+frame95;unrelated;1.4;95;Katie looks much younger than her actual oak now .
+frame96;target_word;5;84;After the meal, Matthew asked a waiter to bring the bill quickly .
+frame96;surface_related;1.9;84;After the meal, Matthew asked a waiter to bring the pill quickly .
+frame96;semantically_related;2.1;84;After the meal, Matthew asked a waiter to bring the tip quickly .
+frame96;unrelated;1.9;84;After the meal, Matthew asked a waiter to bring the mess quickly .
+frame97;target_word;5;95;Hearing the noise outside the classroom, the lecturer closed the door immediately .
+frame97;surface_related;1.4;95;Hearing the noise outside the classroom, the lecturer closed the donor immediately .
+frame97;semantically_related;2;95;Hearing the noise outside the classroom, the lecturer closed the knob immediately .
+frame97;unrelated;1.3;95;Hearing the noise outside the classroom, the lecturer closed the loan immediately .
+frame98;target_word;4.9;84;Elizabeth doesn't believe Matt since he has told lies before .
+frame98;surface_related;1.4;84;Elizabeth doesn't believe Matt since he has told pies before .
+frame98;semantically_related;2;84;Elizabeth doesn't believe Matt since he has told truth before .
+frame98;unrelated;2.1;84;Elizabeth doesn't believe Matt since he has told ways before .
+frame99;target_word;5;75;The thief stole the bike easily as it had no lock yesterday .
+frame99;surface_related;1.5;75;The thief stole the bike easily as it had no look yesterday .
+frame99;semantically_related;2.1;75;The thief stole the bike easily as it had no door yesterday .
+frame99;unrelated;1.8;75;The thief stole the bike easily as it had no sum yesterday .
+frame100;target_word;5;81;Anna brings a sandwich and a salad for her lunch usually .
+frame100;surface_related;1.8;81;Anna brings a sandwich and a salad for her punch usually .
+frame100;semantically_related;2.3;81;Anna brings a sandwich and a salad for her kitchen usually .
+frame100;unrelated;2;81;Anna brings a sandwich and a salad for her issue usually .
+frame101;target_word;4.9;100;People saw the first spaceship that landed on the moon together .
+frame101;surface_related;1.9;100;People saw the first spaceship that landed on the mood together .
+frame101;semantically_related;2.1;100;People saw the first spaceship that landed on the orbit together .
+frame101;unrelated;1.5;100;People saw the first spaceship that landed on the heel together .
+frame102;target_word;4.8;98;Children made a wish when they saw a shooting star yesterday .
+frame102;surface_related;2.5;98;Children made a wish when they saw a shooting scar yesterday .
+frame102;semantically_related;2.1;98;Children made a wish when they saw a shooting galaxy yesterday .
+frame102;unrelated;1.4;98;Children made a wish when they saw a shooting devil yesterday .
+frame103;target_word;5;100;Maya got a cold and has a runny nose now .
+frame103;surface_related;2;100;Maya got a cold and has a runny pose now .
+frame103;semantically_related;1.8;100;Maya got a cold and has a runny chin now .
+frame103;unrelated;1.5;100;Maya got a cold and has a runny term now .
+frame104;target_word;4.8;78;The country has no war and people live in peace today .
+frame104;surface_related;1.5;78;The country has no war and people live in peak today .
+frame104;semantically_related;2.5;78;The country has no war and people live in treaty today .
+frame104;unrelated;2;78;The country has no war and people live in yacht today .
+frame105;target_word;4.8;81;To make the garden more green, Amy is growing various plants now .
+frame105;surface_related;1.5;81;To make the garden more green, Amy is growing various planets now .
+frame105;semantically_related;1.1;81;To make the garden more green, Amy is growing various sunlight now .
+frame105;unrelated;1.9;81;To make the garden more green, Amy is growing various limits now .
+frame106;target_word;4.9;73;To prevent spreading her cold, Jane is wearing a mask now .
+frame106;surface_related;1.5;73;To prevent spreading her cold, Jane is wearing a task now .
+frame106;semantically_related;1.6;73;To prevent spreading her cold, Jane is wearing a face now .
+frame106;unrelated;1.7;73;To prevent spreading her cold, Jane is wearing a pane now .
+frame107;target_word;3.9;87;The leaking rain was due to a hole in the roof yesterday .
+frame107;surface_related;1.3;87;The leaking rain was due to a hole in the root yesterday .
+frame107;semantically_related;2.6;87;The leaking rain was due to a hole in the floor yesterday .
+frame107;unrelated;1.4;87;The leaking rain was due to a hole in the pain yesterday .
+frame108;target_word;4.5;73;The fisherman was trying to catch fish in a net earlier .
+frame108;surface_related;1.6;73;The fisherman was trying to catch fish in a jet earlier .
+frame108;semantically_related;1.6;73;The fisherman was trying to catch fish in a gross earlier .
+frame108;unrelated;1.5;73;The fisherman was trying to catch fish in a man earlier .
+frame109;target_word;4.2;48;The plant lacks sunlight because it's placed in the shade now .
+frame109;surface_related;1.3;48;The plant lacks sunlight because it's placed in the shape now .
+frame109;semantically_related;2.1;48;The plant lacks sunlight because it's placed in the grass now .
+frame109;unrelated;1.5;48;The plant lacks sunlight because it's placed in the broom now .
+frame110;target_word;5;92;Sophia cannot find a suitable lotion because of her delicate skin now .
+frame110;surface_related;1.9;92;Sophia cannot find a suitable lotion because of her delicate spin now .
+frame110;semantically_related;2.4;92;Sophia cannot find a suitable lotion because of her delicate sweat now .
+frame110;unrelated;1.8;92;Sophia cannot find a suitable lotion because of her delicate copy now .
+frame111;target_word;4.8;64;The driver was stopped as he exceeded the specified speed yesterday .
+frame111;surface_related;1.5;64;The driver was stopped as he exceeded the specified speech yesterday .
+frame111;semantically_related;1.5;64;The driver was stopped as he exceeded the specified jet yesterday .
+frame111;unrelated;1.9;64;The driver was stopped as he exceeded the specified tablet yesterday .
+frame112;target_word;5;87;Conner went down the stairs and sat on the bottom step slowly .
+frame112;surface_related;1.8;87;Conner went down the stairs and sat on the bottom stem slowly .
+frame112;semantically_related;1.1;87;Conner went down the stairs and sat on the bottom process slowly .
+frame112;unrelated;1.6;87;Conner went down the stairs and sat on the bottom jail slowly .
+frame113;target_word;3.9;89;With a high salary, he needs to pay more tax accordingly .
+frame113;surface_related;1.3;89;With a high salary, he needs to pay more wax accordingly .
+frame113;semantically_related;2;89;With a high salary, he needs to pay more income accordingly .
+frame113;unrelated;1.5;89;With a high salary, he needs to pay more ash accordingly .
+frame114;target_word;4.5;62;Tilly's sister did the cleaning today, so tomorrow it's her turn naturally .
+frame114;surface_related;1.5;62;Tilly's sister did the cleaning today, so tomorrow it's her turf naturally .
+frame114;semantically_related;1.6;62;Tilly's sister did the cleaning today, so tomorrow it's her gear naturally .
+frame114;unrelated;1.4;62;Tilly's sister did the cleaning today, so tomorrow it's her acid naturally .
+frame115;target_word;5;59;There was a recycling campaign to reduce the amount of waste more .
+frame115;surface_related;1.8;59;There was a recycling campaign to reduce the amount of paste more .
+frame115;semantically_related;1.8;59;There was a recycling campaign to reduce the amount of toilets more .
+frame115;unrelated;1.5;59;There was a recycling campaign to reduce the amount of relief more .
+frame116;target_word;4.9;67;Jamie bravely stopped the robbery without feeling any fear yesterday .
+frame116;surface_related;1.5;67;Jamie bravely stopped the robbery without feeling any year yesterday .
+frame116;semantically_related;1.5;67;Jamie bravely stopped the robbery without feeling any escape yesterday .
+frame116;unrelated;1.9;67;Jamie bravely stopped the robbery without feeling any dirt yesterday .
+frame117;target_word;5;45;The attendees can't miss the meeting without a good excuse tomorrow .
+frame117;surface_related;1.5;45;The attendees can't miss the meeting without a good excise tomorrow .
+frame117;semantically_related;2;45;The attendees can't miss the meeting without a good doubt tomorrow .
+frame117;unrelated;1.7;45;The attendees can't miss the meeting without a good style tomorrow .
+frame118;target_word;4.7;42;Frank will double-check the notification in case there is any change tomorrow .
+frame118;surface_related;2;42;Frank will double-check the notification in case there is any range tomorrow .
+frame118;semantically_related;1.8;42;Frank will double-check the notification in case there is any same tomorrow .
+frame118;unrelated;2.6;42;Frank will double-check the notification in case there is any land tomorrow .
+frame119;target_word;4.5;73;Finishing his study abroad, David will return to his own country finally .
+frame119;surface_related;2.1;73;Finishing his study abroad, David will return to his own counter finally .
+frame119;semantically_related;1.1;73;Finishing his study abroad, David will return to his own import finally .
+frame119;unrelated;2.5;73;Finishing his study abroad, David will return to his own puzzle finally .
+frame120;target_word;5;78;The businessman left his laptop on his desk yesterday .
+frame120;surface_related;1.3;78;The businessman left his laptop on his dusk yesterday .
+frame120;semantically_related;2.9;78;The businessman left his laptop on his receptionist yesterday .
+frame120;unrelated;2;78;The businessman left his laptop on his pine yesterday .
+frame121;target_word;4.4;95;Rose couldn't eat noodles using chopsticks, so used a fork instead .
+frame121;surface_related;1.2;95;Rose couldn't eat noodles using chopsticks, so used a fort instead .
+frame121;semantically_related;2.2;95;Rose couldn't eat noodles using chopsticks, so used a cup instead .
+frame121;unrelated;1.6;95;Rose couldn't eat noodles using chopsticks, so used a peer instead .
+frame122;target_word;4.6;95;The bird cannot fly because it injured its wing earlier .
+frame122;surface_related;1.3;95;The bird cannot fly because it injured its ring earlier .
+frame122;semantically_related;2;95;The bird cannot fly because it injured its glide earlier .
+frame122;unrelated;1.5;95;The bird cannot fly because it injured its frog earlier .
+frame123;target_word;4.5;89;Eliza worried about her breath, so she took an extra mint yesterday .
+frame123;surface_related;1.4;89;Eliza worried about her breath, so she took an extra hint yesterday .
+frame123;semantically_related;2.6;89;Eliza worried about her breath, so she took an extra herb yesterday .
+frame123;unrelated;2.4;89;Eliza worried about her breath, so she took an extra toll yesterday .
+frame124;target_word;4.6;62;Changing majors required students to fill out a twenty-page long form usually .
+frame124;surface_related;1.2;62;Changing majors required students to fill out a twenty-page long norm usually .
+frame124;semantically_related;2.2;62;Changing majors required students to fill out a twenty-page long example usually .
+frame124;unrelated;1.6;62;Changing majors required students to fill out a twenty-page long rival usually .
+frame125;target_word;4.7;89;Violet left the dirty plates and cups in the sink today .
+frame125;surface_related;1.4;89;Violet left the dirty plates and cups in the link today .
+frame125;semantically_related;2.4;89;Violet left the dirty plates and cups in the towel today .
+frame125;unrelated;1.9;89;Violet left the dirty plates and cups in the army today .
+frame126;target_word;4.2;53;To increase her hair volume, the woman wears a wig usually .
+frame126;surface_related;1.5;53;To increase her hair volume, the woman wears a pig usually .
+frame126;semantically_related;2.3;53;To increase her hair volume, the woman wears a comb usually .
+frame126;unrelated;1.6;53;To increase her hair volume, the woman wears a pea usually .
+frame127;target_word;4.7;73;Eleanor covered the old ugly floor with a large rug completely .
+frame127;surface_related;1.2;73;Eleanor covered the old ugly floor with a large rum completely .
+frame127;semantically_related;2.4;73;Eleanor covered the old ugly floor with a large tie completely .
+frame127;unrelated;2;73;Eleanor covered the old ugly floor with a large ham completely .
+frame128;target_word;4.1;70;The room with bad ventilation got a ceiling fan finally .
+frame128;surface_related;1.2;70;The room with bad ventilation got a ceiling fat finally .
+frame128;semantically_related;1.5;70;The room with bad ventilation got a ceiling air finally .
+frame128;unrelated;2.2;70;The room with bad ventilation got a ceiling kit finally .
+frame129;target_word;4.3;73;For a removal, Cameron packed the TV into its original box carefully .
+frame129;surface_related;1.2;73;For a removal, Cameron packed the TV into its original boa carefully .
+frame129;semantically_related;1.6;73;For a removal, Cameron packed the TV into its original lid carefully .
+frame129;unrelated;1.5;73;For a removal, Cameron packed the TV into its original oil carefully .
+frame130;target_word;4.4;100;Selling drugs is against the law today .
+frame130;surface_related;1.5;100;Selling drugs is against the saw today .
+frame130;semantically_related;1.8;100;Selling drugs is against the jury today .
+frame130;unrelated;1.5;100;Selling drugs is against the fee today .
+frame131;target_word;4.9;100;The waiter wasn't polite, so he didn't receive a good tip yesterday .
+frame131;surface_related;1.3;100;The waiter wasn't polite, so he didn't receive a good lip yesterday .
+frame131;semantically_related;1.8;100;The waiter wasn't polite, so he didn't receive a good thumb yesterday .
+frame131;unrelated;1.8;100;The waiter wasn't polite, so he didn't receive a good van yesterday .
+frame132;target_word;4.6;92;For Christmas, the children are hanging bells on the tree happily .
+frame132;surface_related;1.5;92;For Christmas, the children are hanging bells on the treat happily .
+frame132;semantically_related;2.4;92;For Christmas, the children are hanging bells on the squirrel happily .
+frame132;unrelated;1.5;92;For Christmas, the children are hanging bells on the inch happily .
+frame133;target_word;4.7;42;To expand their market, the project team made a rough plan together .
+frame133;surface_related;1.4;42;To expand their market, the project team made a rough plank together .
+frame133;semantically_related;1.6;42;To expand their market, the project team made a rough future together .
+frame133;unrelated;1.6;42;To expand their market, the project team made a rough rifle together .
+frame134;target_word;4.3;92;Because of the storm, the ocean has big waves now .
+frame134;surface_related;1.3;92;Because of the storm, the ocean has big caves now .
+frame134;semantically_related;1.8;92;Because of the storm, the ocean has big surfers now .
+frame134;unrelated;2;92;Because of the storm, the ocean has big heads now .
+frame135;target_word;4.6;92;The sales staff forgot to attach the price tag again .
+frame135;surface_related;1.5;92;The sales staff forgot to attach the price tug again .
+frame135;semantically_related;1.6;92;The sales staff forgot to attach the price name again .
+frame135;unrelated;1.6;92;The sales staff forgot to attach the price eve again .
+frame136;target_word;4.7;56;To make a pancake easily, Julia used a pancake mix yesterday .
+frame136;surface_related;1.5;56;To make a pancake easily, Julia used a pancake fix yesterday .
+frame136;semantically_related;1;56;To make a pancake easily, Julia used a pancake digestion yesterday .
+frame136;unrelated;1.6;56;To make a pancake easily, Julia used a pancake bid yesterday .
+frame137;target_word;4.5;31;The new variety show appointed the entertainer as a host yesterday .
+frame137;surface_related;2.5;31;The new variety show appointed the entertainer as a post yesterday .
+frame137;semantically_related;1.1;31;The new variety show appointed the entertainer as a meeting yesterday .
+frame137;unrelated;1.9;31;The new variety show appointed the entertainer as a drill yesterday .
+frame138;target_word;4.7;87;Nigel's son should inherit the estate according to his will naturally .
+frame138;surface_related;1.3;87;Nigel's son should inherit the estate according to his pill naturally .
+frame138;semantically_related;1.9;87;Nigel's son should inherit the estate according to his fact naturally .
+frame138;unrelated;2.1;87;Nigel's son should inherit the estate according to his site naturally .
+frame139;target_word;4.3;95;It's expected to snow as it will get very cold tomorrow .
+frame139;surface_related;1.3;95;It's expected to snow as it will get very old tomorrow .
+frame139;semantically_related;1.5;95;It's expected to snow as it will get very hot tomorrow .
+frame139;unrelated;1.5;95;It's expected to snow as it will get very tall tomorrow .
+frame140;target_word;4.5;89;The explorer in the desert hopes to ride the camel tomorrow .
+frame140;surface_related;2;89;The explorer in the desert hopes to ride the caramel tomorrow .
+frame140;semantically_related;2.1;89;The explorer in the desert hopes to ride the oasis tomorrow .
+frame140;unrelated;1.9;89;The explorer in the desert hopes to ride the user tomorrow .
+frame141;target_word;4.4;34;For the parade, the king's servants will refurbish the entire castle perfectly .
+frame141;surface_related;1.1;34;For the parade, the king's servants will refurbish the entire cattle perfectly .
+frame141;semantically_related;1.7;34;For the parade, the king's servants will refurbish the entire lords perfectly .
+frame141;unrelated;1.5;34;For the parade, the king's servants will refurbish the entire depth perfectly .
+frame142;target_word;4.9;81;Making traditional Indian curry requires using several types of spice together .
+frame142;surface_related;1.4;81;Making traditional Indian curry requires using several types of space together .
+frame142;semantically_related;1.6;81;Making traditional Indian curry requires using several types of orient together .
+frame142;unrelated;1.7;81;Making traditional Indian curry requires using several types of excess together .
+frame143;target_word;4.5;95;To finish the cake, Scarlet spread the whipped cream generously .
+frame143;surface_related;2.2;95;To finish the cake, Scarlet spread the whipped dream generously .
+frame143;semantically_related;1.6;95;To finish the cake, Scarlet spread the whipped pizzas generously .
+frame143;unrelated;1.7;95;To finish the cake, Scarlet spread the whipped fibre generously .
+frame144;target_word;4.9;59;Students learned how to convert kilometres to miles yesterday .
+frame144;surface_related;1.5;59;Students learned how to convert kilometres to piles yesterday .
+frame144;semantically_related;1.9;59;Students learned how to convert kilometres to riders yesterday .
+frame144;unrelated;1.5;59;Students learned how to convert kilometres to veins yesterday .
+frame145;target_word;4.1;95;To compress the air, the machine applies high pressure constantly .
+frame145;surface_related;2.2;95;To compress the air, the machine applies high pleasure constantly .
+frame145;semantically_related;1.6;95;To compress the air, the machine applies high relief constantly .
+frame145;unrelated;1.5;95;To compress the air, the machine applies high session constantly .
+frame146;target_word;4.6;70;Before exchanging money, Rebecca asks the exchange rate usually .
+frame146;surface_related;1.2;70;Before exchanging money, Rebecca asks the exchange fate usually .
+frame146;semantically_related;2.1;70;Before exchanging money, Rebecca asks the exchange pace usually .
+frame146;unrelated;1.5;70;Before exchanging money, Rebecca asks the exchange exit usually .
+frame147;target_word;4.5;89;Lydia cannot eat anymore as she is so full now .
+frame147;surface_related;1.7;89;Lydia cannot eat anymore as she is so dull now .
+frame147;semantically_related;1.5;89;Lydia cannot eat anymore as she is so half now .
+frame147;unrelated;1.7;89;Lydia cannot eat anymore as she is so mild now .
+frame148;target_word;4.5;92;Dogs have a good sense of smell naturally .
+frame148;surface_related;1.2;92;Dogs have a good sense of shell naturally .
+frame148;semantically_related;1.6;92;Dogs have a good sense of nose naturally .
+frame148;unrelated;1.3;92;Dogs have a good sense of cash naturally .
+frame149;target_word;4.7;100;Laura will eat the ice cream quickly before it melts down .
+frame149;surface_related;1.6;100;Laura will eat the ice cream quickly before it meets down .
+frame149;semantically_related;1.7;100;Laura will eat the ice cream quickly before it boils down .
+frame149;unrelated;2.4;100;Laura will eat the ice cream quickly before it opens down .
+frame150;target_word;4.8;98;After the main course, Sara checked the dessert menu excitedly .
+frame150;surface_related;1.5;98;After the main course, Sara checked the dessert venue excitedly .
+frame150;semantically_related;2;98;After the main course, Sara checked the dessert chef excitedly .
+frame150;unrelated;1.2;98;After the main course, Sara checked the dessert bond excitedly .
+frame151;target_word;4.2;70;Andrew was late because his train had a delay again .
+frame151;surface_related;1.2;70;Andrew was late because his train had a decay again .
+frame151;semantically_related;1.5;70;Andrew was late because his train had a time again .
+frame151;unrelated;1.5;70;Andrew was late because his train had a tone again .
+frame152;target_word;4.3;34;The bomb expert pinpointed a switch to make the bomb explode finally .
+frame152;surface_related;1.8;34;The bomb expert pinpointed a switch to make the bomb explore finally .
+frame152;semantically_related;2.1;34;The bomb expert pinpointed a switch to make the bomb pour finally .
+frame152;unrelated;1.7;34;The bomb expert pinpointed a switch to make the bomb stretch finally .
+frame153;target_word;4.3;73;Immigration exposed Lisa to a different culture naturally .
+frame153;surface_related;1.4;73;Immigration exposed Lisa to a different vulture naturally .
+frame153;semantically_related;2.1;73;Immigration exposed Lisa to a different sociology naturally .
+frame153;unrelated;1.8;73;Immigration exposed Lisa to a different ginger naturally .
+frame154;target_word;4.3;39;The bridge was washed away by the flood yesterday .
+frame154;surface_related;1.7;39;The bridge was washed away by the blood yesterday .
+frame154;semantically_related;2.5;39;The bridge was washed away by the soil yesterday .
+frame154;unrelated;1.5;39;The bridge was washed away by the glove yesterday .
+frame155;target_word;4.7;100;The story was far from logical and didn't make any sense completely .
+frame155;surface_related;1.2;100;The story was far from logical and didn't make any fence completely .
+frame155;semantically_related;1.8;100;The story was far from logical and didn't make any taste completely .
+frame155;unrelated;1.5;100;The story was far from logical and didn't make any button completely .
+frame156;target_word;4.4;59;Having no ink or paper, the office workers couldn't print anything .
+frame156;surface_related;1.4;59;Having no ink or paper, the office workers couldn't point anything .
+frame156;semantically_related;2.1;59;Having no ink or paper, the office workers couldn't erase anything .
+frame156;unrelated;2.4;59;Having no ink or paper, the office workers couldn't move anything .
+frame157;target_word;4.6;87;In the tennis lesson, Lauren hit the ball with her racket well .
+frame157;surface_related;1.6;87;In the tennis lesson, Lauren hit the ball with her rocket well .
+frame157;semantically_related;1.5;87;In the tennis lesson, Lauren hit the ball with her game well .
+frame157;unrelated;2;87;In the tennis lesson, Lauren hit the ball with her area well .
+frame158;target_word;4.2;45;Joe has grown his moustache, but will give it a shave tomorrow .
+frame158;surface_related;1.4;45;Joe has grown his moustache, but will give it a share tomorrow .
+frame158;semantically_related;1.4;45;Joe has grown his moustache, but will give it a hair tomorrow .
+frame158;unrelated;1.7;45;Joe has grown his moustache, but will give it a turtle tomorrow .
+frame159;target_word;4.2;100;It's so itchy that Chris can't help scratching the mosquito bite constantly .
+frame159;surface_related;1.2;100;It's so itchy that Chris can't help scratching the mosquito bike constantly .
+frame159;semantically_related;1.6;100;It's so itchy that Chris can't help scratching the mosquito chew constantly .
+frame159;unrelated;2.3;100;It's so itchy that Chris can't help scratching the mosquito tape constantly .

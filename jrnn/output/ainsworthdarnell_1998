@@ -1,0 +1,161 @@
+Sentence;TargetWord;Probability;Surprisal
+Kim recommended Shakespeare to everyone after she saw Hamlet .;everyone;0.0037041216;8.076652526855469
+Kim recommended Shakespeare everyone after she saw Hamlet .;everyone;9.440627e-06;16.692686080932617
+Kim recommended Shakespeare to signs after she saw Hamlet .;signs;4.9723565e-07;20.93956756591797
+Kim recommended Shakespeare signs after she saw Hamlet .;signs;3.9360864e-07;21.276735305786133
+The chef entrusted the recipe to relatives before he left Italy .;relatives;7.673728e-05;13.669713020324707
+The chef entrusted the recipe relatives before he left Italy .;relatives;8.127846e-09;26.874479293823242
+The chef entrusted the recipe to carrots before he left Italy .;carrots;2.2228383e-07;22.101093292236328
+The chef entrusted the recipe carrots before he left Italy .;carrots;1.8760521e-07;22.345796585083008
+Karen submitted the article to Richard after she made corrections .;Richard;0.00080681324;10.275477409362793
+Karen submitted the article Richard after she made corrections .;Richard;8.8577247e-07;20.10655975341797
+Karen submitted the article to blankets after she made corrections .;blankets;1.6535868e-08;25.84982681274414
+Karen submitted the article blankets after she made corrections .;blankets;6.158438e-08;23.95285987854004
+Clara declared her position to Janet at the faculty meeting .;Janet;0.000100121746;13.285957336425781
+Clara declared her position Janet at the faculty meeting .;Janet;2.89932e-07;21.717782974243164
+Clara declared her position to Jell-o at the faculty meeting .;Jell-o;8.074788e-10;30.205856323242188
+Clara declared her position Jell-o at the faculty meeting .;Jell-o;5.5395366e-10;30.749515533447266
+The mayor dedicated the award to veterans for their national loyalty .;veterans;0.0016489119;9.244270324707031
+The mayor dedicated the award veterans for their national loyalty .;veterans;3.766429e-07;21.340299606323242
+The mayor dedicated the award to bronze for their national loyalty .;bronze;2.458982e-06;18.633506774902344
+The mayor dedicated the award bronze for their national loyalty .;bronze;2.4350499e-07;21.969545364379883
+The teenager returned the book to K-Mart nearly two weeks ago .;K-Mart;1.0141315e-07;23.233251571655273
+The teenager returned the book K-Mart nearly two weeks ago .;K-Mart;8.371135e-09;26.83193016052246
+The teenager returned the book to kleenex nearly two weeks ago .;kleenex;1.02707697e-10;33.18073654174805
+The teenager returned the book kleenex nearly two weeks ago .;kleenex;4.1773407e-10;31.156696319580078
+Jennifer proved something to everyone by solving the equation .;everyone;0.063929945;3.9673643112182617
+Jennifer proved something everyone by solving the equation .;everyone;0.0007091421;10.461637496948242
+Jennifer proved something to platforms by solving the equation .;platforms;1.8100684e-08;25.71938133239746
+Jennifer proved something platforms by solving the equation .;platforms;2.4723095e-08;25.26956558227539
+The sergeant delegated the duty to underlings while he was gone .;underlings;7.3783216e-05;13.726347923278809
+The sergeant delegated the duty underlings while he was gone .;underlings;8.778412e-10;30.0853214263916
+The sergeant delegated the duty to shoelaces while he was gone .;shoelaces;1.469719e-09;29.341812133789062
+The sergeant delegated the duty shoelaces while he was gone .;shoelaces;2.028125e-11;35.521060943603516
+The minister explained the passage to worshipers during his lengthy sermon .;worshipers;1.4085603e-06;19.437347412109375
+The minister explained the passage worshipers during his lengthy sermon .;worshipers;8.3307694e-10;30.160831451416016
+The minister explained the passage to watermelon during his lengthy sermon .;watermelon;2.0487356e-08;25.540691375732422
+The minister explained the passage watermelon during his lengthy sermon .;watermelon;6.899275e-10;30.432836532592773
+Catherine delivered the package to someone in the early evening .;someone;0.00032978;11.566208839416504
+Catherine delivered the package someone in the early evening .;someone;2.7666697e-06;18.46341896057129
+Catherine delivered the package to traditions in the early evening .;traditions;2.059943e-08;25.532819747924805
+Catherine delivered the package traditions in the early evening .;traditions;9.57743e-08;23.315786361694336
+The doctor referred the patient to specialists when he complained of pain .;specialists;0.0052101794;7.584451198577881
+The doctor referred the patient specialists when he complained of pain .;specialists;6.972168e-08;23.77381706237793
+The doctor referred the patient to arthritis when he complained of pain .;arthritis;9.211171e-08;23.372039794921875
+The doctor referred the patient arthritis when he complained of pain .;arthritis;1.6430215e-09;29.181001663208008
+The bartender suggested a drink to customers while they read the menu .;customers;0.00063496234;10.621041297912598
+The bartender suggested a drink customers while they read the menu .;customers;2.0152947e-06;18.920578002929688
+The bartender suggested a drink to glasses while they read the menu .;glasses;1.574247e-05;15.954978942871094
+The bartender suggested a drink glasses while they read the menu .;glasses;3.0586005e-05;14.996768951416016
+Beth mentioned her plans to friends before telling her father .;friends;3.569537e-05;14.773903846740723
+Beth mentioned her plans friends before telling her father .;friends;6.464717e-07;20.560909271240234
+Beth mentioned her plans to paper before telling her father .;paper;8.665228e-06;16.816329956054688
+Beth mentioned her plans paper before telling her father .;paper;3.8366704e-07;21.313642501831055
+The woman described the child to security at the shopping mall .;security;0.0007271327;10.425493240356445
+The woman described the child security at the shopping mall .;security;3.3614047e-06;18.182504653930664
+The woman described the child to measures at the shopping mall .;measures;3.175561e-07;21.586484909057617
+The woman described the child measures at the shopping mall .;measures;4.18961e-07;21.18667984008789
+Lee introduced his dog to everyone at the birthday party .;everyone;0.0008102394;10.269364356994629
+Lee introduced his dog everyone at the birthday party .;everyone;1.7405346e-05;15.810110092163086
+Lee introduced his dog to entrances at the birthday party .;entrances;4.061616e-08;24.55337142944336
+Lee introduced his dog entrances at the birthday party .;entrances;6.5411463e-09;27.187808990478516
+Timmy reported the story to adults after he came inside .;adults;9.770711e-06;16.643104553222656
+Timmy reported the story adults after he came inside .;adults;6.948641e-08;23.77869415283203
+Timmy reported the story to thumbtacks after he came inside .;thumbtacks;2.4125785e-10;31.948705673217773
+Timmy reported the story thumbtacks after he came inside .;thumbtacks;3.3008984e-10;31.496421813964844
+The lobbyist expressed his opinions to congressmen several times every month .;congressmen;0.00012490533;12.966876983642578
+The lobbyist expressed his opinions congressmen several times every month .;congressmen;1.5299896e-08;25.961902618408203
+The lobbyist expressed his opinions to convertibles several times every month .;convertibles;6.992448e-11;33.73541259765625
+The lobbyist expressed his opinions convertibles several times every month .;convertibles;2.0770145e-10;32.16476821899414
+Psychologists attributed that behavior to children when they are depressed .;children;0.0032785474;8.252727508544922
+Psychologists attributed that behavior children when they are depressed .;children;8.6388866e-07;20.142650604248047
+Psychologists attributed that behavior to experiments when they are depressed .;experiments;2.819769e-05;15.114063262939453
+Psychologists attributed that behavior experiments when they are depressed .;experiments;1.8322626e-07;22.37986946105957
+Greg distributed the pamphlets to clients in the late afternoon .;clients;0.0031926336;8.291037559509277
+Greg distributed the pamphlets clients in the late afternoon .;clients;3.0399625e-07;21.649442672729492
+Greg distributed the pamphlets to machines in the late afternoon .;machines;2.5554332e-06;18.578001022338867
+Greg distributed the pamphlets machines in the late afternoon .;machines;4.971688e-08;24.261688232421875
+The company contributed money to churches every year in December .;churches;7.180284e-05;13.765599250793457
+The company contributed money churches every year in December .;churches;3.964347e-09;27.910268783569336
+The company contributed money to checks every year in December .;checks;7.331653e-06;17.057430267333984
+The company contributed money checks every year in December .;checks;3.2418748e-06;18.234739303588867
+Bob didn 't recommend Hemingway to anybody after taking that class .;anybody;0.02358682;5.405875205993652
+Bob didn 't recommend Hemingway anybody after taking that class .;anybody;9.490684e-06;16.685056686401367
+Bob didn 't recommend Hemingway to anxiety after taking that class .;anxiety;8.983421e-07;20.086231231689453
+Bob didn 't recommend Hemingway anxiety after taking that class .;anxiety;4.1806982e-07;21.18975257873535
+Jill entrusted the formula to colleagues right before she disappeared .;colleagues;0.00025373802;11.94437313079834
+Jill entrusted the formula colleagues right before she disappeared .;colleagues;1.9564594e-07;22.28525161743164
+Jill entrusted the formula to chemicals right before she disappeared .;chemicals;2.2369152e-07;22.09198570251465
+Jill entrusted the formula chemicals right before she disappeared .;chemicals;6.555203e-07;20.540855407714844
+Paul submitted the application to Meijer after he quit Target .;Meijer;3.448369e-08;24.78951072692871
+Paul submitted the application Meijer after he quit Target .;Meijer;1.1669093e-09;29.674659729003906
+Paul submitted the application to pencils after he quit Target .;pencils;3.7769336e-08;24.6582088470459
+Paul submitted the application pencils after he quit Target .;pencils;9.0789465e-09;26.714828491210938
+The President declared his support to Congress by signing the bill .;Congress;0.0024275363;8.686291694641113
+The President declared his support Congress by signing the bill .;Congress;4.0251675e-06;17.92251968383789
+The President declared his support to cables by signing the bill .;cables;2.056974e-07;22.21297264099121
+The President declared his support cables by signing the bill .;cables;6.6698322e-09;27.15970230102539
+The disc jockey dedicated the song to soldiers during the Gulf War .;soldiers;0.00013800329;12.823009490966797
+The disc jockey dedicated the song soldiers during the Gulf War .;soldiers;6.205337e-08;23.94191551208496
+The disc jockey dedicated the song to centuries during the Gulf War .;centuries;2.0467276e-07;22.220176696777344
+The disc jockey dedicated the song centuries during the Gulf War .;centuries;7.215623e-08;23.724300384521484
+Al returned the video to Barbara right after watching it .;Barbara;2.4488549e-05;15.317533493041992
+Al returned the video Barbara right after watching it .;Barbara;2.857307e-07;21.738840103149414
+Al returned the video to bananas right after watching it .;bananas;5.231654e-08;24.18815803527832
+Al returned the video bananas right after watching it .;bananas;1.2056013e-06;19.661815643310547
+The inventor proved his idea to experts by building an electric car .;experts;1.7971304e-05;15.763945579528809
+The inventor proved his idea experts by building an electric car .;experts;3.2104083e-06;18.248811721801758
+The inventor proved his idea to patents by building an electric car .;patents;7.0086185e-07;20.444366455078125
+The inventor proved his idea patents by building an electric car .;patents;6.7223805e-06;17.18259620666504
+The courier delivered messages to people at the front desk .;people;0.0036031348;8.116531372070312
+The courier delivered messages people at the front desk .;people;4.690441e-06;17.701845169067383
+The courier delivered messages to goods at the front desk .;goods;3.2668618e-06;18.223663330078125
+The courier delivered messages goods at the front desk .;goods;4.3991886e-07;21.11625862121582
+Greg delegated the responsibility to members at each monthly meeting .;members;0.00059323234;10.719115257263184
+Greg delegated the responsibility members at each monthly meeting .;members;1.9047449e-06;19.001970291137695
+Greg delegated the responsibility to clocks at each monthly meeting .;clocks;9.159998e-08;23.380077362060547
+Greg delegated the responsibility clocks at each monthly meeting .;clocks;4.8719415e-09;27.612855911254883
+Diana explained the poem to Steven in the school library .;Steven;0.00014187592;12.783082962036133
+Diana explained the poem Steven in the school library .;Steven;9.764507e-07;19.96595001220703
+Diana explained the poem to sponges in the school library .;sponges;5.0561897e-09;27.559301376342773
+Diana explained the poem sponges in the school library .;sponges;5.025748e-09;27.56801414489746
+The judge referred the defendant to lawyers that specialize in libel cases .;lawyers;6.6267385e-05;13.881341934204102
+The judge referred the defendant lawyers that specialize in libel cases .;lawyers;6.0488637e-06;17.334903717041016
+The judge referred the defendant to perjury that specialize in libel cases .;perjury;3.2716455e-06;18.2215518951416
+The judge referred the defendant perjury that specialize in libel cases .;perjury;2.0304222e-07;22.23171615600586
+Joseph suggested a restaurant to us in a nearby town .;us;0.0006245275;10.644947052001953
+Joseph suggested a restaurant us in a nearby town .;us;4.169418e-07;21.19365119934082
+Joseph suggested a restaurant to broccoli in a nearby town .;broccoli;9.762193e-07;19.966291427612305
+Joseph suggested a restaurant broccoli in a nearby town .;broccoli;9.745029e-09;26.612686157226562
+Cory mentioned a job to Kelly last week during lunch .;Kelly;0.0023823723;8.713385581970215
+Cory mentioned a job Kelly last week during lunch .;Kelly;6.225469e-06;17.293386459350586
+Cory mentioned a job to cars last week during lunch .;cars;3.1603245e-06;18.271495819091797
+Cory mentioned a job cars last week during lunch .;cars;7.1549304e-09;27.058414459228516
+The artist described the sculpture to Carol when they met last Monday .;Carol;5.3332846e-05;14.194616317749023
+The artist described the sculpture Carol when they met last Monday .;Carol;1.1894448e-07;23.00320816040039
+The artist described the sculpture to crows when they met last Monday .;crows;1.4266871e-07;22.740827560424805
+The artist described the sculpture crows when they met last Monday .;crows;2.5632403e-08;25.217456817626953
+Marco Polo introduced spaghetti to Europe after returning from China .;Europe;0.003318026;8.235459327697754
+Marco Polo introduced spaghetti Europe after returning from China .;Europe;1.6307282e-05;15.90412425994873
+Marco Polo introduced spaghetti to fork after returning from China .;fork;1.8195149e-06;19.06801414489746
+Marco Polo introduced spaghetti fork after returning from China .;fork;5.2474466e-06;17.539953231811523
+The victim reported the robbery to police after she arrived home .;police;0.15845695;2.657837152481079
+The victim reported the robbery police after she arrived home .;police;2.2209271e-05;15.458477973937988
+The victim reported the robbery to markets after she arrived home .;markets;3.0890337e-08;24.94826889038086
+The victim reported the robbery markets after she arrived home .;markets;2.4411412e-08;25.28786849975586
+The priest attributed many powers to God while reading the scriptures .;God;0.011812326;6.403563022613525
+The priest attributed many powers God while reading the scriptures .;God;2.63166e-06;18.535594940185547
+The priest attributed many powers to pews while reading the scriptures .;pews;2.7213542e-07;21.809171676635742
+The priest attributed many powers pews while reading the scriptures .;pews;5.41636e-10;30.781957626342773
+Frederick expressed his kindness to others through his daily actions .;others;0.0009256039;10.077317237854004
+Frederick expressed his kindness others through his daily actions .;others;2.5475556e-06;18.582454681396484
+Frederick expressed his kindness to options through his daily actions .;options;5.698459e-07;20.7429256439209
+Frederick expressed his kindness options through his daily actions .;options;6.918439e-08;23.78497886657715
+The guide distributed samples to tourists as they walked by .;tourists;0.0007020869;10.476062774658203
+The guide distributed samples tourists as they walked by .;tourists;1.17540566e-07;23.02033805847168
+The guide distributed samples to slides as they walked by .;slides;2.0389895e-07;22.225643157958984
+The guide distributed samples slides as they walked by .;slides;9.668148e-07;19.980257034301758
+Dan contributed his time to charities after winning the lottery .;charities;2.1121783e-05;15.530908584594727
+Dan contributed his time charities after winning the lottery .;charities;5.902517e-08;24.014095306396484
+Dan contributed his time to cherries after winning the lottery .;cherries;3.040027e-08;24.97134017944336
+Dan contributed his time cherries after winning the lottery .;cherries;5.343391e-09;27.479597091674805

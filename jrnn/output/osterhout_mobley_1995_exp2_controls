@@ -1,0 +1,181 @@
+Sentence;TargetWord;Probability;Surprisal
+The horse raced down the track and won the race easily .;won;0.014337959;6.124016761779785
+The horse raced down the track and bargained the race easily .;bargained;5.084493e-08;24.229320526123047
+The boat sailed down the river and sank during the storm .;sank;0.007884762;6.986717224121094
+The boat sailed down the river and coughed during the storm .;coughed;2.9680648e-06;18.362045288085938
+The car rolled down the hill and stopped when it hit a tree .;stopped;0.008118612;6.944551467895508
+The car rolled down the hill and complained when it hit a tree .;complained;2.400895e-06;18.66799545288086
+The rocket shot into the sky and exploded in a fireball .;exploded;0.058485016;4.095788955688477
+The rocket shot into the sky and laughed in a fireball .;laughed;9.157363e-06;16.736637115478516
+The team rested for several days and won the championship .;won;0.0057217157;7.449336528778076
+The team rested for several days and burned the championship .;burned;5.8587535e-05;14.059046745300293
+The executive showed the report and frowned after the meeting .;frowned;3.0794067e-06;18.308916091918945
+The executive showed the report and floated after the meeting .;floated;1.6702043e-05;15.86961555480957
+The applicant refused the job and complained to the government agency .;complained;0.0049078357;7.670697212219238
+The applicant refused the job and exploded to the government agency .;exploded;8.1703465e-06;16.90117073059082
+The man paid for the job and left his work gloves behind .;left;0.0030912105;8.33761215209961
+The man paid for the job and popped his work gloves behind .;popped;2.2228089e-05;15.457256317138672
+The runner expected to win and lost the race instead .;lost;0.0006319612;10.627876281738281
+The runner expected to win and ducked the race instead .;ducked;1.3182731e-06;19.53291893005371
+The little girl read the sad story and cried about it for days .;cried;0.027107578;5.205160140991211
+The little girl read the sad story and cracked about it for days .;cracked;6.867327e-05;13.8298921585083
+The man told the truth and resigned in disgrace .;resigned;0.00032548985;11.585100173950195
+The man told the truth and milked in disgrace .;milked;1.1798999e-06;19.692903518676758
+The doctor rushed to the scene and helped to revive the victim .;helped;0.008548861;6.870051860809326
+The doctor rushed to the scene and saluted to revive the victim .;saluted;3.7670576e-05;14.696202278137207
+The actress called from New York and complained to her agent .;complained;0.0005988323;10.705560684204102
+The actress called from New York and sank to her agent .;sank;9.739734e-06;16.647686004638672
+The lawyer hurried through the proceedings and blundered during his presentation .;blundered;2.2466545e-06;18.763790130615234
+The lawyer hurried through the proceedings and hit during his presentation .;hit;0.00048622984;11.006073951721191
+The fielder tossed the ball and missed his chance to tag out the runner .;missed;0.011226495;6.4769487380981445
+The fielder tossed the ball and unpacked his chance to tag out the runner .;unpacked;2.9156324e-06;18.387760162353516
+The student lectured on honesty and lied about his grades .;lied;6.4311016e-06;17.246501922607422
+The student lectured on honesty and docked about his grades .;docked;7.947525e-08;23.584918975830078
+The corporation moved to New Jersey and grew very rapidly .;grew;0.00059727137;10.709325790405273
+The corporation moved to New Jersey and sneezed very rapidly .;sneezed;2.101969e-08;25.50368309020996
+The player passed the ball and scored the touchdown .;scored;0.008223924;6.925957202911377
+The player passed the ball and slept the touchdown .;slept;2.3595732e-05;15.371114730834961
+The man phoned from Chicago and volunteered for the job .;volunteered;0.00015391242;12.665602684020996
+The man phoned from Chicago and collided for the job .;collided;3.2810044e-06;18.217430114746094
+The boy told the joke and laughed at the punch line .;laughed;0.0077586146;7.009985446929932
+The boy told the joke and dropped at the punch line .;dropped;0.0004063874;11.264856338500977
+The spy watched for several days and escaped over the fence .;escaped;0.00014693459;12.732538223266602
+The spy watched for several days and barked over the fence .;barked;3.7025334e-06;18.04305648803711
+The man mailed the letter and waited for a reply .;waited;0.0007691601;10.344428062438965
+The man mailed the letter and steered for a reply .;steered;2.1851693e-05;15.481895446777344
+The patient left in pain and died the next day .;died;0.024209898;5.368258953094482
+The patient left in pain and floated the next day .;floated;1.2770896e-05;16.25678062438965
+The dealer sold the car and complained about the transmission .;complained;0.00013933689;12.809135437011719
+The dealer sold the car and sank about the transmission .;sank;1.5061549e-05;16.018770217895508
+The company sued for damages and lost the case .;lost;0.07251605;3.785555839538574
+The company sued for damages and resigned the case .;resigned;0.00021864612;12.159114837646484
+The politician read the funny story and laughed for several minutes .;laughed;0.0065686544;7.250186443328857
+The politician read the funny story and cried for several minutes .;cried;0.0011431496;9.772769927978516
+The lady sent the flowers and blushed when she thought about them .;blushed;1.579001e-06;19.27255630493164
+The lady sent the flowers and popped when she thought about them .;popped;5.1622803e-05;14.241632461547852
+The employee asked to retire and resigned from the company .;resigned;0.0007501037;10.380621910095215
+The employee asked to retire and guessed from the company .;guessed;1.9953786e-06;18.934906005859375
+The barge floated across the lake and docked next to the warehouse .;docked;0.00037609346;11.37662124633789
+The barge floated across the lake and laughed next to the warehouse .;laughed;6.000175e-06;17.3465633392334
+The boxer pushed into the ring and fought three good rounds .;fought;0.01015934;6.621049404144287
+The boxer pushed into the ring and wrote three good rounds .;wrote;9.4887466e-05;13.363423347473145
+The car raced around the speedway and crashed into a wall .;crashed;0.00877205;6.832870006561279
+The car raced around the speedway and bargained into a wall .;bargained;5.2877454e-08;24.172771453857422
+The plane sailed through the air and landed on the runway .;landed;0.21101852;2.244558572769165
+The plane sailed through the air and laughed on the runway .;laughed;1.3514601e-05;16.175121307373047
+The puppy rolled the ball and barked at it .;barked;0.00034923165;11.483528137207031
+The puppy rolled the ball and applauded at it .;applauded;9.761833e-06;16.64441680908203
+The arrow shot into the air and fell into a haystack .;fell;0.0039950716;7.967562675476074
+The arrow shot into the air and resigned into a haystack .;resigned;2.6326466e-06;18.53505516052246
+The patient rested for the night and recovered quickly from the operation .;recovered;0.0029793384;8.390791893005371
+The patient rested for the night and collided quickly from the operation .;collided;2.0805035e-06;18.874635696411133
+The professor asked a question and responded with a thoughtful comment .;responded;0.0036802809;8.085968017578125
+The professor asked a question and docked with a thoughtful comment .;docked;1.4027948e-07;22.76519203186035
+The manager refused the raise and quit his job .;quit;0.00022622006;12.1099853515625
+The manager refused the raise and clawed his job .;clawed;1.3335626e-05;16.194355010986328
+The worker paid the tip and left his wallet on the table .;left;0.010085326;6.631598472595215
+The worker paid the tip and popped his wallet on the table .;popped;2.207284e-05;15.467368125915527
+The actress expected to star and failed in her role in the play .;failed;0.00016788274;12.540258407592773
+The actress expected to star and saluted in her role in the play .;saluted;1.8003923e-06;19.0832576751709
+The criminal stopped in New York and fled into a nearby store .;fled;0.002026223;8.946990966796875
+The criminal stopped in New York and sank into a nearby store .;sank;2.3886152e-05;15.353466033935547
+The army battalion rushed to the front and retreated after the battle .;retreated;0.0029344982;8.412670135498047
+The army battalion rushed to the front and bit after the battle .;bit;5.783781e-05;14.077627182006836
+The boy rushed to the hospital and collapsed on the emergency room floor .;collapsed;0.0024812864;8.654696464538574
+The boy rushed to the hospital and steered on the emergency room floor .;steered;7.3760684e-06;17.048715591430664
+The flight attendant called to the cockpit and returned to the cabin .;returned;0.0006391976;10.6114501953125
+The flight attendant called to the cockpit and milked to the cabin .;milked;5.519978e-08;24.110761642456055
+The old man hurried across the street and fell down the stairwell .;fell;0.0047524367;7.717116832733154
+The old man hurried across the street and flew down the stairwell .;flew;0.00021429583;12.188108444213867
+The boy tossed the frisbee and ran across the field .;ran;0.05654892;4.144356727600098
+The boy tossed the frisbee and slept across the field .;slept;0.00018004049;12.439391136169434
+The gambler dealt the cards and lost the pot of money .;lost;0.004993123;7.6458420753479
+The gambler dealt the cards and broke the pot of money .;broke;0.00022482075;12.118937492370605
+The family moved from the building and prospered in their new house .;prospered;4.1127776e-05;14.569527626037598
+The family moved from the building and exploded in their new house .;exploded;2.338637e-05;15.38397216796875
+The guest passed the food and ate some of the chocolate cake .;ate;0.0040399246;7.951456069946289
+The guest passed the food and hired some of the chocolate cake .;hired;5.1602823e-05;14.24219036102295
+The attorney phoned from Chicago and relented about the deal .;relented;1.5656053e-06;19.284847259521484
+The attorney phoned from Chicago and brushed about the deal .;brushed;1.8981433e-05;15.685051918029785
+The girl told a scary story and cried for several hours .;cried;0.00064436573;10.599832534790039
+The girl told a scary story and wrote for several hours .;wrote;0.0014689345;9.411014556884766
+The lion watched for several hours and attacked the sickly deer .;attacked;0.00052715756;10.889477729797363
+The lion watched for several hours and sank the sickly deer .;sank;0.00012785057;12.93325424194336
+The man served the wine and drank several glasses before dinner .;drank;0.008111415;6.945830821990967
+The man served the wine and popped several glasses before dinner .;popped;0.00030827342;11.663501739501953
+The lady left the money and disappeared without a trace .;disappeared;0.004418179;7.822332382202148
+The lady left the money and flushed without a trace .;flushed;2.0579306e-05;15.568446159362793
+The young couple sold the house and moved into an apartment .;moved;0.33799064;1.5649447441101074
+The young couple sold the house and landed into an apartment .;landed;0.00020954706;12.220438003540039
+The lawyer sued for malpractice and won the court case .;won;0.011160657;6.485434055328369
+The lawyer sued for malpractice and bit the court case .;bit;2.9139685e-06;18.38858413696289
+The man read the letter and responded with an angry reply .;responded;0.0024123313;8.695356369018555
+The man read the letter and popped with an angry reply .;popped;7.9433754e-05;13.619888305664062
+The banker sent the large check and celebrated the financial deal .;celebrated;3.1169577e-05;14.969501495361328
+The banker sent the large check and saluted the financial deal .;saluted;2.726119e-06;18.48472023010254
+The logs floated down the river and sank during the storm .;sank;0.00061552593;10.665892601013184
+The logs floated down the river and sneezed during the storm .;sneezed;5.977356e-08;23.99591636657715
+The baby showed the doll and smiled happily for several minutes .;smiled;0.008817343;6.825440406799316
+The baby showed the doll and bargained happily for several minutes .;bargained;1.6519576e-06;19.2073917388916
+The hockey player pushed off the ice and scored the winning goal .;scored;0.0004901891;10.99437427520752
+The hockey player pushed off the ice and lectured the winning goal .;lectured;9.061998e-06;16.751739501953125
+The airplane raced through the sky and landed at the airport .;landed;0.19982569;2.323185920715332
+The airplane raced through the sky and laughed at the airport .;laughed;1.5303714e-05;15.995759010314941
+The ball rolled down the hill and broke into several pieces .;broke;0.0012568852;9.635931015014648
+The ball rolled down the hill and resigned into several pieces .;resigned;6.193518e-07;20.622737884521484
+The bottle rolled down the hill and broke into several pieces .;broke;0.004154698;7.911040782928467
+The bottle rolled down the hill and resigned into several pieces .;resigned;2.036462e-06;18.90550422668457
+The bullet shot out of the gun and missed its target .;missed;0.002772699;8.49449348449707
+The bullet shot out of the gun and celebrated its target .;celebrated;4.8912484e-06;17.64136505126953
+The horse rested in the stable and slept for several hours .;slept;0.0013293201;9.555095672607422
+The horse rested in the stable and saluted for several hours .;saluted;3.984512e-06;17.937166213989258
+The woman asked for a divorce and cried after receiving the papers .;cried;4.7305784e-05;14.367624282836914
+The woman asked for a divorce and sank after receiving the papers .;sank;8.516816e-06;16.84125518798828
+The clerk refused a promotion and quit in disgust .;quit;0.000556191;10.812131881713867
+The clerk refused a promotion and floated in disgust .;floated;4.4867147e-06;17.76590919494629
+The reporter paid for the information and smiled in anticipation of the story .;smiled;8.8385335e-05;13.46583366394043
+The reporter paid for the information and barked in anticipation of the story .;barked;6.9206595e-07;20.462587356567383
+The patient expected to recover and died of complications .;died;0.0053382823;7.549408912658691
+The patient expected to recover and docked of complications .;docked;1.5410758e-07;22.629558563232422
+The man stopped in the alley and fled before the police arrived .;fled;0.0018772339;9.057175636291504
+The man stopped in the alley and steered before the police arrived .;steered;0.0001679901;12.539336204528809
+The soldier issued the order and saluted to with his commanding officer .;to;0.00666381;7.229436874389648
+The soldier issued the order and saluted collided with his commanding officer .;collided;9.016373e-09;26.72480583190918
+The woman rushed down the hall and slipped on a banana peel .;slipped;0.00085881545;10.18536376953125
+The woman rushed down the hall and bit on a banana peel .;bit;0.00024461842;11.99717903137207
+The broker called into the office and left in a huff .;left;0.0020395764;8.937514305114746
+The broker called into the office and burned in a huff .;burned;1.0994109e-05;16.472909927368164
+The dog hurried through the park and barked at a running squirrel .;barked;0.0016051069;9.28311538696289
+The dog hurried through the park and yelled at a running squirrel .;yelled;0.000110059234;13.149432182312012
+The soldier tossed the grenade and ducked into a foxhole .;ducked;0.0008207655;10.250741958618164
+The soldier tossed the grenade and danced into a foxhole .;danced;2.1952885e-05;15.47523021697998
+The boy left in the car and whined about his parents .;whined;4.5904642e-08;24.376785278320312
+The boy left in the car and popped about his parents .;popped;2.7497748e-05;15.1503267288208
+The actress moved to Los Angeles and unpacked her bags .;unpacked;4.2950947e-07;21.150806427001953
+The actress moved to Los Angeles and sank her bags .;sank;2.4680608e-05;15.306262969970703
+The senator read the legislation and voted in favor of the measure .;voted;0.0047818753;7.708207607269287
+The senator read the legislation and flushed in favor of the measure .;flushed;4.197198e-06;17.86214256286621
+The girl bought the nightgown and blushed at the thought of wearing it .;blushed;1.3576166e-06;19.49049186706543
+The girl bought the nightgown and floated at the thought of wearing it .;floated;1.18274775e-05;16.36749839782715
+The executive denied the request and quit his job the next day .;quit;0.00014671046;12.734740257263184
+The executive denied the request and flew his job the next day .;flew;0.00014742688;12.727712631225586
+The woman sent the bad news and fainted into the arms of her husband .;fainted;2.028556e-05;15.589187622070312
+The woman sent the bad news and broke into the arms of her husband .;broke;0.0009348937;10.062910079956055
+The loan shark mailed the loot and disappeared for three years .;disappeared;0.00066770805;10.548495292663574
+The loan shark mailed the loot and saluted for three years .;saluted;9.2392594e-07;20.045719146728516
+The passenger left on the boat and drowned during the storm .;drowned;0.0003553197;11.45859432220459
+The passenger left on the boat and barked during the storm .;barked;2.4920166e-06;18.614253997802734
+The old woman sold the farm and died two months later .;died;0.0037449892;8.060822486877441
+The old woman sold the farm and collided two months later .;collided;1.4162287e-06;19.429513931274414
+The customer refused the seat and left a very small tip .;left;0.01574871;5.988622665405273
+The customer refused the seat and chomped a very small tip .;chomped;1.510323e-05;16.01478385925293
+The actor read the poor review and cursed the newspaper critic .;cursed;1.4204595e-05;16.103282928466797
+The actor read the poor review and brushed the newspaper critic .;brushed;0.0002449226;11.995386123657227
+The driver stopped at the light and waited for the light to change .;waited;0.0022606768;8.789029121398926
+The driver stopped at the light and broke for the light to change .;broke;0.00030074216;11.699185371398926
+The lawyer sent the good news and celebrated with a bottle of wine .;celebrated;4.2143743e-05;14.534321784973145
+The lawyer sent the good news and steered with a bottle of wine .;steered;3.6564343e-05;14.739203453063965
+The balloon floated in the air and popped with a loud bang .;popped;0.0013959137;9.484574317932129
+The balloon floated in the air and slept with a loud bang .;slept;2.3143903e-05;15.399008750915527
+The lady pushed into the cab and complained about the rude service .;complained;0.00025352422;11.945589065551758
+The lady pushed into the cab and chopped about the rude service .;chopped;1.1880656e-05;16.361026763916016

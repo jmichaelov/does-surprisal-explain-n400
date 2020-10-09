@@ -1,0 +1,481 @@
+Sentence;TargetWord;Probability;Surprisal
+Prosecutors often accuse defendants of committing a crime .;defendants;0.038614113;4.694727897644043
+Prosecutors rarely accuse defendants of committing a crime .;defendants;0.033285797;4.908949375152588
+Prosecutors often accuse sheriffs of committing a crime .;sheriffs;1.4309926e-06;19.414552688598633
+Prosecutors rarely accuse sheriffs of committing a crime .;sheriffs;1.2158699e-06;19.649580001831055
+Groupies often follow singers around the country .;singers;8.7209286e-05;13.485158920288086
+Groupies rarely follow singers around the country .;singers;2.3819339e-05;15.35750675201416
+Groupies often follow boys around the country .;boys;0.002237568;8.803853034973145
+Groupies rarely follow boys around the country .;boys;0.0006851555;10.51128101348877
+Postmen often carry mail in their satchel .;mail;0.00019119967;12.352632522583008
+Postmen rarely carry mail in their satchel .;mail;0.0005875109;10.733097076416016
+Postmen often carry oil in their satchel .;oil;4.2598174e-05;14.518848419189453
+Postmen rarely carry oil in their satchel .;oil;6.0426708e-05;14.014453887939453
+Kittens often chase mice if given the chance .;mice;0.005612306;7.4771904945373535
+Kittens rarely chase mice if given the chance .;mice;0.0014540245;9.425732612609863
+Kittens often chase flies if given the chance .;flies;0.0011491025;9.765276908874512
+Kittens rarely chase flies if given the chance .;flies;0.0022851815;8.773475646972656
+Doctors often treat cancer as a serious condition .;cancer;0.013059907;6.258711814880371
+Doctors rarely treat cancer as a serious condition .;cancer;0.010640638;6.554271697998047
+Doctors often treat hunger as a serious condition .;hunger;1.25550205e-05;16.281375885009766
+Doctors rarely treat hunger as a serious condition .;hunger;1.5096701e-05;16.01540756225586
+Chefs often cook pancakes for breakfast at roadside diners .;pancakes;3.266697e-05;14.90180778503418
+Chefs rarely cook pancakes for breakfast at roadside diners .;pancakes;8.819117e-06;16.79093360900879
+Chefs often cook pears for breakfast at roadside diners .;pears;1.9953295e-06;18.9349422454834
+Chefs rarely cook pears for breakfast at roadside diners .;pears;6.9140856e-07;20.463958740234375
+Boxers often fight opponents in cities where there are large crowds .;opponents;0.00010149666;13.266280174255371
+Boxers rarely fight opponents in cities where there are large crowds .;opponents;0.00010388985;13.232657432556152
+Boxers often fight lawsuits in cities where there are large crowds .;lawsuits;1.4572337e-05;16.066408157348633
+Boxers rarely fight lawsuits in cities where there are large crowds .;lawsuits;2.5545141e-06;18.578519821166992
+Archaeologists often find artifacts when they excavate ancient cities .;artifacts;0.015143475;6.045159816741943
+Archaeologists rarely find artifacts when they excavate ancient cities .;artifacts;0.031744443;4.977352142333984
+Archaeologists often find gold when they excavate ancient cities .;gold;0.0017426766;9.16447925567627
+Archaeologists rarely find gold when they excavate ancient cities .;gold;0.0019025262;9.037867546081543
+Farmers often grow crops as their primary source of cash .;crops;0.113168;3.1434619426727295
+Farmers rarely grow crops as their primary source of cash .;crops;0.0671011;3.897519826889038
+Farmers often grow worms as their primary source of cash .;worms;3.0125995e-05;15.018631935119629
+Farmers rarely grow worms as their primary source of cash .;worms;1.7322796e-05;15.81696891784668
+Veterinarians often help animals when they get injured .;animals;0.02919237;5.098264694213867
+Veterinarians rarely help animals when they get injured .;animals;0.07372435;3.7617149353027344
+Veterinarians often help coyotes when they get injured .;coyotes;5.4792486e-05;14.155662536621094
+Veterinarians rarely help coyotes when they get injured .;coyotes;0.00016772961;12.54157543182373
+Lions often hunt gazelles as they prowl the savanah .;gazelles;0.00050064124;10.963934898376465
+Lions rarely hunt gazelles as they prowl the savanah .;gazelles;0.00012561721;12.958678245544434
+Lions often hunt bears as they prowl the savanah .;bears;0.0039204764;7.994755268096924
+Lions rarely hunt bears as they prowl the savanah .;bears;0.0018238933;9.098762512207031
+Brides often kiss grooms during their wedding ceremony .;grooms;9.6989424e-05;13.331812858581543
+Brides rarely kiss grooms during their wedding ceremony .;grooms;8.042606e-05;13.601977348327637
+Brides often kiss babies during their wedding ceremony .;babies;0.0011047734;9.822033882141113
+Brides rarely kiss babies during their wedding ceremony .;babies;0.00033784;11.5313720703125
+Artists often paint portraits to pay their bills .;portraits;0.054200694;4.205544948577881
+Artists rarely paint portraits to pay their bills .;portraits;0.008856933;6.818977355957031
+Artists often paint maps to pay their bills .;maps;0.0002637219;11.888694763183594
+Artists rarely paint maps to pay their bills .;maps;6.438181e-05;13.92298698425293
+Historians often study articles written by their colleagues .;articles;0.00013441723;12.860994338989258
+Historians rarely study articles written by their colleagues .;articles;0.00011383806;13.100728988647461
+Historians often study poetry written by their colleagues .;poetry;0.00020826516;12.229290962219238
+Historians rarely study poetry written by their colleagues .;poetry;0.000150778;12.695286750793457
+Authors often write books to make a living .;books;0.025609309;5.2871880531311035
+Authors rarely write books to make a living .;books;0.051880248;4.268671035766602
+Authors often write lists to make a living .;lists;0.0017798505;9.134028434753418
+Authors rarely write lists to make a living .;lists;0.00067225413;10.538705825805664
+Bands often record albums throughout their careers .;albums;0.050505206;4.307424068450928
+Bands rarely record albums throughout their careers .;albums;0.046949036;4.4127607345581055
+Bands often record hits throughout their careers .;hits;0.013114235;6.252722263336182
+Bands rarely record hits throughout their careers .;hits;0.01249009;6.32307243347168
+Cats often scratch furniture if they are not declawed .;furniture;0.00011379134;13.10132122039795
+Cats rarely scratch furniture if they are not declawed .;furniture;8.668978e-05;13.493778228759766
+Cats often scratch walls if they are not declawed .;walls;0.00016047749;12.605341911315918
+Cats rarely scratch walls if they are not declawed .;walls;0.0002042442;12.257417678833008
+Janitors often clean floors after cleaning everything else .;floors;0.013331742;6.2289910316467285
+Janitors rarely clean floors after cleaning everything else .;floors;0.008469698;6.883473873138428
+Janitors often clean dishes after cleaning everything else .;dishes;0.0010193215;9.938175201416016
+Janitors rarely clean dishes after cleaning everything else .;dishes;0.0006399171;10.609827041625977
+Lawyers often argue cases in a court of law .;cases;0.0007494088;10.381959915161133
+Lawyers rarely argue cases in a court of law .;cases;0.0017569305;9.152727127075195
+Lawyers often argue politics in a court of law .;politics;1.6305647e-05;15.904269218444824
+Lawyers rarely argue politics in a court of law .;politics;7.23329e-05;13.754988670349121
+Judges often sentence murderers to life in prison .;murderers;0.008079667;6.951488494873047
+Judges rarely sentence murderers to life in prison .;murderers;0.038748894;4.689701080322266
+Judges often sentence monks to life in prison .;monks;8.896749e-05;13.456361770629883
+Judges rarely sentence monks to life in prison .;monks;8.0433536e-05;13.601842880249023
+Waitresses often bring cocktails to customers who get their attention .;cocktails;0.0030113333;8.375381469726562
+Waitresses rarely bring cocktails to customers who get their attention .;cocktails;0.0011262575;9.7942476272583
+Waitresses often bring napkins to customers who get their attention .;napkins;0.0024316062;8.68387508392334
+Waitresses rarely bring napkins to customers who get their attention .;napkins;0.001353046;9.529573440551758
+Hunters often shoot game during the hunting season .;game;6.131812e-05;13.993327140808105
+Hunters rarely shoot game during the hunting season .;game;3.813279e-05;14.678607940673828
+Hunters often shoot livestock during the hunting season .;livestock;0.0013767261;9.504542350769043
+Hunters rarely shoot livestock during the hunting season .;livestock;0.0005326639;10.874486923217773
+Theaters often show movies on saturday nights .;movies;0.025982339;5.266324996948242
+Theaters rarely show movies on saturday nights .;movies;0.05216042;4.260900497436523
+Theaters often show operas on saturday nights .;operas;0.00024885236;11.97242259979248
+Theaters rarely show operas on saturday nights .;operas;0.0005639176;10.792227745056152
+Butchers often slaughter cows and sell the meat .;cows;0.004802091;7.702121734619141
+Butchers rarely slaughter cows and sell the meat .;cows;0.0032465674;8.26686954498291
+Butchers often slaughter ducks and sell the meat .;ducks;0.0033492842;8.221931457519531
+Butchers rarely slaughter ducks and sell the meat .;ducks;0.0015270404;9.355046272277832
+Pickpockets often steal wallets while the owner is distracted .;wallets;0.0014625727;9.417276382446289
+Pickpockets rarely steal wallets while the owner is distracted .;wallets;0.00079953746;10.288546562194824
+Pickpockets often steal shoes while the owner is distracted .;shoes;0.0011252007;9.795601844787598
+Pickpockets rarely steal shoes while the owner is distracted .;shoes;0.0011967561;9.706655502319336
+Psychics often read fortunes for their customers every day .;fortunes;1.2271346e-05;16.314346313476562
+Psychics rarely read fortunes for their customers every day .;fortunes;3.0006418e-06;18.346298217773438
+Psychics often read news for their customers every day .;news;0.003188125;8.293076515197754
+Psychics rarely read news for their customers every day .;news;0.0022728138;8.781304359436035
+Pilots often fly planes on cloudy days .;planes;0.0053841523;7.537065029144287
+Pilots rarely fly planes on cloudy days .;planes;0.0062860176;7.313638210296631
+Pilots often fly kites on cloudy days .;kites;0.0012248361;9.673195838928223
+Pilots rarely fly kites on cloudy days .;kites;0.0015194403;9.362244606018066
+Thieves often take jewels from their victims when they can .;jewels;8.289621e-05;13.558334350585938
+Thieves rarely take jewels from their victims when they can .;jewels;6.3691536e-05;13.938538551330566
+Thieves often take jobs from their victims when they can .;jobs;0.00059598987;10.712424278259277
+Thieves rarely take jobs from their victims when they can .;jobs;0.0007519352;10.377103805541992
+Professors often teach classes while doing research .;classes;0.0044738767;7.804258823394775
+Professors rarely teach classes while doing research .;classes;0.004907678;7.670743942260742
+Professors often teach friends while doing research .;friends;0.00015085762;12.694524765014648
+Professors rarely teach friends while doing research .;friends;0.00010235816;13.2540864944458
+Pitchers often throw balls to warm up for a game .;balls;0.0071752574;7.122753620147705
+Pitchers rarely throw balls to warm up for a game .;balls;0.003454022;8.177507400512695
+Pitchers often throw rocks to warm up for a game .;rocks;0.00032817517;11.573246002197266
+Pitchers rarely throw rocks to warm up for a game .;rocks;6.278582e-05;13.95920181274414
+Kidnappers often blindfold captives to keep their identities secret .;captives;0.115321346;3.1162686347961426
+Kidnappers rarely blindfold captives to keep their identities secret .;captives;0.027798986;5.168823719024658
+Kidnappers often blindfold infants to keep their identities secret .;infants;0.00020197115;12.273563385009766
+Kidnappers rarely blindfold infants to keep their identities secret .;infants;4.70679e-05;14.374897003173828
+Smugglers often transport drugs into the united states .;drugs;0.035660557;4.8095269203186035
+Smugglers rarely transport drugs into the united states .;drugs;0.06383184;3.9695799350738525
+Smugglers often transport umbrellas into the united states .;umbrellas;1.6894427e-07;22.496950149536133
+Smugglers rarely transport umbrellas into the united states .;umbrellas;1.724816e-07;22.46705436706543
+Tourists often visit museums on their vacation .;museums;0.011517527;6.440025329589844
+Tourists rarely visit museums on their vacation .;museums;0.006079801;7.361760139465332
+Tourists often visit mines on their vacation .;mines;1.3331691e-05;16.194780349731445
+Tourists rarely visit mines on their vacation .;mines;1.43356165e-05;16.090036392211914
+Sentries often guard bases at all hours of the night .;bases;0.00033262832;11.553801536560059
+Sentries rarely guard bases at all hours of the night .;bases;0.0008218397;10.248855590820312
+Sentries often guard dumpsters at all hours of the night .;dumpsters;1.9000294e-06;19.00554656982422
+Sentries rarely guard dumpsters at all hours of the night .;dumpsters;2.4486837e-07;21.961490631103516
+Telemarketers often call people to tell them about new products .;people;0.017646102;5.824506759643555
+Telemarketers rarely call people to tell them about new products .;people;0.010275738;6.6046142578125
+Telemarketers often call inmates to tell them about new products .;inmates;2.4629422e-05;15.309257507324219
+Telemarketers rarely call inmates to tell them about new products .;inmates;1.1569613e-05;16.39929962158203
+Punters often kick footballs for practice on their days off .;footballs;0.00017564019;12.475089073181152
+Punters rarely kick footballs for practice on their days off .;footballs;0.00014236988;12.778068542480469
+Punters often kick boxes for practice on their days off .;boxes;5.981507e-05;14.029131889343262
+Punters rarely kick boxes for practice on their days off .;boxes;4.3473105e-05;14.489517211914062
+Shoppers often buy groceries at the local supermarket .;groceries;0.0050048167;7.642467021942139
+Shoppers rarely buy groceries at the local supermarket .;groceries;0.0042524277;7.877497673034668
+Shoppers often buy ammunition at the local supermarket .;ammunition;2.0069989e-05;15.60460090637207
+Shoppers rarely buy ammunition at the local supermarket .;ammunition;3.101322e-05;14.976757049560547
+Speakers often address audiences using a microphone .;audiences;0.0035890292;8.122190475463867
+Speakers rarely address audiences using a microphone .;audiences;0.0009009119;10.116326332092285
+Speakers often address letters using a microphone .;letters;2.6797898e-06;18.509449005126953
+Speakers rarely address letters using a microphone .;letters;2.6544517e-06;18.523155212402344
+Armies often battle invaders and try to drive them out of the country .;invaders;0.00013025365;12.906388282775879
+Armies rarely battle invaders and try to drive them out of the country .;invaders;0.00019888999;12.29574203491211
+Armies often battle immigrants and try to drive them out of the country .;immigrants;1.5525027e-05;15.975044250488281
+Armies rarely battle immigrants and try to drive them out of the country .;immigrants;1.7801123e-05;15.777671813964844
+Gardeners often plant flowers to make their garden prettier .;flowers;0.011020041;6.503726482391357
+Gardeners rarely plant flowers to make their garden prettier .;flowers;0.015264191;6.033705234527588
+Gardeners often plant bombs to make their garden prettier .;bombs;7.4287724e-05;13.716516494750977
+Gardeners rarely plant bombs to make their garden prettier .;bombs;0.00024227386;12.01107406616211
+Architects often design buildings with lots of windows .;buildings;0.11268848;3.149588108062744
+Architects rarely design buildings with lots of windows .;buildings;0.072750926;3.780890464782715
+Architects often design closets with lots of windows .;closets;1.3162573e-05;16.213199615478516
+Architects rarely design closets with lots of windows .;closets;3.0706757e-05;14.991084098815918
+Negotiators often settle disputes as quickly as possible .;disputes;0.034722723;4.847976207733154
+Negotiators rarely settle disputes as quickly as possible .;disputes;0.032945063;4.923793792724609
+Negotiators often settle payments as quickly as possible .;payments;4.6721743e-05;14.385546684265137
+Negotiators rarely settle payments as quickly as possible .;payments;6.860151e-05;13.831399917602539
+Witnesses often describe robbers as being large and menacing .;robbers;5.5930203e-05;14.126012802124023
+Witnesses rarely describe robbers as being large and menacing .;robbers;1.242399e-05;16.296512603759766
+Witnesses often describe tellers as being large and menacing .;tellers;6.3443133e-07;20.588031768798828
+Witnesses rarely describe tellers as being large and menacing .;tellers;1.2995172e-07;22.875520706176758
+Couriers often deliver packages sealed in boxes .;packages;0.0074426346;7.069971084594727
+Couriers rarely deliver packages sealed in boxes .;packages;0.0011458884;9.769317626953125
+Couriers often deliver organs sealed in boxes .;organs;5.7915884e-05;14.075681686401367
+Couriers rarely deliver organs sealed in boxes .;organs;2.7276517e-05;15.161980628967285
+Brokers often sell stocks in after-hours trading .;stocks;0.002902581;8.428447723388672
+Brokers rarely sell stocks in after-hours trading .;stocks;0.005569038;7.488356113433838
+Brokers often sell curtains in after-hours trading .;curtains;4.4871344e-06;17.76577377319336
+Brokers rarely sell curtains in after-hours trading .;curtains;4.7252247e-06;17.691184997558594
+Mechanics often fix cars that have broken parts .;cars;0.015250125;6.035035133361816
+Mechanics rarely fix cars that have broken parts .;cars;0.047486898;4.396326541900635
+Mechanics often fix toys that have broken parts .;toys;9.893782e-05;13.303118705749512
+Mechanics rarely fix toys that have broken parts .;toys;0.00018448164;12.404234886169434
+Joggers often run laps to stay in shape .;laps;0.00018122628;12.429920196533203
+Joggers rarely run laps to stay in shape .;laps;0.00028404655;11.781584739685059
+Joggers often run monthly to stay in shape .;monthly;1.103113e-06;19.789987564086914
+Joggers rarely run monthly to stay in shape .;monthly;4.105646e-07;21.21588706970215
+Cleaners often wash clothes using strong laundry soap .;clothes;0.019353053;5.691295146942139
+Cleaners rarely wash clothes using strong laundry soap .;clothes;0.0145337;6.104454040527344
+Cleaners often wash rags using strong laundry soap .;rags;0.00013274557;12.879048347473145
+Cleaners rarely wash rags using strong laundry soap .;rags;2.7541462e-05;15.148035049438477
+Squirrels often gather nuts and store them for the winter .;nuts;5.7334796e-06;17.41215705871582
+Squirrels rarely gather nuts and store them for the winter .;nuts;3.506125e-06;18.12169075012207
+Squirrels often gather nails and store them for the winter .;nails;6.441659e-08;23.88799285888672
+Squirrels rarely gather nails and store them for the winter .;nails;3.9191836e-08;24.60487174987793
+Investors often loan money to businesses which are profitable .;money;0.48577216;1.041648268699646
+Investors rarely loan money to businesses which are profitable .;money;0.3470122;1.5269417762756348
+Investors often loan papers to businesses which are profitable .;papers;5.7499677e-05;14.08608627319336
+Investors rarely loan papers to businesses which are profitable .;papers;0.0005252883;10.89460277557373
+Morticians often arrange funerals after a lot of planning .;funerals;0.007589656;7.041749954223633
+Morticians rarely arrange funerals after a lot of planning .;funerals;0.019176884;5.7044878005981445
+Morticians often arrange parties after a lot of planning .;parties;0.00035376777;11.464909553527832
+Morticians rarely arrange parties after a lot of planning .;parties;0.00042795268;11.190260887145996
+Actors often perform plays on stage .;plays;0.00033768822;11.532020568847656
+Actors rarely perform plays on stage .;plays;0.00042917058;11.186161041259766
+Actors often perform surgery on stage .;surgery;0.00036459844;11.421403884887695
+Actors rarely perform surgery on stage .;surgery;0.00013275283;12.8789701461792
+Adolescents often play games all through high school .;games;0.017735586;5.817209243774414
+Adolescents rarely play games all through high school .;games;0.022964036;5.444479942321777
+Adolescents often play horns all through high school .;horns;1.2725187e-07;22.90580940246582
+Adolescents rarely play horns all through high school .;horns;1.4958515e-07;22.672529220581055
+Cowboys often ride horses when they go to the back country .;horses;0.0074246395;7.073463439941406
+Cowboys rarely ride horses when they go to the back country .;horses;0.0031646076;8.303757667541504
+Cowboys often ride bicycles when they go to the back country .;bicycles;0.002087297;8.90414810180664
+Cowboys rarely ride bicycles when they go to the back country .;bicycles;0.0016800758;9.21725845336914
+Barbers often cut hair while carrying on a conversation .;hair;0.0036674514;8.0910062789917
+Barbers rarely cut hair while carrying on a conversation .;hair;0.001971585;8.986428260803223
+Barbers often cut steak while carrying on a conversation .;steak;1.068313e-06;19.83623504638672
+Barbers rarely cut steak while carrying on a conversation .;steak;3.1233556e-06;18.288471221923828
+Bartenders often mix drinks while talking to the patrons .;drinks;0.018976882;5.719613075256348
+Bartenders rarely mix drinks while talking to the patrons .;drinks;0.032098427;4.961353778839111
+Bartenders often mix metaphors while talking to the patrons .;metaphors;8.3567706e-05;13.5466947555542
+Bartenders rarely mix metaphors while talking to the patrons .;metaphors;9.1121416e-05;13.421850204467773
+Executives often make decisions that reflect their business acumen .;decisions;0.031820323;4.973907470703125
+Executives rarely make decisions that reflect their business acumen .;decisions;0.014775453;6.080653667449951
+Executives often make models that reflect their business acumen .;models;0.00018765702;12.379613876342773
+Executives rarely make models that reflect their business acumen .;models;5.2146537e-05;14.227068901062012
+Warehouses often store merchandise which has not been sold yet .;merchandise;0.0007156271;10.448504447937012
+Warehouses rarely store merchandise which has not been sold yet .;merchandise;0.00076534745;10.351597785949707
+Warehouses often store sugar which has not been sold yet .;sugar;0.00013580972;12.846125602722168
+Warehouses rarely store sugar which has not been sold yet .;sugar;0.0001337817;12.867831230163574
+Coaches often train athletes to work at a high level of performance .;athletes;0.0054526315;7.518831729888916
+Coaches rarely train athletes to work at a high level of performance .;athletes;0.0006717597;10.539767265319824
+Coaches often train soldiers to work at a high level of performance .;soldiers;0.0017972093;9.120025634765625
+Coaches rarely train soldiers to work at a high level of performance .;soldiers;9.120596e-05;13.420512199401855
+Plumbers often remove clogs using special equipment .;clogs;7.914041e-06;16.947154998779297
+Plumbers rarely remove clogs using special equipment .;clogs;5.108756e-06;17.578596115112305
+Plumbers often remove weeds using special equipment .;weeds;0.00089413446;10.127220153808594
+Plumbers rarely remove weeds using special equipment .;weeds;0.0013717687;9.509747505187988
+Satirists often poke fun at famous people .;fun;0.9726114;0.040064554661512375
+Satirists rarely poke fun at famous people .;fun;0.80117947;0.3198026418685913
+Satirists often poke knives at famous people .;knives;9.041334e-07;20.076961517333984
+Satirists rarely poke knives at famous people .;knives;2.591254e-05;15.235989570617676
+Nurses often draw blood for medical testing and analysis .;blood;0.04012282;4.63943338394165
+Nurses rarely draw blood for medical testing and analysis .;blood;0.042837046;4.544997215270996
+Nurses often draw sketches for medical testing and analysis .;sketches;0.00018986977;12.362702369689941
+Nurses rarely draw sketches for medical testing and analysis .;sketches;7.9825964e-05;13.61278247833252
+Caterers often prepare food for large groups of people .;food;0.04926446;4.343308925628662
+Caterers rarely prepare food for large groups of people .;food;0.056513093;4.145270824432373
+Caterers often prepare baths for large groups of people .;baths;9.783015e-05;13.319361686706543
+Caterers rarely prepare baths for large groups of people .;baths;3.12176e-05;14.967280387878418
+Weathermen often report storms that are expected in the next few days .;storms;0.002606851;8.583476066589355
+Weathermen rarely report storms that are expected in the next few days .;storms;0.0020176151;8.953133583068848
+Weathermen often report weddings that are expected in the next few days .;weddings;5.2283453e-06;17.54521369934082
+Weathermen rarely report weddings that are expected in the next few days .;weddings;6.171803e-06;17.305875778198242
+Knights often rescue damsels from the clutches of an ogre .;damsels;0.0017959226;9.12105941772461
+Knights rarely rescue damsels from the clutches of an ogre .;damsels;0.0058456725;7.418415069580078
+Knights often rescue dragons from the clutches of an ogre .;dragons;5.125281e-06;17.573938369750977
+Knights rarely rescue dragons from the clutches of an ogre .;dragons;7.456175e-06;17.033132553100586
+Generals often command troops in time of war .;troops;0.0064774854;7.270350456237793
+Generals rarely command troops in time of war .;troops;0.007903123;6.98336124420166
+Generals often command civilians in time of war .;civilians;8.042079e-05;13.602071762084961
+Generals rarely command civilians in time of war .;civilians;0.00019005347;12.361307144165039
+Boxcars often hold cargo that can take extreme temperatures .;cargo;0.0014863629;9.393998146057129
+Boxcars rarely hold cargo that can take extreme temperatures .;cargo;0.0015096099;9.37160873413086
+Boxcars often hold feathers that can take extreme temperatures .;feathers;2.4422932e-06;18.64333152770996
+Boxcars rarely hold feathers that can take extreme temperatures .;feathers;2.3957266e-06;18.671104431152344
+Magazines often publish stories that involve current events .;stories;0.03178485;4.9755167961120605
+Magazines rarely publish stories that involve current events .;stories;0.018799128;5.733190536499023
+Magazines often publish songs that involve current events .;songs;0.0006079122;10.683849334716797
+Magazines rarely publish songs that involve current events .;songs;0.00036231842;11.43045425415039
+Policemen often arrest crooks after the bars close down .;crooks;0.00018119201;12.430192947387695
+Policemen rarely arrest crooks after the bars close down .;crooks;4.9407186e-05;14.304919242858887
+Policemen often arrest priests after the bars close down .;priests;7.105651e-05;13.78067398071289
+Policemen rarely arrest priests after the bars close down .;priests;1.638288e-05;15.897451400756836
+Actresses often wear dresses that were created by famous designers .;dresses;0.009361765;6.739003658294678
+Actresses rarely wear dresses that were created by famous designers .;dresses;0.013911346;6.167593955993652
+Actresses often wear helmets that were created by famous designers .;helmets;0.00022613477;12.110529899597168
+Actresses rarely wear helmets that were created by famous designers .;helmets;0.0006558461;10.574355125427246
+Adults often eat chicken on a regular basis .;chicken;0.0018869889;9.049698829650879
+Adults rarely eat chicken on a regular basis .;chicken;0.0014664908;9.413415908813477
+Adults often eat grass on a regular basis .;grass;0.00025543658;11.934747695922852
+Adults rarely eat grass on a regular basis .;grass;0.00076389965;10.354329109191895
+Teachers often punish students that are disrupting the class .;students;0.11190754;3.159620761871338
+Teachers rarely punish students that are disrupting the class .;students;0.06981344;3.8403513431549072
+Teachers often punish aides that are disrupting the class .;aides;2.3821114e-05;15.357399940490723
+Teachers rarely punish aides that are disrupting the class .;aides;1.7072147e-05;15.837995529174805
+Governments often build monuments during times of national importance .;monuments;0.0022475433;8.797435760498047
+Governments rarely build monuments during times of national importance .;monuments;0.0008094297;10.270806312561035
+Governments often build trains during times of national importance .;trains;2.780875e-05;15.134101867675781
+Governments rarely build trains during times of national importance .;trains;3.022151e-05;15.01406478881836
+Scientists often conduct research with great attention to detail .;research;0.056922037;4.13486909866333
+Scientists rarely conduct research with great attention to detail .;research;0.059395034;4.073513984680176
+Scientists often conduct traffic with great attention to detail .;traffic;0.00012518596;12.963639259338379
+Scientists rarely conduct traffic with great attention to detail .;traffic;5.2994736e-05;14.203791618347168
+Comedians often entertain crowds at comedy clubs around the country .;crowds;0.0054282225;7.525304317474365
+Comedians rarely entertain crowds at comedy clubs around the country .;crowds;0.0023332075;8.74346923828125
+Comedians often entertain politicians at comedy clubs around the country .;politicians;0.00071761437;10.444503784179688
+Comedians rarely entertain politicians at comedy clubs around the country .;politicians;0.00076628337;10.349834442138672
+Instructors often evaluate pupils by giving them a test .;pupils;0.009334494;6.7432122230529785
+Instructors rarely evaluate pupils by giving them a test .;pupils;0.0083263675;6.908097267150879
+Instructors often evaluate grapes by giving them a test .;grapes;2.8164484e-06;18.43769073486328
+Instructors rarely evaluate grapes by giving them a test .;grapes;3.069956e-06;18.313350677490234
+Supervisors often discipline workers who show up late .;workers;0.010199887;6.615303039550781
+Supervisors rarely discipline workers who show up late .;workers;0.009939481;6.652613639831543
+Supervisors often discipline shareholders who show up late .;shareholders;0.00024498353;11.995027542114258
+Supervisors rarely discipline shareholders who show up late .;shareholders;0.00032581724;11.583649635314941
+Patrolmen often question suspects to get information about a crime .;suspects;0.0075913654;7.041424751281738
+Patrolmen rarely question suspects to get information about a crime .;suspects;0.008240249;6.923096179962158
+Patrolmen often question minors to get information about a crime .;minors;1.0155312e-05;16.587406158447266
+Patrolmen rarely question minors to get information about a crime .;minors;3.1146825e-05;14.970555305480957
+Parents often lecture children about not playing too roughly .;children;0.017930247;5.8014607429504395
+Parents rarely lecture children about not playing too roughly .;children;0.020211887;5.628652095794678
+Parents often lecture pets about not playing too roughly .;pets;1.0555912e-05;16.53158950805664
+Parents rarely lecture pets about not playing too roughly .;pets;3.5614244e-06;18.09911346435547
+Bellboys often lug suitcases every day at work .;suitcases;0.017904224;5.803556442260742
+Bellboys rarely lug suitcases every day at work .;suitcases;0.008766037;6.833859443664551
+Bellboys often lug fruits every day at work .;fruits;5.6545396e-06;17.432159423828125
+Bellboys rarely lug fruits every day at work .;fruits;3.4828122e-06;18.131315231323242
+Businessmen often employ accountants to keep track of the books .;accountants;0.0018486762;9.079291343688965
+Businessmen rarely employ accountants to keep track of the books .;accountants;0.0025092908;8.638504981994629
+Businessmen often employ ministers to keep track of the books .;ministers;0.00039430507;11.30840015411377
+Businessmen rarely employ ministers to keep track of the books .;ministers;0.0008533167;10.194631576538086
+Kids often want candy for dessert after dinner .;candy;0.00069123873;10.498528480529785
+Kids rarely want candy for dessert after dinner .;candy;0.00035472302;11.461019515991211
+Kids often want peas for dessert after dinner .;peas;2.5798781e-06;18.564266204833984
+Kids rarely want peas for dessert after dinner .;peas;2.205977e-06;18.790151596069336
+Runners often drink water while competing in a marathon .;water;0.043501195;4.522801399230957
+Runners rarely drink water while competing in a marathon .;water;0.02075354;5.590498924255371
+Runners often drink tea while competing in a marathon .;tea;0.008380353;6.898773193359375
+Runners rarely drink tea while competing in a marathon .;tea;0.002042141;8.935701370239258
+Ranches often hire hands to take care of the chores .;hands;4.5086643e-05;14.43694019317627
+Ranches rarely hire hands to take care of the chores .;hands;5.2498584e-05;14.217362403869629
+Ranches often hire drunks to take care of the chores .;drunks;1.1274977e-06;19.75844383239746
+Ranches rarely hire drunks to take care of the chores .;drunks;2.3566226e-06;18.694847106933594
+Countries often erect statues to honor their national heroes .;statues;0.0028297117;8.465128898620605
+Countries rarely erect statues to honor their national heroes .;statues;0.0031621712;8.304868698120117
+Countries often erect bridges to honor their national heroes .;bridges;0.0003700446;11.400012969970703
+Countries rarely erect bridges to honor their national heroes .;bridges;0.0016314918;9.259592056274414
+Clowns often toss pies at each other as part of their act .;pies;0.00040541275;11.26832103729248
+Clowns rarely toss pies at each other as part of their act .;pies;0.0007225126;10.43468952178955
+Clowns often toss cookies at each other as part of their act .;cookies;0.00014118194;12.790156364440918
+Clowns rarely toss cookies at each other as part of their act .;cookies;8.404172e-05;13.538535118103027
+Ranchers often feed cattle out on the open prairie .;cattle;0.13837016;2.8533952236175537
+Ranchers rarely feed cattle out on the open prairie .;cattle;0.0683321;3.87129282951355
+Ranchers often feed visitors out on the open prairie .;visitors;4.4771383e-05;14.447063446044922
+Ranchers rarely feed visitors out on the open prairie .;visitors;7.045921e-05;13.792852401733398
+Automobiles often need gas to run for any length of time .;gas;0.0014309741;9.448786735534668
+Automobiles rarely need gas to run for any length of time .;gas;0.0016363316;9.255319595336914
+Automobiles often need sunlight to run for any length of time .;sunlight;2.0275767e-05;15.589883804321289
+Automobiles rarely need sunlight to run for any length of time .;sunlight;5.2100244e-05;14.228350639343262
+Newlyweds often receive gifts at their wedding reception .;gifts;0.036108337;4.791524410247803
+Newlyweds rarely receive gifts at their wedding reception .;gifts;0.014986279;6.060214042663574
+Newlyweds often receive bills at their wedding reception .;bills;0.0002833908;11.784919738769531
+Newlyweds rarely receive bills at their wedding reception .;bills;0.00021703147;12.169808387756348
+Sages often offer advice to people who ask them for their opinion .;advice;0.04910472;4.347994327545166
+Sages rarely offer advice to people who ask them for their opinion .;advice;0.049401894;4.339289665222168
+Sages often offer sweets to people who ask them for their opinion .;sweets;9.2009686e-05;13.407855033874512
+Sages rarely offer sweets to people who ask them for their opinion .;sweets;3.3779514e-05;14.85349178314209
+Attorneys often meet clients at their law firm .;clients;0.0044762767;7.803484916687012
+Attorneys rarely meet clients at their law firm .;clients;0.0028998752;8.429793357849121
+Attorneys often meet dates at their law firm .;dates;1.2210762e-05;16.321487426757812
+Attorneys rarely meet dates at their law firm .;dates;7.818436e-06;16.964689254760742
+Engineers often plan projects for wealthy executives .;projects;0.0074684722;7.064970970153809
+Engineers rarely plan projects for wealthy executives .;projects;0.002657151;8.555904388427734
+Engineers often plan meals for wealthy executives .;meals;0.00018350613;12.411884307861328
+Engineers rarely plan meals for wealthy executives .;meals;6.339122e-05;13.945357322692871
+Bakers often slice bread in a special cutting machine .;bread;0.02474183;5.336904048919678
+Bakers rarely slice bread in a special cutting machine .;bread;0.05936277;4.074297904968262
+Bakers often slice pizza in a special cutting machine .;pizza;0.00023172637;12.075289726257324
+Bakers rarely slice pizza in a special cutting machine .;pizza;0.0007937247;10.299073219299316
+Retirees often trust banks with their life 's savings .;banks;0.0021911964;8.834065437316895
+Retirees rarely trust banks with their life 's savings .;banks;0.0016841774;9.213740348815918
+Retirees often trust strangers with their life 's savings .;strangers;0.00024873135;11.973124504089355
+Retirees rarely trust strangers with their life 's savings .;strangers;0.0010311196;9.9215726852417
+Quarterbacks often lift weights as part of their training regimen .;weights;0.20454673;2.2894976139068604
+Quarterbacks rarely lift weights as part of their training regimen .;weights;0.11387148;3.134521722793579
+Quarterbacks often lift wheels as part of their training regimen .;to;0.9411997;0.08742720633745193
+Quarterbacks rarely lift wheels as part of their training regimen .;wheels;5.1411575e-06;17.569475173950195
+Psychologists often use hypnosis to help patients remember their childhood .;hypnosis;0.0025470157;8.616976737976074
+Psychologists rarely use hypnosis to help patients remember their childhood .;hypnosis;0.0010645201;9.875580787658691
+Psychologists often use violence to help patients remember their childhood .;to;0.9197828;0.12063484638929367
+Psychologists rarely use violence to help patients remember their childhood .;violence;0.0012671303;9.62421989440918
+Matadors often wave capes to goad the bull into attacking .;capes;0.00017146808;12.509772300720215
+Matadors rarely wave capes to goad the bull into attacking .;capes;4.3332828e-05;14.494179725646973
+Matadors often wave flags to goad the bull into attacking .;flags;0.01660389;5.91233491897583
+Matadors rarely wave flags to goad the bull into attacking .;flags;0.0031467874;8.311904907226562
+Eskimos often catch fish during the long arctic summer .;fish;0.04089747;4.611844539642334
+Eskimos rarely catch fish during the long arctic summer .;fish;0.041727334;4.5828633308410645
+Eskimos often catch malaria during the long arctic summer .;malaria;4.9592356e-05;14.299522399902344
+Eskimos rarely catch malaria during the long arctic summer .;malaria;5.9645314e-05;14.033231735229492
+Astronomers often observe stars that have unusual properties .;stars;0.00357447;8.12805461883545
+Astronomers rarely observe stars that have unusual properties .;stars;0.0016947644;9.204699516296387
+Astronomers often observe insects that have unusual properties .;insects;2.7414697e-05;15.154690742492676
+Astronomers rarely observe insects that have unusual properties .;insects;1.1673644e-05;16.386384963989258
+Pirates often ransom prisoners for gold or jewels .;prisoners;0.00061071344;10.677216529846191
+Pirates rarely ransom prisoners for gold or jewels .;prisoners;0.0012841893;9.604926109313965
+Pirates often ransom husbands for gold or jewels .;to;0.6207584;0.687896192073822
+Pirates rarely ransom husbands for gold or jewels .;husbands;6.666763e-07;20.516510009765625
+Employees often do work while they are at the office .;work;0.004730559;7.72377347946167
+Employees rarely do work while they are at the office .;work;0.004687072;7.737097263336182
+Employees often do crosswords while they are at the office .;crosswords;5.6251743e-06;17.43967056274414
+Employees rarely do crosswords while they are at the office .;crosswords;4.3359387e-06;17.815223693847656
+Hosts often invite guests to stay for dinner .;guests;0.08234018;3.602259635925293
+Hosts rarely invite guests to stay for dinner .;guests;0.05782182;4.112242221832275
+Hosts often invite butlers to stay for dinner .;butlers;6.1670114e-08;23.95085334777832
+Hosts rarely invite butlers to stay for dinner .;butlers;7.477341e-08;23.67289924621582
+Surgeons often request specialists for particularly difficult operations .;specialists;0.000317178;11.622419357299805
+Surgeons rarely request specialists for particularly difficult operations .;specialists;0.00024646154;11.986350059509277
+Surgeons often request bodyguards for particularly difficult operations .;bodyguards;4.6062038e-07;21.04991912841797
+Surgeons rarely request bodyguards for particularly difficult operations .;bodyguards;9.351341e-07;20.028324127197266
+Chimps often peel bananas before they eat them .;to;0.5508538;0.8602586388587952
+Chimps rarely peel bananas before they eat them .;to;0.12732743;2.9733848571777344
+Chimps often peel apples before they eat them .;apples;0.00013095788;12.898609161376953
+Chimps rarely peel apples before they eat them .;apples;0.00011821397;13.04631233215332
+Mayors often see citizens on a regular basis .;citizens;0.00021590252;12.177331924438477
+Mayors rarely see citizens on a regular basis .;to;0.89796275;0.1552724987268448
+Mayors often see ghosts on a regular basis .;ghosts;7.714866e-05;13.661999702453613
+Mayors rarely see ghosts on a regular basis .;ghosts;0.00010310819;13.243553161621094
+Dogs often gnaw bones to exercise their jaws .;bones;2.474338e-05;15.302597999572754
+Dogs rarely gnaw bones to exercise their jaws .;bones;1.45803615e-05;16.065614700317383
+Dogs often gnaw tires to exercise their jaws .;tires;6.865395e-06;17.152225494384766
+Dogs rarely gnaw tires to exercise their jaws .;to;0.0148692345;6.071525573730469
+Sailors often abandon ships that are about to capsize .;ships;0.1484116;2.752324104309082
+Sailors rarely abandon ships that are about to capsize .;ships;0.10069726;3.311903715133667
+Sailors often abandon rowboats that are about to capsize .;rowboats;2.839006e-05;15.104254722595215
+Sailors rarely abandon rowboats that are about to capsize .;rowboats;2.2428314e-05;15.444319725036621
+Spies often collect data from foreign countries .;data;0.021980746;5.50761604309082
+Spies rarely collect data from foreign countries .;data;0.005742814;7.444026470184326
+Spies often collect sand from foreign countries .;sand;0.0002510158;11.95993423461914
+Spies rarely collect sand from foreign countries .;sand;5.8978632e-05;14.049448013305664
+Songwriters often create music specifically for their own band .;music;0.023519192;5.410017490386963
+Songwriters rarely create music specifically for their own band .;to;0.15801997;2.661821126937866
+Songwriters often create stages specifically for their own band .;to;0.91093683;0.13457708060741425
+Songwriters rarely create stages specifically for their own band .;stages;3.9382508e-06;17.95401382446289
+Snakes often devour eggs in one large bite .;eggs;0.0045150425;7.79104471206665
+Snakes rarely devour eggs in one large bite .;eggs;0.0028397043;8.460043907165527
+Snakes often devour pigs in one large bite .;pigs;0.00019562014;12.319657325744629
+Snakes rarely devour pigs in one large bite .;pigs;0.00027853384;11.809859275817871
+Detectives often notice clues all around the crime scene .;to;0.0023019619;8.762920379638672
+Detectives rarely notice clues all around the crime scene .;clues;0.0002603922;11.907026290893555
+Detectives often notice reporters all around the crime scene .;reporters;0.00037894776;11.365713119506836
+Detectives rarely notice reporters all around the crime scene .;to;0.07330054;3.7700324058532715
+Families often schedule vacations during the summer months .;vacations;0.008884046;6.814567565917969
+Families rarely schedule vacations during the summer months .;vacations;0.01588218;5.976447105407715
+Families often schedule discussions during the summer months .;discussions;5.5954453e-05;14.125387191772461
+Families rarely schedule discussions during the summer months .;discussions;0.00017984031;12.440996170043945
+Therapists often make diagnoses based on years of experience .;diagnoses;0.016362231;5.933486461639404
+Therapists rarely make diagnoses based on years of experience .;to;0.0026817713;8.542597770690918
+Therapists often make deals based on years of experience .;deals;0.00087593944;10.156881332397461
+Therapists rarely make deals based on years of experience .;to;0.0059402427;7.395262241363525
+Lifeguards often protect swimmers at the beach .;swimmers;0.08988101;3.475839853286743
+Lifeguards rarely protect swimmers at the beach .;swimmers;0.11221936;3.155606508255005
+Lifeguards often protect birds at the beach .;birds;0.0005006292;10.963970184326172
+Lifeguards rarely protect birds at the beach .;birds;0.00038403657;11.346468925476074
+Dentists often pull teeth in their office .;teeth;0.058174282;4.1034746170043945
+Dentists rarely pull teeth in their office .;teeth;0.12404462;3.011068820953369
+Dentists often pull files in their office .;files;5.15126e-05;14.244714736938477
+Dentists rarely pull files in their office .;files;3.4333763e-05;14.830012321472168
+Salesmen often market products to prospective buyers .;products;0.017843854;5.808428764343262
+Salesmen rarely market products to prospective buyers .;products;0.028229428;5.146656036376953
+Salesmen often market values to prospective buyers .;values;3.9127972e-05;14.641440391540527
+Salesmen rarely market values to prospective buyers .;values;6.4656604e-05;13.916842460632324
+Aquariums often give sharks a lot of special attention .;sharks;0.00028217546;11.791119575500488
+Aquariums rarely give sharks a lot of special attention .;sharks;0.00019721326;12.307955741882324
+Aquariums often give donors a lot of special attention .;donors;0.00031393682;11.637238502502441
+Aquariums rarely give donors a lot of special attention .;donors;0.00021824022;12.161795616149902
+Burglars often have disguises when they are breaking into a house .;disguises;6.436748e-06;17.245237350463867
+Burglars rarely have disguises when they are breaking into a house .;disguises;6.799847e-07;20.487995147705078
+Burglars often have hostages when they are breaking into a house .;hostages;0.00017800057;12.455830574035645
+Burglars rarely have hostages when they are breaking into a house .;hostages;9.810727e-05;13.315279960632324
+Tenants often rent apartments on a monthly basis .;apartments;0.15144844;2.7231013774871826
+Tenants rarely rent apartments on a monthly basis .;apartments;0.04809717;4.377903938293457
+Tenants often rent lawnmowers on a monthly basis .;lawnmowers;1.194589e-06;19.6750545501709
+Tenants rarely rent lawnmowers on a monthly basis .;lawnmowers;4.0487776e-06;17.914081573486328
+Custodians often scrub sinks before applying a disinfectant .;sinks;3.5736815e-05;14.772229194641113
+Custodians rarely scrub sinks before applying a disinfectant .;sinks;2.2188831e-05;15.459806442260742
+Custodians often scrub trucks before applying a disinfectant .;trucks;1.1641924e-05;16.390310287475586
+Custodians rarely scrub trucks before applying a disinfectant .;trucks;1.2176717e-05;16.325515747070312

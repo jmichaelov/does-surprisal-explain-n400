@@ -1,0 +1,1531 @@
+---
+title: "CoNLL 2020 Submission Stats"
+output:
+  html_document:
+    df_print: paged
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    number_sections: true
+---
+
+
+
+# Setup
+
+Load correct functions
+
+```{r setup, message = FALSE, warning = FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+library(tidyverse)
+library(lme4)
+library(lmerTest)
+set.seed(20200115)
+```
+
+# Import data files
+
+## Stimuli
+
+```{r}
+stimuli_path = '../jrnn/stimuli/'
+
+ainsworth_darnell_1998.stims = read_csv('../jrnn/stimuli/ainsworthdarnell_1998.csv')
+ito_2016.stims = read_delim('../jrnn/stimuli/ito_2016.csv',delim = ';')
+kim_2005.stims = read_csv('../jrnn/stimuli/kim_2005.csv')
+kutas_1993.stims = read_delim('../jrnn/stimuli/kutas_1993_sentences.csv',delim = ';')
+urbach_2010_exp1.stims = read_csv('../jrnn/stimuli/urbach_2010_exp1.csv')
+urbach_2010_exp2.stims = read_csv('../jrnn/stimuli/urbach_2010_exp2.csv')
+urbach_2010_exp3.stims = read_csv('../jrnn/stimuli/urbach_2010_exp3.csv')
+osterhout_1995_exp2_pronouns.stims = read_csv('../jrnn/stimuli/osterhout_mobley_1995_exp2_pronouns.csv')
+osterhout_1995_exp2_controls.stims = read_csv('../jrnn/stimuli/osterhout_mobley_1995_exp2_controls.csv')
+```
+
+
+## Jozefewicz model
+
+```{r}
+jrnn_output_path = '../jrnn/output/'
+
+ainsworth_darnell_1998.jrnn = read_delim('../jrnn/output/ainsworthdarnell_1998',delim = ';')%>%
+  left_join(.,ainsworth_darnell_1998.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition=as_factor(Condition))
+ito_2016.jrnn = read_delim('../jrnn/output/ito_2016',delim = ';')%>%
+  left_join(.,ito_2016.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition=as_factor(Condition))
+kim_2005.jrnn = read_delim('../jrnn/output/kim_2005',delim = ';')%>%
+  left_join(.,kim_2005.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(Context),
+         Condition=as_factor(Condition))%>%
+  select(-Context)
+kim_2005_exp1.jrnn = kim_2005.jrnn%>%
+  filter(Experiment1=="Y")%>%
+  select(-Experiment1,-Experiment2)%>%
+  mutate(Condition = fct_drop(Condition))%>%
+  mutate(Condition = fct_relevel(Condition,"Passive Control","Active Control","Attraction Violation"))
+kim_2005_exp2.jrnn = kim_2005.jrnn%>%
+  filter(Experiment2=="Y")%>%
+  select(-Experiment1,-Experiment2)%>%
+  mutate(Condition = fct_drop(Condition))
+remove(kim_2005.jrnn)
+kutas_1993.jrnn = read_delim('../jrnn/output/kutas_1993_sentences',delim = ';')%>%
+  left_join(.,kutas_1993.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+       Sentence=as_factor(Sentence),
+       SentenceFrame = as_factor(Context),
+       Condition=as_factor(Condition))%>%
+  select(-Context)
+urbach_2010_exp1.jrnn = read_delim('../jrnn/output/urbach_2010_exp1',delim = ';')%>%
+  left_join(.,urbach_2010_exp1.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Typicality=as_factor(Typicality))
+urbach_2010_exp2.jrnn = read_delim('../jrnn/output/urbach_2010_exp2',delim = ';')%>%
+  left_join(.,urbach_2010_exp2.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Typicality=as_factor(Typicality))
+urbach_2010_exp3.jrnn = read_delim('../jrnn/output/urbach_2010_exp3',delim = ';')%>%
+  left_join(.,urbach_2010_exp3.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Typicality=as_factor(Typicality))
+osterhout_1995_exp2_pronouns.jrnn = read_delim('../jrnn/output/osterhout_mobley_1995_exp2_pronouns',delim = ';')%>%
+  left_join(.,osterhout_1995_exp2_pronouns.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition=as_factor(Condition))
+osterhout_1995_exp2_controls.jrnn = read_delim('../jrnn/output/osterhout_mobley_1995_exp2_controls',delim = ';')%>%
+  left_join(.,osterhout_1995_exp2_controls.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition=as_factor(Condition))
+osterhout_1995_exp2_pronouns_wf.jrnn = read_delim('../jrnn/output/osterhout_mobley_1995_exp2_pronouns_wf',delim = ';')%>%
+  left_join(.,osterhout_1995_exp2_pronouns.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition=as_factor(Condition))
+osterhout_1995_exp2_controls_wf.jrnn = read_delim('../jrnn/output/osterhout_mobley_1995_exp2_controls_wf',delim = ';')%>%
+  left_join(.,osterhout_1995_exp2_controls.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition=as_factor(Condition))
+```
+
+
+## Gulordava model
+
+```{r}
+grnn_output_path = '../grnn/data/current_experiment/output/'
+
+ainsworth_darnell_1998.grnn = read_delim('../grnn/data/current_experiment/output/ainsworthdarnell_1998.out',delim = ';')%>%
+  left_join(.,ainsworth_darnell_1998.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition=as_factor(Condition))
+ito_2016.grnn = read_delim('../grnn/data/current_experiment/output/ito_2016.out',delim = ';')%>%
+  left_join(.,ito_2016.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition=as_factor(Condition))
+kim_2005.grnn = read_delim('../grnn/data/current_experiment/output/kim_2005.out',delim = ';')%>%
+  left_join(.,kim_2005.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(Context),
+         Condition=as_factor(Condition))%>%
+  select(-Context)
+kim_2005_exp1.grnn = kim_2005.grnn%>%
+  filter(Experiment1=="Y")%>%
+  select(-Experiment1,-Experiment2)%>%
+  mutate(Condition = fct_drop(Condition))%>%
+  mutate(Condition = fct_relevel(Condition,"Passive Control","Active Control","Attraction Violation"))
+kim_2005_exp2.grnn = kim_2005.grnn%>%
+  filter(Experiment2=="Y")%>%
+  select(-Experiment1,-Experiment2)%>%
+  mutate(Condition = fct_drop(Condition))
+remove(kim_2005.grnn)
+kutas_1993.grnn = read_delim('../grnn/data/current_experiment/output/kutas_1993_sentences.out',delim = ';')%>%
+  left_join(.,kutas_1993.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(Context),
+         Condition=as_factor(Condition))%>%
+  select(-Context)
+urbach_2010_exp1.grnn = read_delim('../grnn/data/current_experiment/output//urbach_2010_exp1.out',delim = ';')%>%
+  left_join(.,urbach_2010_exp1.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Typicality=as_factor(Typicality))
+urbach_2010_exp2.grnn = read_delim('../grnn/data/current_experiment/output/urbach_2010_exp2.out',delim = ';')%>%
+  left_join(.,urbach_2010_exp2.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Typicality=as_factor(Typicality))
+urbach_2010_exp3.grnn = read_delim('../grnn/data/current_experiment/output/urbach_2010_exp3.out',delim = ';')%>%
+  left_join(.,urbach_2010_exp3.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Typicality=as_factor(Typicality))
+osterhout_1995_exp2_pronouns.grnn = read_delim('../grnn/data/current_experiment/output/osterhout_mobley_1995_exp2_pronouns.out',delim = ';')%>%
+  left_join(.,osterhout_1995_exp2_pronouns.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition=as_factor(Condition))
+osterhout_1995_exp2_controls.grnn = read_delim('../grnn/data/current_experiment/output/osterhout_mobley_1995_exp2_controls.out',delim = ';')%>%
+  left_join(.,osterhout_1995_exp2_controls.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition=as_factor(Condition))
+osterhout_1995_exp2_pronouns_wf.grnn = read_delim('../grnn/data/current_experiment/output/osterhout_mobley_1995_exp2_pronouns_wf.out',delim = ';')%>%
+  left_join(.,osterhout_1995_exp2_pronouns.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition=as_factor(Condition))
+osterhout_1995_exp2_controls_wf.grnn = read_delim('../grnn/data/current_experiment/output/osterhout_mobley_1995_exp2_controls_wf.out',delim = ';')%>%
+  left_join(.,osterhout_1995_exp2_controls.stims,by='Sentence')%>%
+  mutate(TargetWord=as_factor(TargetWord),
+         Sentence=as_factor(Sentence),
+         SentenceFrame = as_factor(SentenceFrame),
+         Condition=as_factor(Condition))
+```
+
+
+# Data Analyses
+
+## Ainsworth-Darnell et al. (1998)
+
+### GRNN
+
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(ainsworth_darnell_1998.grnn)))
+
+# removed "Clara declared her position" and "The teenager returned the book" because of character issues.
+
+```
+
+```{r}
+ainsworth_darnell_1998.grnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+ainsworth_darnell_1998.grnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# all target words are repeated, so: 
+
+ainsworth_darnell_1998.grnn.model = ainsworth_darnell_1998.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ainsworth_darnell_1998.grnn.null = ainsworth_darnell_1998.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+# Singular fit, so:
+anova(ainsworth_darnell_1998.grnn.model)
+
+```
+
+```{r}
+# levels = c("control","syntactic_anomaly","semantic_anomaly","double_anomaly" )
+
+ainsworth_darnell_1998.grnn.model2 = ainsworth_darnell_1998.grnn%>%
+  mutate(Condition = fct_relevel(Condition,"syntactic_anomaly", "control","semantic_anomaly","double_anomaly"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ainsworth_darnell_1998.grnn.model3 = ainsworth_darnell_1998.grnn%>%
+  mutate(Condition = fct_relevel(Condition,"semantic_anomaly", "control","syntactic_anomaly","double_anomaly"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ainsworth_darnell_1998.grnn.model4 = ainsworth_darnell_1998.grnn%>%
+  mutate(Condition = fct_relevel(Condition,"double_anomaly", "control","syntactic_anomaly","semantic_anomaly"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ainsworth_darnell_1998.grnn.model%>%summary()%>%.$coefficients
+ainsworth_darnell_1998.grnn.model2%>%summary()%>%.$coefficients
+ainsworth_darnell_1998.grnn.model3%>%summary()%>%.$coefficients
+ainsworth_darnell_1998.grnn.model4%>%summary()%>%.$coefficients
+```
+
+
+
+### JRNN
+
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(ainsworth_darnell_1998.jrnn)))
+```
+
+
+```{r}
+ainsworth_darnell_1998.jrnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+ainsworth_darnell_1998.jrnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# all target words are repeated, so: 
+
+ainsworth_darnell_1998.jrnn.model = ainsworth_darnell_1998.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ainsworth_darnell_1998.jrnn.null = ainsworth_darnell_1998.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+# Singular fit, so:
+anova(ainsworth_darnell_1998.jrnn.model)
+
+```
+
+```{r}
+# levels = c("control","syntactic_anomaly","semantic_anomaly","double_anomaly" )
+
+ainsworth_darnell_1998.jrnn.model2 = ainsworth_darnell_1998.jrnn%>%
+  mutate(Condition = fct_relevel(Condition,"syntactic_anomaly", "control","semantic_anomaly","double_anomaly"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ainsworth_darnell_1998.jrnn.model3 = ainsworth_darnell_1998.jrnn%>%
+  mutate(Condition = fct_relevel(Condition,"semantic_anomaly", "control","syntactic_anomaly","double_anomaly"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ainsworth_darnell_1998.jrnn.model4 = ainsworth_darnell_1998.jrnn%>%
+  mutate(Condition = fct_relevel(Condition,"double_anomaly", "control","syntactic_anomaly","semantic_anomaly"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ainsworth_darnell_1998.jrnn.model%>%summary()%>%.$coefficients
+ainsworth_darnell_1998.jrnn.model2%>%summary()%>%.$coefficients
+ainsworth_darnell_1998.jrnn.model3%>%summary()%>%.$coefficients
+ainsworth_darnell_1998.jrnn.model4%>%summary()%>%.$coefficients
+```
+
+
+
+## Ito et al. (2016)
+
+### GRNN
+
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(ito_2016.grnn)))
+```
+
+
+
+```{r}
+ito_2016.grnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+ito_2016.grnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# Most target words are not repeated, so cannot include them in model
+
+ito_2016.grnn.model = ito_2016.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame), REML=FALSE)
+
+ito_2016.grnn.null = ito_2016.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame), REML=FALSE)
+
+# singular fit, so
+anova(ito_2016.grnn.model)
+
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+ito_2016.grnn.model2 = ito_2016.grnn%>%
+  mutate(Condition = fct_relevel(Condition,"surface_related","target_word","semantically_related","unrelated"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ito_2016.grnn.model3 = ito_2016.grnn%>%
+  mutate(Condition = fct_relevel(Condition,"semantically_related","target_word","surface_related","unrelated"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ito_2016.grnn.model4 = ito_2016.grnn%>%
+  mutate(Condition = fct_relevel(Condition,"unrelated","target_word","surface_related","semantically_related"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ito_2016.grnn.model%>%summary()%>%.$coefficients
+ito_2016.grnn.model2%>%summary()%>%.$coefficients
+ito_2016.grnn.model3%>%summary()%>%.$coefficients
+ito_2016.grnn.model4%>%summary()%>%.$coefficients
+```
+
+
+
+
+
+
+### JRNN
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(ito_2016.jrnn)))
+```
+
+
+
+```{r}
+ito_2016.jrnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+ito_2016.jrnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# most target words are not repeated, so do not include in model
+
+ito_2016.jrnn.model = ito_2016.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame), REML=FALSE)
+
+ito_2016.jrnn.null = ito_2016.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame), REML=FALSE)
+
+
+# singular fit for null model, so
+
+anova(ito_2016.jrnn.model)
+
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+ito_2016.jrnn.model2 = ito_2016.jrnn%>%
+  mutate(Condition = fct_relevel(Condition,"surface_related","target_word","semantically_related","unrelated"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ito_2016.jrnn.model3 = ito_2016.jrnn%>%
+  mutate(Condition = fct_relevel(Condition,"semantically_related","target_word","surface_related","unrelated"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ito_2016.jrnn.model4 = ito_2016.jrnn%>%
+  mutate(Condition = fct_relevel(Condition,"unrelated","target_word","surface_related","semantically_related"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+ito_2016.jrnn.model%>%summary()%>%.$coefficients
+ito_2016.jrnn.model2%>%summary()%>%.$coefficients
+ito_2016.jrnn.model3%>%summary()%>%.$coefficients
+ito_2016.jrnn.model4%>%summary()%>%.$coefficients
+```
+
+
+
+## Kim et al. (2005): Experiment 1
+
+### GRNN
+
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(kim_2005_exp1.grnn)))
+```
+
+
+
+```{r}
+kim_2005_exp1.grnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+kim_2005_exp1.grnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# Roughly half of target words are repeated (thus accounting for almost two-thirds of the stimuli), so target word is included as a random effect
+
+kim_2005_exp1.grnn.model = kim_2005_exp1.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+kim_2005_exp1.grnn.null = kim_2005_exp1.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+# singular fit for null model, so:
+anova(kim_2005_exp1.grnn.model)
+
+```
+
+```{r}
+# levels = c("Attraction Violation","Passive Control","Active Control")
+
+kim_2005_exp1.grnn.model2 = kim_2005_exp1.grnn%>%
+  mutate(Condition = fct_relevel(Condition,"Active Control","Passive Control","Attraction Violation"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+kim_2005_exp1.grnn.model3 = kim_2005_exp1.grnn%>%
+  mutate(Condition = fct_relevel(Condition,"Attraction Violation","Passive Control","Active Control"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+
+kim_2005_exp1.grnn.model%>%summary()%>%.$coefficients
+kim_2005_exp1.grnn.model2%>%summary()%>%.$coefficients
+kim_2005_exp1.grnn.model3%>%summary()%>%.$coefficients
+```
+
+
+
+
+
+### JRNN
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(kim_2005_exp1.jrnn)))
+```
+
+
+```{r}
+kim_2005_exp1.jrnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+kim_2005_exp1.jrnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# Roughly half of target words are repeated (thus accounting for almost two-thirds of the stimuli), so target word is included as a random effect
+
+kim_2005_exp1.jrnn.model = kim_2005_exp1.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+kim_2005_exp1.jrnn.null = kim_2005_exp1.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+#singular fit for null model,so:
+anova(kim_2005_exp1.jrnn.model)
+
+```
+
+```{r}
+# levels = c("Attraction Violation","Passive Control","Active Control")
+
+kim_2005_exp1.jrnn.model2 = kim_2005_exp1.jrnn%>%
+  mutate(Condition = fct_relevel(Condition,"Active Control","Passive Control","Attraction Violation"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+kim_2005_exp1.jrnn.model3 = kim_2005_exp1.jrnn%>%
+  mutate(Condition = fct_relevel(Condition,"Attraction Violation","Passive Control","Active Control"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+
+kim_2005_exp1.jrnn.model%>%summary()%>%.$coefficients
+kim_2005_exp1.jrnn.model2%>%summary()%>%.$coefficients
+kim_2005_exp1.jrnn.model3%>%summary()%>%.$coefficients
+```
+
+
+
+
+
+## Kim et al. (2005): Experiment 2
+
+### GRNN
+
+```{r}
+kim_2005_exp2.grnn=kim_2005_exp2.grnn%>%
+  mutate(Condition = fct_relevel(Condition,"Passive Control","Attraction Violation","No-Attraction Violation"))
+print(paste('Total sentences with surprisal values:',nrow(kim_2005_exp2.grnn)))
+```
+
+
+
+```{r}
+kim_2005_exp2.grnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+kim_2005_exp2.grnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# Roughly half of target words are repeated (thus accounting for almost two-thirds of the stimuli), so target word is included as a random effect
+
+kim_2005_exp2.grnn.model = kim_2005_exp2.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+kim_2005_exp2.grnn.null = kim_2005_exp2.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+# singular fit for null model, so:
+anova(kim_2005_exp2.grnn.model)
+
+```
+
+```{r}
+# levels = c("Passive Control","Attraction Violation","No-Attraction Violation")
+
+kim_2005_exp2.grnn.model2 = kim_2005_exp2.grnn%>%
+  mutate(Condition = fct_relevel(Condition,"Attraction Violation","Passive Control","No-Attraction Violation"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+kim_2005_exp2.grnn.model3 = kim_2005_exp2.grnn%>%
+  mutate(Condition = fct_relevel(Condition,"No-Attraction Violation","Passive Control","Attraction Violation"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+
+kim_2005_exp2.grnn.model%>%summary()%>%.$coefficients
+kim_2005_exp2.grnn.model2%>%summary()%>%.$coefficients
+kim_2005_exp2.grnn.model3%>%summary()%>%.$coefficients
+```
+
+
+
+
+### JRNN
+```{r}
+kim_2005_exp2.jrnn = kim_2005_exp2.jrnn%>%
+  mutate(Condition = fct_relevel(Condition,"Passive Control","Attraction Violation","No-Attraction Violation"))
+print(paste('Total sentences with surprisal values:',nrow(kim_2005_exp2.jrnn)))
+```
+`r nrow(kim_2005_exp2.jrnn)` sentences were read correctly by the jrnn, so we proceed to statistical analysis.
+
+
+```{r}
+kim_2005_exp2.jrnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+kim_2005_exp2.jrnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# Roughly half of target words are repeated (thus accounting for almost two-thirds of the stimuli), so target word is included as a random effect
+
+kim_2005_exp2.jrnn.model = kim_2005_exp2.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+kim_2005_exp2.jrnn.null = kim_2005_exp2.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+#singular fit for null model,so:
+anova(kim_2005_exp2.jrnn.model)
+
+```
+
+```{r}
+# levels = c("Attraction Violation","Passive Control","Active Control")
+
+kim_2005_exp2.jrnn.model2 = kim_2005_exp2.jrnn%>%
+  mutate(Condition = fct_relevel(Condition,"Attraction Violation","Passive Control","No-Attraction Violation"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+kim_2005_exp2.jrnn.model3 = kim_2005_exp2.jrnn%>%
+  mutate(Condition = fct_relevel(Condition,"No-Attraction Violation","Passive Control","Attraction Violation"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+
+kim_2005_exp2.jrnn.model%>%summary()%>%.$coefficients
+kim_2005_exp2.jrnn.model2%>%summary()%>%.$coefficients
+kim_2005_exp2.jrnn.model3%>%summary()%>%.$coefficients
+```
+
+
+
+## Kutas (1993)
+
+### GRNN
+
+```{r}
+kutas_1993.grnn = kutas_1993.grnn%>%
+  filter(!is.na(Condition))%>%
+  mutate(Condition= fct_relevel(Condition, "BC","R","U"))
+print(paste('Total sentences with surprisal values:',nrow(kutas_1993.grnn)))
+```
+
+
+
+```{r}
+kutas_1993.grnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# most target words are not repeated, so do not include in model
+
+
+kutas_1993.grnn%>%filter(!is.na(Condition))%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+kutas_1993.grnn.model = kutas_1993.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+kutas_1993.grnn.null = kutas_1993.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+anova(kutas_1993.grnn.model,kutas_1993.grnn.null)
+
+```
+
+```{r}
+# levels = c("BC","R","U")
+
+kutas_1993.grnn.model2 = kutas_1993.grnn%>%
+  mutate(Condition = fct_relevel(Condition,"R","BC","U"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+kutas_1993.grnn.model3 = kutas_1993.grnn%>%
+  mutate(Condition = fct_relevel(Condition,"U","BC","R"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+kutas_1993.grnn.model%>%summary()%>%.$coefficients
+kutas_1993.grnn.model2%>%summary()%>%.$coefficients
+kutas_1993.grnn.model3%>%summary()%>%.$coefficients
+```
+
+
+
+
+
+
+### JRNN
+
+
+```{r}
+kutas_1993.jrnn=kutas_1993.jrnn%>%
+  filter(!is.na(Condition))%>%
+  mutate(Condition= fct_relevel(Condition, "BC","R","U"))
+print(paste('Total sentences with surprisal values:',nrow(kutas_1993.jrnn)))
+```
+
+
+
+```{r}
+kutas_1993.jrnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) +
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+kutas_1993.jrnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+kutas_1993.jrnn.model = kutas_1993.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+kutas_1993.jrnn.null = kutas_1993.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+anova(kutas_1993.jrnn.model,kutas_1993.jrnn.null)
+
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+kutas_1993.jrnn.model2 = kutas_1993.jrnn%>%
+  mutate(Condition = fct_relevel(Condition,"R","BC","U"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+kutas_1993.jrnn.model3 = kutas_1993.jrnn%>%
+  mutate(Condition = fct_relevel(Condition,"U","BC","R"))%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+
+kutas_1993.jrnn.model%>%summary()%>%.$coefficients
+kutas_1993.jrnn.model2%>%summary()%>%.$coefficients
+kutas_1993.jrnn.model3%>%summary()%>%.$coefficients
+```
+
+## Urbach et al. (2010): Experiment 1
+
+### GRNN
+
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(urbach_2010_exp1.grnn)))
+```
+
+
+
+```{r}
+urbach_2010_exp1.grnn%>%
+  ggplot(aes(x=Typicality,y=Surprisal,color=Typicality)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+
+```{r}
+urbach_2010_exp1.grnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# all target words only appear once, so they are not included in the model
+
+urbach_2010_exp1.grnn = urbach_2010_exp1.grnn%>%
+  mutate(Typicality=fct_relevel(Typicality, "Atypical","Typical"))
+
+urbach_2010_exp1.grnn.model = urbach_2010_exp1.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality + (1|SentenceFrame), REML=FALSE)
+
+urbach_2010_exp1.grnn.null = urbach_2010_exp1.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~  (1|SentenceFrame), REML=FALSE)
+
+anova(urbach_2010_exp1.grnn.null,urbach_2010_exp1.grnn.model)
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+urbach_2010_exp1.grnn.model%>%summary()%>%.$coefficients
+```
+
+
+
+
+
+
+### JRNN
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(urbach_2010_exp1.jrnn)))
+```
+
+
+
+```{r}
+urbach_2010_exp1.jrnn%>%
+  ggplot(aes(x=Typicality,y=Surprisal,color=Typicality)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+urbach_2010_exp1.jrnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# all target words only appear once, so they are not included in the model
+
+urbach_2010_exp1.jrnn=urbach_2010_exp1.jrnn%>%
+  mutate(Typicality=fct_relevel(Typicality, "Atypical","Typical"))
+
+urbach_2010_exp1.jrnn.model = urbach_2010_exp1.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality + (1|SentenceFrame), REML=FALSE)
+
+urbach_2010_exp1.jrnn.null = urbach_2010_exp1.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame), REML=FALSE)
+
+anova(urbach_2010_exp1.jrnn.null,urbach_2010_exp1.jrnn.model)
+```
+
+
+```{r}
+urbach_2010_exp1.jrnn.model%>%summary()%>%.$coefficients
+```
+
+
+
+
+## Urbach et al. (2010): Experiment 2
+
+### GRNN
+
+```{r}
+urbach_2010_exp2.grnn=urbach_2010_exp2.grnn%>%
+  filter(!is.na(Typicality))
+print(paste('Total sentences with surprisal values:',nrow(urbach_2010_exp2.grnn)))
+```
+
+
+
+```{r}
+urbach_2010_exp2.grnn%>%
+  ggplot(aes(x=Typicality,y=Surprisal,color=Typicality)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65)) + facet_wrap(.~QuantifierType)
+```
+
+```{r}
+urbach_2010_exp2.grnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# all target words appear twice, so they are included in the model
+
+urbach_2010_exp2.grnn.model = urbach_2010_exp2.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality*QuantifierType + (1|SentenceFrame) + (1|TargetWord), REML=FALSE)
+
+urbach_2010_exp2.grnn.no_int = urbach_2010_exp2.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality+QuantifierType + (1|SentenceFrame)+ (1|TargetWord), REML=FALSE)
+
+anova(urbach_2010_exp2.grnn.no_int,urbach_2010_exp2.grnn.model)
+
+urbach_2010_exp2.grnn.typicality = urbach_2010_exp2.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality + (1|SentenceFrame)+ (1|TargetWord), REML=FALSE)
+
+urbach_2010_exp2.grnn.qt = urbach_2010_exp2.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ QuantifierType + (1|SentenceFrame)+ (1|TargetWord), REML=FALSE)
+
+anova(urbach_2010_exp2.grnn.no_int,urbach_2010_exp2.grnn.typicality)
+anova(urbach_2010_exp2.grnn.no_int,urbach_2010_exp2.grnn.qt)
+
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+urbach_2010_exp2.grnn.no_int%>%summary()%>%.$coefficients
+```
+
+
+```{r}
+t.test((urbach_2010_exp2.grnn%>%filter(Typicality=="Typical" & QuantifierType=="Most")%>%.$Surprisal),(urbach_2010_exp2.grnn%>%filter(Typicality=="Typical" & QuantifierType=="Few")%>%.$Surprisal),alternative='less')
+
+t.test((urbach_2010_exp2.grnn%>%filter(Typicality=="Atypical" & QuantifierType=="Most")%>%.$Surprisal),(urbach_2010_exp2.grnn%>%filter(Typicality=="Atypical" & QuantifierType=="Few")%>%.$Surprisal),alternative='greater')
+```
+
+
+
+### JRNN
+```{r}
+urbach_2010_exp2.jrnn=urbach_2010_exp2.jrnn%>%
+  filter(!is.na(Typicality))
+print(paste('Total sentences with surprisal values:',nrow(urbach_2010_exp2.jrnn)))
+```
+
+
+
+```{r}
+urbach_2010_exp2.jrnn%>%
+  ggplot(aes(x=Typicality,y=Surprisal,color=Typicality)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65)) + facet_wrap(.~QuantifierType)
+```
+
+```{r}
+urbach_2010_exp2.jrnn.model = urbach_2010_exp2.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality*QuantifierType + (1|SentenceFrame), REML=FALSE)
+
+urbach_2010_exp2.jrnn.no_int = urbach_2010_exp2.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality+QuantifierType + (1|SentenceFrame), REML=FALSE)
+
+anova(urbach_2010_exp2.jrnn.no_int,urbach_2010_exp2.jrnn.model)
+
+
+urbach_2010_exp2.jrnn.typicality = urbach_2010_exp2.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality + (1|SentenceFrame), REML=FALSE)
+
+urbach_2010_exp2.jrnn.qt = urbach_2010_exp2.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ QuantifierType + (1|SentenceFrame), REML=FALSE)
+
+anova(urbach_2010_exp2.jrnn.no_int,urbach_2010_exp2.jrnn.typicality)
+anova(urbach_2010_exp2.jrnn.no_int,urbach_2010_exp2.jrnn.qt)
+
+urbach_2010_exp2.jrnn.null = urbach_2010_exp2.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame), REML=FALSE)
+
+anova(urbach_2010_exp2.jrnn.null,urbach_2010_exp2.jrnn.typicality)
+
+
+```
+
+
+```{r}
+urbach_2010_exp2.jrnn.typicality%>%summary()%>%.$coefficients
+```
+
+
+```{r}
+t.test((urbach_2010_exp2.jrnn%>%filter(Typicality=="Typical" & QuantifierType=="Most")%>%.$Surprisal),(urbach_2010_exp2.jrnn%>%filter(Typicality=="Typical" & QuantifierType=="Few")%>%.$Surprisal),alternative='less')
+
+t.test((urbach_2010_exp2.jrnn%>%filter(Typicality=="Atypical" & QuantifierType=="Most")%>%.$Surprisal),(urbach_2010_exp2.jrnn%>%filter(Typicality=="Atypical" & QuantifierType=="Few")%>%.$Surprisal),alternative='greater')
+```
+
+
+
+## Urbach et al. (2010): Experiment 3
+
+### GRNN
+
+```{r}
+urbach_2010_exp3.grnn=urbach_2010_exp3.grnn%>%
+  filter(!is.na(Typicality))
+print(paste('Total sentences with surprisal values:',nrow(urbach_2010_exp3.grnn)))
+```
+
+
+```{r}
+urbach_2010_exp3.grnn%>%
+  ggplot(aes(x=Typicality,y=Surprisal,color=Typicality)) +
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65)) + facet_wrap(.~QuantifierType)
+```
+
+```{r}
+urbach_2010_exp3.grnn.model = urbach_2010_exp3.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality*QuantifierType + (1|SentenceFrame), REML=FALSE)
+
+urbach_2010_exp3.grnn.no_int = urbach_2010_exp3.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality+QuantifierType + (1|SentenceFrame), REML=FALSE)
+
+anova(urbach_2010_exp3.grnn.no_int,urbach_2010_exp3.grnn.model)
+
+urbach_2010_exp3.grnn.typicality = urbach_2010_exp3.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality + (1|SentenceFrame), REML=FALSE)
+
+urbach_2010_exp3.grnn.qt = urbach_2010_exp3.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ QuantifierType + (1|SentenceFrame), REML=FALSE)
+
+anova(urbach_2010_exp3.grnn.no_int,urbach_2010_exp3.grnn.typicality)
+anova(urbach_2010_exp3.grnn.no_int,urbach_2010_exp3.grnn.qt)
+
+urbach_2010_exp3.grnn.null = urbach_2010_exp3.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ QuantifierType + (1|SentenceFrame), REML=FALSE)
+
+anova(urbach_2010_exp3.grnn.null,urbach_2010_exp3.grnn.typicality)
+
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+urbach_2010_exp3.grnn.typicality%>%summary()%>%.$coefficients
+```
+
+
+```{r}
+t.test((urbach_2010_exp3.grnn%>%filter(Typicality=="Typical" & QuantifierType=="Often")%>%.$Surprisal),(urbach_2010_exp3.grnn%>%filter(Typicality=="Typical" & QuantifierType=="Rarely")%>%.$Surprisal),alternative='less')
+
+t.test((urbach_2010_exp3.grnn%>%filter(Typicality=="Atypical" & QuantifierType=="Often")%>%.$Surprisal),(urbach_2010_exp3.grnn%>%filter(Typicality=="Atypical" & QuantifierType=="Rarely")%>%.$Surprisal),alternative='greater')
+```
+
+
+
+### JRNN
+```{r}
+urbach_2010_exp3.jrnn=urbach_2010_exp3.jrnn%>%
+  filter(!is.na(Typicality))
+print(paste('Total sentences with surprisal values:',nrow(urbach_2010_exp3.jrnn)))
+```
+
+
+
+```{r}
+urbach_2010_exp3.jrnn%>%
+  ggplot(aes(x=Typicality,y=Surprisal,color=Typicality)) + 
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65)) + facet_wrap(.~QuantifierType)
+```
+
+```{r}
+urbach_2010_exp3.jrnn.model = urbach_2010_exp3.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality*QuantifierType + (1|SentenceFrame), REML=FALSE)
+
+urbach_2010_exp3.jrnn.no_int = urbach_2010_exp3.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality+QuantifierType + (1|SentenceFrame), REML=FALSE)
+
+anova(urbach_2010_exp3.jrnn.no_int,urbach_2010_exp3.jrnn.model)
+
+
+urbach_2010_exp3.jrnn.typicality = urbach_2010_exp3.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Typicality + (1|SentenceFrame), REML=FALSE)
+
+urbach_2010_exp3.jrnn.qt = urbach_2010_exp3.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ QuantifierType + (1|SentenceFrame), REML=FALSE)
+
+anova(urbach_2010_exp3.jrnn.no_int,urbach_2010_exp3.jrnn.typicality)
+anova(urbach_2010_exp3.jrnn.no_int,urbach_2010_exp3.jrnn.qt)
+
+urbach_2010_exp3.jrnn.null = urbach_2010_exp3.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame), REML=FALSE)
+
+anova(urbach_2010_exp3.jrnn.null,urbach_2010_exp3.jrnn.typicality)
+
+
+```
+
+
+```{r}
+urbach_2010_exp3.jrnn.typicality%>%summary()%>%.$coefficients
+```
+
+
+
+
+```{r}
+t.test((urbach_2010_exp3.jrnn%>%filter(Typicality=="Typical" & QuantifierType=="Often")%>%.$Surprisal),(urbach_2010_exp3.jrnn%>%filter(Typicality=="Typical" & QuantifierType=="Rarely")%>%.$Surprisal),alternative='less')
+
+t.test((urbach_2010_exp3.jrnn%>%filter(Typicality=="Atypical" & QuantifierType=="Often")%>%.$Surprisal),(urbach_2010_exp3.jrnn%>%filter(Typicality=="Atypical" & QuantifierType=="Rarely")%>%.$Surprisal),alternative='greater')
+```
+
+
+## Osterhout and Mobley (1995): Experiment 2: Pronoun Agreement: Target Words
+
+### GRNN
+
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(osterhout_1995_exp2_pronouns.grnn)))
+```
+
+
+```{r}
+osterhout_1995_exp2_pronouns.grnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) +
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1)
+```
+
+```{r}
+osterhout_1995_exp2_pronouns.grnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# all target words only multiple times once, so they are included in the model
+
+osterhout_1995_exp2_pronouns.grnn.model = osterhout_1995_exp2_pronouns.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+osterhout_1995_exp2_pronouns.grnn.null = osterhout_1995_exp2_pronouns.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+#singular fit, so:
+
+anova(osterhout_1995_exp2_pronouns.grnn.model)
+
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+osterhout_1995_exp2_pronouns.grnn.model%>%summary()%>%.$coefficients
+```
+
+
+### JRNN
+
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(osterhout_1995_exp2_pronouns.jrnn)))
+```
+
+
+
+```{r}
+osterhout_1995_exp2_pronouns.jrnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) +
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+osterhout_1995_exp2_pronouns.jrnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# all target words only multiple times once, so they are included in the model
+
+osterhout_1995_exp2_pronouns.jrnn.model = osterhout_1995_exp2_pronouns.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+
+osterhout_1995_exp2_pronouns.jrnn.null = osterhout_1995_exp2_pronouns.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+# singular, so
+
+anova(osterhout_1995_exp2_pronouns.jrnn.model)
+
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+osterhout_1995_exp2_pronouns.jrnn.model%>%summary()%>%.$coefficients
+```
+
+
+
+## Osterhout and Mobley (1995): Experiment 2: Semantic Anomaly: Target Words
+
+### GRNN
+
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(osterhout_1995_exp2_controls.grnn)))
+```
+
+
+
+```{r}
+osterhout_1995_exp2_controls.grnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) +
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+osterhout_1995_exp2_controls.grnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# all target words only multiple times once, so they are included in the model
+
+osterhout_1995_exp2_controls.grnn.model = osterhout_1995_exp2_controls.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+osterhout_1995_exp2_controls.grnn.null = osterhout_1995_exp2_controls.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+# singular null model, so:
+anova(osterhout_1995_exp2_controls.grnn.model)
+
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+osterhout_1995_exp2_controls.grnn.model%>%summary()%>%.$coefficients
+```
+
+
+
+
+### JRNN
+
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(osterhout_1995_exp2_controls.jrnn)))
+```
+
+
+
+```{r}
+osterhout_1995_exp2_controls.jrnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) +
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+osterhout_1995_exp2_controls.jrnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# all target words only multiple times once, so they are included in the model
+
+osterhout_1995_exp2_controls.jrnn.model = osterhout_1995_exp2_controls.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+osterhout_1995_exp2_controls.jrnn.null = osterhout_1995_exp2_controls.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+# singular null model, so:
+anova(osterhout_1995_exp2_controls.jrnn.model)
+
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+osterhout_1995_exp2_controls.jrnn.model%>%summary()%>%.$coefficients
+```
+
+
+## Osterhout and Mobley (1995): Experiment 2: Pronoun Agreement: Sentence-Final Words
+
+### GRNN
+
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(osterhout_1995_exp2_pronouns_wf.grnn)))
+```
+
+
+
+```{r}
+osterhout_1995_exp2_pronouns_wf.grnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) +
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+osterhout_1995_exp2_pronouns_wf.grnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# all target words only multiple times once, so they are included in the model
+
+osterhout_1995_exp2_pronouns_wf.grnn.model = osterhout_1995_exp2_pronouns_wf.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+osterhout_1995_exp2_pronouns_wf.grnn.null = osterhout_1995_exp2_pronouns_wf.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+anova(osterhout_1995_exp2_pronouns_wf.grnn.null,osterhout_1995_exp2_pronouns_wf.grnn.model)
+
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+osterhout_1995_exp2_pronouns_wf.grnn.model%>%summary()%>%.$coefficients
+```
+
+
+
+### JRNN
+
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(osterhout_1995_exp2_pronouns_wf.jrnn)))
+```
+
+
+
+```{r}
+osterhout_1995_exp2_pronouns_wf.jrnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) +
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+osterhout_1995_exp2_pronouns_wf.jrnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# all target words only multiple times once, so they are included in the model
+
+osterhout_1995_exp2_pronouns_wf.jrnn.model = osterhout_1995_exp2_pronouns_wf.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+osterhout_1995_exp2_pronouns_wf.jrnn.null = osterhout_1995_exp2_pronouns_wf.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+anova(osterhout_1995_exp2_pronouns_wf.jrnn.null,osterhout_1995_exp2_pronouns_wf.jrnn.model)
+
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+osterhout_1995_exp2_pronouns_wf.jrnn.model%>%summary()%>%.$coefficients
+```
+
+
+
+## Osterhout and Mobley (1995): Experiment 2: Semantic Anomaly: Sentence-Final Words
+
+### GRNN
+
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(osterhout_1995_exp2_controls_wf.grnn)))
+```
+
+
+```{r}
+osterhout_1995_exp2_controls_wf.grnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) +
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+osterhout_1995_exp2_controls_wf.grnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# all target words only multiple times once, so they are included in the model
+
+osterhout_1995_exp2_controls_wf.grnn.model = osterhout_1995_exp2_controls_wf.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+# singular so try
+
+osterhout_1995_exp2_controls_wf.grnn.model.reduced = osterhout_1995_exp2_controls_wf.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame), REML=FALSE)
+
+osterhout_1995_exp2_controls_wf.grnn.null = osterhout_1995_exp2_controls_wf.grnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame), REML=FALSE)
+
+# singular null model, so:
+anova(osterhout_1995_exp2_controls_wf.grnn.null,osterhout_1995_exp2_controls_wf.grnn.model.reduced)
+
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+osterhout_1995_exp2_controls_wf.grnn.model.reduced%>%summary()%>%.$coefficients
+```
+
+
+
+### JRNN
+
+```{r}
+print(paste('Total sentences with surprisal values:',nrow(osterhout_1995_exp2_controls_wf.jrnn)))
+```
+
+
+
+```{r}
+osterhout_1995_exp2_controls_wf.jrnn%>%
+  ggplot(aes(x=Condition,y=Surprisal,color=Condition)) +
+  stat_summary(fun.data = mean_se,
+                 geom="pointrange",
+                 fatten = 2,
+                 size=1,
+                 position = position_dodge(width=0.65))
+```
+
+```{r}
+osterhout_1995_exp2_controls_wf.jrnn%>%group_by(TargetWord)%>%summarize(n=n())%>%group_by(n)%>%summarize(n_of_n=n())
+# all target words only multiple times once, so they are included in the model
+
+osterhout_1995_exp2_controls_wf.jrnn.model = osterhout_1995_exp2_controls_wf.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame) +(1|TargetWord), REML=FALSE)
+
+osterhout_1995_exp2_controls_wf.jrnn.model.reduced = osterhout_1995_exp2_controls_wf.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ Condition + (1|SentenceFrame), REML=FALSE)
+
+osterhout_1995_exp2_controls_wf.jrnn.null = osterhout_1995_exp2_controls_wf.jrnn%>%
+  lmer(data=.,
+       formula = Surprisal ~ (1|SentenceFrame), REML=FALSE)
+
+anova(osterhout_1995_exp2_controls_wf.jrnn.null,osterhout_1995_exp2_controls_wf.jrnn.model.reduced)
+
+```
+
+```{r}
+# levels = c("target_word","surface_related","semantically_related","unrelated")
+
+osterhout_1995_exp2_controls_wf.jrnn.model.reduced%>%summary()%>%.$coefficients
+```

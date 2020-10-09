@@ -1,0 +1,120 @@
+Sentence;TargetWord;Surprisal
+The actress predicted that she would get the job .;job;4.65365743637085
+The aunt heard that he had won the lottery .;lottery;7.619485855102539
+The aunt heard that she had won the lottery .;lottery;7.704709529876709
+The mother believed that he was sick again .;again;9.540314674377441
+The mother believed that she was sick again .;again;9.178337097167969
+The princess decided that he would marry the American .;American;9.458791732788086
+The princess decided that she would marry the American .;American;9.39824390411377
+The queen knew that he would abdicate the throne .;throne;0.7877975106239319
+The queen knew that she would abdicate the throne .;throne;0.9443721771240234
+The girl hoped that he would be asked to dance .;dance;9.567790985107422
+The girl hoped that she would be asked to dance .;dance;8.864535331726074
+The nun believed that he would be asked to pray .;pray;8.137133598327637
+The nun believed that she would be asked to pray .;pray;8.066438674926758
+The stepmother denied that he was disliked by the children .;children;5.82083797454834
+The stepmother denied that she was disliked by the children .;children;5.397411823272705
+The milkmaid heard that he would be given a raise .;raise;12.29850959777832
+The milkmaid heard that she would be given a raise .;raise;12.223164558410645
+The waitress admitted that he had stolen the money .;money;3.5015220642089844
+The waitress admitted that she had stolen the money .;money;3.472714424133301
+The housewife decided that he would go shopping today .;today;14.072420120239258
+The housewife decided that she would go shopping today .;today;14.231739044189453
+The niece hoped that he would get to see her cousin .;cousin;10.665610313415527
+The niece hoped that she would get to see her cousin .;cousin;10.406623840332031
+The sister admitted that he had copied the homework .;homework;17.17855453491211
+The sister admitted that she had copied the homework .;homework;17.043960571289062
+The hostess hoped that he had invited the right people .;people;6.459521770477295
+The hostess hoped that she had invited the right people .;people;6.484121799468994
+The showgirl admitted that he needed to work on the dance routine .;routine;8.573591232299805
+The showgirl admitted that she needed to work on the dance routine .;routine;7.8896870613098145
+The uncle hoped that he had picked out a good wine .;wine;12.936775207519531
+The uncle hoped that she had picked out a good wine .;wine;12.169686317443848
+The bachelor predicted that he would feel nervous during the wedding .;wedding;11.538311958312988
+The bachelor predicted that she would feel nervous during the wedding .;wedding;10.051124572753906
+The chairman insisted that he would increase the company's performance .;performance;10.243230819702148
+The chairman insisted that she would increase the company's performance .;performance;10.17756462097168
+The father decided that he would be lenient with his daughter .;daughter;6.344166278839111
+The father decided that she would be lenient with his daughter .;daughter;5.62028169631958
+The prince forgot that he had to attend the state function .;function;15.254765510559082
+The prince forgot that she had to attend the state function .;function;15.303241729736328
+The king noticed that he had lost the support of the peasants .;peasants;10.024202346801758
+The king noticed that she had lost the support of the peasants .;peasants;10.5909423828125
+The boy hoped that he could attend summer camp this year .;year;2.599029302597046
+The boy hoped that she could attend summer camp this year .;year;2.5174708366394043
+The priest heard that he was about to be appointed bishop .;bishop;7.048892498016357
+The priest heard that she was about to be appointed bishop .;bishop;8.132011413574219
+The butler hinted that he would soon be replaced .;replaced;6.633831977844238
+The butler hinted that she would soon be replaced .;replaced;6.786203384399414
+The stepfather decided that he would buy presents for the stepdaughter .;stepdaughter;17.94137954711914
+The stepfather decided that she would buy presents for the stepdaughter .;stepdaughter;16.840463638305664
+The waiter hoped that he would receive a big tip .;tip;12.194393157958984
+The waiter hoped that she would receive a big tip .;tip;12.406113624572754
+The chairman forgot that he had called a meeting .;meeting;4.997627258300781
+The chairman forgot that she had called a meeting .;meeting;5.024118423461914
+The nephew hoped that he would receive the inheritance .;inheritance;10.580035209655762
+The nephew hoped that she would receive the inheritance .;inheritance;10.896915435791016
+The brother decided that he would not wait for his sister any longer .;longer;1.973766803741455
+The brother decided that she would not wait for his sister any longer .;longer;1.836560845375061
+The policeman insisted that he would retire next year .;year;4.42967414855957
+The policeman insisted that she would retire next year .;year;4.102696418762207
+The mailman worried that he had forgotten to leave the letter .;letter;14.651476860046387
+The mailman worried that she had forgotten to leave the letter .;letter;14.808733940124512
+The ballerina predicted that he would win the prize .;prize;3.7303521633148193
+The ballerina predicted that she would win the prize .;prize;3.678161144256592
+The wife agreed that he was happy with the new house .;house;8.901676177978516
+The wife agreed that she was happy with the new house .;house;8.879667282104492
+The daughter decided that he would sneak out that night .;night;1.8185358047485352
+The daughter decided that she would sneak out that night .;night;1.728102445602417
+The lady regretted that he had to leave New York .;York;0.3203936219215393
+The lady regretted that she had to leave New York .;York;0.32752716541290283
+The girlfriend believed that he had finally been asked on a date .;date;6.5044426918029785
+The girlfriend believed that she had finally been asked on a date .;date;6.429147720336914
+The maid hoped that he would receive a big raise this year .;year;2.2757186889648438
+The maid hoped that she would receive a big raise this year .;year;2.2255003452301025
+The duchess insisted that he was having an affair with the movie star .;star;4.473315238952637
+The duchess insisted that she was having an affair with the movie star .;star;4.297177314758301
+The man insinuated that he would tell the authorities .;authorities;9.898961067199707
+The man insinuated that she would tell the authorities .;authorities;10.205131530761719
+The grandmother realized that he was aging .;aging;13.44385814666748
+The grandmother realized that she was aging .;aging;12.881915092468262
+The bride realized that he looked very beautiful .;beautiful;5.456160545349121
+The bride realized that she looked very beautiful .;beautiful;5.1113176345825195
+The stewardess hoped that he would make her flight on time .;time;9.23487377166748
+The stewardess hoped that she would make her flight on time .;time;9.102731704711914
+The landlady decided that he would evict the noisy tenants .;tenants;12.668192863464355
+The landlady decided that she would evict the noisy tenants .;tenants;13.425707817077637
+The girlscout predicted that he would sell the most cookies .;cookies;16.45780372619629
+The girlscout predicted that she would sell the most cookies .;cookies;15.380057334899902
+The actress denied that he had seduced the director .;director;11.013070106506348
+The actress denied that she had seduced the director .;director;11.21683120727539
+The aunt agreed that he had no talent for raising children .;children;7.717271327972412
+The aunt agreed that she had no talent for raising children .;children;7.661590099334717
+The mother admitted that he would need a babysitter for the evening .;evening;10.090394020080566
+The mother admitted that she would need a babysitter for the evening .;evening;9.735937118530273
+The husband agreed that he should help with the dishes .;dishes;16.372846603393555
+The husband agreed that she should help with the dishes .;dishes;15.9847412109375
+The fireman knew that he had to escape in the next few minutes .;minutes;3.5616672039031982
+The fireman knew that she had to escape in the next few minutes .;minutes;3.937462091445923
+The son realized that he missed his parents .;parents;7.899273872375488
+The son realized that she missed his parents .;parents;7.08371639251709
+The boyfriend admitted that he was in a jealous rage .;rage;2.3612236976623535
+The boyfriend admitted that she was in a jealous rage .;rage;2.7384419441223145
+The man decided that he would accept the job at Microsoft .;Microsoft;13.35378646850586
+The man decided that she would accept the job at Microsoft .;Microsoft;13.615972518920898
+The steward hoped that he could help the passenger .;passenger;14.498958587646484
+The steward hoped that she could help the passenger .;passenger;14.616268157958984
+The grandfather believed that he had voted for Truman .;Truman;12.943359375
+The grandfather believed that she had voted for Truman .;Truman;12.744868278503418
+The congressman hoped that he would win the next election .;election;2.127748489379883
+The congressman hoped that she would win the next election .;election;2.3604953289031982
+The landlord denied that he had turned off the electricity .;electricity;12.303935050964355
+The landlord denied that she had turned off the electricity .;electricity;12.075525283813477
+The bachelor insisted that he would never get married .;married;3.4127049446105957
+The bachelor insisted that she would never get married .;married;2.3485918045043945
+The son promised that he would stay out of trouble .;trouble;4.752181053161621
+The son promised that she would stay out of trouble .;trouble;4.279726505279541
+The waiter worried that he would forget their order .;order;13.016561508178711
+The waiter worried that she would forget their order .;order;13.762404441833496
+The congressman predicted that he would win the election easily .;easily;10.142045974731445
+The congressman predicted that she would win the election easily .;easily;10.259947776794434

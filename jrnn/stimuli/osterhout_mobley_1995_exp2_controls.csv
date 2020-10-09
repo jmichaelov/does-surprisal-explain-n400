@@ -1,0 +1,181 @@
+Condition,SentenceFrame,Sentence
+control,frame0,The horse raced down the track and won the race easily .
+anomalous,frame0,The horse raced down the track and bargained the race easily .
+control,frame1,The boat sailed down the river and sank during the storm .
+anomalous,frame1,The boat sailed down the river and coughed during the storm .
+control,frame2,The car rolled down the hill and stopped when it hit a tree .
+anomalous,frame2,The car rolled down the hill and complained when it hit a tree .
+control,frame3,The rocket shot into the sky and exploded in a fireball .
+anomalous,frame3,The rocket shot into the sky and laughed in a fireball .
+control,frame4,The team rested for several days and won the championship .
+anomalous,frame4,The team rested for several days and burned the championship .
+control,frame5,The executive showed the report and frowned after the meeting .
+anomalous,frame5,The executive showed the report and floated after the meeting .
+control,frame6,The applicant refused the job and complained to the government agency .
+anomalous,frame6,The applicant refused the job and exploded to the government agency .
+control,frame7,The man paid for the job and left his work gloves behind .
+anomalous,frame7,The man paid for the job and popped his work gloves behind .
+control,frame8,The runner expected to win and lost the race instead .
+anomalous,frame8,The runner expected to win and ducked the race instead .
+control,frame9,The little girl read the sad story and cried about it for days .
+anomalous,frame9,The little girl read the sad story and cracked about it for days .
+control,frame10,The man told the truth and resigned in disgrace .
+anomalous,frame10,The man told the truth and milked in disgrace .
+control,frame11,The doctor rushed to the scene and helped to revive the victim .
+anomalous,frame11,The doctor rushed to the scene and saluted to revive the victim .
+control,frame12,The actress called from New York and complained to her agent .
+anomalous,frame12,The actress called from New York and sank to her agent .
+control,frame13,The lawyer hurried through the proceedings and blundered during his presentation .
+anomalous,frame13,The lawyer hurried through the proceedings and hit during his presentation .
+control,frame14,The fielder tossed the ball and missed his chance to tag out the runner .
+anomalous,frame14,The fielder tossed the ball and unpacked his chance to tag out the runner .
+control,frame15,The student lectured on honesty and lied about his grades .
+anomalous,frame15,The student lectured on honesty and docked about his grades .
+control,frame16,The corporation moved to New Jersey and grew very rapidly .
+anomalous,frame16,The corporation moved to New Jersey and sneezed very rapidly .
+control,frame17,The player passed the ball and scored the touchdown .
+anomalous,frame17,The player passed the ball and slept the touchdown .
+control,frame18,The man phoned from Chicago and volunteered for the job .
+anomalous,frame18,The man phoned from Chicago and collided for the job .
+control,frame19,The boy told the joke and laughed at the punch line .
+anomalous,frame19,The boy told the joke and dropped at the punch line .
+control,frame20,The spy watched for several days and escaped over the fence .
+anomalous,frame20,The spy watched for several days and barked over the fence .
+control,frame21,The man mailed the letter and waited for a reply .
+anomalous,frame21,The man mailed the letter and steered for a reply .
+control,frame22,The patient left in pain and died the next day .
+anomalous,frame22,The patient left in pain and floated the next day .
+control,frame23,The dealer sold the car and complained about the transmission .
+anomalous,frame23,The dealer sold the car and sank about the transmission .
+control,frame24,The company sued for damages and lost the case .
+anomalous,frame24,The company sued for damages and resigned the case .
+control,frame25,The politician read the funny story and laughed for several minutes .
+anomalous,frame25,The politician read the funny story and cried for several minutes .
+control,frame26,The lady sent the flowers and blushed when she thought about them .
+anomalous,frame26,The lady sent the flowers and popped when she thought about them .
+control,frame27,The employee asked to retire and resigned from the company .
+anomalous,frame27,The employee asked to retire and guessed from the company .
+control,frame28,The barge floated across the lake and docked next to the warehouse .
+anomalous,frame28,The barge floated across the lake and laughed next to the warehouse .
+control,frame29,The boxer pushed into the ring and fought three good rounds .
+anomalous,frame29,The boxer pushed into the ring and wrote three good rounds .
+control,frame30,The car raced around the speedway and crashed into a wall .
+anomalous,frame30,The car raced around the speedway and bargained into a wall .
+control,frame31,The plane sailed through the air and landed on the runway .
+anomalous,frame31,The plane sailed through the air and laughed on the runway .
+control,frame32,The puppy rolled the ball and barked at it .
+anomalous,frame32,The puppy rolled the ball and applauded at it .
+control,frame33,The arrow shot into the air and fell into a haystack .
+anomalous,frame33,The arrow shot into the air and resigned into a haystack .
+control,frame34,The patient rested for the night and recovered quickly from the operation .
+anomalous,frame34,The patient rested for the night and collided quickly from the operation .
+control,frame35,The professor asked a question and responded with a thoughtful comment .
+anomalous,frame35,The professor asked a question and docked with a thoughtful comment .
+control,frame36,The manager refused the raise and quit his job .
+anomalous,frame36,The manager refused the raise and clawed his job .
+control,frame37,The worker paid the tip and left his wallet on the table .
+anomalous,frame37,The worker paid the tip and popped his wallet on the table .
+control,frame38,The actress expected to star and failed in her role in the play .
+anomalous,frame38,The actress expected to star and saluted in her role in the play .
+control,frame39,The criminal stopped in New York and fled into a nearby store .
+anomalous,frame39,The criminal stopped in New York and sank into a nearby store .
+control,frame40,The army battalion rushed to the front and retreated after the battle .
+anomalous,frame40,The army battalion rushed to the front and bit after the battle .
+control,frame41,The boy rushed to the hospital and collapsed on the emergency room floor .
+anomalous,frame41,The boy rushed to the hospital and steered on the emergency room floor .
+control,frame42,The flight attendant called to the cockpit and returned to the cabin .
+anomalous,frame42,The flight attendant called to the cockpit and milked to the cabin .
+control,frame43,The old man hurried across the street and fell down the stairwell .
+anomalous,frame43,The old man hurried across the street and flew down the stairwell .
+control,frame44,The boy tossed the frisbee and ran across the field .
+anomalous,frame44,The boy tossed the frisbee and slept across the field .
+control,frame45,The gambler dealt the cards and lost the pot of money .
+anomalous,frame45,The gambler dealt the cards and broke the pot of money .
+control,frame46,The family moved from the building and prospered in their new house .
+anomalous,frame46,The family moved from the building and exploded in their new house .
+control,frame47,The guest passed the food and ate some of the chocolate cake .
+anomalous,frame47,The guest passed the food and hired some of the chocolate cake .
+control,frame48,The attorney phoned from Chicago and relented about the deal .
+anomalous,frame48,The attorney phoned from Chicago and brushed about the deal .
+control,frame49,The girl told a scary story and cried for several hours .
+anomalous,frame49,The girl told a scary story and wrote for several hours .
+control,frame50,The lion watched for several hours and attacked the sickly deer .
+anomalous,frame50,The lion watched for several hours and sank the sickly deer .
+control,frame51,The man served the wine and drank several glasses before dinner .
+anomalous,frame51,The man served the wine and popped several glasses before dinner .
+control,frame52,The lady left the money and disappeared without a trace .
+anomalous,frame52,The lady left the money and flushed without a trace .
+control,frame53,The young couple sold the house and moved into an apartment .
+anomalous,frame53,The young couple sold the house and landed into an apartment .
+control,frame54,The lawyer sued for malpractice and won the court case .
+anomalous,frame54,The lawyer sued for malpractice and bit the court case .
+control,frame55,The man read the letter and responded with an angry reply .
+anomalous,frame55,The man read the letter and popped with an angry reply .
+control,frame56,The banker sent the large check and celebrated the financial deal .
+anomalous,frame56,The banker sent the large check and saluted the financial deal .
+control,frame57,The logs floated down the river and sank during the storm .
+anomalous,frame57,The logs floated down the river and sneezed during the storm .
+control,frame58,The baby showed the doll and smiled happily for several minutes .
+anomalous,frame58,The baby showed the doll and bargained happily for several minutes .
+control,frame59,The hockey player pushed off the ice and scored the winning goal .
+anomalous,frame59,The hockey player pushed off the ice and lectured the winning goal .
+control,frame60,The airplane raced through the sky and landed at the airport .
+anomalous,frame60,The airplane raced through the sky and laughed at the airport .
+control,frame61,The ball rolled down the hill and broke into several pieces .
+anomalous,frame61,The ball rolled down the hill and resigned into several pieces .
+control,frame62,The bottle rolled down the hill and broke into several pieces .
+anomalous,frame62,The bottle rolled down the hill and resigned into several pieces .
+control,frame63,The bullet shot out of the gun and missed its target .
+anomalous,frame63,The bullet shot out of the gun and celebrated its target .
+control,frame64,The horse rested in the stable and slept for several hours .
+anomalous,frame64,The horse rested in the stable and saluted for several hours .
+control,frame65,The woman asked for a divorce and cried after receiving the papers .
+anomalous,frame65,The woman asked for a divorce and sank after receiving the papers .
+control,frame66,The clerk refused a promotion and quit in disgust .
+anomalous,frame66,The clerk refused a promotion and floated in disgust .
+control,frame67,The reporter paid for the information and smiled in anticipation of the story .
+anomalous,frame67,The reporter paid for the information and barked in anticipation of the story .
+control,frame68,The patient expected to recover and died of complications .
+anomalous,frame68,The patient expected to recover and docked of complications .
+control,frame69,The man stopped in the alley and fled before the police arrived .
+anomalous,frame69,The man stopped in the alley and steered before the police arrived .
+control,frame70,The soldier issued the order and saluted to with his commanding officer .
+anomalous,frame70,The soldier issued the order and saluted collided with his commanding officer .
+control,frame71,The woman rushed down the hall and slipped on a banana peel .
+anomalous,frame71,The woman rushed down the hall and bit on a banana peel .
+control,frame72,The broker called into the office and left in a huff .
+anomalous,frame72,The broker called into the office and burned in a huff .
+control,frame73,The dog hurried through the park and barked at a running squirrel .
+anomalous,frame73,The dog hurried through the park and yelled at a running squirrel .
+control,frame74,The soldier tossed the grenade and ducked into a foxhole .
+anomalous,frame74,The soldier tossed the grenade and danced into a foxhole .
+control,frame75,The boy left in the car and whined about his parents .
+anomalous,frame75,The boy left in the car and popped about his parents .
+control,frame76,The actress moved to Los Angeles and unpacked her bags .
+anomalous,frame76,The actress moved to Los Angeles and sank her bags .
+control,frame77,The senator read the legislation and voted in favor of the measure .
+anomalous,frame77,The senator read the legislation and flushed in favor of the measure .
+control,frame78,The girl bought the nightgown and blushed at the thought of wearing it .
+anomalous,frame78,The girl bought the nightgown and floated at the thought of wearing it .
+control,frame79,The executive denied the request and quit his job the next day .
+anomalous,frame79,The executive denied the request and flew his job the next day .
+control,frame80,The woman sent the bad news and fainted into the arms of her husband .
+anomalous,frame80,The woman sent the bad news and broke into the arms of her husband .
+control,frame81,The loan shark mailed the loot and disappeared for three years .
+anomalous,frame81,The loan shark mailed the loot and saluted for three years .
+control,frame82,The passenger left on the boat and drowned during the storm .
+anomalous,frame82,The passenger left on the boat and barked during the storm .
+control,frame83,The old woman sold the farm and died two months later .
+anomalous,frame83,The old woman sold the farm and collided two months later .
+control,frame84,The customer refused the seat and left a very small tip .
+anomalous,frame84,The customer refused the seat and chomped a very small tip .
+control,frame85,The actor read the poor review and cursed the newspaper critic .
+anomalous,frame85,The actor read the poor review and brushed the newspaper critic .
+control,frame86,The driver stopped at the light and waited for the light to change .
+anomalous,frame86,The driver stopped at the light and broke for the light to change .
+control,frame87,The lawyer sent the good news and celebrated with a bottle of wine .
+anomalous,frame87,The lawyer sent the good news and steered with a bottle of wine .
+control,frame88,The balloon floated in the air and popped with a loud bang .
+anomalous,frame88,The balloon floated in the air and slept with a loud bang .
+control,frame89,The lady pushed into the cab and complained about the rude service .
+anomalous,frame89,The lady pushed into the cab and chopped about the rude service .

@@ -1,0 +1,121 @@
+Condition,SentenceFrame,Sentence
+anomalous,frame0,The actress predicted that he would get the job .
+control,frame0,The actress predicted that she would get the job .
+anomalous,frame1,The aunt heard that he had won the lottery .
+control,frame1,The aunt heard that she had won the lottery .
+anomalous,frame2,The mother believed that he was sick again .
+control,frame2,The mother believed that she was sick again .
+anomalous,frame3,The princess decided that he would marry the American .
+control,frame3,The princess decided that she would marry the American .
+anomalous,frame4,The queen knew that he would abdicate the throne .
+control,frame4,The queen knew that she would abdicate the throne .
+anomalous,frame5,The girl hoped that he would be asked to dance .
+control,frame5,The girl hoped that she would be asked to dance .
+anomalous,frame6,The nun believed that he would be asked to pray .
+control,frame6,The nun believed that she would be asked to pray .
+anomalous,frame7,The stepmother denied that he was disliked by the children .
+control,frame7,The stepmother denied that she was disliked by the children .
+anomalous,frame8,The milkmaid heard that he would be given a raise .
+control,frame8,The milkmaid heard that she would be given a raise .
+anomalous,frame9,The waitress admitted that he had stolen the money .
+control,frame9,The waitress admitted that she had stolen the money .
+anomalous,frame10,The housewife decided that he would go shopping today .
+control,frame10,The housewife decided that she would go shopping today .
+anomalous,frame11,The niece hoped that he would get to see her cousin .
+control,frame11,The niece hoped that she would get to see her cousin .
+anomalous,frame12,The sister admitted that he had copied the homework .
+control,frame12,The sister admitted that she had copied the homework .
+anomalous,frame13,The hostess hoped that he had invited the right people .
+control,frame13,The hostess hoped that she had invited the right people .
+anomalous,frame14,The showgirl admitted that he needed to work on the dance routine .
+control,frame14,The showgirl admitted that she needed to work on the dance routine .
+control,frame15,The uncle hoped that he had picked out a good wine .
+anomalous,frame15,The uncle hoped that she had picked out a good wine .
+control,frame16,The bachelor predicted that he would feel nervous during the wedding .
+anomalous,frame16,The bachelor predicted that she would feel nervous during the wedding .
+control,frame17,The chairman insisted that he would increase the company's performance .
+anomalous,frame17,The chairman insisted that she would increase the company's performance .
+control,frame18,The father decided that he would be lenient with his daughter .
+anomalous,frame18,The father decided that she would be lenient with his daughter .
+control,frame19,The prince forgot that he had to attend the state function .
+anomalous,frame19,The prince forgot that she had to attend the state function .
+control,frame20,The king noticed that he had lost the support of the peasants .
+anomalous,frame20,The king noticed that she had lost the support of the peasants .
+control,frame21,The boy hoped that he could attend summer camp this year .
+anomalous,frame21,The boy hoped that she could attend summer camp this year .
+control,frame22,The priest heard that he was about to be appointed bishop .
+anomalous,frame22,The priest heard that she was about to be appointed bishop .
+control,frame23,The butler hinted that he would soon be replaced .
+anomalous,frame23,The butler hinted that she would soon be replaced .
+control,frame24,The stepfather decided that he would buy presents for the stepdaughter .
+anomalous,frame24,The stepfather decided that she would buy presents for the stepdaughter .
+control,frame25,The waiter hoped that he would receive a big tip .
+anomalous,frame25,The waiter hoped that she would receive a big tip .
+control,frame26,The chairman forgot that he had called a meeting .
+anomalous,frame26,The chairman forgot that she had called a meeting .
+control,frame27,The nephew hoped that he would receive the inheritance .
+anomalous,frame27,The nephew hoped that she would receive the inheritance .
+control,frame28,The brother decided that he would not wait for his sister any longer .
+anomalous,frame28,The brother decided that she would not wait for his sister any longer .
+control,frame29,The policeman insisted that he would retire next year .
+anomalous,frame29,The policeman insisted that she would retire next year .
+control,frame30,The mailman worried that he had forgotten to leave the letter .
+anomalous,frame30,The mailman worried that she had forgotten to leave the letter .
+anomalous,frame31,The ballerina predicted that he would win the prize .
+control,frame31,The ballerina predicted that she would win the prize .
+anomalous,frame32,The wife agreed that he was happy with the new house .
+control,frame32,The wife agreed that she was happy with the new house .
+anomalous,frame33,The daughter decided that he would sneak out that night .
+control,frame33,The daughter decided that she would sneak out that night .
+anomalous,frame34,The lady regretted that he had to leave New York .
+control,frame34,The lady regretted that she had to leave New York .
+anomalous,frame35,The girlfriend believed that he had finally been asked on a date .
+control,frame35,The girlfriend believed that she had finally been asked on a date .
+anomalous,frame36,The maid hoped that he would receive a big raise this year .
+control,frame36,The maid hoped that she would receive a big raise this year .
+anomalous,frame37,The duchess insisted that he was having an affair with the movie star .
+control,frame37,The duchess insisted that she was having an affair with the movie star .
+anomalous,frame38,The man insinuated that he would tell the authorities .
+control,frame38,The man insinuated that she would tell the authorities .
+anomalous,frame39,The grandmother realized that he was aging .
+control,frame39,The grandmother realized that she was aging .
+anomalous,frame40,The bride realized that he looked very beautiful .
+control,frame40,The bride realized that she looked very beautiful .
+anomalous,frame41,The stewardess hoped that he would make her flight on time .
+control,frame41,The stewardess hoped that she would make her flight on time .
+anomalous,frame42,The landlady decided that he would evict the noisy tenants .
+control,frame42,The landlady decided that she would evict the noisy tenants .
+anomalous,frame43,The girlscout predicted that he would sell the most cookies .
+control,frame43,The girlscout predicted that she would sell the most cookies .
+anomalous,frame44,The actress denied that he had seduced the director .
+control,frame44,The actress denied that she had seduced the director .
+anomalous,frame45,The aunt agreed that he had no talent for raising children .
+control,frame45,The aunt agreed that she had no talent for raising children .
+anomalous,frame46,The mother admitted that he would need a babysitter for the evening .
+control,frame46,The mother admitted that she would need a babysitter for the evening .
+control,frame47,The husband agreed that he should help with the dishes .
+anomalous,frame47,The husband agreed that she should help with the dishes .
+control,frame48,The fireman knew that he had to escape in the next few minutes .
+anomalous,frame48,The fireman knew that she had to escape in the next few minutes .
+control,frame49,The son realized that he missed his parents .
+anomalous,frame49,The son realized that she missed his parents .
+control,frame50,The boyfriend admitted that he was in a jealous rage .
+anomalous,frame50,The boyfriend admitted that she was in a jealous rage .
+control,frame51,The man decided that he would accept the job at Microsoft .
+anomalous,frame51,The man decided that she would accept the job at Microsoft .
+control,frame52,The steward hoped that he could help the passenger .
+anomalous,frame52,The steward hoped that she could help the passenger .
+control,frame53,The grandfather believed that he had voted for Truman .
+anomalous,frame53,The grandfather believed that she had voted for Truman .
+control,frame54,The congressman hoped that he would win the next election .
+anomalous,frame54,The congressman hoped that she would win the next election .
+control,frame55,The landlord denied that he had turned off the electricity .
+anomalous,frame55,The landlord denied that she had turned off the electricity .
+control,frame56,The bachelor insisted that he would never get married .
+anomalous,frame56,The bachelor insisted that she would never get married .
+control,frame57,The son promised that he would stay out of trouble .
+anomalous,frame57,The son promised that she would stay out of trouble .
+control,frame58,The waiter worried that he would forget their order .
+anomalous,frame58,The waiter worried that she would forget their order .
+control,frame59,The congressman predicted that he would win the election easily .
+anomalous,frame59,The congressman predicted that she would win the election easily .

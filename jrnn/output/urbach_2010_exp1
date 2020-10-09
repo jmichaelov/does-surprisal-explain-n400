@@ -1,0 +1,241 @@
+Sentence;TargetWord;Probability;Surprisal
+Prosecutors accuse defendants of committing a crime .;defendants;0.000252025;11.954145431518555
+Prosecutors accuse sheriffs of committing a crime .;sheriffs;1.68296e-08;25.824424743652344
+Groupies follow singers around the country .;singers;2.4492396e-05;15.317306518554688
+Groupies follow boys around the country .;boys;0.0011692044;9.740257263183594
+Postmen carry mail in their satchel .;mail;0.00028002608;11.80215072631836
+Postmen carry oil in their satchel .;oil;6.239855e-05;13.968128204345703
+Kittens chase mice if given the chance .;mice;0.0022582014;8.790610313415527
+Kittens chase flies if given the chance .;flies;0.0046545523;7.7471418380737305
+Doctors treat cancer as a serious condition .;cancer;0.008161261;6.936992168426514
+Doctors treat hunger as a serious condition .;hunger;1.8828197e-05;15.696745872497559
+Chefs cook pancakes for breakfast at roadside diners .;pancakes;4.9543152e-05;14.300954818725586
+Chefs cook pears for breakfast at roadside diners .;pears;3.4685374e-06;18.13724136352539
+Boxers fight opponents in cities where there are large crowds .;opponents;7.802284e-05;13.645744323730469
+Boxers fight lawsuits in cities where there are large crowds .;lawsuits;3.4295851e-06;18.153533935546875
+Archaeologists find artifacts when they excavate ancient cities .;artifacts;0.0019000313;9.03976058959961
+Archaeologists find gold when they excavate ancient cities .;gold;0.0011061445;9.820244789123535
+Farmers grow crops as their primary source of cash .;crops;0.053839274;4.2151970863342285
+Farmers grow worms as their primary source of cash .;worms;4.920397e-06;17.632793426513672
+Veterinarians help animals when they get injured .;animals;0.018608777;5.747872829437256
+Veterinarians help coyotes when they get injured .;coyotes;3.1402487e-05;14.958761215209961
+Lions hunt gazelles as they prowl the savanah .;gazelles;0.00023883376;12.031705856323242
+Lions hunt bears as they prowl the savanah .;bears;0.000799297;10.288980484008789
+Brides kiss grooms during their wedding ceremony .;grooms;0.0005855389;10.737947463989258
+Brides kiss babies during their wedding ceremony .;babies;0.0023694546;8.721229553222656
+Artists paint portraits to pay their bills .;portraits;0.04026516;4.634324073791504
+Artists paint maps to pay their bills .;maps;0.00033590384;11.539664268493652
+Historians study articles written by their colleagues .;articles;8.9980895e-05;13.440021514892578
+Historians study poetry written by their colleagues .;poetry;4.9363898e-05;14.306183815002441
+Authors write books to make a living .;books;0.008674893;6.848938465118408
+Authors write lists to make a living .;lists;0.00037396225;11.384819984436035
+Bands record albums throughout their careers .;albums;0.03087366;5.01747989654541
+Bands record hits throughout their careers .;hits;0.007378799;7.082398414611816
+Cats scratch furniture if they are not declawed .;furniture;8.106436e-05;13.590572357177734
+Cats scratch walls if they are not declawed .;walls;9.100562e-05;13.423685073852539
+Janitors clean floors after cleaning everything else .;floors;0.029208748;5.0974555015563965
+Janitors clean dishes after cleaning everything else .;dishes;0.0005242544;10.897445678710938
+Lawyers argue cases in a court of law .;cases;0.00046542418;11.06916618347168
+Lawyers argue politics in a court of law .;politics;6.743081e-06;17.178159713745117
+Judges sentence murderers to life in prison .;murderers;0.019149462;5.706552505493164
+Judges sentence monks to life in prison .;monks;9.892829e-05;13.30325698852539
+Waitresses bring cocktails to customers who get their attention .;cocktails;0.002429534;8.685104370117188
+Waitresses bring napkins to customers who get their attention .;napkins;0.004388645;7.8320088386535645
+Hunters shoot game during the hunting season .;game;8.707635e-05;13.487360000610352
+Hunters shoot livestock during the hunting season .;livestock;0.00042943747;11.185264587402344
+Theaters show movies on saturday nights .;movies;0.015951004;5.970209121704102
+Theaters show operas on saturday nights .;operas;0.0004917032;10.989924430847168
+Butchers slaughter cows and sell the meat .;cows;0.005521959;7.500604152679443
+Butchers slaughter ducks and sell the meat .;ducks;0.0032051743;8.285381317138672
+Pickpockets steal wallets while the owner is distracted .;wallets;0.003094699;8.33598518371582
+Pickpockets steal shoes while the owner is distracted .;shoes;0.0014549742;9.424790382385254
+Psychics read fortunes for their customers every day .;fortunes;1.5302869e-05;15.995838165283203
+Psychics read news for their customers every day .;news;0.0026502435;8.559659004211426
+Pilots fly planes on cloudy days .;planes;0.0038259733;8.02995777130127
+Pilots fly kites on cloudy days .;kites;0.000675517;10.531720161437988
+Thieves take jewels from their victims when they can .;jewels;0.00034827742;11.487475395202637
+Thieves take jobs from their victims when they can .;jobs;0.0001961676;12.315625190734863
+Professors teach classes while doing research .;classes;0.003582566;8.124791145324707
+Professors teach friends while doing research .;friends;4.1844996e-05;14.544585227966309
+Pitchers throw balls to warm up for a game .;balls;0.0034511017;8.178727149963379
+Pitchers throw rocks to warm up for a game .;rocks;0.00041490127;11.234944343566895
+Kidnappers blindfold captives to keep their identities secret .;captives;0.03380503;4.886618137359619
+Kidnappers blindfold infants to keep their identities secret .;infants;0.00036682416;11.412623405456543
+Smugglers transport drugs into the united states .;drugs;0.030505814;5.034771919250488
+Smugglers transport umbrellas into the united states .;umbrellas;4.161226e-07;21.196487426757812
+Tourists visit museums on their vacation .;museums;0.006665149;7.229147434234619
+Tourists visit mines on their vacation .;mines;5.2549985e-06;17.537878036499023
+Sentries guard bases at all hours of the night .;bases;9.952467e-05;13.294586181640625
+Sentries guard dumpsters at all hours of the night .;dumpsters;9.911973e-07;19.944324493408203
+Telemarketers call people to tell them about new products .;people;0.009431895;6.728236675262451
+Telemarketers call inmates to tell them about new products .;inmates;1.1243551e-05;16.440542221069336
+Punters kick footballs for practice on their days off .;footballs;0.00023347385;12.064451217651367
+Punters kick boxes for practice on their days off .;boxes;5.891389e-05;14.051033020019531
+Shoppers buy groceries at the local supermarket .;groceries;0.009898751;6.658537864685059
+Shoppers buy ammunition at the local supermarket .;ammunition;3.592623e-05;14.764602661132812
+Speakers address audiences using a microphone .;audiences;0.0031655568;8.303324699401855
+Speakers address letters using a microphone .;letters;1.8271708e-06;19.06195640563965
+Armies battle invaders and try to drive them out of the country .;invaders;5.5408607e-05;14.139530181884766
+Armies battle immigrants and try to drive them out of the country .;immigrants;9.596432e-06;16.669071197509766
+Gardeners plant flowers to make their garden prettier .;flowers;0.021110628;5.565886497497559
+Gardeners plant bombs to make their garden prettier .;bombs;1.161131e-05;16.39410972595215
+Architects design buildings with lots of windows .;buildings;0.015383089;6.022511005401611
+Architects design closets with lots of windows .;closets;1.0221319e-05;16.57805824279785
+Negotiators settle disputes as quickly as possible .;disputes;0.0009405385;10.054224967956543
+Negotiators settle payments as quickly as possible .;payments;1.3205129e-05;16.208541870117188
+Witnesses describe robbers as being large and menacing .;robbers;1.395901e-05;16.12844467163086
+Witnesses describe tellers as being large and menacing .;tellers;5.7607938e-08;24.049156188964844
+Couriers deliver packages sealed in boxes .;packages;0.00702418;7.153454303741455
+Couriers deliver organs sealed in boxes .;organs;1.7786062e-05;15.77889347076416
+Brokers sell stocks in after-hours trading .;stocks;0.0038329982;8.027311325073242
+Brokers sell curtains in after-hours trading .;curtains;1.0012428e-05;16.60784912109375
+Mechanics fix cars that have broken parts .;cars;0.03532752;4.823063850402832
+Mechanics fix toys that have broken parts .;toys;8.832258e-05;13.46685791015625
+Joggers run laps to stay in shape .;laps;9.0266214e-05;13.435454368591309
+Joggers run monthly to stay in shape .;monthly;3.9140214e-06;17.96291732788086
+Cleaners wash clothes using strong laundry soap .;clothes;0.01634754;5.9347825050354
+Cleaners wash rags using strong laundry soap .;rags;0.0001361465;12.842552185058594
+Squirrels gather nuts and store them for the winter .;nuts;8.8264915e-06;16.78972816467285
+Squirrels gather nails and store them for the winter .;nails;8.337155e-08;23.515869140625
+Investors loan money to businesses which are profitable .;money;0.12954848;2.9484360218048096
+Investors loan papers to businesses which are profitable .;papers;0.00014281659;12.77354907989502
+Morticians arrange funerals after a lot of planning .;funerals;0.0043469896;7.845767498016357
+Morticians arrange parties after a lot of planning .;parties;0.00046984665;11.055521965026855
+Actors perform plays on stage .;plays;0.0015283718;9.353788375854492
+Actors perform surgery on stage .;surgery;0.00044745937;11.125955581665039
+Adolescents play games all through high school .;games;0.011139337;6.488193035125732
+Adolescents play horns all through high school .;horns;3.669321e-08;24.69991111755371
+Cowboys ride horses when they go to the back country .;horses;0.0018226842;9.099720001220703
+Cowboys ride bicycles when they go to the back country .;bicycles;0.00023834858;12.034639358520508
+Barbers cut hair while carrying on a conversation .;hair;0.0032026886;8.286500930786133
+Barbers cut steak while carrying on a conversation .;steak;8.449523e-07;20.17462730407715
+Bartenders mix drinks while talking to the patrons .;drinks;0.04203269;4.5723443031311035
+Bartenders mix metaphors while talking to the patrons .;metaphors;4.387189e-05;14.476344108581543
+Executives make decisions that reflect their business acumen .;decisions;0.015471766;6.014218330383301
+Executives make models that reflect their business acumen .;models;0.00012954652;12.914241790771484
+Warehouses store merchandise which has not been sold yet .;merchandise;0.0012607578;9.63149356842041
+Warehouses store sugar which has not been sold yet .;sugar;7.0001064e-05;13.802263259887695
+Coaches train athletes to work at a high level of performance .;athletes;0.000398175;11.294309616088867
+Coaches train soldiers to work at a high level of performance .;soldiers;0.000303515;11.685944557189941
+Plumbers remove clogs using special equipment .;clogs;9.505154e-06;16.682859420776367
+Plumbers remove weeds using special equipment .;weeds;0.0030493606;8.357277870178223
+Satirists poke fun at famous people .;fun;0.9832972;0.02430051751434803
+Satirists poke knives at famous people .;knives;5.340172e-07;20.836610794067383
+Nurses draw blood for medical testing and analysis .;blood;0.04714052;4.406888484954834
+Nurses draw sketches for medical testing and analysis .;sketches;0.00010927064;13.159806251525879
+Caterers prepare food for large groups of people .;food;0.058336053;4.099468231201172
+Caterers prepare baths for large groups of people .;baths;8.518355e-05;13.519065856933594
+Weathermen report storms that are expected in the next few days .;storms;0.0004890799;10.997642517089844
+Weathermen report weddings that are expected in the next few days .;weddings;3.466897e-07;21.45985221862793
+Knights rescue damsels from the clutches of an ogre .;damsels;3.7440582e-06;18.026966094970703
+Knights rescue dragons from the clutches of an ogre .;dragons;1.1005905e-06;19.793291091918945
+Generals command troops in time of war .;troops;0.010295547;6.60183572769165
+Generals command civilians in time of war .;civilians;7.995302e-05;13.610487937927246
+Boxcars hold cargo that can take extreme temperatures .;cargo;0.0010068447;9.95594310760498
+Boxcars hold feathers that can take extreme temperatures .;feathers;3.3675833e-06;18.179855346679688
+Magazines publish stories that involve current events .;stories;0.017668607;5.822668075561523
+Magazines publish songs that involve current events .;songs;0.00042475623;11.201077461242676
+Policemen arrest crooks after the bars close down .;crooks;0.0001134049;13.106229782104492
+Policemen arrest priests after the bars close down .;priests;2.6026846e-05;15.229640007019043
+Actresses wear dresses that were created by famous designers .;dresses;0.008093003;6.949109077453613
+Actresses wear helmets that were created by famous designers .;helmets;0.00015388624;12.665847778320312
+Adults eat chicken on a regular basis .;chicken;0.0010916038;9.839335441589355
+Adults eat grass on a regular basis .;grass;0.00011356064;13.104249000549316
+Teachers punish students that are disrupting the class .;students;0.14509341;2.7849462032318115
+Teachers punish aides that are disrupting the class .;aides;1.6094291e-05;15.923091888427734
+Governments build monuments during times of national importance .;monuments;0.0011589463;9.752970695495605
+Governments build trains during times of national importance .;trains;8.600562e-05;13.505209922790527
+Scientists conduct research with great attention to detail .;research;0.04120732;4.600955486297607
+Scientists conduct traffic with great attention to detail .;traffic;9.2128794e-05;13.405988693237305
+Comedians entertain crowds at comedy clubs around the country .;crowds;0.0027437857;8.50961685180664
+Comedians entertain politicians at comedy clubs around the country .;politicians;0.0023260838;8.747880935668945
+Instructors evaluate pupils by giving them a test .;pupils;0.007525197;7.0540547370910645
+Instructors evaluate grapes by giving them a test .;grapes;1.1984988e-06;19.670339584350586
+Supervisors discipline workers who show up late .;workers;0.0027869048;8.487120628356934
+Supervisors discipline shareholders who show up late .;shareholders;0.00015964327;12.612860679626465
+Patrolmen question suspects to get information about a crime .;suspects;0.0010596398;9.882210731506348
+Patrolmen question minors to get information about a crime .;minors;4.7149565e-06;17.694324493408203
+Parents lecture children about not playing too roughly .;children;0.03668274;4.768754959106445
+Parents lecture pets about not playing too roughly .;pets;2.5977708e-05;15.232366561889648
+Bellboys lug suitcases every day at work .;suitcases;0.043669384;4.517233848571777
+Bellboys lug fruits every day at work .;fruits;1.2606513e-06;19.59739875793457
+Businessmen employ accountants to keep track of the books .;accountants;0.00065407896;10.578248023986816
+Businessmen employ ministers to keep track of the books .;ministers;0.000470494;11.053536415100098
+Kids want candy for dessert after dinner .;candy;0.000934509;10.063504219055176
+Kids want peas for dessert after dinner .;peas;5.401296e-06;17.498262405395508
+Runners drink water while competing in a marathon .;water;0.024467783;5.352972984313965
+Runners drink tea while competing in a marathon .;tea;0.011934554;6.388711452484131
+Ranches hire hands to take care of the chores .;hands;1.3070073e-05;16.223373413085938
+Ranches hire drunks to take care of the chores .;drunks;7.803622e-07;20.289352416992188
+Countries erect statues to honor their national heroes .;statues;0.010286509;6.603102684020996
+Countries erect bridges to honor their national heroes .;bridges;0.0013339645;9.550064086914062
+Clowns toss pies at each other as part of their act .;pies;0.0003164414;11.625774383544922
+Clowns toss cookies at each other as part of their act .;cookies;0.00029862058;11.709399223327637
+Ranchers feed cattle out on the open prairie .;cattle;0.040661838;4.620180606842041
+Ranchers feed visitors out on the open prairie .;visitors;3.365429e-05;14.858850479125977
+Automobiles need gas to run for any length of time .;gas;0.0010132437;9.946803092956543
+Automobiles need sunlight to run for any length of time .;sunlight;2.941622e-05;15.05302906036377
+Newlyweds receive gifts at their wedding reception .;gifts;0.015001317;6.058766841888428
+Newlyweds receive bills at their wedding reception .;bills;7.54138e-05;13.694811820983887
+Sages offer advice to people who ask them for their opinion .;advice;0.044931315;4.476134777069092
+Sages offer sweets to people who ask them for their opinion .;sweets;0.0001471941;12.729992866516113
+Attorneys meet clients at their law firm .;clients;9.299024e-05;13.392560958862305
+Attorneys meet dates at their law firm .;dates;6.8744826e-06;17.150318145751953
+Engineers plan projects for wealthy executives .;projects;5.8642403e-05;14.057696342468262
+Engineers plan meals for wealthy executives .;meals;7.580622e-07;20.331180572509766
+Bakers slice bread in a special cutting machine .;bread;0.015971811;5.968328475952148
+Bakers slice pizza in a special cutting machine .;pizza;0.00049188285;10.989398002624512
+Retirees trust banks with their life 's savings .;banks;0.002084834;8.905851364135742
+Retirees trust strangers with their life 's savings .;strangers;3.0232475e-05;15.013541221618652
+Quarterbacks lift weights as part of their training regimen .;weights;0.07628074;3.7125372886657715
+Quarterbacks lift wheels as part of their training regimen .;wheels;1.74599e-05;15.805595397949219
+Psychologists use hypnosis to help patients remember their childhood .;hypnosis;0.0030040247;8.378887176513672
+Psychologists use violence to help patients remember their childhood .;violence;0.0006644199;10.555617332458496
+Matadors wave capes to goad the bull into attacking .;capes;6.8263966e-05;13.838516235351562
+Matadors wave flags to goad the bull into attacking .;flags;0.024207842;5.368381500244141
+Eskimos catch fish during the long arctic summer .;fish;0.09135386;3.452390432357788
+Eskimos catch malaria during the long arctic summer .;malaria;5.084052e-05;14.26366138458252
+Astronomers observe stars that have unusual properties .;stars;0.0013432313;9.54007625579834
+Astronomers observe insects that have unusual properties .;insects;8.9478835e-06;16.770021438598633
+Pirates ransom prisoners for gold or jewels .;prisoners;9.840637e-05;13.310888290405273
+Pirates ransom husbands for gold or jewels .;husbands;6.0266865e-07;20.662132263183594
+Employees do work while they are at the office .;work;0.007315118;7.094902992248535
+Employees do crosswords while they are at the office .;crosswords;3.4872885e-06;18.12946319580078
+Hosts invite guests to stay for dinner .;guests;0.062703945;3.995300054550171
+Hosts invite butlers to stay for dinner .;butlers;6.4532735e-08;23.885393142700195
+Surgeons request specialists for particularly difficult operations .;specialists;0.00027854083;11.809823989868164
+Surgeons request bodyguards for particularly difficult operations .;bodyguards;3.8385386e-07;21.312938690185547
+Chimps peel bananas before they eat them .;bananas;0.00019826158;12.300307273864746
+Chimps peel apples before they eat them .;apples;0.00012651838;12.948365211486816
+Mayors see citizens on a regular basis .;citizens;0.00017030843;12.519562721252441
+Mayors see ghosts on a regular basis .;ghosts;2.0010792e-05;15.608861923217773
+Dogs gnaw bones to exercise their jaws .;bones;8.999873e-06;16.76166343688965
+Dogs gnaw tires to exercise their jaws .;tires;5.5269225e-06;17.465091705322266
+Sailors abandon ships that are about to capsize .;ships;0.06806569;3.8769285678863525
+Sailors abandon rowboats that are about to capsize .;rowboats;8.517079e-05;13.519281387329102
+Spies collect data from foreign countries .;data;0.01688588;5.888038635253906
+Spies collect sand from foreign countries .;sand;0.00017631345;12.46957015991211
+Songwriters create music specifically for their own band .;music;0.06250756;3.9998254776000977
+Songwriters create stages specifically for their own band .;stages;1.89802e-05;15.685145378112793
+Snakes devour eggs in one large bite .;eggs;0.0011123341;9.812193870544434
+Snakes devour pigs in one large bite .;pigs;9.842678e-05;13.310589790344238
+Detectives notice clues all around the crime scene .;clues;0.0007894921;10.306787490844727
+Detectives notice reporters all around the crime scene .;reporters;1.48750505e-05;16.036745071411133
+Families schedule vacations during the summer months .;vacations;0.009074073;6.78403377532959
+Families schedule discussions during the summer months .;discussions;4.739225e-05;14.364989280700684
+Therapists make diagnoses based on years of experience .;diagnoses;0.0038179627;8.032980918884277
+Therapists make deals based on years of experience .;deals;0.00016754764;12.54314136505127
+Lifeguards protect swimmers at the beach .;swimmers;0.02701163;5.210275650024414
+Lifeguards protect birds at the beach .;birds;7.9799785e-05;13.613255500793457
+Dentists pull teeth in their office .;teeth;0.02042326;5.613643169403076
+Dentists pull files in their office .;files;4.3705473e-05;14.481826782226562
+Salesmen market products to prospective buyers .;products;0.0020753571;8.91242504119873
+Salesmen market values to prospective buyers .;values;4.9623963e-05;14.298603057861328
+Aquariums give sharks a lot of special attention .;sharks;9.398722e-05;13.377176284790039
+Aquariums give donors a lot of special attention .;donors;8.781392e-05;13.475191116333008
+Burglars have disguises when they are breaking into a house .;disguises;1.8554582e-08;25.68364906311035
+Burglars have hostages when they are breaking into a house .;hostages;5.1070674e-07;20.9010009765625
+Tenants rent apartments on a monthly basis .;apartments;0.041521832;4.5899858474731445
+Tenants rent lawnmowers on a monthly basis .;lawnmowers;3.922366e-06;17.9598445892334
+Custodians scrub sinks before applying a disinfectant .;sinks;2.947669e-05;15.050065994262695
+Custodians scrub trucks before applying a disinfectant .;trucks;1.761079e-05;15.793180465698242

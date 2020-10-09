@@ -1,0 +1,385 @@
+Sentence;TargetWord;Probability;Surprisal
+The murder had been witnessing by the three bystanders .;witnessing;1.6542385e-06;19.205400466918945
+The murder had been witnessed in the dark .;witnessed;0.005143914;7.602917671203613
+The bystanders had been witnessing the crime .;witnessing;3.322504e-05;14.87736988067627
+The unpleasant cough syrup was witnessing in the dark .;witnessing;5.5693054e-08;24.09792709350586
+Patty 's overgrown lawn was mowing the boy next door .;mowing;2.5118534e-05;15.280888557434082
+Patty 's overgrown lawn was mowed only last week .;mowed;0.0020160303;8.954266548156738
+Patty 's teenage son was mowing the lawn .;mowing;6.2271145e-05;13.971076965332031
+All of her money had been mowing the grass .;mowing;8.9726875e-09;26.731813430786133
+Three more martinis were ordering by Laurie 's sister .;ordering;2.2809495e-06;18.741933822631836
+Three more martinis were ordered repeatedly .;ordered;0.004418531;7.8222174644470215
+The regular customers were ordering quiche, as usual .;ordering;0.00012703378;12.942500114440918
+The rough part of the wood was ordering late .;ordering;1.0725292e-06;19.830551147460938
+The quality of Karla 's work was evaluating frequently .;evaluating;3.1014866e-07;21.62053680419922
+The quality of Karla 's work was evaluated frequently .;evaluated;8.046632e-05;13.601255416870117
+The engineers were evaluating the success of the new device .;evaluating;0.00045757063;11.093717575073242
+The old lady 's purse had been evaluating Nelson 's idea .;evaluating;9.785494e-08;23.284780502319336
+The legal contract had been signing falsely .;signing;6.1421495e-05;13.990897178649902
+The legal contract had been signed by the family .;signed;0.1304008;2.9389753341674805
+The state 's governor had been signing new legislation .;signing;0.00012347083;12.983542442321777
+An appointment was signing falsely .;signing;1.0591801e-06;19.848621368408203
+The vocabulary list was memorizing well .;memorizing;3.0697393e-07;21.635379791259766
+The vocabulary list was memorized well .;memorized;5.646756e-05;14.112217903137207
+The medical students were memorizing sample exam questions all night .;memorizing;3.7662965e-06;18.018421173095703
+The simple coffin was memorizing the lines of the poem .;memorizing;1.6201994e-08;25.879253387451172
+The firewood had been chopping poorly .;chopping;8.981856e-06;16.764554977416992
+The firewood had been chopped by Jen 's grandfather .;chopped;0.001942699;9.007721900939941
+Jen 's grandfather had been chopping the firewood .;chopping;4.2031743e-06;17.860088348388672
+Mark 's wrinkly shirts were chopping vegetables .;chopping;4.1584813e-06;17.875511169433594
+Lisa 's phone had been disconnecting last month .;disconnecting;3.713229e-07;21.360822677612305
+Lisa 's phone had been disconnected last month .;disconnected;0.13367398;2.9032094478607178
+The electrician had been disconnecting the machine 's power source .;disconnecting;5.985938e-07;20.671918869018555
+Mother Theresa 's death was disconnecting the two cables .;disconnecting;7.276593e-10;30.35601806640625
+Wendy 's muddy car was washing the boys .;washing;0.00017223855;12.503304481506348
+Wendy 's muddy car was washed wearily .;washed;0.0008814237;10.147876739501953
+Wendy and Harriet were washing the muddy car .;washing;6.0988505e-06;17.323030471801758
+Frank 's loan application had been washing the used pencil .;washing;1.3270067e-06;19.523393630981445
+The library books had been borrowing the graduate student .;borrowing;1.31257275e-05;16.217243194580078
+The library books had been borrowed by the graduate student .;borrowed;0.0013339195;9.5501127243042
+Katie and Lara had been borrowing dozens of books about botany from the library .;borrowing;8.4506864e-05;13.530571937561035
+The tragic mistake was borrowing in a hurry .;borrowing;6.9709006e-07;20.452152252197266
+The dark, underwater cave was exploring by the divers .;exploring;1.4228859e-05;16.100820541381836
+The dark, underwater cave was explored by the divers .;explored;0.0005271059;10.889619827270508
+The cautious scuba divers were exploring the underwater cave .;exploring;0.0007519494;10.377077102661133
+The phone bill had been exploring at the zoo .;exploring;6.351181e-06;17.264543533325195
+The unpleasant cough syrup was swallowing the boy .;swallowing;9.413511e-06;16.696836471557617
+The unpleasant cough syrup was swallowed by the boy .;swallowed;0.0008147858;10.26129150390625
+The huge adult alligator had been swallowing fish by the bucket .;swallowing;7.795269e-05;13.647041320800781
+The murder had been swallowing with disgust .;swallowing;1.5537101e-07;22.617778778076172
+The pizza had been delivering once more .;delivering;6.101905e-05;14.000380516052246
+The pizza had been delivered by Antonio himself .;delivered;0.017302133;5.852906227111816
+The exhausted messenger had been delivering packages all over town .;delivering;0.0005144977;10.924548149108887
+A genetic mutation was delivering once more .;delivering;2.2990273e-06;18.730545043945312
+Frank 's loan application had been approving by the bank .;approving;1.3445658e-06;19.50442886352539
+Frank 's loan application had been approved anyways .;approved;0.06793189;3.8797671794891357
+The board of directors had been approving too many expensive projects .;approving;0.000109585744;13.155652046203613
+Wendy 's muddy car was approving the boy 's request .;approving;3.1333915e-08;24.92770004272461
+The cheap products had been manufacturing a Belgian firm .;manufacturing;7.843383e-05;13.638164520263672
+The cheap products had been manufactured by a Belgian firm .;manufactured;0.0070693423;7.1442084312438965
+The auto company had been manufacturing parts in China .;manufacturing;0.00020371335;12.2611722946167
+A drawing of the house had been manufacturing at a factory .;manufacturing;7.1745524e-07;20.410608291625977
+Their secret conversation had been overhearing by a surprised neighbor .;overhearing;2.640228e-07;21.852834701538086
+Their secret conversation had been overheard by a surprised neighbor .;overheard;0.020383112;5.616481781005859
+The annoyed resident had been overhearing his neighbor 's phone conversations through the wall .;overhearing;5.186436e-07;20.878753662109375
+A wet snowball had been overhearing despite the precautions .;overhearing;5.819667e-08;24.034488677978516
+The rough part of the wood was sanding to perfection.;sanding;3.3996766e-06;18.166170120239258
+The rough part of the wood was sanded by the carpenter .;sanded;0.0009177001;10.089689254760742
+The skillful carpenter was sanding the rough edge of the wood .;sanding;9.221412e-06;16.726581573486328
+Three more martinis were sanding the chair .;sanding;9.453434e-10;29.978443145751953
+A package had been receiving by the secretary in the office .;receiving;1.9556903e-05;15.641963005065918
+A package had been received by the secretary in the office .;received;0.0021595866;8.855029106140137
+The secretary had been receiving flowers all day .;receiving;0.0010687669;9.869836807250977
+The noises in the attic had been receiving assistance from the government .;receiving;7.355165e-05;13.73088264465332
+The club 's rules had been violating Richard .;violating;2.949666e-06;18.371017456054688
+The club 's rules had been violated only twice .;violated;0.0037671349;8.052316665649414
+The rebel had been violating the rules .;violating;5.2397685e-05;14.220137596130371
+Thirty pounds of potatoes had been violating only twice .;violating;2.4740302e-06;18.624706268310547
+A new medication had been prescribing the physician .;prescribing;2.7844693e-05;15.132238388061523
+A new medication had been prescribed by the physician .;prescribed;0.092926234;3.4277701377868652
+The new doctor had been prescribing powerful painkillers for Jelena 's sore knee .;prescribing;0.00034551942;11.498945236206055
+The portrait of Napoleon had been prescribing with caution .;prescribing;3.368302e-08;24.823402404785156
+The wheat crops had been harvesting by the local farmers .;harvesting;0.0002364326;12.046283721923828
+The wheat crops had been harvested after the rain .;harvested;0.04499631;4.4740495681762695
+The local farmers had been harvesting the corn all week .;harvesting;0.0035186163;8.150775909423828
+The elevator button had been harvesting after the rain .;harvesting;1.9704461e-07;22.274974822998047
+The musical piece was composing by Beethoven in 1799 .;composing;2.1236826e-06;18.845001220703125
+The musical piece was composed in a dream .;composed;0.0073555573;7.086949825286865
+Ludwig von Beethoven was composing symphonies as a teenager .;composing;0.0009336999;10.064753532409668
+The bank had been composing in a dream .;composing;4.0273784e-07;21.243656158447266
+The old lady 's purse had been snatching a kid .;snatching;5.2881046e-06;17.528818130493164
+The old lady 's purse had been snatched with speed .;snatched;0.030435283;5.038111209869385
+The clever dog had been snatching cookies from the table .;snatching;1.1016233e-05;16.470008850097656
+The quality of Karla 's work was snatching victory from the jaws of defeat .;snatching;1.6494814e-08;25.853412628173828
+Olson 's bulging suitcase had been packing his assistant .;packing;5.177512e-05;14.237380981445312
+Olson 's bulging suitcase had been packed for the trip .;packed;0.030245025;5.047158241271973
+The excited vacationers had been packing their suitcases when the hurricane hit .;packing;0.0011645759;9.745979309082031
+Stormy weather had been packing for the trip .;packing;1.5779562e-05;15.951582908630371
+Several spelling errors were noticing the careful editor .;noticing;2.0232095e-07;22.23685073852539
+Several spelling errors were noticed by the careful editor .;noticed;0.0025895291;8.593094825744629
+Brittany 's close friends were noticing changes in her personality .;noticing;1.91384e-05;15.67317008972168
+The final destination had been noticing too late .;noticing;2.3988855e-07;21.991132736206055
+An illegal weapon had been smuggling only once .;smuggling;7.333165e-07;20.379060745239258
+An illegal weapon had been smuggled only once .;smuggled;0.0014157407;9.464227676391602
+The drug dealer had been smuggling heroin into Canada .;smuggling;9.702459e-05;13.331290245056152
+Cleopatra 's beauty was smuggling only once .;smuggling;1.1527729e-06;19.726459503173828
+The leftover food was discarding wastefully .;discarding;3.0876404e-07;21.626991271972656
+The leftover food was discarded wastefully .;discarded;0.001816502;9.104620933532715
+The campers were discarding the leftover food .;discarding;6.39745e-08;23.89792823791504
+The sleek new building was discarding wastefully .;discarding;2.1702409e-09;28.779497146606445
+Thirty pounds of potatoes had been peeling by the cooks .;peeling;5.5470246e-06;17.459854125976562
+Thirty pounds of potatoes had been peeled carefully .;peeled;0.00074147375;10.397316932678223
+The bored looking cooks had been peeling potatoes for hours .;peeling;9.4503244e-05;13.369277000427246
+The club 's rules had been peeling the sticker off the box .;peeling;3.0059314e-07;21.66568374633789
+The grimy pots and pans had been scrubbing the dishwashers .;scrubbing;3.2210569e-06;18.244033813476562
+The grimy pots and pans had been scrubbed by the dishwashers .;scrubbed;0.0020039051;8.962969779968262
+The guys in the kitchen had been scrubbing the pots and pans .;scrubbing;0.00026858124;11.862354278564453
+The stolen artwork had been scrubbing with vigor .;scrubbing;4.334049e-09;27.78163719177246
+The roast lamb had been carving by a servant .;carving;7.310139e-06;17.061670303344727
+The roast lamb had been carved by a servant .;carved;0.00030062615;11.699742317199707
+The butcher had been carving the meat .;carving;8.142492e-05;13.5841703414917
+Janet 's houseplants were carving before dinner .;carving;1.3189633e-05;16.210235595703125
+Cleopatra 's beauty was admiring many people .;admiring;1.6913989e-06;19.173351287841797
+Cleopatra 's beauty was admired always .;admired;0.00045397336;11.105104446411133
+The men were admiring the beautiful woman from a distance .;admiring;3.740111e-06;18.028488159179688
+An illegal weapon had been admiring always .;admiring;1.0546945e-08;26.498600006103516
+A wet snowball had been tossing by the girls through the window .;tossing;0.00010151002;13.266090393066406
+A wet snowball had been tossed in anger .;tossed;0.008044306;6.957816123962402
+The baseball players had been tossing the ball around the infield .;tossing;0.00011887637;13.038249969482422
+Their secret conversation had been tossing a steak on the grill .;tossing;4.637447e-06;17.718236923217773
+The sealed envelope was opening the judge .;opening;1.5712274e-05;15.957748413085938
+The sealed envelope was opened without permission .;opened;0.0039776918;7.973852634429932
+Tuxedoed waiters were opening bottles of champagne for the toast .;opening;0.00020090246;12.281217575073242
+The men 's faces had been opening without permission .;opening;2.490917e-06;18.614891052246094
+The man 's beard had been shaving twice a day .;shaving;1.9913035e-05;15.615927696228027
+The man 's beard had been shaved twice a day .;shaved;0.048200034;4.37482213973999
+His uncle Ralph had been shaving his beard off .;shaving;2.7876138e-06;18.452537536621094
+The popular amusement park is shaving twice a day .;shaving;8.2621006e-07;20.206987380981445
+The elevator button had been pressing slowly .;pressing;5.1928357e-05;14.233118057250977
+The elevator button had been pressed by the attendant .;pressed;0.0034654352;8.172747611999512
+The attendant had been pressing the buttons .;pressing;0.0002662854;11.874738693237305
+The wheat crops had been pressing slowly .;pressing;3.460661e-05;14.81859302520752
+The winning lottery numbers had been announcing the TV news .;announcing;2.6374425e-06;18.532428741455078
+The winning lottery numbers had been announced by the TV news .;announced;0.022729067;5.459317684173584
+The flight attendant had been announcing the reason for the delay .;announcing;4.6815243e-05;14.382661819458008
+The tarnished silverware was announcing on the television .;announcing;1.1056368e-06;19.786691665649414
+The victim 's body had been identifying at the morgue .;identifying;1.7931458e-06;19.089075088500977
+The victim 's body had been identified by the family members .;identified;0.010011295;6.642227649688721
+The laboratory technicians had been identifying the chemical .;identifying;4.7423233e-05;14.364046096801758
+The movie was identifying rare fish for the divers .;identifying;2.7996242e-07;21.76826286315918
+The hearty meal was devouring by the kids .;devouring;4.639727e-07;21.039457321166992
+The hearty meal was devoured with gusto .;devoured;9.964154e-05;13.292893409729004
+The hungry boys were devouring the plate of cookies when Jack arrived .;devouring;2.500224e-05;15.287583351135254
+The dusty tabletops were devouring with gusto .;devouring;2.877756e-06;18.40662384033203
+The overgrown shrubs were trimming regularly .;trimming;7.776561e-06;16.972436904907227
+The overgrown shrubs were trimmed by a gardener .;trimmed;0.00085370627;10.19397258758545
+A gardener was trimming the overgrown shrubbery .;trimming;1.010767e-05;16.59419059753418
+The alarm clock had been trimming regularly .;trimming;2.6159145e-07;21.866180419921875
+Wilson 's unreasonable proposal was rejecting by the boss .;rejecting;2.0429798e-06;18.900894165039062
+Wilson 's unreasonable proposal was rejected at the hospital .;rejected;0.031628385;4.982636451721191
+The admissions committee was rejecting nearly every application .;rejecting;1.8752551e-05;15.702553749084473
+The rare bird 's behavior was rejecting all offers .;rejecting;2.8267738e-07;21.75434112548828
+Hathaway 's gigantic fortune had been inheriting by his daughters .;inheriting;8.15922e-07;20.225065231323242
+Hathaway 's gigantic fortune had been inherited by his daughters .;inherited;0.0013744507;9.506929397583008
+Generations of aristocratic Englishmen have been inheriting their fortunes .;inheriting;4.4336597e-05;14.461142539978027
+The strange mystery had been inheriting the estate from her grandmother .;inheriting;3.3768464e-07;21.497819900512695
+All of her money had been spending before the wedding .;spending;4.5562054e-05;14.421807289123535
+All of her money had been spent before the wedding .;spent;0.07085534;3.818979501724243
+The shopping fanatic had been spending all her money in Bloomingdales .;spending;0.006004598;7.379716396331787
+Patty 's overgrown lawn was spending its time on the beach .;spending;1.9598785e-05;15.638875961303711
+An appointment was scheduling by the secretary .;scheduling;1.4753399e-06;19.370521545410156
+An appointment was scheduled by the secretary .;scheduled;0.00837125;6.900341033935547
+The secretary was scheduling new appointments for the afternoon .;scheduling;8.14342e-06;16.905933380126953
+The legal contract had been scheduling for next week .;scheduling;6.129954e-07;20.63762092590332
+The men 's faces had been photographing by a security camera .;photographing;1.8081462e-06;19.077056884765625
+The men 's faces had been photographed by a security camera .;photographed;0.0044310363;7.818140029907227
+The intrusive reporter had been photographing the celebrities at the party .;photographing;0.00055594475;10.81277084350586
+The sealed envelope was photographing at the party .;photographing;3.456779e-08;24.785995483398438
+The broken television had been repairing the technician .;repairing;6.2535687e-06;17.286888122558594
+The broken television had been repaired by the technician .;repaired;0.02015723;5.632558822631836
+The competent technician had been repairing the television .;repairing;0.00059782446;10.707990646362305
+Larry 's note had been repairing the computer 's hard drive .;repairing;4.6600093e-07;21.03316307067871
+The alarm clock had been unplugging accidentally .;unplugging;3.0703966e-06;18.313142776489258
+The alarm clock had been unplugged late .;unplugged;0.0016035726;9.284494400024414
+The frantic woman had been unplugging every electrical device in the house .;unplugging;7.5840603e-07;20.33052635192871
+The overgrown shrubs were unplugging accidentally .;unplugging;1.0946243e-08;26.444988250732422
+The car door had been unlocking late at night .;unlocking;3.379621e-07;21.49663543701172
+The car door had been unlocked by the child .;unlocked;0.0031159632;8.326106071472168
+The babysitter had been unlocking the back door .;unlocking;6.8664525e-07;20.47393226623535
+The Queen 's 80th birthday was unlocking late at night .;unlocking;2.802944e-10;31.732337951660156
+The portrait of Napoleon had been painting by a Dutch artist .;painting;0.00024656428;11.985748291015625
+The portrait of Napoleon had been painted by a Dutch artist .;painted;0.08124537;3.621570587158203
+The French Impressionist artists had been painting with a focus on light and color .;painting;0.002027978;8.9457426071167
+A new medication had been painting on Tuesday .;painting;1.7702624e-07;22.429533004760742
+The embarrassing allegations had been denying by the mayor .;denying;6.8916e-06;17.146730422973633
+The embarrassing allegations had been denied by the mayor .;denied;0.006216695;7.329636573791504
+The embarassed mayor had been denying allegations of corruption .;denying;0.0001722265;12.503405570983887
+Tamara 's birthday gift had been denying the rumor .;denying;9.324595e-07;20.032455444335938
+The noises in the attic had been hearing nightly .;hearing;8.57715e-05;13.50914192199707
+The noises in the attic had been heard by the boys .;heard;0.025115125;5.3152995109558105
+The frightened campers had been hearing noises in the woods .;hearing;0.00011097682;13.13745403289795
+A package had been hearing nightly .;hearing;1.1623555e-06;19.71451759338379
+The appetizers had been serving before the meal .;serving;0.0010361118;9.914604187011719
+The appetizers had been served before the meal .;served;0.07230799;3.789701223373413
+The waiters had been serving the meal .;serving;0.0058613634;7.414547920227051
+The final exams had been serving before the meal .;serving;7.488248e-06;17.026941299438477
+Billy 's unruly hair was combing his mother to one side .;combing;4.640363e-06;17.717330932617188
+Billy 's unruly hair was combed by his mother to one side .;combed;0.0009575835;10.028313636779785
+The patient barber was combing the boy 's hair to one side .;combing;1.9154577e-05;15.671951293945312
+The girl 's disease was combing the area for escaped prisoners .;combing;1.343045e-08;26.149917602539062
+A drawing of the house had been sketching again .;sketching;4.6050576e-07;21.050277709960938
+A drawing of the house had been sketched again .;sketched;0.00033064402;11.562433242797852
+An artist in the studio had been sketching the house .;sketching;0.0006779561;10.526520729064941
+The cheap products had been sketching again .;sketching;4.256789e-08;24.485658645629883
+The simple coffin was burying the villagers .;burying;1.3775408e-06;19.469472885131836
+The simple coffin was buried at the church .;buried;0.010676104;6.549470901489258
+The tribal people were burying their dead .;burying;2.9807255e-05;15.033976554870605
+The vocabulary list was burying at the church .;burying;4.283791e-08;24.47653579711914
+The homicide case had been investigating diligently .;investigating;0.00081697706;10.257416725158691
+The homicide case had been investigated by the FBI .;investigated;0.006175091;7.339323997497559
+The FBI agents had been investigating the homicide case for weeks .;investigating;0.052128397;4.261786460876465
+Martin 's tonsils had been investigating the problem .;investigating;3.6457325e-06;18.065359115600586
+Mark 's wrinkly shirts were ironing by his mother .;ironing;1.2088063e-06;19.65798568725586
+Mark 's wrinkly shirts were ironed by his mother .;ironed;0.0019393765;9.010190963745117
+Mark 's doting mother was ironing his shirts while he slept .;ironing;2.0269128e-05;15.590356826782227
+The firewood had been ironing her dress .;ironing;1.8728544e-07;22.348257064819336
+An important lesson had been learning in space .;learning;0.00035359396;11.465619087219238
+An important lesson had been learned in space .;learned;0.6651112;0.5883325934410095
+The children had been learning Spanish .;learning;0.00047957464;11.025957107543945
+The bathroom floor had been learning in space .;learning;1.0947106e-07;23.122947692871094
+The height of the bookcase was measuring by a carpenter .;measuring;3.8030328e-05;14.682490348815918
+The height of the bookcase was measured incorrectly .;measured;0.005402355;7.532196044921875
+The carpenter was measuring the height of the bookcase .;measuring;7.6518945e-06;16.995752334594727
+An urgent message had been measuring her heart rate .;measuring;2.7667852e-09;28.429141998291016
+Several important topics were discussing despite the weather .;discussing;0.0002958557;11.722818374633789
+Several important topics were discussed by the board of trustees .;discussed;0.3357913;1.5743632316589355
+The board members were discussing several important topics .;discussing;0.0025088643;8.638750076293945
+The fresh, warm bread was discussing despite the weather .;discussing;1.1475368e-06;19.733028411865234
+The dusty tabletops were wiping thoroughly .;wiping;9.608901e-06;16.66719627380371
+The dusty tabletops were wiped thoroughly .;wiped;0.00021796278;12.163630485534668
+The tired busboy was wiping for hours .;wiping;9.220236e-05;13.404836654663086
+The hearty meal was wiping thoroughly .;wiping;6.994103e-07;20.447357177734375
+A tiny spy camera was concealing by the agent inside a flowerpot .;concealing;8.766713e-06;16.799531936645508
+A tiny spy camera was concealed by the agent inside a flowerpot .;concealed;0.0012396366;9.655866622924805
+The sneaky lawyer was concealing the truth .;concealing;1.6292539e-05;15.905428886413574
+A faint light was concealing their identity .;concealing;1.8062544e-06;19.078567504882812
+The fresh, warm bread was slicing by the baker into halves .;slicing;1.7535633e-06;19.121278762817383
+The fresh, warm bread was sliced with love .;sliced;0.00067803124;10.526360511779785
+The chef 's assistants were slicing the mushrooms for a pie .;slicing;1.0839686e-05;16.493316650390625
+Several important topics were slicing with love .;slicing;3.4786243e-07;21.454978942871094
+The tarnished silverware was polishing by the butler .;polishing;7.0757847e-07;20.430606842041016
+The tarnished silverware was polished by the butler .;polished;9.6807256e-05;13.334525108337402
+The thorough butler was polishing the doorknobs .;polishing;1.6870197e-05;15.85516357421875
+The winning lottery numbers had been polishing his shoes .;polishing;4.0655666e-09;27.8738956451416
+Poisonous fumes had been inhaling the firefighters .;inhaling;1.1717351e-05;16.38099479675293
+Poisonous fumes had been inhaled by the firefighters .;inhaled;0.0039300104;7.991250991821289
+The firefighters had been inhaling the smoke .;inhaling;8.570933e-06;16.832117080688477
+The man 's signature was inhaling during the fire .;inhaling;7.738017e-08;23.62346076965332
+A genetic mutation was discovering the scientists .;discovering;1.154405e-06;19.72441864013672
+A genetic mutation was discovered suddenly .;discovered;0.046897113;4.4143571853637695
+The excited explorers were discovering ancient artifacts everywhere they looked .;discovering;0.00029881616;11.708454132080078
+The pizza had been discovering new methods for making dough .;discovering;7.47912e-07;20.350627899169922
+The Queen 's 80th birthday was celebrating expensively .;celebrating;0.00025859516;11.917016983032227
+The Queen 's 80th birthday was celebrated by thousands of people in the streets .;celebrated;0.052720573;4.245490074157715
+Thousands of excited fans were celebrating the Superbowl victory in the streets .;celebrating;0.00089513755;10.125602722167969
+The car door had been celebrating her promotion .;celebrating;5.9338015e-07;20.684539794921875
+The diagram on the chalkboard had been erasing Mrs. Larson .;erasing;9.5158487e-07;20.003164291381836
+The diagram on the chalkboard had been erased by Mrs. Larson .;erased;0.0005657158;10.78763484954834
+Mrs. Larson had been erasing the chalkboard .;erasing;7.05373e-07;20.435110092163086
+Food for the homeless had been erasing over and over .;erasing;1.9350148e-07;22.301151275634766
+The movie was directing Steven Spielberg .;directing;3.0276064e-05;15.011463165283203
+The movie was directed professionally .;directed;0.048202626;4.374744415283203
+Steven Spielberg was directing another blockbuster .;directing;0.008326244;6.908118724822998
+The victim 's body had been directing the police .;directing;6.9535605e-07;20.455745697021484
+Theresa 's birthday gift had been wrapping yesterday .;wrapping;4.617051e-05;14.402668952941895
+Theresa 's birthday gift had been wrapped yesterday .;wrapped;0.0010576949;9.88486099243164
+Theresa 's loving grandmother had been wrapping the presents .;wrapping;2.0195135e-05;15.595632553100586
+The embarrassing allegations had been wrapping yesterday .;wrapping;6.0423383e-07;20.658390045166016
+The popular amusement park is visiting by millions of tourists eh year .;visiting;8.463388e-05;13.52840518951416
+The popular amusement park is visited daily .;visited;0.00016930046;12.52812671661377
+The tourists had been visiting the amusement park in the morning .;visiting;0.0013023497;9.584667205810547
+The man 's beard had been visiting a friend in the hospital .;visiting;4.58449e-06;17.73480796813965
+Ten new trees had been planting on dry land .;planting;5.4933236e-05;14.151961326599121
+Ten new trees had been planted by the Forestry Service .;planted;0.60272443;0.7304295301437378
+The forestry workers had been planting cedar saplings on the hillside .;planting;0.0017262897;9.178110122680664
+The sin had been planting doubt in her mind .;planting;1.1039169e-05;16.467008590698242
+Food for the homeless had been donating neighborhood residents .;donating;1.5908886e-06;19.261735916137695
+Food for the homeless had been donated many times .;donated;0.0033851278;8.206574440002441
+The wealthy American philanthropist had been donating money to Romanian orphanages .;donating;0.0013923717;9.488240242004395
+The diagram on the chalkboard had been donating blood .;donating;1.04104e-06;19.87354278564453
+The rare bird 's behavior was observing by the biologists .;observing;2.4821356e-06;18.61998748779297
+The rare bird 's behavior was observed by the biologists .;observed;0.005414283;7.5290141105651855
+The excited bird watchers were observing the rare eagle .;observing;0.00010478853;13.220232009887695
+Wilson 's unreasonable proposal was observing the stars .;observing;3.743524e-07;21.34910011291504
+Stormy weather had been forecasting by the weatherman .;forecasting;1.39884e-05;16.125410079956055
+Stormy weather had been forecasted by the weatherman .;forecasted;0.00033383153;11.548592567443848
+The weather service had been forecasting snow for the mountain areas .;forecasting;0.050502434;4.3075032234191895
+Olson 's bulging suitcase had been forecasting correctly .;forecasting;1.1131181e-06;19.776962280273438
+The tragic mistake was regretting by Erika for many years .;regretting;9.3479366e-07;20.02884864807129
+The tragic mistake was regretted years later .;regretted;1.2275211e-05;16.313892364501953
+Erika was regretting the mistake .;regretting;2.911766e-07;21.71160316467285
+The library books had been regretting their behavior .;regretting;1.2188864e-08;26.28986167907715
+The stolen artwork had been seizing without warning .;seizing;1.12765704e-07;23.080167770385742
+The stolen artwork had been seized by the border police .;seized;0.0026648927;8.55170726776123
+The police had been seizing shipments of drugs at the border .;seizing;6.804578e-05;13.843134880065918
+The grimy pots and pans had been seizing without warning .;seizing;2.1479077e-06;18.828636169433594
+The value of the jewels was estimating the dealer .;estimating;3.0971083e-07;21.622575759887695
+The value of the jewels was estimated by the dealer .;estimated;0.070208155;3.8322176933288574
+The jewel expert was estimating the value of the diamond .;estimating;8.672278e-06;16.815156936645508
+The useful new gadget had been estimating professionally .;estimating;1.393186e-06;19.45318031311035
+Larry 's note had been scribbling his wife .;scribbling;1.01207315e-05;16.592327117919922
+Larry 's note had been scribbled with haste .;scribbled;0.00068037317;10.52138614654541
+Larry 's wife had been scribbling a note to him about dinner plans .;scribbling;2.3725113e-06;18.68515396118164
+The broken television had been scribbling his thoughts on a napkin .;scribbling;1.5995842e-07;22.5757999420166
+Carrie 's morning meeting was canceling as expected .;canceling;1.7402776e-06;19.132251739501953
+Carrie 's morning meeting was canceled by the boss .;canceled;0.011017387;6.5040740966796875
+Carrie had been canceling all of her meetings .;canceling;3.720992e-06;18.03588104248047
+The bubblegum had been canceling as expected .;canceling;2.5262236e-06;18.594585418701172
+The girl 's disease was curing a simple treatment .;curing;7.931012e-07;20.2659912109375
+The girl 's disease was cured by a simple treatment .;cured;0.00025571804;11.933158874511719
+The foreign doctors were curing hundreds of villagers of malaria .;curing;1.3241624e-05;16.204561233520508
+Billy 's unruly hair was curing his cold .;curing;6.729706e-07;20.502952575683594
+Janet 's houseplants were watering too much .;watering;6.432971e-06;17.246084213256836
+Janet 's houseplants were watered by her neighbor .;watered;6.243538e-05;13.967276573181152
+The gardener was watering the plants .;watering;6.8554524e-05;13.832388877868652
+The roast lamb had been watering too much .;watering;4.666215e-07;21.0312442779541
+The useful new gadget had been inventing by a bored waiter .;inventing;3.5604053e-06;18.09952735900879
+The useful new gadget had been invented by a bored waiter .;invented;0.011995262;6.381391525268555
+The resourceful engineers had been inventing tiny new devices .;inventing;0.0001221698;12.998825073242188
+The value of the jewels was inventing the digital computer .;inventing;1.4720567e-08;26.01759147644043
+The phone bill had been paying his roommate .;paying;0.0011421937;9.773977279663086
+The phone bill had been paid quickly .;paid;0.034265425;4.86710262298584
+Juan and Perry had been paying too much for their apartment .;paying;0.00063833065;10.613408088684082
+The dark, underwater cave was paying attention to the divers .;paying;1.1547022e-06;19.724048614501953
+The man 's signature was forging the lawyers .;forging;1.2435154e-06;19.617143630981445
+The man 's signature was forged by the lawyers .;forged;0.007397755;7.0786967277526855
+The con artists were forging the signatures on checks .;forging;0.00019445301;12.328290939331055
+Poisonous fumes had been forging very well .;forging;5.192533e-07;20.877058029174805
+The bank had been robbing two masked men .;robbing;1.0471116e-05;16.543224334716797
+The bank had been robbed repeatedly .;robbed;0.00013370269;12.868683815002441
+The clever burglars had been robbing houses in broad daylight .;robbing;0.0015367778;9.34587574005127
+The musical piece was robbing repeatedly .;robbing;3.8995662e-08;24.612112045288086
+An urgent message had been sending by the ambassador to the President .;sending;0.0002502732;11.964208602905273
+An urgent message had been sent again .;sent;0.89677554;0.15718115866184235
+The Prime Minister had been sending urgent messages to her Ambassador .;sending;0.00048557625;11.008014678955078
+The height of the bookcase was sending mixed signals to the carpenter .;sending;2.1363892e-06;18.836393356323242
+The sleek new building was designing a team of German architects .;designing;3.1877928e-06;18.259010314941406
+The sleek new building was designed by a team of German architects .;designed;0.22336425;2.162529706954956
+A team of architects had been designing the new building .;designing;0.010455544;6.579587936401367
+The leftover food was designing with flair .;designing;1.9529261e-07;22.287858963012695
+The final exams had been grading in school .;grading;1.6133151e-06;19.241540908813477
+The final exams had been graded in school .;graded;0.0032628132;8.259668350219727
+The professor had been grading the final exams until 4 AM .;grading;5.7900827e-05;14.076056480407715
+The appetizers had been grading Iverson 's students .;grading;4.825465e-07;20.98282814025879
+The final destination had been reaching too late .;reaching;1.5822072e-05;15.947702407836914
+The final destination had been reached too late .;reached;0.0024848497;8.652626037597656
+The curious child had been reaching for the cup on the table .;reaching;9.942499e-05;13.296031951904297
+Several spelling errors were reaching too late .;reaching;4.231422e-07;21.172353744506836
+A faint light was perceiving by the rescue workers .;perceiving;2.2901026e-09;28.701940536499023
+A faint light was perceived underwater .;perceived;3.1817617e-05;14.939814567565918
+The worried pilot was perceiving a rattling sound in the jet 's engine .;perceiving;8.506436e-07;20.164941787719727
+A tiny spy camera was perceiving underwater .;perceiving;8.814745e-09;26.757434844970703
+The bubblegum had been chewing by the boy .;chewing;0.00040932497;11.25446605682373
+The bubblegum had been chewed by the boy .;chewed;0.0008512203;10.198180198669434
+The hungry dog had been chewing a bone .;chewing;0.000648137;10.591413497924805
+Carrie 's morning meeting was chewing for a long time .;chewing;5.0647964e-07;20.912992477416992
+Martin 's tonsils had been removing at the hospital .;removing;6.958262e-05;13.8109130859375
+Martin 's tonsils had been removed at the hospital .;removed;0.46504912;1.104544997215271
+The surgeon had been removing the cancerous growth .;removing;0.0016862949;9.21192741394043
+The homicide case had been removing at the hospital .;removing;2.2104655e-06;18.78721809387207
+Mother Theresa 's death was mourning millions of people .;mourning;1.4238315e-06;19.421791076660156
+Mother Theresa 's death was mourned by millions of people .;mourned;0.0039898753;7.969440460205078
+The black-clad women were mourning the death of their brother .;mourning;0.00019775203;12.304019927978516
+Lisa 's phone had been mourning the loss of a loved one .;mourning;6.746514e-07;20.49935531616211
+The bathroom floor had been mopping by a janitor .;mopping;1.5884782e-06;19.26392364501953
+The bathroom floor had been mopped in the past .;mopped;0.00036979077;11.401002883911133
+The school janitor had been mopping the bathroom .;mopping;2.4420006e-05;15.321577072143555
+An important lesson had been mopping in the past .;mopping;1.6415337e-09;29.182308197021484
+The sin had been confessing by the repentant Catholic .;confessing;6.2319345e-06;17.291889190673828
+The sin had been confessed on Sunday .;confessed;7.887191e-05;13.630128860473633
+The repentant Catholic had been confessing his sins .;confessing;5.8071884e-05;14.071800231933594
+Ten new trees had been confessing on Sunday .;confessing;1.280209e-08;26.219045639038086
+The strange mystery had been solving the detectives .;solving;8.162502e-05;13.580629348754883
+The strange mystery had been solved at the station .;solved;0.35439545;1.496567964553833
+The brilliant detective had been solving mysterious crimes for two decades .;solving;1.7023265e-05;15.842132568359375
+Hathaway 's gigantic fortune had been solving at the station .;solving;5.2112495e-07;20.871868133544922

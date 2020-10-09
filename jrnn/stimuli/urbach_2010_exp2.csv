@@ -1,0 +1,481 @@
+SentenceFrame,Typicality,QuantifierType,Sentence
+Frame1,Typical,Most,Most prosecutors accuse defendants of committing a crime .
+Frame1,Typical,Few,Few prosecutors accuse defendants of committing a crime .
+Frame1,Atypical,Most,Most prosecutors accuse sheriffs of committing a crime .
+Frame1,Atypical,Few,Few prosecutors accuse sheriffs of committing a crime .
+Frame2,Typical,Most,Almost all groupies follow singers around the country .
+Frame2,Typical,Few,Almost no groupies follow singers around the country .
+Frame2,Atypical,Most,Almost all groupies follow boys around the country .
+Frame2,Atypical,Few,Almost no groupies follow boys around the country .
+Frame3,Typical,Most,Practically all postmen carry mail in their satchel .
+Frame3,Typical,Few,Practically no postmen carry mail in their satchel .
+Frame3,Atypical,Most,Practically all postmen carry oil in their satchel .
+Frame3,Atypical,Few,Practically no postmen carry oil in their satchel .
+Frame4,Typical,Most,A large number of kittens chase mice if given the chance .
+Frame4,Typical,Few,A small number of kittens chase mice if given the chance .
+Frame4,Atypical,Most,A large number of kittens chase flies if given the chance .
+Frame4,Atypical,Few,A small number of kittens chase flies if given the chance .
+Frame5,Typical,Most,Nearly all doctors treat cancer as a serious condition .
+Frame5,Typical,Few,Rather few doctors treat cancer as a serious condition .
+Frame5,Atypical,Most,Nearly all doctors treat hunger as a serious condition .
+Frame5,Atypical,Few,Rather few doctors treat hunger as a serious condition .
+Frame6,Typical,Most,Lots of chefs cook pancakes for breakfast at roadside diners .
+Frame6,Typical,Few,Hardly any chefs cook pancakes for breakfast at roadside diners .
+Frame6,Atypical,Most,Lots of chefs cook pears for breakfast at roadside diners .
+Frame6,Atypical,Few,Hardly any chefs cook pears for breakfast at roadside diners .
+Frame7,Typical,Most,A lot of boxers fight opponents in cities where there are large crowds .
+Frame7,Typical,Few,A very few boxers fight opponents in cities where there are large crowds .
+Frame7,Atypical,Most,A lot of boxers fight lawsuits in cities where there are large crowds .
+Frame7,Atypical,Few,A very few boxers fight lawsuits in cities where there are large crowds .
+Frame8,Typical,Most,Many archaeologists find artifacts when they excavate ancient cities .
+Frame8,Typical,Few,Few archaeologists find artifacts when they excavate ancient cities .
+Frame8,Atypical,Most,Many archaeologists find gold when they excavate ancient cities .
+Frame8,Atypical,Few,Few archaeologists find gold when they excavate ancient cities .
+Frame9,Typical,Most,Most farmers grow crops as their primary source of cash .
+Frame9,Typical,Few,Few farmers grow crops as their primary source of cash .
+Frame9,Atypical,Most,Most farmers grow worms as their primary source of cash .
+Frame9,Atypical,Few,Few farmers grow worms as their primary source of cash .
+Frame10,Typical,Most,Almost all veterinarians help animals when they get injured .
+Frame10,Typical,Few,Almost no veterinarians help animals when they get injured .
+Frame10,Atypical,Most,Almost all veterinarians help coyotes when they get injured .
+Frame10,Atypical,Few,Almost no veterinarians help coyotes when they get injured .
+Frame11,Typical,Most,Practically all lions hunt gazelles as they prowl the savanah .
+Frame11,Typical,Few,Practically no lions hunt gazelles as they prowl the savanah .
+Frame11,Atypical,Most,Practically all lions hunt bears as they prowl the savanah .
+Frame11,Atypical,Few,Practically no lions hunt bears as they prowl the savanah .
+Frame12,Typical,Most,A large number of brides kiss grooms during their wedding ceremony .
+Frame12,Typical,Few,A small number of brides kiss grooms during their wedding ceremony .
+Frame12,Atypical,Most,A large number of brides kiss babies during their wedding ceremony .
+Frame12,Atypical,Few,A small number of brides kiss babies during their wedding ceremony .
+Frame13,Typical,Most,Nearly all artists paint portraits to pay their bills .
+Frame13,Typical,Few,Rather few artists paint portraits to pay their bills .
+Frame13,Atypical,Most,Nearly all artists paint maps to pay their bills .
+Frame13,Atypical,Few,Rather few artists paint maps to pay their bills .
+Frame14,Typical,Most,Lots of historians study articles written by their colleagues .
+Frame14,Typical,Few,Hardly any historians study articles written by their colleagues .
+Frame14,Atypical,Most,Lots of historians study poetry written by their colleagues .
+Frame14,Atypical,Few,Hardly any historians study poetry written by their colleagues .
+Frame15,Typical,Most,A lot of authors write books to make a living .
+Frame15,Typical,Few,A very few authors write books to make a living .
+Frame15,Atypical,Most,A lot of authors write lists to make a living .
+Frame15,Atypical,Few,A very few authors write lists to make a living .
+Frame16,Typical,Most,Many bands record albums throughout their careers .
+Frame16,Typical,Few,Few bands record albums throughout their careers .
+Frame16,Atypical,Most,Many bands record hits throughout their careers .
+Frame16,Atypical,Few,Few bands record hits throughout their careers .
+Frame17,Typical,Most,Most cats scratch furniture if they are not declawed .
+Frame17,Typical,Few,Few cats scratch furniture if they are not declawed .
+Frame17,Atypical,Most,Most cats scratch walls if they are not declawed .
+Frame17,Atypical,Few,Few cats scratch walls if they are not declawed .
+Frame18,Typical,Most,Almost all janitors clean floors after cleaning everything else .
+Frame18,Typical,Few,Almost no janitors clean floors after cleaning everything else .
+Frame18,Atypical,Most,Almost all janitors clean dishes after cleaning everything else .
+Frame18,Atypical,Few,Almost no janitors clean dishes after cleaning everything else .
+Frame19,Typical,Most,Practically all lawyers argue cases in a court of law .
+Frame19,Typical,Few,Practically no lawyers argue cases in a court of law .
+Frame19,Atypical,Most,Practically all lawyers argue politics in a court of law .
+Frame19,Atypical,Few,Practically no lawyers argue politics in a court of law .
+Frame20,Typical,Most,A large number of judges sentence murderers to life in prison .
+Frame20,Typical,Few,A small number of judges sentence murderers to life in prison .
+Frame20,Atypical,Most,A large number of judges sentence monks to life in prison .
+Frame20,Atypical,Few,A small number of judges sentence monks to life in prison .
+Frame21,Typical,Most,Nearly all waitresses bring cocktails to customers who get their attention .
+Frame21,Typical,Few,Rather few waitresses bring cocktails to customers who get their attention .
+Frame21,Atypical,Most,Nearly all waitresses bring napkins to customers who get their attention .
+Frame21,Atypical,Few,Rather few waitresses bring napkins to customers who get their attention .
+Frame22,Typical,Most,Lots of hunters shoot game during the hunting season .
+Frame22,Typical,Few,Hardly any hunters shoot game during the hunting season .
+Frame22,Atypical,Most,Lots of hunters shoot livestock during the hunting season .
+Frame22,Atypical,Few,Hardly any hunters shoot livestock during the hunting season .
+Frame23,Typical,Most,A lot of theaters show movies on saturday nights .
+Frame23,Typical,Few,A very few theaters show movies on saturday nights .
+Frame23,Atypical,Most,A lot of theaters show operas on saturday nights .
+Frame23,Atypical,Few,A very few theaters show operas on saturday nights .
+Frame24,Typical,Most,Many butchers slaughter cows and sell the meat .
+Frame24,Typical,Few,Few butchers slaughter cows and sell the meat .
+Frame24,Atypical,Most,Many butchers slaughter ducks and sell the meat .
+Frame24,Atypical,Few,Few butchers slaughter ducks and sell the meat .
+Frame25,Typical,Most,Most pickpockets steal wallets while the owner is distracted .
+Frame25,Typical,Few,Few pickpockets steal wallets while the owner is distracted .
+Frame25,Atypical,Most,Most pickpockets steal shoes while the owner is distracted .
+Frame25,Atypical,Few,Few pickpockets steal shoes while the owner is distracted .
+Frame26,Typical,Most,Almost all psychics read fortunes for their customers every day .
+Frame26,Typical,Few,Almost no psychics read fortunes for their customers every day .
+Frame26,Atypical,Most,Almost all psychics read news for their customers every day .
+Frame26,Atypical,Few,Almost no psychics read news for their customers every day .
+Frame27,Typical,Most,Practically all pilots fly planes on cloudy days .
+Frame27,Typical,Few,Practically no pilots fly planes on cloudy days .
+Frame27,Atypical,Most,Practically all pilots fly kites on cloudy days .
+Frame27,Atypical,Few,Practically no pilots fly kites on cloudy days .
+Frame28,Typical,Most,A large number of thieves take jewels from their victims when they can .
+Frame28,Typical,Few,A small number of thieves take jewels from their victims when they can .
+Frame28,Atypical,Most,A large number of thieves take jobs from their victims when they can .
+Frame28,Atypical,Few,A small number of thieves take jobs from their victims when they can .
+Frame29,Typical,Most,Nearly all professors teach classes while doing research .
+Frame29,Typical,Few,Rather few professors teach classes while doing research .
+Frame29,Atypical,Most,Nearly all professors teach friends while doing research .
+Frame29,Atypical,Few,Rather few professors teach friends while doing research .
+Frame30,Typical,Most,Lots of pitchers throw balls to warm up for a game .
+Frame30,Typical,Few,Hardly any pitchers throw balls to warm up for a game .
+Frame30,Atypical,Most,Lots of pitchers throw rocks to warm up for a game .
+Frame30,Atypical,Few,Hardly any pitchers throw rocks to warm up for a game .
+Frame31,Typical,Most,A lot of kidnappers blindfold captives to keep their identities secret .
+Frame31,Typical,Few,A very few kidnappers blindfold captives to keep their identities secret .
+Frame31,Atypical,Most,A lot of kidnappers blindfold infants to keep their identities secret .
+Frame31,Atypical,Few,A very few kidnappers blindfold infants to keep their identities secret .
+Frame32,Typical,Most,Many smugglers transport drugs into the united states .
+Frame32,Typical,Few,Few smugglers transport drugs into the united states .
+Frame32,Atypical,Most,Many smugglers transport umbrellas into the united states .
+Frame32,Atypical,Few,Few smugglers transport umbrellas into the united states .
+Frame33,Typical,Most,Most tourists visit museums on their vacation .
+Frame33,Typical,Few,Few tourists visit museums on their vacation .
+Frame33,Atypical,Most,Most tourists visit mines on their vacation .
+Frame33,Atypical,Few,Few tourists visit mines on their vacation .
+Frame34,Typical,Most,Almost all sentries guard bases at all hours of the night .
+Frame34,Typical,Few,Almost no sentries guard bases at all hours of the night .
+Frame34,Atypical,Most,Almost all sentries guard dumpsters at all hours of the night .
+Frame34,Atypical,Few,Almost no sentries guard dumpsters at all hours of the night .
+Frame35,Typical,Most,Practically all telemarketers call people to tell them about new products .
+Frame35,Typical,Few,Practically no telemarketers call people to tell them about new products .
+Frame35,Atypical,Most,Practically all telemarketers call inmates to tell them about new products .
+Frame35,Atypical,Few,Practically no telemarketers call inmates to tell them about new products .
+Frame36,Typical,Most,A large number of punters kick footballs for practice on their days off .
+Frame36,Typical,Few,A small number of punters kick footballs for practice on their days off .
+Frame36,Atypical,Most,A large number of punters kick boxes for practice on their days off .
+Frame36,Atypical,Few,A small number of punters kick boxes for practice on their days off .
+Frame37,Typical,Most,Nearly all shoppers buy groceries at the local supermarket .
+Frame37,Typical,Few,Rather few shoppers buy groceries at the local supermarket .
+Frame37,Atypical,Most,Nearly all shoppers buy ammunition at the local supermarket .
+Frame37,Atypical,Few,Rather few shoppers buy ammunition at the local supermarket .
+Frame38,Typical,Most,Lots of speakers address audiences using a microphone .
+Frame38,Typical,Few,Hardly any speakers address audiences using a microphone .
+Frame38,Atypical,Most,Lots of speakers address letters using a microphone .
+Frame38,Atypical,Few,Hardly any speakers address letters using a microphone .
+Frame39,Typical,Most,A lot of armies battle invaders and try to drive them out of the country .
+Frame39,Typical,Few,A very few armies battle invaders and try to drive them out of the country .
+Frame39,Atypical,Most,A lot of armies battle immigrants and try to drive them out of the country .
+Frame39,Atypical,Few,A very few armies battle immigrants and try to drive them out of the country .
+Frame40,Typical,Most,Many gardeners plant flowers to make their garden prettier .
+Frame40,Typical,Few,Few gardeners plant flowers to make their garden prettier .
+Frame40,Atypical,Most,Many gardeners plant bombs to make their garden prettier .
+Frame40,Atypical,Few,Few gardeners plant bombs to make their garden prettier .
+Frame41,Typical,Most,Most architects design buildings with lots of windows .
+Frame41,Typical,Few,Few architects design buildings with lots of windows .
+Frame41,Atypical,Most,Most architects design closets with lots of windows .
+Frame41,Atypical,Few,Few architects design closets with lots of windows .
+Frame42,Typical,Most,Almost all negotiators settle disputes as quickly as possible .
+Frame42,Typical,Few,Almost no negotiators settle disputes as quickly as possible .
+Frame42,Atypical,Most,Almost all negotiators settle payments as quickly as possible .
+Frame42,Atypical,Few,Almost no negotiators settle payments as quickly as possible .
+Frame43,Typical,Most,Practically all witnesses describe robbers as being large and menacing .
+Frame43,Typical,Few,Practically no witnesses describe robbers as being large and menacing .
+Frame43,Atypical,Most,Practically all witnesses describe tellers as being large and menacing .
+Frame43,Atypical,Few,Practically no witnesses describe tellers as being large and menacing .
+Frame44,Typical,Most,A large number of couriers deliver packages sealed in boxes .
+Frame44,Typical,Few,A small number of couriers deliver packages sealed in boxes .
+Frame44,Atypical,Most,A large number of couriers deliver organs sealed in boxes .
+Frame44,Atypical,Few,A small number of couriers deliver organs sealed in boxes .
+Frame45,Typical,Most,Nearly all brokers sell stocks in after-hours trading .
+Frame45,Typical,Few,Rather few brokers sell stocks in after-hours trading .
+Frame45,Atypical,Most,Nearly all brokers sell curtains in after-hours trading .
+Frame45,Atypical,Few,Rather few brokers sell curtains in after-hours trading .
+Frame46,Typical,Most,Lots of mechanics fix cars that have broken parts .
+Frame46,Typical,Few,Hardly any mechanics fix cars that have broken parts .
+Frame46,Atypical,Most,Lots of mechanics fix toys that have broken parts .
+Frame46,Atypical,Few,Hardly any mechanics fix toys that have broken parts .
+Frame47,Typical,Most,A lot of joggers run laps to stay in shape .
+Frame47,Typical,Few,A very few joggers run laps to stay in shape .
+Frame47,Atypical,Most,A lot of joggers run monthly to stay in shape .
+Frame47,Atypical,Few,A very few joggers run monthly to stay in shape .
+Frame48,Typical,Most,Many cleaners wash clothes using strong laundry soap .
+Frame48,Typical,Few,Few cleaners wash clothes using strong laundry soap .
+Frame48,Atypical,Most,Many cleaners wash rags using strong laundry soap .
+Frame48,Atypical,Few,Few cleaners wash rags using strong laundry soap .
+Frame49,Typical,Most,Most squirrels gather nuts and store them for the winter .
+Frame49,Typical,Few,Few squirrels gather nuts and store them for the winter .
+Frame49,Atypical,Most,Most squirrels gather nails and store them for the winter .
+Frame49,Atypical,Few,Few squirrels gather nails and store them for the winter .
+Frame50,Typical,Most,Almost all investors loan money to businesses which are profitable .
+Frame50,Typical,Few,Almost no investors loan money to businesses which are profitable .
+Frame50,Atypical,Most,Almost all investors loan papers to businesses which are profitable .
+Frame50,Atypical,Few,Almost no investors loan papers to businesses which are profitable .
+Frame51,Typical,Most,Practically all morticians arrange funerals after a lot of planning .
+Frame51,Typical,Few,Practically no morticians arrange funerals after a lot of planning .
+Frame51,Atypical,Most,Practically all morticians arrange parties after a lot of planning .
+Frame51,Atypical,Few,Practically no morticians arrange parties after a lot of planning .
+Frame52,Typical,Most,A large number of actors perform plays on stage .
+Frame52,Typical,Few,A small number of actors perform plays on stage .
+Frame52,Atypical,Most,A large number of actors perform surgery on stage .
+Frame52,Atypical,Few,A small number of actors perform surgery on stage .
+Frame53,Typical,Most,Nearly all adolescents play games all through high school .
+Frame53,Typical,Few,Rather few adolescents play games all through high school .
+Frame53,Atypical,Most,Nearly all adolescents play horns all through high school .
+Frame53,Atypical,Few,Rather few adolescents play horns all through high school .
+Frame54,Typical,Most,Lots of cowboys ride horses when they go to the back country .
+Frame54,Typical,Few,Hardly any cowboys ride horses when they go to the back country .
+Frame54,Atypical,Most,Lots of cowboys ride bicycles when they go to the back country .
+Frame54,Atypical,Few,Hardly any cowboys ride bicycles when they go to the back country .
+Frame55,Typical,Most,A lot of barbers cut hair while carrying on a conversation .
+Frame55,Typical,Few,A very few barbers cut hair while carrying on a conversation .
+Frame55,Atypical,Most,A lot of barbers cut steak while carrying on a conversation .
+Frame55,Atypical,Few,A very few barbers cut steak while carrying on a conversation .
+Frame56,Typical,Most,Many bartenders mix drinks while talking to the patrons .
+Frame56,Typical,Few,Few bartenders mix drinks while talking to the patrons .
+Frame56,Atypical,Most,Many bartenders mix metaphors while talking to the patrons .
+Frame56,Atypical,Few,Few bartenders mix metaphors while talking to the patrons .
+Frame57,Typical,Most,Most executives make decisions that reflect their business acumen .
+Frame57,Typical,Few,Few executives make decisions that reflect their business acumen .
+Frame57,Atypical,Most,Most executives make models that reflect their business acumen .
+Frame57,Atypical,Few,Few executives make models that reflect their business acumen .
+Frame58,Typical,Most,Almost all warehouses store merchandise which has not been sold yet .
+Frame58,Typical,Few,Almost no warehouses store merchandise which has not been sold yet .
+Frame58,Atypical,Most,Almost all warehouses store sugar which has not been sold yet .
+Frame58,Atypical,Few,Almost no warehouses store sugar which has not been sold yet .
+Frame59,Typical,Most,Practically all coaches train athletes to work at a high level of performance .
+Frame59,Typical,Few,Practically no coaches train athletes to work at a high level of performance .
+Frame59,Atypical,Most,Practically all coaches train soldiers to work at a high level of performance .
+Frame59,Atypical,Few,Practically no coaches train soldiers to work at a high level of performance .
+Frame60,Typical,Most,A large number of plumbers remove clogs using special equipment .
+Frame60,Typical,Few,A small number of plumbers remove clogs using special equipment .
+Frame60,Atypical,Most,A large number of plumbers remove weeds using special equipment .
+Frame60,Atypical,Few,A small number of plumbers remove weeds using special equipment .
+Frame61,Typical,Most,Nearly all satirists poke fun at famous people .
+Frame61,Typical,Few,Rather few satirists poke fun at famous people .
+Frame61,Atypical,Most,Nearly all satirists poke knives at famous people .
+Frame61,Atypical,Few,Rather few satirists poke knives at famous people .
+Frame62,Typical,Most,Lots of nurses draw blood for medical testing and analysis .
+Frame62,Typical,Few,Hardly any nurses draw blood for medical testing and analysis .
+Frame62,Atypical,Most,Lots of nurses draw sketches for medical testing and analysis .
+Frame62,Atypical,Few,Hardly any nurses draw sketches for medical testing and analysis .
+Frame63,Typical,Most,A lot of caterers prepare food for large groups of people .
+Frame63,Typical,Few,A very few caterers prepare food for large groups of people .
+Frame63,Atypical,Most,A lot of caterers prepare baths for large groups of people .
+Frame63,Atypical,Few,A very few caterers prepare baths for large groups of people .
+Frame64,Typical,Most,Many weathermen report storms that are expected in the next few days .
+Frame64,Typical,Few,Few weathermen report storms that are expected in the next few days .
+Frame64,Atypical,Most,Many weathermen report weddings that are expected in the next few days .
+Frame64,Atypical,Few,Few weathermen report weddings that are expected in the next few days .
+Frame65,Typical,Most,Most knights rescue damsels from the clutches of an ogre .
+Frame65,Typical,Few,Few knights rescue damsels from the clutches of an ogre .
+Frame65,Atypical,Most,Most knights rescue dragons from the clutches of an ogre .
+Frame65,Atypical,Few,Few knights rescue dragons from the clutches of an ogre .
+Frame66,Typical,Most,Almost all generals command troops in time of war .
+Frame66,Typical,Few,Almost no generals command troops in time of war .
+Frame66,Atypical,Most,Almost all generals command civilians in time of war .
+Frame66,Atypical,Few,Almost no generals command civilians in time of war .
+Frame67,Typical,Most,Practically all boxcars hold cargo that can take extreme temperatures .
+Frame67,Typical,Few,Practically no boxcars hold cargo that can take extreme temperatures .
+Frame67,Atypical,Most,Practically all boxcars hold feathers that can take extreme temperatures .
+Frame67,Atypical,Few,Practically no boxcars hold feathers that can take extreme temperatures .
+Frame68,Typical,Most,A large number of magazines publish stories that involve current events .
+Frame68,Typical,Few,A small number of magazines publish stories that involve current events .
+Frame68,Atypical,Most,A large number of magazines publish songs that involve current events .
+Frame68,Atypical,Few,A small number of magazines publish songs that involve current events .
+Frame69,Typical,Most,Nearly all policemen arrest crooks after the bars close down .
+Frame69,Typical,Few,Rather few policemen arrest crooks after the bars close down .
+Frame69,Atypical,Most,Nearly all policemen arrest priests after the bars close down .
+Frame69,Atypical,Few,Rather few policemen arrest priests after the bars close down .
+Frame70,Typical,Most,Lots of actresses wear dresses that were created by famous designers .
+Frame70,Typical,Few,Hardly any actresses wear dresses that were created by famous designers .
+Frame70,Atypical,Most,Lots of actresses wear helmets that were created by famous designers .
+Frame70,Atypical,Few,Hardly any actresses wear helmets that were created by famous designers .
+Frame71,Typical,Most,A lot of adults eat chicken on a regular basis .
+Frame71,Typical,Few,A very few adults eat chicken on a regular basis .
+Frame71,Atypical,Most,A lot of adults eat grass on a regular basis .
+Frame71,Atypical,Few,A very few adults eat grass on a regular basis .
+Frame72,Typical,Most,Many teachers punish students that are disrupting the class .
+Frame72,Typical,Few,Few teachers punish students that are disrupting the class .
+Frame72,Atypical,Most,Many teachers punish aides that are disrupting the class .
+Frame72,Atypical,Few,Few teachers punish aides that are disrupting the class .
+Frame73,Typical,Most,Most governments build monuments during times of national importance .
+Frame73,Typical,Few,Few governments build monuments during times of national importance .
+Frame73,Atypical,Most,Most governments build trains during times of national importance .
+Frame73,Atypical,Few,Few governments build trains during times of national importance .
+Frame74,Typical,Most,Almost all scientists conduct research with great attention to detail .
+Frame74,Typical,Few,Almost no scientists conduct research with great attention to detail .
+Frame74,Atypical,Most,Almost all scientists conduct traffic with great attention to detail .
+Frame74,Atypical,Few,Almost no scientists conduct traffic with great attention to detail .
+Frame75,Typical,Most,Practically all comedians entertain crowds at comedy clubs around the country .
+Frame75,Typical,Few,Practically no comedians entertain crowds at comedy clubs around the country .
+Frame75,Atypical,Most,Practically all comedians entertain politicians at comedy clubs around the country .
+Frame75,Atypical,Few,Practically no comedians entertain politicians at comedy clubs around the country .
+Frame76,Typical,Most,A large number of instructors evaluate pupils by giving them a test .
+Frame76,Typical,Few,A small number of instructors evaluate pupils by giving them a test .
+Frame76,Atypical,Most,A large number of instructors evaluate grapes by giving them a test .
+Frame76,Atypical,Few,A small number of instructors evaluate grapes by giving them a test .
+Frame77,Typical,Most,Nearly all supervisors discipline workers who show up late .
+Frame77,Typical,Few,Rather few supervisors discipline workers who show up late .
+Frame77,Atypical,Most,Nearly all supervisors discipline shareholders who show up late .
+Frame77,Atypical,Few,Rather few supervisors discipline shareholders who show up late .
+Frame78,Typical,Most,Lots of patrolmen question suspects to get information about a crime .
+Frame78,Typical,Few,Hardly any patrolmen question suspects to get information about a crime .
+Frame78,Atypical,Most,Lots of patrolmen question minors to get information about a crime .
+Frame78,Atypical,Few,Hardly any patrolmen question minors to get information about a crime .
+Frame79,Typical,Most,A lot of parents lecture children about not playing too roughly .
+Frame79,Typical,Few,A very few parents lecture children about not playing too roughly .
+Frame79,Atypical,Most,A lot of parents lecture pets about not playing too roughly .
+Frame79,Atypical,Few,A very few parents lecture pets about not playing too roughly .
+Frame80,Typical,Most,Many bellboys lug suitcases every day at work .
+Frame80,Typical,Few,Few bellboys lug suitcases every day at work .
+Frame80,Atypical,Most,Many bellboys lug fruits every day at work .
+Frame80,Atypical,Few,Few bellboys lug fruits every day at work .
+Frame81,Typical,Most,Most businessmen employ accountants to keep track of the books .
+Frame81,Typical,Few,Few businessmen employ accountants to keep track of the books .
+Frame81,Atypical,Most,Most businessmen employ ministers to keep track of the books .
+Frame81,Atypical,Few,Few businessmen employ ministers to keep track of the books .
+Frame82,Typical,Most,Almost all kids want candy for dessert after dinner .
+Frame82,Typical,Few,Almost no kids want candy for dessert after dinner .
+Frame82,Atypical,Most,Almost all kids want peas for dessert after dinner .
+Frame82,Atypical,Few,Almost no kids want peas for dessert after dinner .
+Frame83,Typical,Most,Practically all runners drink water while competing in a marathon .
+Frame83,Typical,Few,Practically no runners drink water while competing in a marathon .
+Frame83,Atypical,Most,Practically all runners drink tea while competing in a marathon .
+Frame83,Atypical,Few,Practically no runners drink tea while competing in a marathon .
+Frame84,Typical,Most,A large number of ranches hire hands to take care of the chores .
+Frame84,Typical,Few,A small number of ranches hire hands to take care of the chores .
+Frame84,Atypical,Most,A large number of ranches hire drunks to take care of the chores .
+Frame84,Atypical,Few,A small number of ranches hire drunks to take care of the chores .
+Frame85,Typical,Most,Nearly all countries erect statues to honor their national heroes .
+Frame85,Typical,Few,Rather few countries erect statues to honor their national heroes .
+Frame85,Atypical,Most,Nearly all countries erect bridges to honor their national heroes .
+Frame85,Atypical,Few,Rather few countries erect bridges to honor their national heroes .
+Frame86,Typical,Most,Lots of clowns toss pies at each other as part of their act .
+Frame86,Typical,Few,Hardly any clowns toss pies at each other as part of their act .
+Frame86,Atypical,Most,Lots of clowns toss cookies at each other as part of their act .
+Frame86,Atypical,Few,Hardly any clowns toss cookies at each other as part of their act .
+Frame87,Typical,Most,A lot of ranchers feed cattle out on the open prairie .
+Frame87,Typical,Few,A very few ranchers feed cattle out on the open prairie .
+Frame87,Atypical,Most,A lot of ranchers feed visitors out on the open prairie .
+Frame87,Atypical,Few,A very few ranchers feed visitors out on the open prairie .
+Frame88,Typical,Most,Many automobiles need gas to run for any length of time .
+Frame88,Typical,Few,Few automobiles need gas to run for any length of time .
+Frame88,Atypical,Most,Many automobiles need sunlight to run for any length of time .
+Frame88,Atypical,Few,Few automobiles need sunlight to run for any length of time .
+Frame89,Typical,Most,Most newlyweds receive gifts at their wedding reception .
+Frame89,Typical,Few,Few newlyweds receive gifts at their wedding reception .
+Frame89,Atypical,Most,Most newlyweds receive bills at their wedding reception .
+Frame89,Atypical,Few,Few newlyweds receive bills at their wedding reception .
+Frame90,Typical,Most,Almost all sages offer advice to people who ask them for their opinion .
+Frame90,Typical,Few,Almost no sages offer advice to people who ask them for their opinion .
+Frame90,Atypical,Most,Almost all sages offer sweets to people who ask them for their opinion .
+Frame90,Atypical,Few,Almost no sages offer sweets to people who ask them for their opinion .
+Frame91,Typical,Most,Practically all attorneys meet clients at their law firm .
+Frame91,Typical,Few,Practically no attorneys meet clients at their law firm .
+Frame91,Atypical,Most,Practically all attorneys meet dates at their law firm .
+Frame91,Atypical,Few,Practically no attorneys meet dates at their law firm .
+Frame92,Typical,Most,A large number of engineers plan projects for wealthy executives .
+Frame92,Typical,Few,A small number of engineers plan projects for wealthy executives .
+Frame92,Atypical,Most,A large number of engineers plan meals for wealthy executives .
+Frame92,Atypical,Few,A small number of engineers plan meals for wealthy executives .
+Frame93,Typical,Most,Nearly all bakers slice bread in a special cutting machine .
+Frame93,Typical,Few,Rather few bakers slice bread in a special cutting machine .
+Frame93,Atypical,Most,Nearly all bakers slice pizza in a special cutting machine .
+Frame93,Atypical,Few,Rather few bakers slice pizza in a special cutting machine .
+Frame94,Typical,Most,Lots of retirees trust banks with their life 's savings .
+Frame94,Typical,Few,Hardly any retirees trust banks with their life 's savings .
+Frame94,Atypical,Most,Lots of retirees trust strangers with their life 's savings .
+Frame94,Atypical,Few,Hardly any retirees trust strangers with their life 's savings .
+Frame95,Typical,Most,A lot of quarterbacks lift weights as part of their training regimen .
+Frame95,Typical,Few,A very few quarterbacks lift weights as part of their training regimen .
+Frame95,Atypical,Most,A lot of quarterbacks lift wheels as part of their training regimen .
+Frame95,Atypical,Few,A very few quarterbacks lift wheels as part of their training regimen .
+Frame96,Typical,Most,Many psychologists use hypnosis to help patients remember their childhood .
+Frame96,Typical,Few,Few psychologists use hypnosis to help patients remember their childhood .
+Frame96,Atypical,Most,Many psychologists use violence to help patients remember their childhood .
+Frame96,Atypical,Few,Few psychologists use violence to help patients remember their childhood .
+Frame97,Typical,Most,Most matadors wave capes to goad the bull into attacking .
+Frame97,Typical,Few,Few matadors wave capes to goad the bull into attacking .
+Frame97,Atypical,Most,Most matadors wave flags to goad the bull into attacking .
+Frame97,Atypical,Few,Few matadors wave flags to goad the bull into attacking .
+Frame98,Typical,Most,Almost all eskimos catch fish during the long arctic summer .
+Frame98,Typical,Few,Almost no eskimos catch fish during the long arctic summer .
+Frame98,Atypical,Most,Almost all eskimos catch malaria during the long arctic summer .
+Frame98,Atypical,Few,Almost no eskimos catch malaria during the long arctic summer .
+Frame99,Typical,Most,Practically all astronomers observe stars that have unusual properties .
+Frame99,Typical,Few,Practically no astronomers observe stars that have unusual properties .
+Frame99,Atypical,Most,Practically all astronomers observe insects that have unusual properties .
+Frame99,Atypical,Few,Practically no astronomers observe insects that have unusual properties .
+Frame100,Typical,Most,A large number of pirates ransom prisoners for gold or jewels .
+Frame100,Typical,Few,A small number of pirates ransom prisoners for gold or jewels .
+Frame100,Atypical,Most,A large number of pirates ransom husbands for gold or jewels .
+Frame100,Atypical,Few,A small number of pirates ransom husbands for gold or jewels .
+Frame101,Typical,Most,Nearly all employees do work while they are at the office .
+Frame101,Typical,Few,Rather few employees do work while they are at the office .
+Frame101,Atypical,Most,Nearly all employees do crosswords while they are at the office .
+Frame101,Atypical,Few,Rather few employees do crosswords while they are at the office .
+Frame102,Typical,Most,Lots of hosts invite guests to stay for dinner .
+Frame102,Typical,Few,Hardly any hosts invite guests to stay for dinner .
+Frame102,Atypical,Most,Lots of hosts invite butlers to stay for dinner .
+Frame102,Atypical,Few,Hardly any hosts invite butlers to stay for dinner .
+Frame103,Typical,Most,A lot of surgeons request specialists for particularly difficult operations .
+Frame103,Typical,Few,A very few surgeons request specialists for particularly difficult operations .
+Frame103,Atypical,Most,A lot of surgeons request bodyguards for particularly difficult operations .
+Frame103,Atypical,Few,A very few surgeons request bodyguards for particularly difficult operations .
+Frame104,Typical,Most,Many chimps peel bananas before they eat them .
+Frame104,Typical,Few,Few chimps peel bananas before they eat them .
+Frame104,Atypical,Most,Many chimps peel apples before they eat them .
+Frame104,Atypical,Few,Few chimps peel apples before they eat them .
+Frame105,Typical,Most,Most mayors see citizens on a regular basis .
+Frame105,Typical,Few,Few mayors see citizens on a regular basis .
+Frame105,Atypical,Most,Most mayors see ghosts on a regular basis .
+Frame105,Atypical,Few,Few mayors see ghosts on a regular basis .
+Frame106,Typical,Most,Almost all dogs gnaw bones to exercise their jaws .
+Frame106,Typical,Few,Almost no dogs gnaw bones to exercise their jaws .
+Frame106,Atypical,Most,Almost all dogs gnaw tires to exercise their jaws .
+Frame106,Atypical,Few,Almost no dogs gnaw tires to exercise their jaws .
+Frame107,Typical,Most,Practically all sailors abandon ships that are about to capsize .
+Frame107,Typical,Few,Practically no sailors abandon ships that are about to capsize .
+Frame107,Atypical,Most,Practically all sailors abandon rowboats that are about to capsize .
+Frame107,Atypical,Few,Practically no sailors abandon rowboats that are about to capsize .
+Frame108,Typical,Most,A large number of spies collect data from foreign countries .
+Frame108,Typical,Few,A small number of spies collect data from foreign countries .
+Frame108,Atypical,Most,A large number of spies collect sand from foreign countries .
+Frame108,Atypical,Few,A small number of spies collect sand from foreign countries .
+Frame109,Typical,Most,Nearly all songwriters create music specifically for their own band .
+Frame109,Typical,Few,Rather few songwriters create music specifically for their own band .
+Frame109,Atypical,Most,Nearly all songwriters create stages specifically for their own band .
+Frame109,Atypical,Few,Rather few songwriters create stages specifically for their own band .
+Frame110,Typical,Most,Lots of snakes devour eggs in one large bite .
+Frame110,Typical,Few,Hardly any snakes devour eggs in one large bite .
+Frame110,Atypical,Most,Lots of snakes devour pigs in one large bite .
+Frame110,Atypical,Few,Hardly any snakes devour pigs in one large bite .
+Frame111,Typical,Most,A lot of detectives notice clues all around the crime scene .
+Frame111,Typical,Few,A very few detectives notice clues all around the crime scene .
+Frame111,Atypical,Most,A lot of detectives notice reporters all around the crime scene .
+Frame111,Atypical,Few,A very few detectives notice reporters all around the crime scene .
+Frame112,Typical,Most,Many families schedule vacations during the summer months .
+Frame112,Typical,Few,Few families schedule vacations during the summer months .
+Frame112,Atypical,Most,Many families schedule discussions during the summer months .
+Frame112,Atypical,Few,Few families schedule discussions during the summer months .
+Frame113,Typical,Most,Most therapists make diagnoses based on years of experience .
+Frame113,Typical,Few,Few therapists make diagnoses based on years of experience .
+Frame113,Atypical,Most,Most therapists make deals based on years of experience .
+Frame113,Atypical,Few,Few therapists make deals based on years of experience .
+Frame114,Typical,Most,Almost all lifeguards protect swimmers at the beach .
+Frame114,Typical,Few,Almost no lifeguards protect swimmers at the beach .
+Frame114,Atypical,Most,Almost all lifeguards protect birds at the beach .
+Frame114,Atypical,Few,Almost no lifeguards protect birds at the beach .
+Frame115,Typical,Most,Practically all dentists pull teeth in their office .
+Frame115,Typical,Few,Practically no dentists pull teeth in their office .
+Frame115,Atypical,Most,Practically all dentists pull files in their office .
+Frame115,Atypical,Few,Practically no dentists pull files in their office .
+Frame116,Typical,Most,A large number of salesmen market products to prospective buyers .
+Frame116,Typical,Few,A small number of salesmen market products to prospective buyers .
+Frame116,Atypical,Most,A large number of salesmen market values to prospective buyers .
+Frame116,Atypical,Few,A small number of salesmen market values to prospective buyers .
+Frame117,Typical,Most,Nearly all aquariums give sharks a lot of special attention .
+Frame117,Typical,Few,Rather few aquariums give sharks a lot of special attention .
+Frame117,Atypical,Most,Nearly all aquariums give donors a lot of special attention .
+Frame117,Atypical,Few,Rather few aquariums give donors a lot of special attention .
+Frame118,Typical,Most,Lots of burglars have disguises when they are breaking into a house .
+Frame118,Typical,Few,Hardly any burglars have disguises when they are breaking into a house .
+Frame118,Atypical,Most,Lots of burglars have hostages when they are breaking into a house .
+Frame118,Atypical,Few,Hardly any burglars have hostages when they are breaking into a house .
+Frame119,Typical,Most,A lot of tenants rent apartments on a monthly basis .
+Frame119,Typical,Few,A very few tenants rent apartments on a monthly basis .
+Frame119,Atypical,Most,A lot of tenants rent lawnmowers on a monthly basis .
+Frame119,Atypical,Few,A very few tenants rent lawnmowers on a monthly basis .
+Frame120,Typical,Most,Many custodians scrub sinks before applying a disinfectant .
+Frame120,Typical,Few,Few custodians scrub sinks before applying a disinfectant .
+Frame120,Atypical,Most,Many custodians scrub trucks before applying a disinfectant .
+Frame120,Atypical,Few,Few custodians scrub trucks before applying a disinfectant .

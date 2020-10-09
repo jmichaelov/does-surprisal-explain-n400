@@ -1,0 +1,631 @@
+Sentence;TargetWord;Surprisal
+The student is going to the library to borrow a book tomorrow .;book;5.728962421417236
+The student is going to the library to borrow a hook tomorrow .;hook;17.218225479125977
+The student is going to the library to borrow a page tomorrow .;page;9.944519996643066
+The student is going to the library to borrow a sofa tomorrow .;sofa;14.052882194519043
+Living alone is too expensive, so the students will share a flat together .;flat;8.742570877075195
+Living alone is too expensive, so the students will share a flag together .;flag;16.70492172241211
+Living alone is too expensive, so the students will share a wall together .;wall;12.387877464294434
+Living alone is too expensive, so the students will share a bell together .;bell;15.124218940734863
+The family enjoyed the sunny day, but there will be rain tomorrow .;rain;10.404382705688477
+The family enjoyed the sunny day, but there will be pain tomorrow .;pain;14.100634574890137
+The family enjoyed the sunny day, but there will be sky tomorrow .;sky;14.315818786621094
+The family enjoyed the sunny day, but there will be loss tomorrow .;loss;13.40780258178711
+Jack studied medicine in a university and works as a doctor now .;doctor;4.570902347564697
+Jack studied medicine in a university and works as a factor now .;factor;18.153181076049805
+Jack studied medicine in a university and works as a patient now .;patient;8.173540115356445
+Jack studied medicine in a university and works as a tenant now .;tenant;15.583870887756348
+Amelia got a driving licence, and will buy her own car soon .;car;2.2738070487976074
+Amelia got a driving licence, and will buy her own jar soon .;jar;17.425321578979492
+Amelia got a driving licence, and will buy her own tyre soon .;tyre;13.804497718811035
+Amelia got a driving licence, and will buy her own rat soon .;rat;17.494962692260742
+Oliver doesn't have a watch, so he doesn't know the time now .;time;8.905462265014648
+Oliver doesn't have a watch, so he doesn't know the lime now .;lime;17.582731246948242
+Oliver doesn't have a watch, so he doesn't know the rest now .;rest;8.469168663024902
+Oliver doesn't have a watch, so he doesn't know the bean now .;bean;18.528785705566406
+Rachel will go to the cinema to watch a new film tomorrow .;film;3.8007490634918213
+Rachel will go to the cinema to watch a new firm tomorrow .;firm;17.023040771484375
+Rachel will go to the cinema to watch a new camera tomorrow .;camera;9.79240608215332
+Rachel will go to the cinema to watch a new bird tomorrow .;bird;13.714057922363281
+Paul is trying to stand on one leg now .;leg;7.958186626434326
+Paul is trying to stand on one lag now .;lag;22.335704803466797
+Paul is trying to stand on one hip now .;hip;18.281661987304688
+Paul is trying to stand on one kid now .;kid;16.638355255126953
+The gambler kept losing, so he doesn't have any money left .;money;6.322122573852539
+The gambler kept losing, so he doesn't have any honey left .;honey;14.373189926147461
+The gambler kept losing, so he doesn't have any wallet left .;wallet;16.710453033447266
+The gambler kept losing, so he doesn't have any candle left .;candle;17.188247680664062
+Harry intends to propose to Emily and give her the ring tomorrow .;ring;8.731023788452148
+Harry intends to propose to Emily and give her the wing tomorrow .;wing;17.885149002075195
+Harry intends to propose to Emily and give her the finger tomorrow .;finger;12.345260620117188
+Harry intends to propose to Emily and give her the memo tomorrow .;memo;19.609647750854492
+John nervously asked the attractive girl out on a date yesterday .;date;7.837190628051758
+John nervously asked the attractive girl out on a gate yesterday .;gate;15.120723724365234
+John nervously asked the attractive girl out on a cancel yesterday .;cancel;20.90261459350586
+John nervously asked the attractive girl out on a pin yesterday .;pin;16.177488327026367
+As a lifetime vegetarian, Olivia doesn't miss eating meat now .;meat;5.279408931732178
+As a lifetime vegetarian, Olivia doesn't miss eating mean now .;mean;18.475317001342773
+As a lifetime vegetarian, Olivia doesn't miss eating flour now .;flour;13.551961898803711
+As a lifetime vegetarian, Olivia doesn't miss eating soil now .;soil;13.38913345336914
+Dylan got lost today, so he will use a map tomorrow .;map;11.999944686889648
+Dylan got lost today, so he will use a cap tomorrow .;cap;14.779549598693848
+Dylan got lost today, so he will use a globe tomorrow .;globe;14.554096221923828
+Dylan got lost today, so he will use a job tomorrow .;job;11.75091552734375
+The comedian was funny, despite a bad joke yesterday .;joke;8.0346040725708
+The comedian was funny, despite a bad coke yesterday .;coke;21.503698348999023
+The comedian was funny, despite a bad laugh yesterday .;laugh;6.873188495635986
+The comedian was funny, despite a bad beef yesterday .;beef;19.082738876342773
+Jacob found he misspelled the word earlier .;word;6.088709831237793
+Jacob found he misspelled the lord earlier .;lord;13.87547492980957
+Jacob found he misspelled the usage earlier .;usage;16.986370086669922
+Jacob found he misspelled the oven earlier .;oven;19.045347213745117
+Oscar opened the postbox, and found a letter there .;letter;11.040517807006836
+Oscar opened the postbox, and found a litter there .;litter;16.50580596923828
+Oscar opened the postbox, and found a heading there .;heading;16.84056282043457
+Oscar opened the postbox, and found a birth there .;birth;14.226447105407715
+After struggling with the question, Jessica got the answer finally .;answer;8.447039604187012
+After struggling with the question, Jessica got the dancer finally .;dancer;17.378578186035156
+After struggling with the question, Jessica got the inquiry finally .;inquiry;18.58218765258789
+After struggling with the question, Jessica got the pension finally .;pension;16.960208892822266
+At the airport, James checked in for his flight earlier .;flight;11.768230438232422
+At the airport, James checked in for his sight earlier .;sight;13.806509971618652
+At the airport, James checked in for his rocket earlier .;rocket;16.44883918762207
+At the airport, James checked in for his machine earlier .;machine;14.05056095123291
+The lottery gave Emily a car as a prize yesterday .;prize;7.13271951675415
+The lottery gave Emily a car as a price yesterday .;price;9.28686809539795
+The lottery gave Emily a car as a medal yesterday .;medal;12.433669090270996
+The lottery gave Emily a car as a child yesterday .;child;5.320540904998779
+Sophie couldn't recall the recent event, and blamed her bad memory yesterday .;memory;8.908008575439453
+Sophie couldn't recall the recent event, and blamed her bad melody yesterday .;melody;17.835660934448242
+Sophie couldn't recall the recent event, and blamed her bad storage yesterday .;storage;18.80559730529785
+The shoes were small, so Lily asked for the largest size available .;size;9.704824447631836
+The shoes were small, so Lily asked for the largest sign available .;sign;10.653843879699707
+The shoes were small, so Lily asked for the largest height available .;height;12.426607131958008
+The shoes were small, so Lily asked for the largest flip available .;flip;17.45408821105957
+To view the 3D image, people wore special glasses yesterday .;glasses;5.594727993011475
+To view the 3D image, people wore special classes yesterday .;classes;13.718393325805664
+To view the 3D image, people wore special eyes yesterday .;eyes;12.522727966308594
+To view the 3D image, people wore special markets yesterday .;markets;16.40988540649414
+At the football match, Bob scored a goal yesterday .;goal;2.7283432483673096
+At the football match, Bob scored a coal yesterday .;coal;19.2514591217041
+At the football match, Bob scored a team yesterday .;team;7.511102676391602
+At the football match, Bob scored a bear yesterday .;bear;17.127403259277344
+Grace put too much dressing on her salad yesterday .;salad;15.44169807434082
+Grace put too much dressing on her ballad yesterday .;ballad;19.8418025970459
+Grace put too much dressing on her refrigerator yesterday .;refrigerator;14.284302711486816
+Grace put too much dressing on her movie yesterday .;movie;15.099875450134277
+Chloe couldn't afford the necklace because of its high price sadly .;price;4.008237838745117
+Chloe couldn't afford the necklace because of its high pride sadly .;pride;16.03899383544922
+Chloe couldn't afford the necklace because of its high seller sadly .;seller;17.808387756347656
+Chloe couldn't afford the necklace because of its high radio sadly .;radio;13.300543785095215
+The family went to the sea to catch some fish together .;fish;3.157979965209961
+The family went to the sea to catch some wish together .;wish;16.9628849029541
+The family went to the sea to catch some pond together .;pond;16.31722068786621
+The family went to the sea to catch some echo together .;echo;17.560720443725586
+Noah missed the final bus, and needed to take a taxi yesterday .;taxi;9.129047393798828
+Noah missed the final bus, and needed to take a tax yesterday .;tax;15.798884391784668
+Noah missed the final bus, and needed to take a fare yesterday .;fare;15.068402290344238
+Noah missed the final bus, and needed to take a seed yesterday .;seed;15.090337753295898
+The workers reported the difficult problem to their boss yesterday .;boss;11.513729095458984
+The workers reported the difficult problem to their bass yesterday .;bass;19.68699073791504
+The workers reported the difficult problem to their job yesterday .;job;9.614423751831055
+The workers reported the difficult problem to their port yesterday .;port;15.098352432250977
+Freya had a serious car accident and is afraid of driving now .;driving;8.231735229492188
+Freya had a serious car accident and is afraid of thriving now .;thriving;19.0999698638916
+Freya had a serious car accident and is afraid of licences now .;licences;20.89531898498535
+Freya had a serious car accident and is afraid of finding now .;finding;9.147123336791992
+The man was convicted for murder and is in prison now .;prison;5.149283409118652
+The man was convicted for murder and is in poison now .;poison;19.87508773803711
+The man was convicted for murder and is in crime now .;crime;16.12330436706543
+The man was convicted for murder and is in image now .;image;20.875917434692383
+Beth loved cooking, and has become a world famous chef now .;chef;12.610092163085938
+Beth loved cooking, and has become a world famous shelf now .;shelf;21.34536361694336
+Beth loved cooking, and has become a world famous buffet now .;buffet;21.990671157836914
+Beth loved cooking, and has become a world famous aunt now .;aunt;15.739141464233398
+Kyle asked the dentist to pull out the painful tooth gently .;tooth;9.178323745727539
+Kyle asked the dentist to pull out the painful booth gently .;booth;19.69899559020996
+Kyle asked the dentist to pull out the painful brush gently .;brush;13.641164779663086
+Kyle asked the dentist to pull out the painful grade gently .;grade;14.779829978942871
+Having high blood pressure, George reduced his intake of salt considerably .;salt;10.323534965515137
+Having high blood pressure, George reduced his intake of malt considerably .;malt;13.724227905273438
+Having high blood pressure, George reduced his intake of sea considerably .;sea;12.3374605178833
+Having high blood pressure, George reduced his intake of bond considerably .;bond;18.154245376586914
+Children were excited to see the first snow this winter yesterday .;winter;5.501336574554443
+Children were excited to see the first snow this printer yesterday .;printer;23.917346954345703
+Children were excited to see the first snow this summer yesterday .;summer;4.324028491973877
+Children were excited to see the first snow this effect yesterday .;effect;13.941100120544434
+To see the new-born panda, Lucy will go to the zoo tomorrow .;zoo;9.450968742370605
+To see the new-born panda, Lucy will go to the lion tomorrow .;lion;14.8190336227417
+To see the new-born panda, Lucy will go to the end tomorrow .;end;8.187819480895996
+The country girl was overwhelmed to see streets full of people yesterday .;people;6.205572605133057
+The country girl was overwhelmed to see streets full of purple yesterday .;purple;12.406487464904785
+The country girl was overwhelmed to see streets full of customs yesterday .;customs;14.780328750610352
+The country girl was overwhelmed to see streets full of length yesterday .;length;13.813398361206055
+Daisy is nine months pregnant and will have her first baby soon .;baby;3.2258481979370117
+Daisy is nine months pregnant and will have her first bay soon .;bay;21.676013946533203
+Daisy is nine months pregnant and will have her first agent soon .;agent;18.11581039428711
+Students at the train station are rushing to buy a ticket now .;ticket;5.359304428100586
+Students at the train station are rushing to buy a platform now .;platform;9.131511688232422
+Students at the train station are rushing to buy a major now .;major;9.649785995483398
+Feeling stressed at his workplace, Max relaxed at home completely .;home;5.394500255584717
+Feeling stressed at his workplace, Max relaxed at dome completely .;dome;23.495038986206055
+Feeling stressed at his workplace, Max relaxed at laundry completely .;laundry;20.946565628051758
+Feeling stressed at his workplace, Max relaxed at beer completely .;beer;15.409103393554688
+Isabella dyed her hair, but she doesn't like the colour now .;colour;10.00902271270752
+Isabella dyed her hair, but she doesn't like the cutter now .;cutter;17.426959991455078
+Isabella dyed her hair, but she doesn't like the paint now .;paint;10.331945419311523
+Isabella dyed her hair, but she doesn't like the grape now .;grape;14.270121574401855
+For parking illegally, William was charged a fine yesterday .;fine;5.270734786987305
+For parking illegally, William was charged a line yesterday .;line;10.32662296295166
+For parking illegally, William was charged a court yesterday .;court;8.888771057128906
+For parking illegally, William was charged a rest yesterday .;rest;14.760865211486816
+Jim will go swimming and get a suntan at the beach tomorrow .;beach;7.101312637329102
+Jim will go swimming and get a suntan at the peach tomorrow .;peach;15.852972984313965
+Jim will go swimming and get a suntan at the coconut tomorrow .;coconut;15.5792818069458
+Jim will go swimming and get a suntan at the drama tomorrow .;drama;16.835378646850586
+The house is haunted by ghosts now .;ghosts;4.298192024230957
+The house is haunted by boasts now .;boasts;18.294710159301758
+The house is haunted by eagles now .;eagles;15.593515396118164
+The juice isn't cold enough, so Alice is adding some ice now .;ice;11.133639335632324
+The juice isn't cold enough, so Alice is adding some dice now .;dice;18.400365829467773
+The juice isn't cold enough, so Alice is adding some cube now .;cube;16.48497200012207
+The juice isn't cold enough, so Alice is adding some wine now .;wine;8.747093200683594
+The restaurant is always busy, so Leo will book a table now .;table;7.743732929229736
+The restaurant is always busy, so Leo will book a label now .;label;12.973549842834473
+The restaurant is always busy, so Leo will book a chair now .;chair;13.607490539550781
+The restaurant is always busy, so Leo will book a field now .;field;12.974678039550781
+The baby is hungry and needs to drink some milk now .;milk;6.064270973205566
+The baby is hungry and needs to drink some silk now .;silk;15.35501766204834
+The baby is hungry and needs to drink some cow now .;cow;12.575338363647461
+The baby is hungry and needs to drink some debt now .;debt;15.19156551361084
+Before sending the letter, Daniel licked a stamp quickly .;stamp;11.5725736618042
+Before sending the letter, Daniel licked a stump quickly .;stump;16.387184143066406
+Before sending the letter, Daniel licked a payment quickly .;payment;12.734336853027344
+Before sending the letter, Daniel licked a juice quickly .;juice;16.999536514282227
+The waiter got a generous tip because of his good service yesterday .;service;8.224334716796875
+The waiter got a generous tip because of his good surface yesterday .;surface;17.063703536987305
+The waiter got a generous tip because of his good complaints yesterday .;complaints;19.405351638793945
+The waiter got a generous tip because of his good million yesterday .;million;22.82898712158203
+For their mother's birthday, the children will hold a party tomorrow .;party;10.878332138061523
+For their mother's birthday, the children will hold a guest tomorrow .;guest;12.186995506286621
+For their mother's birthday, the children will hold a scene tomorrow .;scene;12.274442672729492
+Only one cake is left, so Lilly doesn't have a choice anyway .;choice;6.701038837432861
+Only one cake is left, so Lilly doesn't have a voice anyway .;voice;10.847321510314941
+Only one cake is left, so Lilly doesn't have a future anyway .;future;12.575907707214355
+Only one cake is left, so Lilly doesn't have a minute anyway .;minute;15.373779296875
+The men are watching football and drinking beer in the pub together .;pub;7.103296279907227
+The men are watching football and drinking beer in the rub together .;rub;21.4592227935791
+The men are watching football and drinking beer in the owner together .;owner;15.776968002319336
+The men are watching football and drinking beer in the let together .;let;17.09919548034668
+The plane crash was avoided by the experienced pilot yesterday .;pilot;5.063786506652832
+The plane crash was avoided by the experienced pallet yesterday .;pallet;18.09434700012207
+The plane crash was avoided by the experienced flight yesterday .;flight;9.363334655761719
+The plane crash was avoided by the experienced mail yesterday .;mail;13.57048511505127
+The bus driver charged Rosie a regular fare yesterday .;fare;5.257287502288818
+The bus driver charged Rosie a regular care yesterday .;care;14.959607124328613
+The bus driver charged Rosie a regular cash yesterday .;cash;10.742226600646973
+The bus driver charged Rosie a regular twin yesterday .;twin;15.29078483581543
+Henry was seriously injured but the doctor saved his life successfully .;life;0.535388171672821
+Henry was seriously injured but the doctor saved his knife successfully .;knife;16.317529678344727
+Henry was seriously injured but the doctor saved his death successfully .;death;9.567867279052734
+Henry was seriously injured but the doctor saved his corn successfully .;corn;17.952653884887695
+Joseph used a lighter to make a fire easily .;fire;9.436442375183105
+Joseph used a lighter to make a hire easily .;hire;19.611217498779297
+Joseph used a lighter to make a chimney easily .;chimney;15.919839859008789
+Joseph used a lighter to make a statue easily .;statue;11.30675220489502
+The famous dancer performed on the stage yesterday .;stage;2.710855722427368
+The famous dancer performed on the state yesterday .;state;14.19381332397461
+The famous dancer performed on the actor yesterday .;actor;12.679178237915039
+The famous dancer performed on the cloud yesterday .;cloud;22.767610549926758
+The girls are going to have cocktails and dance in a club together .;club;9.914544105529785
+The girls are going to have cocktails and dance in a crab together .;crab;14.72507095336914
+The girls are going to have cocktails and dance in a sport together .;sport;14.048663139343262
+The girls are going to have cocktails and dance in a mist together .;mist;14.587911605834961
+The supporters wished the team good luck yesterday .;luck;2.1028029918670654
+The supporters wished the team good duck yesterday .;duck;19.694543838500977
+The supporters wished the team good yell yesterday .;yell;22.060657501220703
+The supporters wished the team good view yesterday .;view;13.26036548614502
+The cricket player wants his own glove, ball and bat now .;bat;7.398184776306152
+The cricket player wants his own glove, ball and rat now .;rat;18.653127670288086
+The cricket player wants his own glove, ball and hit now .;hit;10.189573287963867
+Hannah bought a calendar and hung it on the wall yesterday .;wall;5.028050422668457
+Hannah bought a calendar and hung it on the mall yesterday .;mall;13.493163108825684
+Hannah bought a calendar and hung it on the floor yesterday .;floor;4.656508445739746
+Hannah bought a calendar and hung it on the fruit yesterday .;fruit;13.92003345489502
+The man with the history of self-harm cut his wrist suddenly .;wrist;8.899758338928223
+The man with the history of self-harm cut his list suddenly .;list;14.11552619934082
+The man with the history of self-harm cut his grip suddenly .;grip;9.901962280273438
+The man with the history of self-harm cut his sky suddenly .;sky;16.724964141845703
+Susan felt tears coming as she sliced the onion carefully .;onion;17.325654983520508
+Susan felt tears coming as she sliced the union carefully .;union;13.912951469421387
+Susan felt tears coming as she sliced the flavour carefully .;flavour;16.936349868774414
+Susan felt tears coming as she sliced the error carefully .;error;16.007280349731445
+The woman was hit by a truck when crossing the road yesterday .;road;3.1517174243927
+The woman was hit by a truck when crossing the load yesterday .;load;13.623369216918945
+The woman was hit by a truck when crossing the cyclist yesterday .;cyclist;17.27168083190918
+The woman was hit by a truck when crossing the math yesterday .;math;21.14158058166504
+Tyler knows many cocktail recipes because he works in a bar now .;bar;6.805925369262695
+Tyler knows many cocktail recipes because he works in a war now .;war;12.155388832092285
+Tyler knows many cocktail recipes because he works in a pint now .;pint;14.030022621154785
+Tyler knows many cocktail recipes because he works in a joy now .;joy;20.966995239257812
+Kate didn't like coffee, so she ordered a cup of tea instead .;tea;2.8615829944610596
+Kate didn't like coffee, so she ordered a cup of team instead .;team;21.330705642700195
+Kate didn't like coffee, so she ordered a cup of mug instead .;mug;13.853940963745117
+Kate didn't like coffee, so she ordered a cup of myth instead .;myth;22.756467819213867
+Sam plays guitar in a popular band now .;band;5.1651716232299805
+Sam plays guitar in a popular sand now .;sand;18.300241470336914
+Sam plays guitar in a popular music now .;music;3.8564114570617676
+Sam plays guitar in a popular hero now .;hero;16.29707145690918
+As the trousers were loose, Tony tightened up his belt yesterday .;belt;10.048890113830566
+As the trousers were loose, Tony tightened up his beat yesterday .;beat;14.229793548583984
+As the trousers were loose, Tony tightened up his helmet yesterday .;helmet;9.538777351379395
+As the trousers were loose, Tony tightened up his tube yesterday .;tube;15.288110733032227
+Meg will go to the park to walk her dog tomorrow .;dog;9.443434715270996
+Meg will go to the park to walk her fog tomorrow .;fog;17.14708709716797
+Meg will go to the park to walk her tail tomorrow .;tail;10.034494400024414
+Meg will go to the park to walk her tyre tomorrow .;tyre;20.666263580322266
+The terrorist shot and killed five people using a gun yesterday .;gun;6.15585994720459
+The terrorist shot and killed five people using a gum yesterday .;gum;17.6794376373291
+The terrorist shot and killed five people using a grip yesterday .;grip;15.464253425598145
+The terrorist shot and killed five people using a rib yesterday .;rib;16.715248107910156
+The mole was digging a hole yesterday .;hole;1.3592817783355713
+The mole was digging a pole yesterday .;pole;14.404523849487305
+The mole was digging a drill yesterday .;drill;13.752426147460938
+The mole was digging a mass yesterday .;mass;10.698018074035645
+The horse went outside the course, and didn't win the race understandably .;race;3.0277302265167236
+The horse went outside the course, and didn't win the lace understandably .;lace;18.545032501220703
+The horse went outside the course, and didn't win the bike understandably .;bike;11.25350570678711
+The horse went outside the course, and didn't win the snap understandably .;snap;15.055461883544922
+Emma loves a bargain, and everything she bought was on sale actually .;sale;9.946098327636719
+Emma loves a bargain, and everything she bought was on safe actually .;safe;15.105735778808594
+Emma loves a bargain, and everything she bought was on noon actually .;noon;20.44565773010254
+The king's throne was taken by his first-born son yesterday .;son;0.06822405755519867
+The king's throne was taken by his first-born ton yesterday .;ton;26.944093704223633
+The king's throne was taken by his first-born father yesterday .;father;11.474822044372559
+The king's throne was taken by his first-born fox yesterday .;fox;27.339588165283203
+The camp leader taught children how to pitch a tent yesterday .;tent;11.480904579162598
+The camp leader taught children how to pitch a cent yesterday .;cent;17.60115623474121
+The camp leader taught children how to pitch a cave yesterday .;cave;14.05691146850586
+The camp leader taught children how to pitch a flaw yesterday .;flaw;18.336336135864258
+He enjoys hiking in the woods because of the fresh air outside .;air;4.1126298904418945
+He enjoys hiking in the woods because of the fresh hair outside .;hair;11.615562438964844
+He enjoys hiking in the woods because of the fresh dust outside .;dust;10.578706741333008
+He enjoys hiking in the woods because of the fresh ray outside .;ray;18.901424407958984
+All the colleagues have savings accounts at the same bank somehow .;bank;12.450270652770996
+All the colleagues have savings accounts at the same back somehow .;back;18.586938858032227
+All the colleagues have savings accounts at the same receipt somehow .;receipt;21.27799415588379
+All the colleagues have savings accounts at the same lake somehow .;lake;17.49028205871582
+Ben went to the gym to swim in the pool earlier .;pool;5.604709625244141
+Ben went to the gym to swim in the tool earlier .;tool;20.124277114868164
+Ben went to the gym to swim in the sink earlier .;sink;13.83872127532959
+Ben went to the gym to swim in the lump earlier .;lump;22.205968856811523
+Adam keeps different breeds of cows in his farm now .;farm;9.264742851257324
+Adam keeps different breeds of cows in his harm now .;harm;16.228050231933594
+Adam keeps different breeds of cows in his yields now .;yields;21.471843719482422
+Adam keeps different breeds of cows in his navy now .;navy;15.962883949279785
+For relaxation, Matilda soaked in a hot bath yesterday .;bath;4.741466522216797
+For relaxation, Matilda soaked in a hot path yesterday .;path;21.160030364990234
+For relaxation, Matilda soaked in a hot soap yesterday .;soap;8.966768264770508
+For relaxation, Matilda soaked in a hot loaf yesterday .;loaf;9.503962516784668
+Lewis lost his memory because of the damage to his brain yesterday .;brain;5.731204509735107
+Lewis lost his memory because of the damage to his grain yesterday .;grain;14.735757827758789
+Lewis lost his memory because of the damage to his surgeries yesterday .;surgeries;17.06991958618164
+Lewis lost his memory because of the damage to his nation yesterday .;nation;15.32697868347168
+After shuffling, the croupier asked the guest to select one card only .;card;10.284469604492188
+After shuffling, the croupier asked the guest to select one cart only .;cart;17.245365142822266
+After shuffling, the croupier asked the guest to select one swap only .;swap;19.449562072753906
+After shuffling, the croupier asked the guest to select one roll only .;roll;15.793871879577637
+Nobody knows the time as this room has no clock now .;clock;11.639021873474121
+Nobody knows the time as this room has no clerk now .;clerk;16.45861053466797
+Nobody knows the time as this room has no alarm now .;alarm;14.490426063537598
+Nobody knows the time as this room has no scarf now .;scarf;18.31415557861328
+Ryan refused to invest to avoid taking a risk yesterday .;risk;8.804951667785645
+Ryan refused to invest to avoid taking a disc yesterday .;disc;17.703662872314453
+Ryan refused to invest to avoid taking a benefit yesterday .;benefit;12.833354949951172
+Ryan refused to invest to avoid taking a door yesterday .;door;15.586968421936035
+The client immediately signed the contract because it was a good deal indeed .;deal;3.307382106781006
+The client immediately signed the contract because it was a good meal indeed .;meal;12.024484634399414
+The client immediately signed the contract because it was a good trust indeed .;trust;15.03834056854248
+The client immediately signed the contract because it was a good flower indeed .;flower;20.029680252075195
+By closely examining a painting, one can see all the detail clearly .;detail;10.044241905212402
+By closely examining a painting, one can see all the retail clearly .;retail;17.72162437438965
+By closely examining a painting, one can see all the paragraphs clearly .;paragraphs;16.02790069580078
+By closely examining a painting, one can see all the syrup clearly .;syrup;20.397357940673828
+Toby used to walk to school, but now he takes a bus often .;bus;8.766061782836914
+Toby used to walk to school, but now he takes a bug often .;bug;16.01364517211914
+Toby used to walk to school, but now he takes a seat often .;seat;9.764853477478027
+Toby used to walk to school, but now he takes a use often .;use;14.597277641296387
+In the class, Bella whispered in her friend's ear quickly .;ear;9.46723747253418
+In the class, Bella whispered in her friend's rear quickly .;rear;17.074068069458008
+In the class, Bella whispered in her friend's sound quickly .;sound;8.866654396057129
+In the class, Bella whispered in her friend's kin quickly .;kin;20.006694793701172
+Two dogs injured each other when they had a fight yesterday .;fight;7.948625087738037
+Two dogs injured each other when they had a light yesterday .;light;12.459720611572266
+Two dogs injured each other when they had a troop yesterday .;troop;17.221229553222656
+Two dogs injured each other when they had a piano yesterday .;piano;13.556450843811035
+To make meringue, she separated the whites from five eggs carefully .;eggs;13.201377868652344
+To make meringue, she separated the whites from five pegs carefully .;pegs;20.455806732177734
+To make meringue, she separated the whites from five nests carefully .;nests;17.471025466918945
+To make meringue, she separated the whites from five toes carefully .;toes;15.475852012634277
+To make two groups, the lecturer split the class in half quickly .;half;7.338065147399902
+To make two groups, the lecturer split the class in calf quickly .;calf;23.160600662231445
+To make two groups, the lecturer split the class in dozen quickly .;dozen;18.03367042541504
+To make two groups, the lecturer split the class in lake quickly .;lake;22.056529998779297
+Seeing buds on trees heralds the arrival of spring surely .;spring;11.609431266784668
+Seeing buds on trees heralds the arrival of sprint surely .;sprint;20.39743423461914
+Seeing buds on trees heralds the arrival of winter surely .;winter;11.002425193786621
+Seeing buds on trees heralds the arrival of power surely .;power;14.020614624023438
+The store was so busy that the clerk needed help yesterday .;help;9.17088794708252
+The store was so busy that the clerk needed heap yesterday .;heap;23.76804542541504
+The store was so busy that the clerk needed lifeguards yesterday .;lifeguards;21.629690170288086
+The store was so busy that the clerk needed fog yesterday .;fog;19.729595184326172
+The solution didn't work, and Harley lost all hope yesterday .;hope;6.120676517486572
+The solution didn't work, and Harley lost all hose yesterday .;hose;21.495834350585938
+The solution didn't work, and Harley lost all regret yesterday .;regret;18.27202606201172
+The solution didn't work, and Harley lost all nails yesterday .;nails;18.08201026916504
+To remember to buy everything she wanted, Gracie made a list quickly .;list;12.11293888092041
+To remember to buy everything she wanted, Gracie made a lift quickly .;lift;14.898409843444824
+To remember to buy everything she wanted, Gracie made a volume quickly .;volume;15.128753662109375
+To remember to buy everything she wanted, Gracie made a disc quickly .;disc;13.141304969787598
+The computer pointer doesn't move though Tommy is moving the mouse now .;mouse;4.773044109344482
+The computer pointer doesn't move though Tommy is moving the mouth now .;mouth;13.834556579589844
+The computer pointer doesn't move though Tommy is moving the click now .;click;12.610694885253906
+The computer pointer doesn't move though Tommy is moving the lemon now .;lemon;19.90660285949707
+Katie looks much younger than her actual age now .;age;7.076260566711426
+Katie looks much younger than her actual ace now .;ace;18.196378707885742
+Katie looks much younger than her actual birth now .;birth;7.250425338745117
+Katie looks much younger than her actual oak now .;oak;20.01913070678711
+After the meal, Matthew asked a waiter to bring the bill quickly .;bill;8.78035831451416
+After the meal, Matthew asked a waiter to bring the pill quickly .;pill;11.982980728149414
+After the meal, Matthew asked a waiter to bring the tip quickly .;tip;14.407551765441895
+After the meal, Matthew asked a waiter to bring the mess quickly .;mess;13.510004043579102
+Hearing the noise outside the classroom, the lecturer closed the door immediately .;door;2.061110258102417
+Hearing the noise outside the classroom, the lecturer closed the donor immediately .;donor;22.728099822998047
+Hearing the noise outside the classroom, the lecturer closed the knob immediately .;knob;16.887537002563477
+Hearing the noise outside the classroom, the lecturer closed the loan immediately .;loan;16.104761123657227
+Elizabeth doesn't believe Matt since he has told lies before .;lies;14.958901405334473
+Elizabeth doesn't believe Matt since he has told pies before .;pies;22.862060546875
+Elizabeth doesn't believe Matt since he has told truth before .;truth;15.124801635742188
+Elizabeth doesn't believe Matt since he has told ways before .;ways;17.08681869506836
+The thief stole the bike easily as it had no lock yesterday .;lock;13.071820259094238
+The thief stole the bike easily as it had no look yesterday .;look;15.838781356811523
+The thief stole the bike easily as it had no door yesterday .;door;9.00316047668457
+The thief stole the bike easily as it had no sum yesterday .;sum;19.458415985107422
+Anna brings a sandwich and a salad for her lunch usually .;lunch;7.219655513763428
+Anna brings a sandwich and a salad for her punch usually .;punch;17.943462371826172
+Anna brings a sandwich and a salad for her kitchen usually .;kitchen;10.560839653015137
+Anna brings a sandwich and a salad for her issue usually .;issue;18.045677185058594
+People saw the first spaceship that landed on the moon together .;moon;4.968683242797852
+People saw the first spaceship that landed on the mood together .;mood;22.596712112426758
+People saw the first spaceship that landed on the orbit together .;orbit;12.710712432861328
+People saw the first spaceship that landed on the heel together .;heel;19.414762496948242
+Children made a wish when they saw a shooting star yesterday .;star;10.909934997558594
+Children made a wish when they saw a shooting scar yesterday .;scar;16.45517921447754
+Children made a wish when they saw a shooting galaxy yesterday .;galaxy;17.936031341552734
+Children made a wish when they saw a shooting devil yesterday .;devil;16.12583351135254
+Maya got a cold and has a runny nose now .;nose;9.80701732635498
+Maya got a cold and has a runny pose now .;pose;12.553045272827148
+Maya got a cold and has a runny chin now .;chin;14.25069808959961
+Maya got a cold and has a runny term now .;term;12.627411842346191
+The country has no war and people live in peace today .;peace;7.497430801391602
+The country has no war and people live in peak today .;peak;16.483537673950195
+The country has no war and people live in treaty today .;treaty;18.894004821777344
+The country has no war and people live in yacht today .;yacht;21.72064208984375
+To make the garden more green, Amy is growing various plants now .;plants;5.785210132598877
+To make the garden more green, Amy is growing various planets now .;planets;14.557648658752441
+To make the garden more green, Amy is growing various sunlight now .;sunlight;18.138381958007812
+To make the garden more green, Amy is growing various limits now .;limits;13.7370023727417
+To prevent spreading her cold, Jane is wearing a mask now .;mask;5.614582061767578
+To prevent spreading her cold, Jane is wearing a task now .;task;18.660158157348633
+To prevent spreading her cold, Jane is wearing a face now .;face;9.797205924987793
+To prevent spreading her cold, Jane is wearing a pane now .;pane;17.322832107543945
+The leaking rain was due to a hole in the roof yesterday .;roof;5.991791248321533
+The leaking rain was due to a hole in the root yesterday .;root;14.188596725463867
+The leaking rain was due to a hole in the floor yesterday .;floor;6.8027496337890625
+The leaking rain was due to a hole in the pain yesterday .;pain;16.31218719482422
+The fisherman was trying to catch fish in a net earlier .;net;11.558357238769531
+The fisherman was trying to catch fish in a jet earlier .;jet;11.679515838623047
+The fisherman was trying to catch fish in a gross earlier .;gross;18.137529373168945
+The fisherman was trying to catch fish in a man earlier .;man;12.120296478271484
+The plant lacks sunlight because it's placed in the shade now .;shade;7.093435287475586
+The plant lacks sunlight because it's placed in the shape now .;shape;8.94169807434082
+The plant lacks sunlight because it's placed in the grass now .;grass;10.10115909576416
+The plant lacks sunlight because it's placed in the broom now .;broom;17.421152114868164
+Sophia cannot find a suitable lotion because of her delicate skin now .;skin;6.5328264236450195
+Sophia cannot find a suitable lotion because of her delicate spin now .;spin;15.83590030670166
+Sophia cannot find a suitable lotion because of her delicate sweat now .;sweat;17.15233612060547
+Sophia cannot find a suitable lotion because of her delicate copy now .;copy;17.425392150878906
+The driver was stopped as he exceeded the specified speed yesterday .;speed;2.4581665992736816
+The driver was stopped as he exceeded the specified speech yesterday .;speech;19.414405822753906
+The driver was stopped as he exceeded the specified jet yesterday .;jet;16.860586166381836
+The driver was stopped as he exceeded the specified tablet yesterday .;tablet;22.188955307006836
+Conner went down the stairs and sat on the bottom step slowly .;step;13.619197845458984
+Conner went down the stairs and sat on the bottom stem slowly .;stem;19.138273239135742
+Conner went down the stairs and sat on the bottom process slowly .;process;19.450246810913086
+Conner went down the stairs and sat on the bottom jail slowly .;jail;18.521484375
+With a high salary, he needs to pay more tax accordingly .;tax;11.619340896606445
+With a high salary, he needs to pay more wax accordingly .;wax;18.840177536010742
+With a high salary, he needs to pay more income accordingly .;income;10.482131004333496
+With a high salary, he needs to pay more ash accordingly .;ash;20.517772674560547
+Tilly's sister did the cleaning today, so tomorrow it's her turn naturally .;turn;11.272565841674805
+Tilly's sister did the cleaning today, so tomorrow it's her turf naturally .;turf;18.01689910888672
+Tilly's sister did the cleaning today, so tomorrow it's her gear naturally .;gear;14.8781099319458
+Tilly's sister did the cleaning today, so tomorrow it's her acid naturally .;acid;16.796005249023438
+There was a recycling campaign to reduce the amount of waste more .;waste;4.120722770690918
+There was a recycling campaign to reduce the amount of paste more .;paste;16.85605812072754
+There was a recycling campaign to reduce the amount of toilets more .;toilets;13.592402458190918
+There was a recycling campaign to reduce the amount of relief more .;relief;11.767585754394531
+Jamie bravely stopped the robbery without feeling any fear yesterday .;fear;5.327360153198242
+Jamie bravely stopped the robbery without feeling any year yesterday .;year;19.6871280670166
+Jamie bravely stopped the robbery without feeling any escape yesterday .;escape;12.77893352508545
+Jamie bravely stopped the robbery without feeling any dirt yesterday .;dirt;13.29919719696045
+The attendees can't miss the meeting without a good excuse tomorrow .;excuse;8.785265922546387
+The attendees can't miss the meeting without a good excise tomorrow .;excise;22.19753074645996
+The attendees can't miss the meeting without a good doubt tomorrow .;doubt;15.360540390014648
+The attendees can't miss the meeting without a good style tomorrow .;style;14.120542526245117
+Frank will double-check the notification in case there is any change tomorrow .;change;6.980790615081787
+Frank will double-check the notification in case there is any range tomorrow .;range;15.261279106140137
+Frank will double-check the notification in case there is any same tomorrow .;same;13.888132095336914
+Frank will double-check the notification in case there is any land tomorrow .;land;11.21146297454834
+Finishing his study abroad, David will return to his own country finally .;country;5.804627418518066
+Finishing his study abroad, David will return to his own counter finally .;counter;17.698673248291016
+Finishing his study abroad, David will return to his own import finally .;import;22.204130172729492
+Finishing his study abroad, David will return to his own puzzle finally .;puzzle;18.456701278686523
+The businessman left his laptop on his desk yesterday .;desk;7.2287187576293945
+The businessman left his laptop on his dusk yesterday .;dusk;25.47592544555664
+The businessman left his laptop on his receptionist yesterday .;receptionist;18.495880126953125
+The businessman left his laptop on his pine yesterday .;pine;24.643478393554688
+Rose couldn't eat noodles using chopsticks, so used a fork instead .;fork;10.140856742858887
+Rose couldn't eat noodles using chopsticks, so used a fort instead .;fort;18.98907470703125
+Rose couldn't eat noodles using chopsticks, so used a cup instead .;cup;9.65108871459961
+Rose couldn't eat noodles using chopsticks, so used a peer instead .;peer;20.473546981811523
+The bird cannot fly because it injured its wing earlier .;wing;8.501792907714844
+The bird cannot fly because it injured its ring earlier .;ring;13.554025650024414
+The bird cannot fly because it injured its glide earlier .;glide;15.388230323791504
+The bird cannot fly because it injured its frog earlier .;frog;14.048075675964355
+Eliza worried about her breath, so she took an extra mint yesterday .;mint;19.269411087036133
+Eliza worried about her breath, so she took an extra hint yesterday .;hint;13.525964736938477
+Eliza worried about her breath, so she took an extra herb yesterday .;herb;16.187854766845703
+Eliza worried about her breath, so she took an extra toll yesterday .;toll;7.978175640106201
+Changing majors required students to fill out a twenty-page long form usually .;form;9.834440231323242
+Changing majors required students to fill out a twenty-page long norm usually .;norm;17.920499801635742
+Changing majors required students to fill out a twenty-page long example usually .;example;16.797527313232422
+Changing majors required students to fill out a twenty-page long rival usually .;rival;16.92690086364746
+Violet left the dirty plates and cups in the sink today .;sink;12.403595924377441
+Violet left the dirty plates and cups in the link today .;link;16.371944427490234
+Violet left the dirty plates and cups in the towel today .;towel;10.887493133544922
+Violet left the dirty plates and cups in the army today .;army;12.770869255065918
+To increase her hair volume, the woman wears a wig usually .;wig;4.428760051727295
+To increase her hair volume, the woman wears a pig usually .;pig;13.038494110107422
+To increase her hair volume, the woman wears a comb usually .;comb;11.481200218200684
+To increase her hair volume, the woman wears a pea usually .;pea;17.074447631835938
+Eleanor covered the old ugly floor with a large rug completely .;rug;13.400279998779297
+Eleanor covered the old ugly floor with a large rum completely .;rum;18.319520950317383
+Eleanor covered the old ugly floor with a large tie completely .;tie;15.941007614135742
+Eleanor covered the old ugly floor with a large ham completely .;ham;18.221464157104492
+The room with bad ventilation got a ceiling fan finally .;fan;10.65245246887207
+The room with bad ventilation got a ceiling fat finally .;fat;16.459545135498047
+The room with bad ventilation got a ceiling air finally .;air;11.197149276733398
+The room with bad ventilation got a ceiling kit finally .;kit;16.25461196899414
+For a removal, Cameron packed the TV into its original box carefully .;box;10.466889381408691
+For a removal, Cameron packed the TV into its original lid carefully .;lid;17.57321548461914
+For a removal, Cameron packed the TV into its original oil carefully .;oil;14.619032859802246
+Selling drugs is against the law today .;law;6.377786636352539
+Selling drugs is against the saw today .;saw;18.683109283447266
+Selling drugs is against the jury today .;jury;14.234776496887207
+Selling drugs is against the fee today .;fee;14.912612915039062
+The waiter wasn't polite, so he didn't receive a good tip yesterday .;tip;11.382737159729004
+The waiter wasn't polite, so he didn't receive a good lip yesterday .;lip;13.597646713256836
+The waiter wasn't polite, so he didn't receive a good thumb yesterday .;thumb;15.339792251586914
+The waiter wasn't polite, so he didn't receive a good van yesterday .;van;15.609768867492676
+For Christmas, the children are hanging bells on the tree happily .;tree;9.259679794311523
+For Christmas, the children are hanging bells on the treat happily .;treat;22.039955139160156
+For Christmas, the children are hanging bells on the squirrel happily .;squirrel;18.096317291259766
+For Christmas, the children are hanging bells on the inch happily .;inch;17.885854721069336
+To expand their market, the project team made a rough plan together .;plan;6.576289653778076
+To expand their market, the project team made a rough plank together .;plank;21.9426326751709
+To expand their market, the project team made a rough future together .;future;11.309676170349121
+To expand their market, the project team made a rough rifle together .;rifle;21.019134521484375
+Because of the storm, the ocean has big waves now .;waves;5.650092601776123
+Because of the storm, the ocean has big caves now .;caves;12.584699630737305
+Because of the storm, the ocean has big surfers now .;surfers;14.539484024047852
+Because of the storm, the ocean has big heads now .;heads;10.71486759185791
+The sales staff forgot to attach the price tag again .;tag;6.819357872009277
+The sales staff forgot to attach the price tug again .;tug;19.375457763671875
+The sales staff forgot to attach the price name again .;name;12.118894577026367
+The sales staff forgot to attach the price eve again .;eve;22.003589630126953
+To make a pancake easily, Julia used a pancake mix yesterday .;mix;7.62821626663208
+To make a pancake easily, Julia used a pancake fix yesterday .;fix;17.79535675048828
+To make a pancake easily, Julia used a pancake digestion yesterday .;digestion;21.024106979370117
+To make a pancake easily, Julia used a pancake bid yesterday .;bid;21.634117126464844
+The new variety show appointed the entertainer as a host yesterday .;host;7.03935432434082
+The new variety show appointed the entertainer as a post yesterday .;post;14.418646812438965
+The new variety show appointed the entertainer as a meeting yesterday .;meeting;12.617359161376953
+The new variety show appointed the entertainer as a drill yesterday .;drill;14.883082389831543
+Nigel's son should inherit the estate according to his will naturally .;will;5.73028039932251
+Nigel's son should inherit the estate according to his pill naturally .;pill;21.24352264404297
+Nigel's son should inherit the estate according to his fact naturally .;fact;12.726004600524902
+Nigel's son should inherit the estate according to his site naturally .;site;14.656691551208496
+It's expected to snow as it will get very cold tomorrow .;cold;4.6980438232421875
+It's expected to snow as it will get very old tomorrow .;old;8.184426307678223
+It's expected to snow as it will get very hot tomorrow .;hot;4.792942047119141
+It's expected to snow as it will get very tall tomorrow .;tall;10.290595054626465
+The explorer in the desert hopes to ride the camel tomorrow .;camel;9.311473846435547
+The explorer in the desert hopes to ride the caramel tomorrow .;caramel;25.085756301879883
+The explorer in the desert hopes to ride the oasis tomorrow .;oasis;15.094904899597168
+The explorer in the desert hopes to ride the user tomorrow .;user;16.116613388061523
+For the parade, the king's servants will refurbish the entire castle perfectly .;castle;7.2256622314453125
+For the parade, the king's servants will refurbish the entire cattle perfectly .;cattle;16.586483001708984
+For the parade, the king's servants will refurbish the entire lords perfectly .;lords;19.321592330932617
+For the parade, the king's servants will refurbish the entire depth perfectly .;depth;15.002021789550781
+Making traditional Indian curry requires using several types of spice together .;spice;10.446712493896484
+Making traditional Indian curry requires using several types of space together .;space;14.010650634765625
+Making traditional Indian curry requires using several types of orient together .;orient;21.96629524230957
+Making traditional Indian curry requires using several types of excess together .;excess;15.685905456542969
+To finish the cake, Scarlet spread the whipped cream generously .;cream;0.33727240562438965
+To finish the cake, Scarlet spread the whipped dream generously .;dream;22.422224044799805
+To finish the cake, Scarlet spread the whipped fibre generously .;fibre;17.686603546142578
+Students learned how to convert kilometres to miles yesterday .;miles;9.743062019348145
+Students learned how to convert kilometres to piles yesterday .;piles;17.54046630859375
+Students learned how to convert kilometres to riders yesterday .;riders;18.55062484741211
+Students learned how to convert kilometres to veins yesterday .;veins;22.252960205078125
+To compress the air, the machine applies high pressure constantly .;pressure;2.4388129711151123
+To compress the air, the machine applies high pleasure constantly .;pleasure;20.04840087890625
+To compress the air, the machine applies high relief constantly .;relief;12.005258560180664
+To compress the air, the machine applies high session constantly .;session;16.776325225830078
+Before exchanging money, Rebecca asks the exchange rate usually .;rate;8.323071479797363
+Before exchanging money, Rebecca asks the exchange fate usually .;fate;16.007125854492188
+Before exchanging money, Rebecca asks the exchange pace usually .;pace;18.981245040893555
+Before exchanging money, Rebecca asks the exchange exit usually .;exit;20.952970504760742
+Lydia cannot eat anymore as she is so full now .;full;11.730266571044922
+Lydia cannot eat anymore as she is so dull now .;dull;12.944562911987305
+Lydia cannot eat anymore as she is so half now .;half;16.232437133789062
+Lydia cannot eat anymore as she is so mild now .;mild;13.89785099029541
+Dogs have a good sense of smell naturally .;smell;2.409705877304077
+Dogs have a good sense of shell naturally .;shell;19.207874298095703
+Dogs have a good sense of nose naturally .;nose;15.394046783447266
+Dogs have a good sense of cash naturally .;cash;16.250242233276367
+Laura will eat the ice cream quickly before it melts down .;melts;7.331803798675537
+Laura will eat the ice cream quickly before it meets down .;meets;8.62572956085205
+Laura will eat the ice cream quickly before it boils down .;boils;11.158683776855469
+Laura will eat the ice cream quickly before it opens down .;opens;7.721863269805908
+After the main course, Sara checked the dessert menu excitedly .;menu;14.303645133972168
+After the main course, Sara checked the dessert venue excitedly .;venue;17.56662368774414
+After the main course, Sara checked the dessert chef excitedly .;chef;14.332612037658691
+After the main course, Sara checked the dessert bond excitedly .;bond;15.599760055541992
+Andrew was late because his train had a delay again .;delay;9.939422607421875
+Andrew was late because his train had a decay again .;decay;17.154693603515625
+Andrew was late because his train had a time again .;time;9.173433303833008
+Andrew was late because his train had a tone again .;tone;14.692091941833496
+The bomb expert pinpointed a switch to make the bomb explode finally .;explode;5.286617279052734
+The bomb expert pinpointed a switch to make the bomb explore finally .;explore;20.765727996826172
+The bomb expert pinpointed a switch to make the bomb pour finally .;pour;15.207198143005371
+The bomb expert pinpointed a switch to make the bomb stretch finally .;stretch;18.108495712280273
+Immigration exposed Lisa to a different culture naturally .;culture;9.099732398986816
+Immigration exposed Lisa to a different vulture naturally .;vulture;23.03624725341797
+Immigration exposed Lisa to a different sociology naturally .;sociology;19.196971893310547
+Immigration exposed Lisa to a different ginger naturally .;ginger;19.139301300048828
+The bridge was washed away by the flood yesterday .;flood;5.621713161468506
+The bridge was washed away by the blood yesterday .;blood;14.782081604003906
+The bridge was washed away by the soil yesterday .;soil;10.73622989654541
+The bridge was washed away by the glove yesterday .;glove;20.762088775634766
+The story was far from logical and didn't make any sense completely .;sense;2.780461549758911
+The story was far from logical and didn't make any fence completely .;fence;17.67977523803711
+The story was far from logical and didn't make any taste completely .;taste;15.116634368896484
+The story was far from logical and didn't make any button completely .;button;18.410200119018555
+Having no ink or paper, the office workers couldn't print anything .;print;15.096226692199707
+Having no ink or paper, the office workers couldn't point anything .;point;15.6836519241333
+Having no ink or paper, the office workers couldn't erase anything .;erase;19.461444854736328
+Having no ink or paper, the office workers couldn't move anything .;move;15.056432723999023
+In the tennis lesson, Lauren hit the ball with her racket well .;racket;12.90063190460205
+In the tennis lesson, Lauren hit the ball with her rocket well .;rocket;15.018746376037598
+In the tennis lesson, Lauren hit the ball with her game well .;game;12.760318756103516
+In the tennis lesson, Lauren hit the ball with her area well .;area;14.74435043334961
+Joe has grown his moustache, but will give it a shave tomorrow .;shave;15.524453163146973
+Joe has grown his moustache, but will give it a share tomorrow .;share;10.311579704284668
+Joe has grown his moustache, but will give it a hair tomorrow .;hair;14.897541999816895
+Joe has grown his moustache, but will give it a turtle tomorrow .;turtle;18.4812068939209
+It's so itchy that Chris can't help scratching the mosquito bite constantly .;bite;9.02377700805664
+It's so itchy that Chris can't help scratching the mosquito bike constantly .;bike;17.16230583190918
+It's so itchy that Chris can't help scratching the mosquito chew constantly .;chew;17.26654815673828
+It's so itchy that Chris can't help scratching the mosquito tape constantly .;tape;16.318952560424805
